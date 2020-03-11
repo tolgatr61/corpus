@@ -1,0 +1,34 @@
+Sujet de Thèse / projet ANR MacCoy Critical
+ 
+Titre : Construction de compétences non techniques dans des situations critiques : une approche exploratoire dans les domaines de la médecine et de la conduite automobile
+ 
+Directeurs : Vanda LUENGO, Catherine GARBAY, et Francis JAMBON
+Localisation : Laboratoire d’Informatique de Grenoble - UMR5217 (http://www.liglab.fr)
+ 
+Sujet : Ce sujet de thèse se situe dans le contexte du projet ANR MacCoy Critical « Models for Adaptative feedback enriChment and Orchestration based virtual realitY in Critical situations » (2014-2018). Ce projet s'intéresse à la conception de dispositifs de formation utilisant la simulation et les environnements virtuels pour la gestion des situations critiques, dans deux domaines d’application complémentaires : la médecine et la conduite automobile. Le projet  s’intéresse plus particulièrement à la construction des compétences « non techniques », i.e. des compétences cognitives et sociales (interpersonnelles, cognitives et personnelles) qui complètent les compétences techniques. Le projet s’appuie sur un consortium pluridisciplinaire et multi-expertise (Ergonomie, Psychologie, Informatique, EIAH, Réalité Virtuelle, formation continue médicale, éducation à la conduite…).
+Un premier volet de la thèse concerne la conception de modèles pour l’analyse des traces de l’apprenant : ces traces multi-sources caractérisent l’activité de l’apprenant (e.g. actions et perceptions), ses réactions émotionnelles (e.g. attitudes faciales), son comportement social (e.g. expression orale, attitude conversationnelle) et cognitif (e.g. prise de décision, conscience de la situation). Outre les problèmes de fusion multi-sources, les contraintes temporelles constituent un verrou scientifique important. En effet, nous souhaitons effectuer une rétroaction vers l’apprenant en cours d’exercice. Les analyses doivent donc pouvoir être effectuées au fil de l’arrivée des données, sans attendre la fin de l’acquisition. Un autre verrou important est l’exploitation de ces traces à des fins de diagnostic : la compétence « non technique » n’est pas un état mesurable, mais plutôt un processus affectant les compétences techniques, son appréciation est subjective, et la dimension interpersonnelle joue un rôle fort. S’il est relativement aisé de développer des critères d’acquisition des compétences techniques, une difficulté majeure concerne l’évaluation des compétences « non techniques ». Cette évaluation repose actuellement sur des jugements d’experts supportés dans certains cas par des grilles listant des indicateurs comportementaux. Il s’agit donc de développer des critères plus objectifs qui permettraient de compléter ces grilles pour l’évaluation des compétences dans le domaine médical et de la conduite automobile.
+Un second volet de la thèse concerne la génération des rétroactions qui vont soutenir la formation de l’apprenant. Deux types de rétroactions sont distingués : (1) les rétroactions immédiates situées dans l’environnement virtuel et (2) les rétroactions différées qui influencent la gestion et le déroulement des scénarios. Il s’agit ici de spécifier comment choisir, adapter et croiser ces deux niveaux de rétroaction. Il pourra s’agir de moduler les conditions environnementales dans le cas de la conduite (e.g. densification des conditions de circulation, présence de brouillard ou de pluie, piétons ou obstacle survenant de manière imprévue…), ou le contexte opératoire dans le cas de la chirurgie (e.g. aggravation subite de l’état du patient, augmentation du stress ambiant, erreurs effectuées par des membres de l’équipe d’intervention…). La gestion de la progression de ces scénarios, leur adéquation au profil individuel de l’apprenant constituent des verrous difficiles : l’objectif est d’y apporter une réponse générique, transposable à d’autres domaines d’application. Une importance particulière sera attachée aux modèles de prise de décision liant diagnostic des compétences non techniques et adaptation du scénario. A cet aspect conceptuel, s’ajoute la nécessité d’apporter à l’apprenant la rétroaction immédiate au cours de l'exercice.
+Le travail se situe dans le contexte d’un patrimoine important en termes de concepts, de modèles et d’outils et d’une collaboration avec les autres partenaires du projet. De plus, les travaux théoriques de la thèse pourrons être validés sur les deux plateformes d’apprentissage mises à disposition par les partenaires du projet : un environnement de simulation en médecine et un simulateur de véhicule automobile pleine échelle.
+ 
+Compétences requises : il s’agit d’un sujet pluridisciplinaire, demandant des compétences dans plusieurs de ces domaines : didactique, ergonomie, ingénierie des connaissances, EIAH, informatique.
+ 
+Salaire : 1363€ nets mensuels
+ 
+Contacts : Vanda LUENGO <Vanda.Luengo@imag.fr>, Catherine GARBAY <Catherine.Garbay@imag.fr>, et Francis JAMBON <Francis.Jambon@imag.fr>
+ 
+Références :
+Anastassova, M., & Burkhardt, J.-M. (2009). Automotive technicians’ training as a community-of-practice: implications for the design of an augmented reality teaching aid. Applied Ergonomics, 40, 713-721
+Burkhardt, J.-M., Bardy, B. & Lourdeaux, D. (2003). Immersion, réalisme et présence dans la conception et l’évaluation des environnements virtuels. Psychologie Française. 48, 35-42.
+Loup-Escande, E., Burkhardt, J.-M., & Richir, S. (in press). Anticiper et évaluer l'utilité dans la conception ergonomique des technologies émergentes : une revue. Le Travail Humain.
+Luengo V., Aboulafia A., Blavier A., Shorten G., Vadcard L., Zottmann J. Novel Technology for learning in Medicine.105-120, Springer, 2009.
+Mufti-Alchawafa D., Luengo V. (2009) Design Implementation and computer validation of didactical decision model in a learning environment for orthopedic surgery. 14th International Conference on Artificial Intelligence in Education. Workshop Intelligent Support for Exploratory Environments., 10 pages, 2009.
+ 
+
+
+------------
+Catherine Garbay - DR CNRS
+Laboratoire d'Informatique de Grenoble
+04 56 52 03 08 - 06 72 94 62 38  
+http://membres-lig.imag.fr/garbay/
+
+

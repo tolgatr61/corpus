@@ -1,0 +1,130 @@
+
+*Thèse sur la Reconnaissance automatique de chaînes de coréférences en 
+français par combinaison d’apprentissage automatique et de connaissances 
+linguistiques*
+
+Encadrants : Isabelle Tellier, Marco Dinarelli (Lattice) et Eric de la 
+Clergerie (Alpage)
+
+Financement : Labex EFL, Paris
+
+
+Début : octobre 2016
+
+
+  Sujet
+
+Une chaîne de coréférences est constituée de l’ensemble des /mentions 
+référentielles/ présentes dans un texte qui désignent /une même entité 
+/(ou un même événement). Ces chaînes assurent la continuité des éléments 
+de discours, ils sont une composante fondamentale de la cohérence 
+globale des textes. Leur détection est importante dans de nombreuses 
+tâches, comme l’extraction d’information ou la traduction automatique.
+
+La reconnaissance automatique des chaînes de coréférences (RACC par la 
+suite) est une tâche bien identifiée du TAL. Elle est fondamentalement 
+difficile : le « Winograd challenge », qui repose sur l'identification 
+de l'antécédent d'un pronom (une sous-partie de la tâche) a ainsi été 
+proposé comme une alternative possible au test de Turing. La RACC a fait 
+l’objet de plusieurs challenges internationaux compétitifs (Sem-Eval-2 
+en 2010, CoNNL en 2011 et 2012) mais aucun d’eux n’a pour l’instant pu 
+se tenir sur le français, car aucun corpus de référence n’était 
+disponible avant 2014. Le corpus ANCOR (ANaphore et Coréférence dans les 
+corpus Oraux), développé à l’université de Tours, a partiellement comblé 
+ce vide (Lefèvre et al. 2014). Des premières expériences ont eu lieu 
+pour exploiter ce corpus (Desoyer et al. 2015) mais il est très 
+spécifique (transcription de dialogues) et aucun système complet de RACC 
+n’est pour autant encore disponible. Notre projet vise à remédier à 
+cette situation.
+
+La thèse aura pour but de construire un système de reconnaissance 
+automatique des chaînes de coréférences /end-to-end/, c’est-à-dire 
+capable d’opérer sur des /textes bruts en français. /Ce système devra en 
+outre pouvoir s'intégrer à la chaine de traitement ALPAGE. Plusieurs 
+problèmes devront être traités :
+
+  *
+
+    identification des mentions référentielles dans les textes bruts :
+    nous supposerons (en laissant de côté les clauses) que les /mentions
+    référentielles/ sont toujours des entités nommées, des pronoms ou
+    des groupes nominaux mais tous les pronoms et groupes nominaux ne
+    sont pas des mentions référentielles. Par exemple, un « il »
+    impersonnel dans « il pleut », « les bienvenus » dans « soyez les
+    bienvenus ! » ou encore la « belle jambe » dans l'expression « cela
+    me fait une belle jambe »… ne sont pas des mentions référentielles.
+    Pour les repérer dans des textes, deux stratégies sont possibles :
+    soit directement, soit via un étiquetage syntaxique superficiel
+    préalable, suivi d'une élimination des pronoms ou groupes nominaux
+    non référentiels. Une autre difficulté réside dans les /mentions
+    imbriquées/. Par exemple, dans ANCOR, « amélioration des conditions
+    de travail » contient trois mentions distinctes imbriquées les unes
+    dans les autres : « travail », « condition de travail » et
+    « amélioration des conditions de travail ». Les identifier
+    correctement requiert une analyse syntaxique locale.
+
+  *
+
+    regroupement des mentions identifiées en ensembles co-référentiels.
+    De très nombreuses approches ont été testées pour résoudre ce
+    problème (Lassalle 2015). Certaines reposent sur un ensemble de
+    règles, d’autres passent par une reformulation du problème afin de
+    le traiter par /apprentissage/ /automatique./ Une méthode simple et
+    efficace consiste par exemple à tester toutes les paires de mentions
+    pour décider si elles sont co-référentielles ou non (Soon et al.
+    2001, Ng et Cardie 2001).
+
+La difficulté du travail de thèse viendra du peu de corpus annotés en 
+chaines de coréférences pour le français actuellement disponibles. Pour 
+compenser ce handicap, une large panoplie d'approches devra être 
+envisagée, s'appuyant sur une combinaison de techniques d’apprentissage 
+automatique (méthodes de classification, CRF, réseaux neuronaux) et 
+d'information linguistique (traits surfaciques extraits des documents de 
+manière multilingue, mais également des traits issus de la 
+lemmatisation,  de l’analyse distributionnelle, de l’étiquetage 
+morphosyntaxique, du chunking, de l'analyse syntaxique, de lexiques 
+sémantiques, voire d'analyse discursive...).
+
+
+
+  Références
+
+(Haghighi and Klein 2009) Haghighi and Klein, Simple Coreference 
+Resolution with Rich syntactic and semantic features, EMNLP’09.
+(Desoyer et al. 2015) A. Desoyer, F. Landragin, I. Tellier, A. Lefeuvre, 
+J-Y. Antoine,/ Les coréférences à l'oral : une expérience 
+d'apprentissage automatique sur le corpus/
+/ANCOR/, revue TAL, numéro 55.2 sur le traitement automatique du langage 
+parlé, p.97-121, 2015.
+(Lassalle 2015) E. Lassalle, Structured Learning with Latent Trees : a 
+joint approach to coreference resolution, thèse de l’uiversité Paris 
+Diderot, 2015.
+(Lee et al. 2013) Lee H., Chang A., Peirsman Y., Chambers N., Surdeanu 
+M., Jurafsky D., /Deterministic Co-reference Resolution Based on 
+Entity-Centric, Precision //Ranked Rules/, /Computational Linguistics/, 
+vol. 39, n^o 4, p. 885-916, 2013.
+(Lefèvre et al. 2014) : A. Lefeuvre, J-Y Antoine, E. Schang, /Le corpus 
+ANCOR_Centre et son outil de requêtage : application à l’étude de 
+l’accord en genre et en nombre dans les coréférences et anaphores en 
+français parlé/, /Actes du 4éme Congrés Mondial de Linguistique 
+Française/, 2014.
+(Ng et Cardie 2001) V. Ng, C. Cardie C., /Improving Machine Learning 
+Approaches to Corefrence Resolution/, Proceedings of ACL’02, p. 104-111, 
+2002.
+(Soon et al. 2001) W. M. Soon, H . T. Ng, D. C. Y. Lim, /A Machine 
+Learning Approach to Coreference Resolution of Noun 
+Phrases,/Computational Linguistics, vol. 27, n4, p. 521-544, 2001.
+
+*Pour candidater*
+*
+*
+La thèse sera effectuée au sein du Lattice (Montrouge) et d’Alpage 
+(Paris), et sera réalisée en coordination avec le projet ANR Democrat 
+dirigé par Frédéric Landragin et portant sur ce thème au Lattice.
+Les candidats devront être titulaires d’un M2 R en mathématiques ou 
+informatique (avec justification de connaissances en TAL ou 
+apprentissage automatique) ou en TAL.
+Envoyer CV, lettre de motivation et relevés de notes de Master à 
+isabelle.tellier@univ-paris3.fr 
+<mailto:isabelle.tellier@univ-paris3.fr> avant le 30/06/2016.
+

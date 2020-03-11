@@ -1,0 +1,158 @@
+RESUME :
+Dans le cadre du projet de recherche FEDER TCVPYR (Inventaire du 
+patrimoine de villégiature dans les Pyrénées), nous avons pour objectif 
+de valoriser le patrimoine culturel matériel et immatériel de la 
+villégiature et du thermalisme dans la « zone massif » des Pyrénées 
+françaises. Nous visons la conception d’applications mobiles qui 
+aideront les utilisateurs (experts et non experts) à accéder aux 
+informations relatives à ce patrimoine culturel.
+
+
+CONDITIONS D’EXERCICE
+Laboratoire : LIUPPA – Equipe T2I
+Site web : liuppa.univ-pau.fr
+
+Lieu : Pau-Anglet (12 mois Pau, 12 mois Anglet)
+Date début : 08/01/2018    Durée : 24 mois
+Employeur : Université de Pau et des Pays de l’Adour (UPPA)
+Salaire  brut : 46 K€ / an (environ 2,2 K€/mois net)
+
+MISSION - ACTIVITES PRINCIPALES
+Le contexte scientifique
+Cette mission a pour objectif de constituer et de promouvoir un 
+inventaire du patrimoine de villégiature dans les Pyrénées.
+La documentation produite concerne les points de passage, les voies de 
+communication et d'échanges, le patrimoine industriel, de 
+villégiature/thermalisme/tourisme (appelée POI – Point of Interest). 
+Elle a vocation à être utilisée dans un cadre de promotion touristique 
+et de support à la vente et au déroulement ludique de séjours. Ces 
+documents pourront également venir en soutien aux aménageurs ainsi 
+qu’être intégrés dans un contexte de travaux de recherche.
+C’est dans ce cadre-là que le LIUPPA propose la conception et le 
+développement d’une application mobile ou hybride permettant, selon le 
+profil des utilisateurs et selon leur localisation, de :
+1)    Présenter une liste de lieux remarquables avec les informations 
+associées sous forme multimédia (images, vidéo, textes, bandes sons, 
+musique, etc.) – informations obtenues d’une part à partir de données 
+fournies par les différents partenaires et intégrées dans des bases de 
+données géographiques, mais également à partir d’éléments 
+complémentaires extraits du Web de données;
+2)    Projeter des lieux remarquables (POI) sur des fonds de cartes et 
+des frises temporelles, proposer des visualisations et interactions avec 
+des entités informationnelles ;
+3)    Suggérer des listes d’événements (EOI, « events of interest » 
+culturels, sportifs, etc.) contextualisés géographiquement et 
+temporellement avec la situation de l’utilisateur, la durée et les 
+caractéristiques de son séjour.
+L’application interactive et adaptative (« responsive ») sera disponible 
+sur PC, Smartphones (Android, iOS), Tablettes. Elle tiendra compte des 
+caractéristiques de chacun des périphériques (taille d’écran, modalités 
+d’interactions, etc.). La réalisation d’une telle application soulève 
+plusieurs difficultés liées au caractère mobile des futurs usagers 
+engendrant des problèmes de connexion, de bande passante auxquels il 
+faudra répondre tout en prenant en compte le volume important des 
+données stockées (directement issues des données produites par les 
+partenaires) mais également des données accessibles sur le Web. 
+L’application devra ainsi proposer différents modes de navigation et de 
+degrés de précision dans les données afin de répondre à ces problèmes 
+et/ou de préparer des itinéraires afin de pré-récupérer les données 
+essentielles.
+D’un point de vue interactif, outre le caractère adaptatif visant la 
+gestion dynamique du « look & feel » de l’application selon le 
+périphérique, il sera également nécessaire d’adapter les fonctionnalités 
+et les modes d’interactions des utilisateurs selon leur contexte (« 
+eXpérience Utilisateur évoluée »). En effet, un touriste souhaitant 
+obtenir des informations n’aura pas les mêmes besoins qu’un 
+professionnel (promoteur). De plus, en situation de mobilité et selon la 
+taille du périphérique (smartphone ou tablette par exemple), ou encore 
+la localisation, les interactions ne peuvent se réaliser de la même 
+manière. Il sera nécessaire d’adapter ces dernières au contexte d’usage.
+La solution devra en outre être ouverte afin d’anticiper un 
+enrichissement ultérieur des données et/ou l’ajout de thèmes nouveaux.
+Nous avons défini plusieurs axes de travail (« work packages ») :
+•    WP1 : Modélisation base de données et intégration ;
+•    WP2 : Modélisation des interactions, des POI et des EOI ;
+•    WP3 : Gestion de la mobilité et des accès aux données de la BD 
+on/off line ;
+•    WP4 : Recherche contextualisée pour la suggestion de POI et EOI ;
+•    WP5 : Prototypages : Spécification, développement et tests de 
+démonstrateurs validant les propositions des WP 1 à 4 ;
+•    WP6 : Industrialisation : Etablissement du cahier des charges pour 
+la sous-traitance du développement ;
+•    WP7 : Industrialisation : Développement de l’application (via 
+méthodologie Agile, et donc, inclusion dans le projet de développement 
+de l’ESN sélectionnée) ;
+•    WP8 : Industrialisation : Recette et Tests sur terrain en situation 
+(favorable -> très dégradée).
+
+Les objectifs
+Nous avons identifié trois grands domaines et catégories de verrous :
+1)    Le développement d’applications interactives et adaptatives (« 
+responsive ») devant être disponibles sur PC, Smartphones (Android, 
+iOS), Tablettes…
+2)    La gestion des interactions et interfaces utilisateurs en fonction 
+du contexte d’usage liés à la fois aux humains (experts vs non experts) 
+mais également aux divers matériels
+3)    L’accès aux informations par le contenu géographique : en effet, 
+nous disposerons de données fournies par les différents partenaires et 
+intégrées dans des bases de données, mais également d’informations 
+complémentaires extraites du Web. Nous pourrons relier ces données et/ou 
+les enrichir en nous appuyant sur les données ouvertes liées (LOD) 
+notamment. Nous manipulerons des informations décrivant les Pyrénées, 
+les points de passage, les voies de communication et d’échanges, les 
+villégiatures, les itinéraires culturels, le patrimoine industriel, 
+immatériel et paysager, les événements, etc.
+
+Les résultats attendus
+Le travail du post-doctorant consiste à gérer le projet de développement 
+de l’application avec, en particulier, la rédaction du cahier des 
+charges et le développement d’un prototype, puis, le suivi de la 
+réalisation de l’application par un prestataire, les tests et la mise en 
+service.
+Les livrables sont, d’une part, les documentations inhérentes à chaque 
+étape du projet mais également des propositions originales et une 
+publication dans chacun des trois domaines identifiés.
+
+Les collaborations de recherche
+Le post-doctorant collaborera avec les membres du LIUPPA et tous les 
+partenaires du projet (géographes, historiens, anthropologues, etc) . Il 
+sera amené à échanger avec d’autres équipes françaises et étrangères 
+pour la résolution de problèmes spécifiques aux domaines identifiés 
+précédemment.
+
+
+COMPETENCES REQUISES
+Le ou la candidate, titulaire d’une thèse en informatique, devra 
+présenter des compétences fortes en Recherche d’Information 
+Géographique, en web sémantique et en IHM (Interactions Humain-Machine). 
+Des connaissances en apprentissage en situation de mobilité et en 
+développement d’applications mobiles seront les bienvenues.
+
+
+CONSTITUTION DU DOSSIER DE CANDIDATURE, DATE LIMITE DE DEPOT
+Envoyer par email un dossier de candidature comprenant :
+•    CV
+•    lettre de motivation
+•    attestation de soutenance
+•    rapports des rapporteurs de thèse
+DATE LIMITE DE DEPOT DU DOSSIER :     15/10/2018
+
+CONTACT
+NOM :  ROOSE Philippe
+MAIL : Philippe.Roose@iutbayonne.univ-pau.fr
+
+
+-- 
+Philippe
+
+|------------------------ Philippe ROOSE-------------------------|
+|  LIUPPA - Equipe T2I                                           |
+|http://liuppa.univ-pau.fr                                      |
+|----------------------------------------------------------------|
+|IUT de Bayonne/LIUPPA-T2I                                       |
+|2, Allée du Parc Montaury - 64600 Anglet - FRANCE               |
+|phone:  +33 5 59 57 43 48    cell phone: +33 6 81 82 61 60      |
+|Page d'accueil :http://www.iutbayonne.univ-pau.fr/~roose/       |
+|----------------------------------------------------------------|
+
+

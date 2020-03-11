@@ -1,0 +1,113 @@
+
+  1.Introduction
+
+Le sujet de stage est orienté recherche et développement. Il a pour but 
+de préparer un travail de recherche et développement à moyen terme 
+concrétisé par une thèse CIFRE.
+
+Ce stage (voir pièce jointe) constitue une collaboration entre le 
+laboratoire LGI2P à Nîmes de l’école des Mines d’Alèset la société ESII 
+à Montpellier en vue de résoudre un problème scientifique délicat.
+
+Durée du stage : 6 mois à partir de février/mars 2015.
+
+
+  2.L’entreprise
+
+L'entreprise ESII est spécialisée dans la gestion d'accueil. Notre 
+métier consiste à gérer les flux et les files d'attente dans des espaces 
+de vente ou dans les administrations. Notre solution principale est basé 
+sur des distributeurs de tickets, répartis dans l'espace où les 
+visiteurs choisissent un service et notre logiciel détermine la 
+meilleure solution pour réduire au mieux l'attente, en attribuant la 
+ressource la plus adéquate avec les bonnes compétences.
+
+Le but de ce projet est d'utiliser nos données, de les traiter et de 
+modéliser les files d'attente et les temps d'attente.
+
+
+  3.Description du projet
+
+Les phénomènes de files d'attente se rencontrent quotidiennement dans la 
+vie courante : commerces, grande distribution, administrations, etc. Les 
+modèles classiques de files d’attente, basés sur des hypothèses 
+probabilistes, sont généralement défaillants sur ces types de données 
+discontinues et ne fournissent que des résultats moyens globaux sur une 
+longue durée.
+
+Le travail demandé consiste à établir des modèles prévisionnels de temps 
+d'attente par apprentissage de données.
+
+Dans une première partie, le stage abordera la question de la collecte 
+et du formatage des données. Le filtrage et la réconciliation des 
+données sont généralement des tâches délicates surtout si l’on veut 
+éviter d’obtenir des statistiques sur des données erronées, comme par 
+exemple dans le cas où le comptage pour certaines variables est effectué 
+par rafales et non à la volée. Les calculs postérieurs sont alors 
+faussés, en particulier si l’on souhaite effectuer de la conduite de 
+procédés. C'est le principe de la réconciliation de données utilisées un 
+système de relations, contraintes pour réaliser un estimateur de grande 
+fiabilité des données qui ont été mal saisies, mal mesurées, etc.
+
+La deuxième partie sera consacrée à la modélisation et l’apprentissage. 
+Le stagiaire s'appuiera sur les méthodes récentes d'apprentissage 
+statistique (/machine learning/) telles que les réseaux neuronaux ou les 
+machines à vecteurs de support (SVM) ou encore les modèles par arbres de 
+décision, en relation avec les modèles de séries chronologiques 
+classiques avec ou sans variable explicative (modèles ARMA ou ARMAX).
+
+L'ensemble des développements sera par la suite implémenté dans les 
+solutions logicielles de l'entreprise. ESII utilise de nombreuses 
+technologies qui interviennent dans ses solutions informatiques : 
+Tomcat, Websphere, Weblogic, jBoss, SGBD: MySQL, Oracle, Java 
+HTML/HTML5, CSS, Javascript, XML, Matlab, de Framework divers et variés, 
+design pattern.
+
+Une connaissance de ces langages et middlewares serait grandement appréciée.
+
+A l'issue de ce projet, il est envisagé une thèse en convention CIFRE 
+avec l'entreprise pour la poursuite de ces recherches.
+
+
+  4.Bibliographie
+
+·Line Kong A Siou, Anne Johannet, Valerie Borrell, Severin Pistre. 
+Complexity selection of neural network model for karst flood 
+forecasting: The case of the Lez Basin (southern France). Journal of 
+Hydrology, Elsevier, 2011, 403 (3-4), pp.367-380.
+
+·Plantié, M., Roche M., Dray G., Poncelet P. Dawak 2008 : Is a voting 
+approach accurate for opinion mining? 10th International Conference on 
+Data Warehousing and Knowledge Discovery, 1-5 September 2008, Torino 
+Italia,
+
+
+  5.Contacts :
+
+·Société ESII
+
+2 rue de la Prade, ZI Sud, 34880 LAVERUNE
+
+Frédéric Rieuxfrieux@esii.com04 67 99 84 52
+
+·Laboratoire de Génie Informatique et Ingénierie de Production (LGI2P)
+
+Ecole des Mines d'Alès - site EERIE
+
+Parc scientifique Georges Besse, 30000 NIMES
+
+Michel Plantié michel.plantie@mines-ales.fr04 66 38 70 35
+
+Daniel Diep daniel.diep@mines-ales.fr04 66 38 70 86
+
+-- 
+=====================================================
+Dr. Michel Plantié - +33 466387035
+Enseignant-Chercheur Laboratoire LGI2P
+
+Ecole des Mines d'Ales, Institut Mines-Télécom
+Parc scientifique Georges Besse, 30035 Nîmes Cedex 1
+www.socialnetworks.wp.mines-telecom.fr
+=====================================================
+
+

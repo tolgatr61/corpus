@@ -1,0 +1,90 @@
+*Ingénieur informatique Java/Python*
+Ingénieur informatique pour le développement et la maintenance d'une 
+plateforme de repérage, d'analyse et de suivi des néologismes en corpus.
+
+*Contexte*
+
+Le projet Neoveille est un projet de recherche sur trois ans financé par 
+la COMUE Sorbonne Paris Cité. Le consortium est composé de quatre 
+laboratoires de recherche de la COMUE : LIPN-RCLN (Université Paris 13, 
+CNRS UMR 7030), LDI (Université Paris 13, CNRS UMR 7186), CLILLAC-ARP 
+(Université Paris 7, EA 3967), ERTIM (INALCO, EA 2520), d'un partenaire 
+brésilien (Université de Sao Paulo) et d'un groupe de travail 
+international (EMPNEO). les objectifs de ce projet sont triples : 
+développement d'une plateforme informatique de repérage, d'analyse et de 
+suivi des néologismes sur gros corpus, dans 7 langues (français, 
+portugais du Brésil, grec, polonais, tchèque, chinois et russe) étude 
+des emprunts dans les sept langues du projet, étude des néologismes 
+sémantiques dans les sept langues du projet.Dans ce cadre, l'ingénieur 
+participera de manière centrale à la réalisation du premier objectif.
+
+
+*Présentation des tâches*
+L'ingénieur sera responsable de la maintenance et du développement 
+informatique de la plateforme de repérage, d'analyse et de suivi des 
+néologismes en corpus.
+
+Cela inclut la participation aux spécifications et au développement 
+proprement dit des différents modules et fonctions qui seront proposés 
+par la plateforme (gestionnaire de corpus, moteur de recherche et 
+d'analyse des néologismes, gestionnaire des néologismes).
+
+L'ingénieur sera sous la supervision du chef de projet et du responsable 
+informatique de l'équipe RCLN du LIPN. Il travaillera en étroite 
+collaboration avec les différents membres de l'équipe du projet 
+Neoveille. Il assurera l'intégration de programmes existants et le 
+développement des programmes non existants dans un cycle classique de 
+développement de logiciel (analyse de besoin, conception, prototypage, 
+livraisons, tests de non-regression, gestion des bugs identifiés et 
+gestion de l'évolution de besoins).
+
+Pour certaines tâches de programmation, il pourra être épaulé par des 
+stagiaires en informatique.
+
+*Compétences requises*
+Master informatique ou linguistique informatique
+
+Expériences précédentes en développement informatique requises
+Une expérience en Traitement Automatique des langues souhaitée
+
+*Technologies*
+système d'exploitation: Linux
+langages: Python, Java
+outils d'indexation: Apache Solr
+plate-forme de contrôle de versions : git, svn
+expérience en développement d'interfaces web (node.js, express.js, 
+bootstrap, jquery)
+base de données : MySql / NOSql
+outils TAL : Treetagger, Stanford NLP, NLTK
+
+*Lieu de travail *
+LIPN-RCN, université Paris 13
+
+*Salaire
+*selon expérience, minimum 2000 euros/nets/mois
+
+Contrat CDD de 12 mois
+
+Pour candidater, merci d'envoyer les documents suivants par email à 
+Emmanuel Cartier (emmanuel.cartier [ at ] lipn.univ-paris13.fr) et Jorge 
+Garcia Flores (jgflores [ at ] lipn.univ-paris13.fr):
+- un CV détaillé,
+
+- une lettre de motivation
+
+*Début du contrat* : au plus tôt
+
+
+-- 
+Emmanuel Cartier
+Enseignant-Chercheur en Linguistique Informatique
+LIPN CNRS UMR 7030 - équipe RCLN
+http://lipn.univ-paris13.fr/fr/rcln  
+UFR LSHS - département linguistique
+Université Paris 13 Sorbonne Paris Cité
+99 avenue Jean-Baptiste Clement
+93430 Villetaneuse
+
+email :emmanuel.cartier@univ-paris13.fr
+
+

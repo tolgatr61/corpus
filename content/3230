@@ -1,0 +1,87 @@
+*** STAGE **Master 2** Informatique*
+* ***
+
+*Titre :*
+*Moteur de requếtage DLQuery par Web services pour un réseau d'ontologies
+alignées*
+
+*Mission *: Spécification et implémentation d'un moteur de requêtage en
+DLQuery pour interroger un réseau d'ontologies dédiées au e-learning.
+
+*Contexte *: Le projet Learning café (FUI-15) concerne la mise en place
+d'une plate-forme multimedia de formation collaborative à distance pour des
+métiers manuels. Dans ce cadre, il s'agit de réaliser le moteur de
+requếtage qui servira d'interface entre le moteur de scénarisation de
+parcours personnalisé et les ontologies des domaines de formation, les
+profils-utilisateurs et les vidéos des métiers.
+
+Ce moteur doit pouvoir recherché dans les ontologies alignées les individus
+pertinents dans les différentes ontologies en fonction des paramètres
+d'appel du moteur de scénarisation ; par exemple, pour un apprenant donné
+qui veut acquérir une compétence particulière dans un métier donné, le
+moteur de requête doit retrouver toutes les ressources pédagogiques
+pertinentes par rapport à son niveau, les compétences qu'il a déjà
+acquises, les ressources pédagogiques qu'il a déjà vu ou apprécié par
+d'autres utilisateurs, etc.
+
+
+ *Activités *: L'objectif de ce stage est de réaliser le moteur de
+requêtage accessible par services Web. Pour cela, le stagiaire devra :
+
+   -
+
+   spécifier les algorithmes de recherche selon les cas d'utilisation
+   prévus pour s'interfacer avec le moteur de scénarisation,
+   -
+
+   implémenter les algorithmes sous la forme de services Web à l'aide de
+   l'API OWL,
+   -
+
+   d'évaluer la performance des requêtes selon les critères de pertinence
+   et de temps d'exécution.
+
+ *Profil* : Le profil recherché est un étudiant en 2ème année de Master
+ayant des connaissances en Web sémantique.
+
+*Compétences recherchées* :
+
+   -
+
+   Langages de programmation : Java, OWL, RESTful Web Services
+   -
+
+   Modélisation : UML
+   -
+
+   ontologies et logique de description
+
+ *Durée* : 5/6 mois  ; à partir de : mars 2015
+
+*Indemnités* : conventionné soit 508,20 euros
+
+*Candidature : *CV, relevés de notes, lettre de motivation, tout autre
+document estimé utile (recommandation,…). Tous les documents doivent être
+au format pdf.
+
+*Organisme/entreprise* : LIASD - IUT de Montreuil, Université Paris8
+
+*A**dresse du stage* : IUT de Montreuil, Département Informatique, 140 rue
+de la Nouvelle France, 93100 MONTREUIL
+
+*Adresse site web* : http://www.iut.univ-paris8.fr/recherche
+
+*Contact* : Pr. Myriam Lamolle* (mél *: m.lamolle@iut.univ-paris8.fr)
+
+
+-- 
+Myriam Lamolle - Professeur des Universités
+IUT de Montreuil - Département Informatique
+140, rue de la Nouvelle France
+93100 Montreuil
+Laboratoire LIASD - Université Paris8
+2 rue de la Liberté - 93526 Saint-Denis cedex
+
+http//:www.iut.univ-paris8.fr/~lamolle
+Tél: +33(0)1 48 70 34 61 Fax : +33(0)1 48 70 34 67
+

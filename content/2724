@@ -1,0 +1,98 @@
+Patrick Saint-Dizier communique :
+
+----------------------
+
+LELIE V2.1 - TextCoop V5.1: aide à la rédaction technique
+
+Suite à plusieurs suggestions d'utilisateurs que nous remercions
+chaleureusement, nous avons le plaisir de vous informer de la diffusion
+d'une version revue et étendue du code de TextCoop (V5.1) et de LELIE
+(V2.1).
+
+Les révisions incluent:
+
+- correction de quelques erreurs de codage et ajout de fonctionnalités,
+
+- extension des données lexicales pour une meilleure illustration et
+   mise en oeuvre de LELIE,
+
+- mise à la norme RAT-RQA du lexique et des règles de LELIE (modules
+   complémentaires en option), pour une intégration simple et souple de
+   LELIE V2.1 dans cet environnement (voir: The Reusecompany).
+
+Voir ci-dessous des infos détaillées sur ces deux codes.
+
+code disponible en CC BY NC (utilisation directe ou sous forme de specs
+pour recodage):
+
+pour l'obtenir:
+
+- téléchargement libre pour TextCoop sur:
+   http://www.irit.fr/~Patrick.Saint-Dizier/
+
+- ou écrire à stdizier@irit.fr subject: LELIE V2.1 pour LELIE (plus
+   d'infos sur ma page web).
+
+Collaborations de recherche ou soutien technique possible à discuter
+pour les sociétés, dans le cadre légal université-CNRS.
+
+Questions, retours, suggestions, relevé de bugs bienvenus:
+stdizier@irit.fr
+
+------------------------------
+
+EN 2 PHRASES:
+
+TextCoop V5.1 est un environnement de programmation en logique pour
+l'analyse du discours, Il permet de développer rapidement des applis
+variées. Il est utilisé actuellement dans plus de 25 labos ou sociétés.
+
+LELIE V2.1 est un prototype d'aide à la rédaction de documents
+techniques (procédures, spécifications, exigences, règles métier,
+notices, etc.). Il est utilisé ou recodé à divers niveaux et
+commercialisé par plusieurs sites en France et en Europe.
+
+--------------------------------------
+
+DESCRIPTIFS DETAILLES ANTERIEURS:
+
+LELIE V2.1 est une révision complète de LELIE V1, basée sur la notion de
+contrainte, par opposition aux patrons statiques de LELIE V1, peu
+lisibles, verbeux et difficiles à maintenir.  LELIE V2.1 étend très
+largement la couverture des phénomènes traités par LELIE V1.
+
+Ce code peut être utilisé comme tel dans des applications ou bien comme
+spécifications à recoder dans un autre langage.
+Ce code est autosuffisant: il inclut TextCoop V5.
+Ce code montre différentes façons d'exprimer des contrôles sur la
+rédaction technique.
+
+Une structure de lexique est proposée de façon à intégrer les données
+métier.
+
+Les principaux phénomènes couverts par LELIE V2.1 sont liés aux normes
+de rédaction en langue contrôlée, ils incluent:
+  - une grande variété de types de termes inappropriés (buzz, trop longs,
+    verbeux, familiers, inutiles, hypothétiques, etc.)
+  - le traitement des termes vagues, flous ou les usages sous-spécifiés,
+  - les phrases complexes, avec diverses métriques de complexité,
+  - le problème des références incertaines introduites par les pronoms ou
+    autres termes (dans la phrase),
+  - le style: position de mots ou de structures de discours imposées,
+  - formes complexes de coordination, négation, etc.
+  - futurs, modaux, déverbaux et passifs à éviter dans certaines
+    constructions,
+  - cohésion lexicale simple avec métriques de cohésion,
+  - recherche de phrases ou clusters de phrases similaires (pour doublons
+    ou incohérences)
+  - quelques outils d'analyse de corpus, etc.
+
+Prolog SWI requis. Fonctionne sur Windows, Linux et MacIntosh.
+
+Interfaces Word, pdf, Excel, etc. possibles, nous contacter.
+
+--------------------------------
+
+
+
+

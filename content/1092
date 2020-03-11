@@ -1,0 +1,57 @@
+
+            Tutoriel invité de Jérôme Pagès et Sébastien Lê
+
+      à la 14e conférence Extraction et Gestion des Connaissances
+                        http://egc2014.irisa.fr/
+
+    sur le thème Données mixtes et structure hiérarchique en analyse
+                              factorielle
+
+                      le 28 janvier 2014 à Rennes
+
+
+Le laboratoire de mathématiques appliquées d’Agrocampus-Ouest (LMA²) est
+un laboratoire de référence dans le domaine de l'analyse des données.
+Depuis les années 70 et la création de l'école Rennaise d'analyse des
+données, le laboratoire développe des méthodes et des outils d'analyse
+de tableaux de données complexes de par leur nature (mélange de type de
+variables) et leur structure (variables structurées en groupes
+éventuellement hiérarchisés)
+
+Ces méthodes s'appliquent très largement à l'analyse de questionnaires,
+l'analyse de données de sensorielles et de données biologiques. Elles
+concernent plus largement toutes les personnes qui recueillent des
+données et cherchent à en extraire une information.
+
+L'objectif de ce tutoriel est double puisqu'il permettra aux chercheurs
+intéressés par les méthodes d'analyse des données de découvrir des
+méthodes développées dans le LMA ainsi que les outils mis à disposition
+par le laboratoire, et en particulier le package R FactorMineR
+(http://factominer.free.fr/).
+
+
+Ce tutoriel s’intéressera plus particulièrement à l’analyse factorielle
+dans les cas :
+
+1) de mélange de variables quantitatives et qualitatives ;
+
+2) de structure hiérarchique sur les variables (exemple : questionnaire
+structuré en thèmes et sous-thèmes).
+
+
+La présentation s'appuiera sur des problématiques réelles pour
+présenter :
+
+1) les questions méthodologiques ;
+
+2) leur solution et leur mise en œuvre via le package R FactoMineR.
+
+================================
+
+La participation au tutoriel seul (avec repas du midi) est de 80€ (50€
+pour étudiant).
+
+Les inscriptions et les tarifs sont disponibles sur le site de la
+conférence ainsi que toutes les informations nécessaire pour l'accès au
+tutoriel.
+

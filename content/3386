@@ -1,0 +1,121 @@
+Bonjour,
+Pourriez vous s'il vous plait diffuser cette offre de stage de Master,
+qui concerne l'Analyse prédictive pour les compagnes de recrutement.
+
+*Mots clés :* e-recruitment, série temporelle, clustering, recommandation,
+prédiction, Big Data,
+Ce stage est rémunéré (1000 e/mois) et s'effectuera dans l'entreprise
+Multiposting à Paris.
+
+
+Intitulé du stage : Analyse prédictive des campagnes de recrutement
+
+
+ *Mots clés : e-recruitment, série temporelle, clustering, recommandation,
+prédiction, Big Data,*
+
+
+ *L’ADN de Multiposting :*
+
+Créée en 2008 par deux jeunes entrepreneurs, Gautier Machelon et Stéphane
+Le Viet, Multiposting est une start-up française innovante devenue
+rapidement le leader européen des solutions technologiques dédiées au
+e-recrutement. En quelques années, l’entreprise a su s’imposer sur le
+marché du recrutement et gagner la confiance de 1 000 entreprises
+internationales dont 32 du CAC 40 (Total, Capgemini, Danone, etc.).
+
+Depuis sa création, l’entreprise connaît une croissance entre 50 et 100%
+par an. Elle prévoit de dépasser les 12 millions d'euros en 2015. Cette
+hyper-croissance est accompagnée d’une politique active de recrutement : en
+6 ans l’équipe est passée de 2 à 80 collaborateurs, dans ses bureaux
+parisiens (Paris 9).
+
+Située au cœur de Paris, l’entreprise accueille ses collaborateurs au sein
+d’un cadre propice à l’épanouissement : des espaces ouverts, un jardin
+privatif, une borne d'arcade fabrication maison, une table de ping pong,
+tout cela avec une âme de start up.
+
+Découvrez notre vidéo interactive de recrutement : Multiposting, 2014
+<https://www.youtube.com/watch?v=ZHonOURTWgc>
+
+Multiposting 13è/50 du Technology Fast 50 (Deloitte, 2014
+<http://www.challenges.fr/entreprise/20141125.CHA0645/le-classement-des-50-entreprises-francaises-a-la-plus-forte-croissance.html>
+)
+Multiposting lauréat des trophées de l'international du Numérique (IE Club,
+2014 <http://ie-club.com/2014_10_22/>)
+Description du sujet
+
+
+ A l'heure actuelle, les principaux intermédiaires des processus de
+recrutement pour les entreprises sont les canaux de diffusion des offres
+d’emploi sur des sites Web de recherche d’emploi (appelés *jobboard*). La
+recherche des meilleurs candidats pour une offre donnée revient entre
+autres à cibler les canaux les plus appropriés.
+
+Dans ce stage nous proposons des fonctions d’aide à la recommandation de
+canaux fondées sur un modèle hybride et modulaire combinant à la fois des
+algorithmes de classification sémantique et de prédiction à base de séries
+temporelles. Le module d’analyse de séries temporelles du comportement des
+canaux a pour objectif de prédire le ou les meilleurs canaux pour une offre
+donnée ; il est combiné avec un module d’analyse textuelle de description
+des offres dans le but d’affiner la recommandation d'un point de vue
+sémantique.
+
+L'objectif de ce stage sera d'implémenter un algorithme développé par le
+laboratoire LIASD. Les algorithmes qui seront implémentés en python
+porteront sur le clustering, la représentation et prédiction de séries
+temporelles utilisant les modèles de Markov.
+
+
+ L’architecture de cette application intégrant les différents algorithmes
+doit prendre en compte les contraintes de passage à l’échelle et
+d'utilisation en conditions industrielles, avec des calculs sur plusieurs
+millions d'offres d'emploi. Le stage se terminerait par une étude des
+techniques de *Big Data* et de *Mapreduce*.
+Description des tâches :
+
+
+
+   -
+
+   Etude d’articles sur les prédictions de clics de campagnes de
+   e-recrutement
+   -
+
+   Extension des indicateurs de recommandation des job-boards
+   -
+
+   Développement d’un modèle de représentation des données temporelles et
+   symboliques
+   -
+
+   Développement d'un algorithme de clustering
+   -
+
+   Développement d’un modèle de prédiction hybride
+   -
+
+   Evaluation de l’application avec un jeu de données réel.
+
+Compétences requises :
+
+
+
+ Python, R, JSON, MySQL
+
+
+ *Encadrants : *Jean-Baptiste Gariel, Emmanuel Malherbe
+
+*Reponsables académiques: *Sidahmed Benabderrahmane & Nédra Nauwynck &
+Mario Cataldi
+
+Rémunération : 1000€/mois.
+
+
+
+Cordialement,
+-- 
+-----------
+Sidahmed Benabderrahmane, Ph.D.
+sidahmed.benabderrahmane@gmail.com
+

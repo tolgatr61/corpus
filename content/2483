@@ -1,0 +1,87 @@
+**** Avec nos excuses pour les réceptions multiples ****
+
+=============================
+2nd Appel à Communications
+
+Construction, enrichissement et exploitation de ressources 
+GEOgraphiques pour l'analyse de données (CerGEO'2014)
+
+Atelier EGC'2014
+
+27 - 31 janvier, 2014 - Rennes, France
+
+=============================
+
+Page Web : http://www.lirmm.fr/~kergosien/CerGEO2014 
+
+Contact : CerGEO2014@lirmm.fr
+
+Dans le contexte du web et de l'open data, de nouvelles ressources géographiques comme GeoSud Theia, Geonames, GeoBase, OpenGeodata, M2ISA, Wikimapia, Geoportail, Temporal database, sont disponibles. Cette masse importante de données mise à disposition implique de faire des choix de ressources et de les adapter aux applications visées. Ainsi, la construction et/ou l'enrichissement de telles ressources constituent un enjeu crucial et s'inscrit notamment dans les problématiques des données ouvertes.
+
+Intégrées au sein d'un processus d'extraction des connaissances, de nombreux verrous scientifiques (extraction/désambiguïsation d'entités spatiales, alignement/fusion de ressources géographiques, etc.) ont été mis en évidence, pour lesquels des méthodes spécifiques doivent être proposées. Par exemple, la construction et l'enrichissement de telles ressources à partir de textes engendre des difficultés liées à la qualité des données textuelles disponibles, la qualité et l'exhaustivité des ressources et l'adéquation des outils de TAL (Traitement Automatique du Langage) pour identifier les entités géographiques. Dans un tel contexte, il est alors essentiel de discuter et d'évaluer la qualité des ressources (par exemples, gazetteer) et outils dédiés dans un processus d'extraction et de gestion des connaissances (EGC).
+
+L'objet de cet atelier est de réunir les étudiants, enseignants et chercheurs intéressés par cette problématique et soucieux d'en comprendre à la fois la complexité et la portée. Il s'agira également de dresser un panorama des travaux de la communauté francophone sur ce domaine afin d'identifier les enjeux et perspectives associés.
+
+Thèmes de l'atelier CerGEO'2014 (liste non exhaustive) :
+- Intégration de connaissances géo-spatiales/géo-temporelles dans un processus de fouille de données,
+- Construction et acquisition de connaissances géo-spatiales/géo- temporelles à partir de textes et/ou images,
+- Extraction et désambiguïsation d'entité géo-spatiales,
+- Visualisation de ressources géo-spatiales/géo-temporelles,
+- Données géo-spatiales et géo-temporelles du Web et de l'Open Data,
+- Mise en correspondance de ressources géographiques,
+- Evaluation des outils, ressources et connaissances géo-spatiales/géo- temporelles.
+
+
+Soumission des articles via Easychair (cf. page web  https://www.easychair.org/conferences/?conf=cergeo2014) :
+Les articles sont limités à 12 pages et doivent respecter le format RNTI. Des travaux préliminaires ou des présentations de projets en cours pourront également être soumis sous un format plus court (6 pages maximum).
+
+Dates importantes :
+25 novembre 2013 : Soumission des articles 
+16 décembre 2013 : Notification aux auteurs 
+03 janvier 2014 : Version finale des articles
+
+------ Invité ---------
+
+Christian Sallaberry, MCF HDR au Laboratoire informatique de l'Université de Pau et des Pays de l'Adour (UPPA) présentera un panorama de ses  activités de recherche sur l'information spatiale et temporelle et plus particulièrement les problèmes que peuvent poser l'exploitation et l'enrichissement de ressources géographiques actuellement disponibles.
+-----------------------
+
+Organisateurs :
+Eric Kergosien, LIRMM, CNRS, Montpellier
+Mathieu Roche, Cirad, UMR TETIS, Montpellier
+
+Comité de Programme :
+- Nicolas Béchet IRISA, Vannes 
+- Sandra Bringay, LIRMM, Montpellier
+- Sophie Bruguiere Fortuno, UMR TETIS, Montpellier 
+- Catherine Dominguès, COGIT - IGN, Paris
+- Mauro Gaio, LIUPPA, Pau
+- Jérôme Gensel, LIG, Grenoble 
+- Mouna Kamel, IRIT, Toulouse
+- Cédric Lopez, Viseo, Grenoble 
+- Damien Palacio, Univ. de Zurich, Switzerland
+- Pascal Poncelet, LIRMM, Montpellier 
+- Anne Ruas, IFSTTAR, Paris
+- Fatiha Saïs, LRI, Paris
+- Christian Sallaberry, LIUPPA, Pau
+- Maguelonne Teisseire, UMR TETIS, Montpellier
+
+=============================
+
+Atelier soutenu par le projet CNRS-Mastodons ANIMITEX : 
+http://www.lirmm.fr/~mroche/ANIMITEX/
+
+
+Eric Kergosien & Mathieu Roche
+--------------------------------------------------------------
+UMR TETIS (Territoires, Environnement, Télédétection et Information Spatiale)
+Maison de la Télédetection
+500, rue J.F.Breton 34093 MONTPELLIER Cedex 5
+web: http://ekergosien.free.Fr
+----------------------------------------------
+LIRMM - UMR 5506
+Université Montpellier 2
+34095 Montpellier Cedex 5 - France
+E-mail : eric.kergosien@lirmm.fr
+--------------------------------------------------------------
+
+

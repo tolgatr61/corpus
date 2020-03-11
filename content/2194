@@ -1,0 +1,28 @@
+Bonjour,
+
+J’ai le plaisir de vous inviter à la soutenance de mon Habilitation à Diriger des Recherches « Adaptation dynamique des Environnements Informatiques pour l’Apprentissage Humain interactifs ». La soutenance aura lieu le vendredi 5 décembre à 10h00 en salle de conférences de l’IUT 1 de l’Université Lumière Lyon 2, sur le campus Portes des Alpes (plan d'accès : http://www.univ-lyon2.fr/plans-d-acces/ et en pièce jointe).
+
+La soutenance sera suivie d’un pot en salle 1.018 (juste à côté de la salle de conférences).
+
+Titre : 
+Adaptation dynamique des Environnements Informatiques pour l’Apprentissage Humain interactifs
+
+Jury :
+Dominique Archambault - Professeur, Université Paris 8 (Rapporteur)
+Paul De Bra - Professeur, Eindhoven University of Technology
+Pascal Estraillier - Professeur, Université de La Rochelle 
+Serge Garlatti - Professeur, Télécom Bretagne (Rapporteur)
+Jean-Charles Marty - MCF - HDR, Université de Savoie 
+Serge Miguet - Professeur, Université Lumière Lyon 2 (Rapporteur interne)
+
+Résumé :
+Les travaux présentés dans ce mémoire d'habilitation à diriger des recherches portent sur l'adaptation dynamique des systèmes interactifs. Ces travaux s'inscrivent dans le domaine des Environnements Informatiques pour l’Apprentissage Humain (EIAH), et plus particulièrement dans le domaine des serious games dédiés aux personnes en situation de handicap. Nos contributions dans ce cadre s'organisent autour de trois axes.
+
+Le premier axe concerne la conception de modèles et d’outils génériques permettant aux systèmes informatiques de s’adapter à l’utilisateur, et plus généralement aux contraintes et propriétés du contexte d’usage. Ce dernier est défini par le triplet : utilisateur, plate-forme et situation d’interaction. Dans ce cadre, nos recherches se sont focalisées sur l'adaptation dynamique : (1) de scénarios d'apprentissage dans les serious games, (2) des traces partagées dans les environnements d’apprentissage en ligne et (3) des émotions pour les personnages non joueurs dans les jeux.
+
+Le deuxième axe concerne l’extraction interactive de connaissances à partir de traces d’interaction. Il s’agit d’acquérir de nouvelles connaissances ou de mettre à jour des connaissances existantes à partir des données issues des interactions entre l’utilisateur et l’environnement informatique. Nos travaux dans ce domaine ont porté, d’une part, sur la mise à jour des connaissances du domaine et du profil utilisateur et, d’autre part, sur l’apprentissage de connaissances d'adaptation à partir des feedbacks de l’utilisateur.
+
+Le troisième axe porte sur l’analyse du comportement de l’utilisateur à partir de ses traces d’interaction. Cette analyse permet, d’une part, à l’enseignant/formateur de suivre les réalisations et les évolutions de ses apprenants afin d’adapter le processus l’apprentissage à leurs contextes d’usage, et d’autre part, de faciliter l’apprentissage à travers des processus métacognitifs liés à une activité réflexive fondée sur la visualisation interactive de trace.
+
+Nos contributions ont été développées, testées et validées, dans le cadre de plusieurs projets pluridisciplinaires en partenariat avec des structures académiques et industrielles.
+

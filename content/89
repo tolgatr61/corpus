@@ -1,0 +1,90 @@
+
+** Stage Recherche - Master informatique - 2ème année **
+
+Titre : Motifs séquentiels pour la catégorisation de textes
+
+Version pdf à :
+https://cremilleux.users.greyc.fr/pub/stageM2motifsTexte.pdf
+
+Contexte  : ce stage s’inscrit dans le cadre de deux projets
+de recherche : (1) le projet ANR Hybride (http://hybride.loria.fr/)
+qui vise à extraire de nouvelles connaissances à partir de textes
+scientifiques pour la documentation de maladies orphelines
+et (2) le projet ANIMITEX (http://www.lirmm.fr/~mroche/ANIMITEX/)
+qui a pour objectif d’exploiter des données textuelles massives
+et hétérogènes afin d’apporter des informations précieuses permettant
+de compléter l’analyse des images satellites.
+L’objectif commun à ces deux projets consiste donc à extraire des
+connaissances à partir de données textuelles massives. Pour répondre
+à ce défi, les travaux menés s’appuient sur des compétences fortes en
+fouille de données et en traitement automatique des langues (TAL)
+afin de faire émerger des travaux originaux à la croisée de ces deux
+domaines. Ce stage de master se situe dans ce champ de recherche
+et s’appuiera sur le contexte apporté par les projets de recherche
+Hybride et Animitex.
+
+
+Objectif et description du stage :
+
+Plus spécifiquement, on s’intéressera à une application de TAL :
+la classification de textes (par exemple, un texte médical contient-il
+des symptômes sur une maladie ? un article de presse parle-t-il
+de territoire ?). L’une des principales difficultés de cette
+application est de produire une représentation de textes pour apprendre
+un classifieur. Ce problème est connu sous le nom d’extraction de
+descripteurs (« feature selection »). Pour représenter les textes
+une solution classique est d’extraire tous les mots du textes,
+mais on perd l’ordre des mots qui est l’une des caractéristiques
+des données textuelles. L'objectif de ce stage est de mettre au point
+et de développer une méthode combinant les avantages d'une
+représentation séquentielle du texte avec les représentations usuelles
+où l'ordre entre les mots est perdu.
+
+Nous proposons d’attaquer ce problème en tirant profit des techniques
+de fouille de motifs séquentiels à partir de textes, car celles-ci
+permettent de prendre en compte l’ordre des mots dans les textes.
+Il existe des algorithmes efficaces et complets pour découvrir ces
+motifs, mais la sortie est généralement trop volumineuse pour être
+exploitable. L’une des solutions est d’utiliser des représentations
+condensées des motifs. L’objectif de ce stage est d’envisager et
+de tester l’utilisation de plusieurs types de représentations
+condensées qui semblent bien adaptées pour la classification de
+textes : les motifs émergents minimaux, les motifs séquentiels
+partiellement ordonnés, ou encore les motifs delta-libres.
+Le texte sera ensuite représenté avec ces motifs.
+
+Ces extractions peuvent se faire dans un cadre supervisé, c’est-à-dire
+en utilisant des corpus d’apprentissage dont la classe est étiquetée.
+Un axe de recherche complémentaire pourra consister à concevoir une
+méthode pour extraire ces descripteurs de façon non supervisée. L’idée
+proposée est de procéder à des regroupement de motifs par mesure
+de similarité pour obtenir des clusters de documents.
+
+Mots-clés :
+Fouille de textes, motifs séquentiels, classification, textes médicaux,
+textes sur l'aménagement du territoire.
+
+Lieu du stage : LIPN, université Paris 13
+
+Durée : 4 à 6 mois
+
+Gratification : 479,55 € mensuel
+
+Candidature : CV, relevés de notes, lettre de motivation, tout autre 
+document estimé utile (recommandation,...)
+Tous les documents doivent être au format pdf
+
+Contacts :
+Thierry Charnois (équipe RCLN – LIPN, Paris 13)
+thierry.charnois@lipn.univ-paris13.fr
+
+Bruno Crémilleux (équipe CoDaG – GREYC, Caen)
+bruno.cremilleux@unicaen.fr
+
+Pascal Poncelet (équipe ADVANCE – LIRMM & TETIS, Montpellier)
+pascal.poncelet@lirmm.fr
+
+Maguelonne Teisseire (équipe ADVANCE – LIRMM & TETIS, Montpellier)
+maguelonne.teisseire@teledetection.fr
+
+

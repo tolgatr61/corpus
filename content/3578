@@ -1,0 +1,235 @@
+
+*JOURNÉES NEPTUNE*
+
+**
+
+*L'INGÉNIERIE DIRIGÉE PAR LES MODÈLES*
+
+*IDM pour la simulation et la vérification de modèles*
+
+**
+
+*Mardi 3 juin 2014, Paris, *
+
+*Telecom Paristech*
+
+46, rue Barrault -75013 Paris
+
+**
+
+Renseignements :
+
+/genie-logiciel@orange.fr <mailto:genie-logiciel@orange.fr>/
+
+Site web : /http://neptune.irit.fr/
+
+**
+
+**
+
+L'ingénierie dirigée par les modèles (IDM) reste au centre des 
+préoccupations des Journées Neptune. Il s'agit du paradigme dans lequel 
+le code source n'est plus considéré comme l'élément central d'un 
+logiciel, mais comme un élément dérivé d'éléments de modélisation.
+
+Dès leur première édition en 2004, les journées NEPTUNE se sont 
+efforcées de présenter les différents volets de l'ingénierie dirigée par 
+les modèles ; il s'agissait d'aspects aussi bien techniques, tels que 
+les outils, les démarches ou les projets, que sectoriels, tels que les 
+systèmes embarqués ou les systèmes d'information. Aujourd'hui, onze ans 
+après la première édition, l'IDM semble avoir atteint l'âge de raison en 
+devenant incontournable dans de nombreux secteurs industriels. Il a donc 
+semblé important de débuter la onzième édition, prévue sur une journée, 
+par une réflexion sur l'utilisation concrète de l'IDM dans les 
+entreprises et sur son avenir ; cette réflexion s'appuiera sur des 
+retours d'expérience dans le domaine de la vérification de modèles selon 
+deux points de vue : l'utilisation des méthodes formelles et la simulation.
+
+La première demi-journée s'appuiera sur les résultats d'un projet 
+soutenu par Bpifrance ayant pour objectif d'intégrer les techniques de 
+vérification formelles dans les processus industriels basés sur les 
+modèles. En effet, les applications à haute criticité induisent la mise 
+en oeuvre de validation prouvant que le logiciel produit respecte bien 
+toutes les contraintes de sécurité et de qualité qu'impliquent ce type 
+d'applications.
+
+La seconde demi-journée sera constituée de quatre présentations montrant 
+différentes utilisations de la simulation de modèles. Deux présentations 
+sont des retours d'expérience dans des projets industriels, les deux 
+autres relatent des travaux réalisés par des laboratoires tels que le 
+CEA ou l'ISAE dans ce domaine. La simulation est une technique 
+permettant de valider des modèles afin de produire des logiciels de 
+qualité. Toutefois, cette approche ne démontre pas comme avec les 
+méthodes formelles que les modèles produits sont corrects mais 
+uniquement qu'ils satisfont les contraintes imposées lors de l'exécution 
+de certains scénarios.
+
+Afin de faciliter les échanges entre les participants et les orateurs, 
+l'organisation des journées laissera plus de place aux discussions en 
+clôturant chaque session par une table ronde permettant ainsi 
+d'approfondir les présentations de la session.
+
+Parrainages : /ANR, Commission Européenne, Pôles de Compétitivité 
+Minalogic, System@tic et Aerospace Valley/
+
+//
+
+*/PROGRAMME/*
+
+//
+
+Accueil et présentation de la journée NEPTUNE 2014
+
+*/Agusti Canals/*/(CS Communication & Systèmes)/
+
+/Session/  1*: Contribution à une intégration des techniques de 
+vérification formelles dans les processus industriels de développement 
+logiciel*
+
+/Animateur : *Thierry Millan* (IRIT)/
+
+/Présentation du groupe de recherche et des exposés (Objectifs du 
+groupe, méthode, organisation du travail)/
+
+*/Philippe Dhaussy /*/(ENSTA Bretagne)/
+
+/Modélisation UML d'un cas d'étude : un système de Cruise Control (CCS)/
+
+*/Jérôme Delatour /*/(ESEO)*, Frédéric Jouault *(ESEO)*et Luka Le Roux* 
+(ENSTA Bretagne)**/
+
+/Modélisation B : Application au cas CCS/
+
+*/Étienne Prun, Joris Rehm/*/(Clearsy)/
+
+/Transformation de modèles UML vers Fiacre, via les langages 
+intermédiaires tUML et ABCD/
+
+*/Jérôme Delatour /*/(ESEO)*, Frédéric Jouault *(ESEO), *Ciprian 
+Téodorov* (ENSTA Bretagne), *Luka Le Roux* (ENSTA Bretagne) et *Philippe 
+Dhaussy* (ENSTA Bretagne)**/
+
+/Vérification formelle de propriétés avec outils OBP, application au cas 
+CCS/
+
+*/Philippe Dhaussy/*/(ENSTA Bretagne,) *Ciprian Téodorov* (ENSTA 
+Bretagne) et *Luka Le Roux* (ENSTA Bretagne)/**
+
+*/Table ronde/*/*:*/
+
+*/Que peut-on attendre de l'intégration des techniques de vérification 
+formelles d'un point de vue industriel /*
+
+*/Où en est-on ? À quels coûts ?/*//
+
+/Session/  2: *IDM et simulation*
+
+/Animateur : *Jérôme Hugues* (ISAE)/
+
+/Introduction/
+
+*/Thierry Millan /*/(IRIT)**/
+
+/Les challenges (des standards) de l'IDM pour la simulation/
+
+*/Jérémie Tatibouët /*/(CEA)**/
+
+/Le standard FMI : interopérabilité des outils de simulation/
+
+*/Philippe Hartmann, Christophe Fernandes /*/(Dassault Systèmes)**/
+
+IDM pour la simulation : le cas de PRISE
+
+*Jérôme Hugues*, *Pierre Siron* (ISAE)
+
+/Modélisation pour la simulation/
+
+*/Alain Roussel et Arnaud Jouzeau /*/(CS)/
+
+*/Table ronde/*
+
+*/La simulation, complément des méthodes formelles (quand elles sont 
+trop consommatrices de ressources) et/ou du « model-checking » ?/*
+
+
+            *Les journées de travail « NEPTUNE » : */Instituées sur
+            l'initiative de quatre membres du consortium NEPTUNE (Nice
+            Environment with a Process and Tools Using Norms and
+            Examples) et organisées avec le concours de la revue Génie
+            Logiciel, les journées « NEPTUNE » ont pour vocation de
+            constituer un lieu de rencontre, au travers de présentations
+            et tables rondes, pour les différents acteurs des mondes du
+            génie logiciel et de l'ingénierie de systèmes concernés par
+            l'utilisation et l'évolution des processus de développement
+            logiciel basés sur les modèles. Ces journées ont ainsi un
+            double rôle d'évaluation critique et de veille technologique./
+
+*Comité de programme*
+
+*Présidence* :
+
+Thierry Millan -- IRIT
+
+Agusti Canals -- CS Communication&Systèmes
+
+Franck Barbier -- UPPA (F)
+
+Mireille Blay-Fornarino -- UNICE (F)
+
+Jean-Michel Bruel -- IRIT (F)
+
+Isabelle Borne -- UBS (F)
+
+Juan Carlos Cruellas -- UPC (E)
+
+Albert Fayos -- GTD (E)
+
+Jérôme Hugues -- ISAE (F)
+
+Hervé Leblanc -- IRIT (F)
+
+Renan Leroux - Altran (F)
+
+Pierre-Alain Muller -- UHA (F)
+
+Élie Najm -- Télécom ParisTech (F)
+
+Ileana Ober -- IRIT/UPS (F)
+
+Christian Percebois -- IRIT/UPS (F)
+
+Jean-Claude Rault -- Génie Logiciel (F)
+
+Pascal Roques -- PRFC (F)
+
+Alain Rossignol -- ASTRIUM (F)
+
+Nicolas Trèves -- CNAM (F)
+
+_____________________________________________________________________________________
+
+*DEMANDE D'INFORMATION*
+
+À retourner à
+
+/genie-logiciel@orange.fr/
+
+Nom :
+
+Prénom :
+
+Organisme :
+
+Courriel :
+
+Téléphone
+
+()est intéressé
+
+()souhaite recevoir la brochure détaillée
+
+()envisage de participer
+
+
+
+

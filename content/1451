@@ -1,0 +1,58 @@
+Bonjour,
+
+Veuillez trouver ci-dessous une annonce pour un stage de Master Recherche au LINA (http://duke.univ-nantes.fr/master-subjects/)
+
+Cordialement,
+
+Y.
+
+-------
+
+Titre : Fouille de motifs évolutifs pour étudier l’appropriation dans un environnement numérique de travail  
+
+Mots-clés : fouille de données, motifs évolutifs, fouille hiérarchique, traces d’interaction, moodle
+
+
+Description :
+
+La motivation à l’origine de ce travail en fouille de données temporelles est la détection de la formation et du développement des pratiques des utilisateurs d’outils numériques. Tout utilisateur développe en effet au cours de son activité des manières d’utiliser une application ou un ensemble d’applications qui dépendent des outils qui lui sont proposés, mais qui lui sont également particulières [BP12]. Pour détecter ce développement, nous souhaitons utiliser les traces d’activité (logs) laissées par les utilisateurs afin d’y détecter des motifs d’activité récurrents (il y a régularité) ayant la particularité d’évoluer (un utilisateur mènera ses taches plus vite, changera d’habitude, etc.), qu’on appellera motifs évolutifs. L’application qui nous intéresse est l’étude de l’appropriation d’un environnement de travail numérique universitaire (Moodle) par des étudiants en 1ère année, afin d’étudier la ou les manières dont ces étudiants vont construire petit à petit des pratiques stables de manipulation de cet environnement. 
+
+Les objectifs du stage sont les suivants :
+
+1/ Définir formellement ce qu’est un motif temporel évolutif et ses propriétés dans le cas général et dans le cas particulier qui nous concerne (en lien avec les traces dont nous disposons). Il s’agit notamment de déterminer où placer le curseur entre stabilité et évolution.
+
+2/ Etudier les stratégies algorithmiques possibles pour découvrir des motifs évolutifs. On s'intéressera en particulier aux techniques hiérarchiques d'extraction de motifs [Bla14], qui peuvent aider à cibler une granularité appropriée dans les données.
+
+3/ Tester et valider ces propositions sur les données anonymisées de plusieurs milliers d’étudiants de première année sur plusieurs mois.
+
+
+Références :
+
+[Bla14] Julien Blanchard. Motifs récursifs : extraction ascendante hiérarchique d’ensembles d’items ou d’évènements pour le résumé de données transactionnelles ou séquentielles. Revue des Nouvelles Technologies de l’Information, E-26 :443–448, 2014. Actes des journées Extraction et Gestion des Connaissances (EGC) 2014.
+
+[BP12] Amaury Belin and Yannick Prié. Diam: Towards a model for describing appropriation processes through the evolution of digital artifacts. In Proceedings of the Designing Interactive Systems Conference, DIS ’12, pages 645–654. ACM, 2012.
+
+[BRNK09] M. Bottcher, G. Ruß, D. Nauck, and R. Kruse. From change mining to relevance feedback: A unified view on assessing rule interestingness. In Y. Zhao, C. Zhang, and L. Cao, editors, Post-Mining of association rules: Techniques for effective knowledge extraction, page 12–37. IGI Global, 2009.
+
+[JQZ10] Feng Jingjing, Zeng Qingfei, and Zhang Zhonglin. A method of mining the meta-association rules for dynamic association rule based on the model of ar-markov. In Networks Security Wireless Communications and Trusted Computing (NSWCTC), 2010 Second International Conference on, volume 2, pages 210–214, April 2010.
+
+[LR05] Jinfeng Liu and Gang Rong. Mining dynamic association rules in databases. In Yue Hao, Jiming Liu, Yuping Wang, Yiu-ming Cheung, Hujun Yin, Licheng Jiao, Jianfeng Ma, and Yong-Chang Jiao, editors, Computational Intelligence and Security, volume 3801 of Lecture Notes in Computer Science, pages 688–695. Springer Berlin Heidelberg, 2005.
+
+Laboratoire : LINA
+
+Encadrement : Julien Blanchard - Yannick Prié (+ collaboration avec le LIRIS)
+
+Lieu : Polytech Nantes
+
+Financement : projet ANR HUBBLE (HUman oBservatory Based on anaLysis of E-learning traces)
+
+--
+Yannick Prié - Professor of Computer Science
+LINA UMR 6241 CNRS - Polytech - University of Nantes
+yannick.prie@univ-nantes.fr - http://yannickprie.net/ - @yprie - (+33)240683248 
+
+
+
+
+
+

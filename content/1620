@@ -1,0 +1,102 @@
+Bonjour,
+
+nous recherchons un(e) candidat(e) intéressé(e) par une thèse en 
+informatique à l'Ecole navale au sein du groupe Modélisation et 
+Traitement de l'Information Maritime (MoTIM) de l'IRENav.
+
+Titre de la thèse : Vers une émergence des systèmes d'information 
+géographique maritime fondés sur la connaissance : application aux 
+systèmes d'aide à la navigation.
+Établissement : Ecole navale (Commune de Lanvéoc - Bretagne 29)
+Laboratoire d'accueil : Institut de Recherche de l'Ecole Navale (IRENav 
+EA 3634 - laboratoire en co-tutelle Ecole navale et Arts et Métiers 
+ParisTech)
+Durée : 4 ans (contrat initial de trois ans prorogé pour une durée d'un an)
+Directeur de thèse : Eric SAUX (eric.saux@ecole-navale.fr)
+Mots-clés : Informatique, sciences de l'information géographique, 
+ingénierie des connaissances, navigation et sécurité maritime.
+
+Candidatures :
+Les candidat(e)s sont invité(e)s à envoyer le plus tôt possible, au plus 
+tard le _*31 mai 2014*_, leur candidature.  Pour les candidat(e)s 
+retenu(e)s, une audition aura lieu au mois de juin 2014.
+Les candidatures (CV détaillé, relevés de notes de Licence, Master ou 
+école d'ingénieur, lettre de motivation, lettres de recommandation) sous 
+référence : 14-5-DFS/AER INFOR-SIG sont à adresser
+1) soit par voie électronique à  l'adresse suivante : 
+josiane.keraudren@ecole-navale.fr
+2) soit par voie postale à l'adresse suivante :
+Mme Josiane KERAUDREN
+BCRM Brest
+Ecole navale et groupe des Ecoles du Poulmic - Direction de 
+l'enseignement - Gestion des enseignants
+CC 600 - 29240 BREST cedex 9
+
+Des informations complémentaires sur l'offre de thèse (avec monitorat) 
+sont disponibles en fichier attaché.
+
+Cordialement.
+Eric Saux
+
+-------------------------------------------------------
+Descriptif du sujet de thèse : L'objectif de la thèse est de contribuer 
+à l'acquisition et à la représentation des connaissances de 
+l'environnement maritime à des fins d'exploitation dans des systèmes 
+d'aide à la navigation.
+
+Une partie des recherches actuellement en cours au sein du groupe est 
+orientée vers la modélisation de l'environnement maritime et des entités 
+présentes dans cet environnement. Cette modélisation, sujette à la 
+dynamique de cet environnement (marée, courant, etc.) et aux conditions 
+de visibilité, prend en compte la sémantique, les saillances, les 
+affordances de l'environnement et des entités spatio-temporelles. A 
+l'aide d'une structuration adéquate des connaissances au sein 
+d'ontologies, nous proposons actuellement un service de routage 
+dynamique permettant à un navire de rallier un point de destination en 
+toute sécurité. La thèse proposée s'inscrit donc dans ce contexte.
+
+Dans un premier temps, cette thèse consiste à enrichir la connaissance 
+du milieu maritime et des activités présentes dans cet environnement 
+(activités restreintes à la navigation maritime) à partir d'experts 
+et/ou de l'analyse de documents textuels. Ainsi, il faut :
+.    Identifier/enrichir les propriétés qualitatives (par ex. à partir 
+des saillances) et quantitatives des entités ;
+.    Identifier les relations et les contraintes entre les entités 
+spatiales statiques et mobiles (par ex. les règles de navigation) ;
+.    Représenter les « fonctionnalités » / affordances des entités 
+(élément de route, élément de positionnement, élément de sécurité) ;
+.    Identifier les « méta-données » qui aident à la définition et à la 
+caractérisation des entités.
+
+Dans un deuxième temps, la thèse proposera différents modèles de 
+représentation de trajectoire de navigation en y incluant l'ensemble des 
+connaissances associées. Nous différencierons la représentation 
+graphique (éventuellement fondée sur les principes de perception) qui 
+permettra à l'utilisateur de visualiser la route suivie et les 
+instructions de navigation, de la représentation formelle qui permettra 
+d'exploiter les informations de trajectoire dans un système d'information.
+
+Enfin, cette thèse améliorera le service de routage actuellement 
+développé afin de proposer i) un service de routage automatique 
+multicritère et ii) des outils permettant la saisie « manuelle » de 
+trajectoire de navigation en conformité avec la représentation formelle 
+précédemment définie et les schémas de préparation de route usités. Un 
+prototype démonstratif, à base de « services », appliqué au domaine de 
+la sécurité maritime sera mis en place afin d'illustrer le potentiel de 
+l'approche sur un cas d'étude.
+
+-- 
+Eric SAUX
+BCRM Brest
+Ecole Navale et Groupe des Ecoles du Poulmic
+Institut de Recherche de l'Ecole Navale
+Groupe MoTIM (Modélisation et Traitement de l'Information Maritime)
+Lanvéoc-Poulmic, CC 600
+29240 BREST Cedex 9 (France)
+
+Tel : 	02.98.23.38.64 (33.2.98.23.38.64 from abroad)
+Fax : 	02.98.23.38.57 (33.2.98.23.38.57 from abroad)
+Email : eric.saux@ecole-navale.fr
+Web : http://www.ecole-navale.fr
+
+

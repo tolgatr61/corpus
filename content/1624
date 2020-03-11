@@ -1,0 +1,154 @@
+
+
+*Vers l'amélioration des systèmes d'alertes précoces : standardisation, 
+intégration de données externes, gestion des connaissances, ...*
+
+**
+
+*Localisation* : Université Paris-Dauphine, LAMSADE
+
+*
+*
+
+*Encadrants* : Elsa Negre (elsa.negre@dauphine.fr 
+<mailto:elsa.negre@dauphine.fr> -- 01.44.05.41.84) et Camille 
+Rosenthal-Sabroux (camille.rosenthal-sabroux @dauphine.fr 
+<mailto:elsa.negre@dauphine.fr> -- 01.44.05.47.24)
+
+*
+*
+
+*Mots-clés* : Systèmes d'alertes précoces, Analyse des réseaux sociaux, 
+Systèmes de recommandations, Gestion des connaissances, Traitement de 
+données, Systèmes d'Informations, ...
+
+*
+*
+
+*Financement : *
+
+Ce sujet est prioritaire pour une demande de bourse de thèse du ministère.
+
+*Candidatures : *
+
+Les candidats intéressés sont invités à envoyer une lettre de 
+motivation, un CV, un relevé de notes avec classement du Master 2, le 
+plus tôt possible, */avant le 30 avril 2014/*. Une seconde sélection 
+sera ensuite faite par l'école doctorale sur la base d'une auditionen 
+juin 2014.
+
+
+*Sujet accessible en ligne : *
+
+http://www.lamsade.dauphine.fr/spip.php?article507 
+<http://www.lamsade.dauphine.fr/spip.php?article507>
+
+**
+
+*Contexte* :
+
+Les catastrophes naturelles sont une cause constante de souffrance 
+humaine et de pertes économiques à travers le monde. Le changement 
+climatique et l'urbanisation rapide ne font qu'aggraver le problème. 
+Pour élaborer des plans d'urgence efficaces dans les zones à risques, il 
+est vital de disposer d'un système d'alerte précoce (early warning 
+system). Un tel système doit être capable de surveiller et de prévoir le 
+comportement de l'environnement puis d'émettre des alertes assez tôt 
+pour permettre aux populations de prendre les mesures qui s'imposent. Il 
+est à noter qu'un système d'alerte précoce est spécifique à un type de 
+catastrophe mais aussi à l'environnement pour lequel il a été mis en 
+place (zone géographique, décisions politiques, ...). Par conséquent, il 
+n'existe pas deux systèmes identiques.
+Un système d'alerte précoce complet et efficace comprend quatre 
+éléments. L'échec à l'une des parties peut signifier l'échec de 
+l'ensemble du système :
+
+     1. Connaissance des risques : Connaissance préalable des risques 
+encourus et planification du système de contrôle en termes de capteurs, 
+mesures, échelles, seuils, ... (l'évaluation et la cartographie des 
+risques aide à prioriser les besoins du système d'alerte précoce et à 
+guider les préparatifs d'intervention et de prévention des catastrophes. 
+Cette évaluation des risques peut être fondée sur l'expérience 
+historique et humaine, sociale, économique, et les vulnérabilités 
+environnementales).
+Plus formellement, parmi d'autres, les problématiques de recherche liées 
+à la gestion de grandes masses de données (nombreux capteurs, ...), au 
+Big Data (quelles sont les données réellement nécessaires ?) et à la 
+gestion des connaissances (pour l'expertise, par exemple) seront abordées.
+
+     2. Services d'alertes - Maintenance technique et surveillance 
+d'alertes.
+Formellement, parmi d'autres, les problématiques de recherche liées à la 
+gestion des systèmes d'information, à la gestion de grandes masses de 
+données (passage à l'échelle, ...), aux systèmes de recommandation (pour 
+prendre en compte les expériences passées), à l'analyse des réseaux 
+sociaux (intégration d'informations inférées via les réseaux sociaux 
+pour le déclenchement d'alertes) et à l'aide à la décision (l'alerte 
+nécessite-t-elle la mise en place d'un plan d'urgence) seront abordées.
+
+     3. Diffusion des alertes : compréhensible pour les personnes à 
+risques, les organisations et toutes les personnes qui doivent répondre 
+à ces alertes. Les avertissements doivent atteindre leurs destinataires 
+par le(s) meilleur(s) canal (canaux) de diffusion (adapté au 
+destinataire) en choisissant la bonne information à diffuser (pour ne 
+pas causer la panique mais faire en sorte que les personnes agissent).
+Plus formellement, parmi d'autres, les problématiques de recherche 
+liées  au Big Data (choix de la bonne information à diffuser parmi de 
+nombreuses données), à l'aide à la décision (quelle information pour 
+quel destinataire ?, ...), à la gestion et au transfert des 
+connaissances, aux réseaux sociaux (pour la diffusion) et aux systèmes 
+de recommandation (pour prendre en compte les actions passées) seront 
+abordées.
+
+     4. Capacité d'intervention - Connaissance et préparation à agir : 
+Il est essentiel que les personnes à risques comprennent leurs risques, 
+ils doivent respecter le service d'alerte et doivent savoir comment réagir.
+
+Plus formellement, parmi d'autres, les problématiques de recherche liées 
+à l'acceptation du système (system acceptance), au transfert des 
+connaissances, à la formation des populations, aux systèmes de 
+recommandation (pour prendre en compte les actions passées)  et à l'aide 
+à la décision seront abordées.
+
+
+Finalement, un des objectifs de cette thèse est d'étudier la diversité 
+des */systèmes d'alertes précoces/*, la */grande masse de données/*, 
+d'informations et de connaissances prises en compte ainsi que de 
+comprendre de tels systèmes dans leur contexte. Il s'agira ensuite de 
+tendre vers un modèle standard des systèmes d'alertes précoces et 
+d'incorporer, par exemple, différentes informations complémentaires à 
+partir de l'analyse des */réseaux sociaux/*, de */systèmes de 
+recommandations/*, de */gestion de connaissances/*, ... afin d'améliorer 
+de tels systèmes à des fins d'*/aide à la décision/*.
+
+
+*Remarque : *
+
+Les sociétés n'ont pas adapté leurs contextes de développement au milieu 
+naturel qui les entoure et aux pertes et coûts associés aux catastrophes 
+d'origine naturelle. Au contraire, d'une décennie à l'autre, le nombre 
+de catastrophes sociétales ne fait qu'augmenter. Au cours de la dernière 
+décennie, près d'un million de personnes ont été tuées par des 
+catastrophes provoquées par des tempêtes, des sécheresses ou des 
+inondations. Si quelques pertes matérielles semblent inévitables, 
+notamment dans le cas d'événements de très grande ampleur et peu 
+fréquents, dans certains cas, les pertes en vies humaines auraient pu 
+être évitées si des précautions et des mesures appropriées avaient été 
+mises en place. Cela aurait pu être le cas en décembre 2004 pour le 
+tsunami de l'Océan indien qui s'est soldé par plus d'un quart de million 
+de victimes ou plus récemment, en novembre 2013 le typhon aux Philippines.
+
+**
+
+*Implications : *
+
+Ce travail pourra s'appuyer sur des données réelles (relevés terrain 
+suite au typhon aux Philippines réalisés par Martina Comes, Associate 
+Professor -- Université de Agder, Centre for Integrated Emergency 
+Management -- Norvège) et sur la participation et l'implication de 
+certains membres du LAMSADE dans le réseau ISCRAM (Information Systems 
+for Crisis Response and Management) et à l'élaboration du projet 
+européen COST (European Cooperation in Science and Technology) CISTEEM.
+
+
+

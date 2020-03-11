@@ -1,0 +1,89 @@
+Bonjour,
+
+Vous êtes cordialement invité à ma soutenance de thèse de doctorat en
+informatique médicale intitulée *"Apport de la modélisation ontologique
+pour le partage des connaissances en psychiatrie"*.
+
+La soutenance se tiendra le *Mardi 19 septembre 2017 à 14h* dans les locaux
+du LIMICS à Odéon au Centre de Recherche des Cordeliers, Escalier D, 2e
+étage, 15 rue de l'école de médecine, 75006 Paris
+
+Devant le jury composé  de  :
+
+
+   - Jean CHARLET, AP-HP, INSERM/LIMICS, Directeur
+   - Xavier AIMÉ, NSERM/LIMICS, Co-encadrant
+   - Giuseppe BERIO, Université de Bretagne Sud, IRISA, Rapporteur
+   - Michel WALTER, CHU de Brest, Université de Bretagne Occidentale,
+   Rapporteur
+   - Jean-Gabriel GANASCIA, Université Pierre et Marie Curie, LIP6,
+   Examinateur
+   - Marie-Odile KREBS, CH Sainte-Anne, Université Paris Descartes,
+   Examinateur
+   - Marion ROBIN, Institut Mutualiste Montsouris, Examinateur
+   - Romain SICOT, Hôpital FernandWidal, Examinateur
+
+
+La soutenance sera suivie du traditionnel pot de thèse auquel vous êtes
+également conviés.
+
+Marion Richard
+
+
+*Résumé de la thèse :*
+
+La psychiatrie est une spécialité médicale qui vise à fournir un diagnostic
+et à traiter des troubles mentaux. Malgré des classifications
+internationalement reconnues, la catégorisation des patients selon des
+critères diagnostiques reste problématique. Les catégories actuelles
+peinent à prendre en compte l'hétérogénéité interindividuelle, les
+difficultés de délimitations des syndromes et l'influence sur les symptômes
+de nombreux facteurs dans l'histoire individuelle ou dans l'environnement.
+La recherche en psychiatrie nécessite une amélioration de la description
+des comportements, des syndromes ou des dysfonctionnements associés aux
+troubles psychiatriques. À cette fin, nous proposons OntoPsychia, une
+ontologie pour la psychiatrie, divisée en deux modules : les facteurs
+sociaux et environnementaux des troubles mentaux, et les troubles mentaux.
+L'utilisation d'OntoPsychia associée à des outils dédiés permettra la prise
+en compte des facteurs sociaux et environnementaux, la représentation de la
+comorbidité et une proposition de consensus autour des catégories
+descriptives des troubles psychiatriques. Dans un premier temps, nous avons
+développé les deux modules ontologiques selon deux méthodes différentes. La
+première propose une analyse de comptes rendus d'hospitalisation, tandis
+que la deuxième propose un alignement de différentes classifications
+psychiatriques, pour répondre au besoin de consensus. Dans un deuxième
+temps, nous avons développé un cadre méthodologique pour valider la
+structure et la sémantique des ontologies.
+
+*Abstract*
+
+Psychiatry is a medical speciality that aims at providing diagnosis and
+treating mental disorders. Despite internationally acknowledged criteria
+leading to diagnostic categories, most psychiatric disorders are syndromes
+with common symptoms or dimensions between these diagnostic categories. In
+addition, the analysis of the prevalence and incidence of social and
+environmental risk factors of diseases is crucial to understand and treat
+them and might have significant impacts on policy decisions (therapeutic as
+well as the length or the cost of hospitalisation). This overlap between
+diagnoses and the heterogeneity within the defined diagnoses stresses the
+need to improve our capability to detect, to quantify the behaviour and to
+model the symptoms and the social and environmental risk factors associated
+to psychiatric disorders. To that end, we propose OntoPsychia, an ontology
+for psychiatry, divided in two modules: social and environmental factors of
+mental disorders and mental disorders. OntoPsychia associated with
+dedicated tools will help to perform semantic research in Patient
+Discharges Summaries (PDS), to represent comorbidity, to reach a consensus
+on descriptive categories of mental disorders. In a first step, we
+developed two ontological modules using two different methods. The first
+proposes an analysis of PDS, while the second proposes an alignment of
+psychiatric classifications to meet the need for consensus. In a second
+step, we have developed a methodological framework to validate the
+structure and semantics of ontologies.
+
+-- 
+
+
+*Marion RICHARD*
+Doctorante, PhD Candidat
+INSERM U1142 - LIMICS <http://www.limics.fr/fr/accueil>
+

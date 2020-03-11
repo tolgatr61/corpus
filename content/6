@@ -1,0 +1,75 @@
+*Poste Maître de Conférences 27e LIFO (Laboratoire d'Informatique 
+Fondamentale d'Orléans) *
+Enseignement:  UFR Collegium Sciences et Techniques, Pôle Disciplinaire 
+Informatique Université d'Orléans.
+
+PROFIL RECHERCHE
+Le poste est ouvert sur deux équipes du LIFO.
+Les profils de chaque équipe sont indépendants et donnés SANS ordre de 
+priorité.
+
+Les équipes concernées sont:
+Équipe CA: Profil TAL - Apprentissage
+Équipe PAMDA:  Profil Mégadonnées (BigData)
+
+_L'annonce officiel est en annexe._
+================================================================
+*Cette annonce concerne le profil de l'équipe PAMDA (thématiques : 
+parallélisme, calcul distribué, bases de données).**
+***
+
+_L’ÉQUIPE_
+La /nouvelle/ équipe PAMDA  rassemble des chercheurs des domaines du 
+/parallélisme, du calcul distribué et des bases de données/ dont 
+l'intérêt commun par la consultation, manipulation,  gestion efficace et 
+cohérente de grandes masses de données et par le calcul scientifique 
+conduit à la construction d'un/projet commun/, autour duquel les 
+perspectives de chaque domaine sont orientées actuellement.
+
+*Dans le domaine des bases de données*,  nos travaux ont traité des  
+données XML, l'évolution de leurs schémas, l'intégration de contraints 
+d'intégrité,  la composition de services web,  les requêtes sur les 
+bases de données relationnelles parallèles... Aujourd'hui, dans le cadre 
+du projet commun de l'équipe, nos intérêts en recherche se tournent vers 
+les problèmes liés à la consultation efficace de grands volumes  de données.
+
+_PROJET DE RECHERCHE COMMUN BIG DATA_  - _DOMAINE BASES DE DONNÉES_
+
+Plus particulièrement, nos perspectives de recherche se dirigent vers 
+les requêtes, vérification et maintenance de contraintes sur un grand 
+graphe de données dont  le schéma est décrit en RDFS, OWL, logique de 
+description ou datalog. Nous nous intéressons au développement d'un 
+langage de requête déclaratif, ainsi qu'à l'optimisation des requêtes en 
+fonction de la fragmentation de données.  L'étude des algorithmes 
+d'évaluation de requêtes sur des données distribuées en utilisant les 
+protocoles MapReduce ou BSP (Bulk Synchronous Parallelism) fait  partie 
+de nos perspectives de travail.
+
+_COMPÉTENCE__S ET PROJET DE RECHERCHE_
+
+Dans le domaine des bases de données, nous cherchons des candidats, 
+ayant un bagage  théorique solide et une bonne expérience pratique, 
+pouvant collaborer activement dans la réalisation de notre projet Big 
+Data. Les candidats sont  invités à construire un projet abordant leurs 
+perspectives  dans ce cadre.
+
+_CONTACT__S_
+Les candidats sont invités à contacter par email Mirian Halfeld Ferrari 
+(mirian@univ-orleans.fr)
+
+*
+*
+
+-- 
+Mirian Halfeld Ferrari Alves
+Professor - Université d'Orléans
+
+http://www.univ-orleans.fr/lifo/Members/Mirian.Halfeld/
+---------------------------------------
+Research: LIFO - Batiment IIIA - Rue Léonard de Vinci - BP6759
+45067 Orléans Cedex 2  -- Phone: ++ 33 (0) 2 38 49 25 83
+---------------------------------------
+Teaching: IUT 'Orléans Dép.Informatique - Rue d'Issoudun - BP16729
+45067 Orléans Cedex 2 --  Phone: ++ 33 (0) 2 38 49 47 67
+
+

@@ -1,0 +1,98 @@
+Bonjour,
+
+J'ai le plaisir de vous inviter à la soutenance de thèse en Informatique 
+de Santé de M. Khadim DRAME, intitulée Contribution à la construction 
+d'ontologies et à la recherche d'information : application au domaine 
+médical.
+
+qui se déroulera le 10 décembre 2014à 14h 30dans l'Amphi Louis  de 
+l'ISPED, Université de Bordeaux (site Carreire):146 rue Léo Saignat, 33076 
+Bordeaux.
+
+Le Jury est composé de:
+
+M Guy Melançon Pr, Université de Bordeaux Président
+M. Roger Salamon Pr, Directeur de thèse
+M Moussa Lo Pr, Université Gaston Berger Rapporteur
+M Pierre Zweigenbaum DR CNRS, LIMSI Rapporteur
+Mme Nathalie Hernandez MCF, Université Toulouse II Examinateur
+M Jean François Dartigues PU-PH, Université de Bordeaux Examinateur
+M Gayo Diallo MCF, Université de Bordeaux Co-encadrant
+Mme Fleur Mougin MCF, Université de Bordeaux Co-encadrant
+
+
+Le résumé de la thèse est joint ci-dessous.
+
+
+Vous êtes bien évidemment conviés au buffet de thèse qui aura lieu 
+après la soutenance.
+
+Cordialement,
+Khadim Dramé
+
+
+Résumé
+Ce travail vise à permettre un accès efficace à des informations 
+pertinentes malgré le volume croissant des données disponibles au format 
+électronique. Pour cela, nous avons étudié l’apport d’une ontologie 
+au sein d’un système de recherche d'information (RI).
+Nous avons tout d’abord décrit une méthodologie de construction 
+d’ontologies. Ainsi, nous avons proposé une méthode mixte combinant des 
+techniques de traitement automatique des langues pour extraire des 
+connaissances à partir de textes et la réutilisation de ressources 
+sémantiques existantes pour l’étape de conceptualisation. Nous avons par 
+ailleurs développé une méthode d’alignement de termes français-anglais 
+pour l’enrichissement terminologique de l’ontologie. L’application de 
+notre méthodologie a permis de créer une ontologie bilingue de la maladie 
+d’Alzheimer.
+Ensuite, nous avons élaboré des algorithmes pour supporter la RI 
+sémantique guidée par une ontologie. Les concepts issus d’une ontologie 
+ont été utilisés pour décrire automatiquement les documents mais aussi 
+pour reformuler les requêtes. Nous nous sommes intéressés à : 1) 
+l’identification de concepts représentatifs dans des corpus, 2) leur 
+désambiguïsation, 3), leur pondération selon le modèle vectoriel, 
+adapté aux concepts et 4) l’expansion de requêtes. Ces propositions ont 
+permis de mettre en œuvre un portail de RI sémantique dédié à la 
+maladie d’Alzheimer. Par ailleurs, le contenu des documents à indexer 
+n’étant pas toujours accessible dans leur ensemble, nous avons exploité 
+des informations incomplètes pour déterminer les concepts pertinents 
+permettant malgré tout de décrire les documents. Pour cela, nous avons 
+proposé deux méthodes de classification de documents issus d’un large 
+corpus, l’une basée sur l’algorithme des k plus proches voisins et 
+l’autre sur l’analyse sémantique explicite. Ces méthodes ont été 
+évaluées sur de larges collections de documents biomédicaux fournies lors 
+d’un challenge international.
+Mots clés : construction d’ontologie, réutilisation de RTO, recherche 
+d’information, indexation sémantique, classification de documents 
+biomédicaux, maladie d’Alzheimer
+
+
+Abstract
+This work aims at providing efficient access to relevant information among 
+the increasing volume of digital data. Towards this end, we studied the 
+benefit from using ontology to support an information retrieval (IR) system.
+We first described a methodology for constructing ontologies. Thus, we 
+proposed a mixed method which combines natural language processing 
+techniques for extracting knowledge from text and the reuse of existing 
+semantic resources for the conceptualization step. We have also developed a 
+method for aligning terms in English and French in order to enrich 
+terminologically the resulting ontology. The application of our methodology 
+resulted in a bilingual ontology dedicated to Alzheimer’s disease.
+We then proposed algorithms for supporting ontology-based semantic IR. Thus, 
+we used concepts from ontology for describing documents automatically and 
+for query reformulation. We were particularly interested in: 1) the 
+extraction of concepts from texts, 2) the disambiguation of terms, 3) the 
+vectorial weighting schema adapted to concepts and 4) query expansion. These 
+algorithms have been used to implement a semantic portal about Alzheimer’s 
+disease. Further, because the content of documents are not always fully 
+available, we exploited incomplete information for identifying the concepts, 
+which are relevant for indexing the whole content of documents. Toward this 
+end, we have proposed two classification methods: the first is based on the 
+k nearest neighbors’ algorithm and the second on the explicit semantic 
+analysis. The two methods have been evaluated on large standard collections 
+of biomedical documents within an international challenge.
+Keywords : ontology construction, TOR reuse, information retrieval, semantic 
+indexing, biomedical document classification, Alzheimer’s disease
+
+
+

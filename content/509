@@ -1,0 +1,120 @@
+​ Tarifs d'inscriptions préférentiels jusqu'au 12 juin 
+
+
+Le programme est en ligne : http://pfia2015.inria.fr/journees-bilaterales/reseaux-sociaux-et-ia?showall=&start=2 
+
+
+
+
+Appel à participation : Atelier Réseaux sociaux et Intelligence Artificielle 
+
+Le 29 juin 2015, INRIA Rennes, Campus de Beaulieu, 263 av. du Général Leclerc, 35042 Rennes 
+
+
+
+Dans le cadre de la plate-forme IA (PFIA’2015) . http://pfia2015.inria.fr/journees-bilaterales/reseaux-sociaux-et-ia 
+
+
+Objectifs et thématiques de l'atelier 
+
+
+Ces dernières années ont été marquées par l'explosion des réseaux sociaux sur Internet, renouvelant l'intérêt de la communauté scientifique non seulement en sciences sociales mais également en informatique pour l'analyse et la fouille de graphes. Aujourd'hui, les graphes utilisés pour étudier ces réseaux sont de très grande taille tant par le nombre de nœuds associés aux individus que par celui des arêtes qui décrivent leurs relations ou leurs interactions. Les besoins d'analyse ont également évolué, requérant le développement d'algorithmes et d'outils plus puissants pouvant algorithmiquement passer à l'échelle, tant en masse de données qu'en débit. 
+
+L'apprentissage artificiel, discipline au croisement de l'informatique et des statistiques, tente de répondre à ces nouveaux défis posés par les innombrables applications autour des réseaux sociaux : passage à l'échelle (faire face à la volumétrie), prise de décisions dans des environnements évolutifs et complexes, prise en compte de la sémantique des communications (taxonomies, ontologies, controverses, analyse des sentiments), augmentation de l'hétérogénéité des sources de données, etc. 
+
+L'objectif de cet atelier est de permettre aux chercheurs, industriels et étudiants de positionner les problématiques du domaine et d'identifier les avancées récentes et les problèmes ouverts. 
+
+Cet atelier vise à réunir des contributions scientifiques, et à échanger des points de vue et retours d'expériences, sur le thème de l'utilisation de techniques d'apprentissage artificiel pour l'analyse de réseaux sociaux. 
+
+Un exposé invité sur le thème de la validation de détection de communautés complétera le programme afin de stimuler l'échange sur les domaines intéressants de l'atelier. 
+
+En plus des points mentionnés précédemment, les thèmes de cet atelier sont les suivants (liste non limitative) : 
+
+    * Fouille de grands graphes sociaux ( clustering , classification, recherche de motifs fréquents) 
+    * Recommandation sociale 
+    * Prédiction de liens dans les réseaux sociaux 
+    * Détection du Spam social 
+    * Qualification des données dans les réseaux sociaux (fiabilité, imprécision, incertitude, etc). 
+    * Analyse de données sociales et extraction de connaissances 
+    * Détection et évolution de communautés 
+    * Analyse des réseaux sociaux dynamiques 
+    * Analyse des sentiments et fouille d'opinions 
+    * Réseaux sociaux et ingénierie des connaissances 
+Programme 
+
+
+    * 8h30 : Accueil des participants 
+    * 9h00 - 10h00 : Conférence invitée de Eyke Hüllermeier (Université de Paderborn) - Invité IAF, session plénière 
+    * 10h00 - 10h30 : Pause café 
+    * 10h30 - 12h00 : 1ère Session scientifique 
+
+
+        * Dorra Attiaoui, Arnaud Martin and Boutheina Ben Yaghlane. Détection des experts dans un cadre incertain 
+        * Firas Ben Kharrat and Elkhlifi Aymen. Social travel recommendation approach based on Facebook profile similarity measurement 
+        * Jean-Philippe Attal and Maria Malek. Un nouvel algorithme de propagation de labels avec barrages 
+    * 
+12h00 - 13h30 : Pause déjeuner 
+    * 13h30 - 14h30 : Conférence invitée de Christine Largeron , Professeur à l'Université Jean Monnet (Saint-Étienne, France) 
+
+
+        * Titre de la présentation : "Community detection validation using networks generation" 
+    * 
+14h30 - 15h30 : 2ème Session scientifique 
+
+
+        * Parisa Rastin and Rushed Kanawati. Ensemble selection for community detection 
+        * Lise-Marie Veillon, Gauvain Bourgne and Henry Soldano. Apprentissage collaboratif de proximité 
+        * Kuang Zhou, Arnaud Martin and Quan Pan. Evidential community detection using structural and attribute information 
+    * 
+15h30 - 16h00 : Pause café 
+    * 16h00 - 17h00 : Conférence invitée de Jean-Guillaume Fages (COSLING) - Prix de thèse IA 2015, session plénière 
+    * 17h00 : Clôture de la journée 
+
+
+Inscriptions 
+
+
+
+Les inscriptions se font sur le site de la Plate-Forme Intelligence Artificielle PFIA 2015 : http://pfia2015.inria.fr/formulaire-d-inscription 
+
+Comité de Programme 
+
+
+    * Frédéric Amblard (IRIT, Université Toulouse 1 Capitole) 
+    * Hanene Azzag (LIPN, Université Paris 13) 
+    * Tassadit Bouadi (IRISA, Université Rennes 1) 
+    * Mohand Boughanem (IRIT, Université Paul Sabatier) 
+    * Guillaume Cleuziou (LIFO, Université d'Orléans) 
+    * Cécile Favre (ERIC, Université Lyon 2) 
+    * Chihab Hanachi (IRIT, Université Toulouse 1 Capitole) 
+    * Vincent Labatut (LIA, Université d'Avignon et des Pays du Vaucluse) 
+    * Christine Largeron (LHC, Université Jean Monnet) 
+    * Matthieu Latapy (LIP6-CNRS, Université Pierre et Marie Curie) 
+    * Vincent Leroy (LIG, Université de Grenoble) 
+    * Maria Malek, (LARIS, EISTI - Campus de Cergy) 
+    * Arnaud Martin (IRISA, Université de Rennes 1) 
+    * Rokia Missaoui (LARIM, Université du Québec en Outaouais) 
+    * Jacky Montmain (LGI2P, École des Mines d'Alès) 
+    * Filipo Perotto (IRIT, Université Toulouse 1 Capitole) 
+    * Chantal Reynaud (LRI, Université Paris-Sud) 
+    * Camille Roth (CNRS) 
+    * Kavé Salamatian (LISTIC, Université de Savoie Mont Blanc) 
+    * Henry Soldano (LIPN, Université Paris-Nord) 
+    * Julien Subercaze (LHC, Université Jean Monnet) 
+    * Tanguy Urvoy (Orange labs) 
+    * Julien Velcin (ERIC, Université Lyon 2) 
+Responsables de l'atelier 
+
+
+    * Tassadit Bouadi (IRISA, Université Rennes 1) 
+    * Arnaud Martin (IRISA, Université Rennes 1) 
+
+
+
+-- 
+Tassadit BOUADI 
+Maître de Conférences 
+IRISA / Université de Rennes 1 (IUT Lannion) 
+tbouadi@irisa.fr 
+
+

@@ -1,0 +1,104 @@
+
+Bonjour,
+
+Merci de bien vouloir diffuser cette offre de thèse CIFRE.
+
+Bien cordialement,
+
+
+  Modèles prédictifs pour la prévision d'incidents dans les
+  infrastructures Cloud
+
+Lieu de travail : Lyon - France
+Spécialité : Informatique
+
+EASYTEAM (http://www.easyteam.fr/) est une société d'édition de 
+logiciels et de services en informatique. Elle est le leader français en 
+technologie ORACLE. L'entreprise propose une offre globale de fourniture 
+de solutions, développement, intégration et infogérance en solutions 
+ORACLE (Full ORACLE Services). EASYTEAM est un partenaire privilégié 
+ORACLE et est un « centre de formation ORACLE University ».
+
+En plus d'une activité d'édition de logiciels, elle propose 
+principalement cinq offres de services : l'assistance AMOA, l'expertise 
+et conseil, la formation, l'ingénierie de projets, l'infogérance, et la 
+distribution autour de deux axes technologiques : l'Urbanisation des 
+systèmes informations, et les Infrastructures applicatives et 
+infrastructures de données.
+
+EASYTEAM est structurée en 5 pôles répartis sur ses 5 agences françaises 
+(Paris, Nantes, Lille, Lyon et Toulouse) :
+. 2 pôles Technologies : Infrastructures/Sécurité/Identité (ISI), 
+Urbanisation/Décisionnel/Portails (UDP)
+. 2 pôles Services : Formation et Infogérance
+. 1 pôle d'édition de logiciels auquel sont rattachées les activités de R&D
+
+Le LIRIS, regroupant 320 membres, est une unité mixte de recherche (UMR 
+5205) dont les tutelles sont le CNRS, l'INSA de Lyon, l'Université 
+Claude Bernard Lyon 1, l'Université Lumière Lyon 2 et l'Ecole Centrale 
+de Lyon. Le champ scientifique de l'unité est l'Informatique et plus 
+généralement les Sciences et Technologies de l'Information.
+
+
+    Description du sujet de thèse
+
+Cette thèse vise à mettre au point les outils nécessaires à la 
+prédiction d'incidents dans une infrastructure supervisée (e.g. prédire 
+la saturation des systèmes de stockage [4]). Le jeu de données est 
+constitué de l'ensemble des indicateurs remontés actuellement par la 
+plateforme de supervision EASYTRUST (charge, occupation mémoire, courbes 
+d'usages, etc.). L'objectif visé est la recherche d'un modèle explicatif 
+et prédictif capable de rendre compte des interactions statistiques 
+entre l'ensemble des variables disponibles et des événements que l'on 
+souhaite prédire (surcharge d'un serveur, augmentation de la latence, 
+saturation mémoire, etc.). Pour cela, il faudra trouver des corrélations 
+significatives entre les descripteurs (numériques, symboliques, streams) 
+et les incidents.
+
+Dans un second temps, cette thèse consistera à implémenter et à déployer 
+un module de prévision opérationnel dans la plateforme EASYTRUST, qui 
+pourra ainsi exploiter les résultats pour remonter des alertes ou 
+fournir des recommandations d'évolutions des infrastructures pour 
+minimiser les incidents, tout en prenant en compte les problématiques de 
+licences.
+
+Parmi les méthodes envisagées, nous souhaitons confronter des techniques 
+de fouille de données avec des techniques d'apprentissage automatique 
+pour évaluer leur pertinence respective.
+
+
+    Profil des candidats :
+
+Le thésard devra posséder d'excellentes capacités d'analyse et 
+d'abstraction mathématique pour pouvoir comprendre et améliorer les 
+modèles prédictifs existants. De plus le thésard devra être aussi 
+fortement intéressé par le monde de l'entreprise et les problématiques 
+associées au déploiement et à la maintenance d'un système complexe tel 
+qu'EASYTRUST. Il (ou elle) devra être capable d'évoluer dans un 
+environnement technique Oracle (Java, Base de données, etc.). Enfin, un 
+esprit autonome, rigoureux, et à l'écoute des problématiques techniques 
+et humaines de l'entreprise est indispensable.
+
+Les langues utilisées pendant la thèse seront le français et l'anglais.
+
+
+
+-- 
+
+Pr. Alexandre AUSSEM
+
+LIRIS UMR 5205 CNRS,
+Data Mining & Machine Learning (DM2L) Team,
+Université Claude Bernard Lyon 1,
+Bâtiment Nautibus, 43 boulevard du 11 novembre 1918,
+69622 Villeurbanne cedex, France.
+
+Phone: +33 (0)4 26 23 44 66
+http://perso.univ-lyon1.fr/alexandre.aussem/
+
+
+
+---
+Ce courrier électronique ne contient aucun virus ou logiciel malveillant parce que la protection avast! Antivirus est active.
+http://www.avast.com
+

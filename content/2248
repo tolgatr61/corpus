@@ -1,0 +1,49 @@
+===========
+Sujet : 
+Conception et développement d’un démonstrateur pour la cartographie spatiale des flux de déplacements des citoyens sur le territoire de la Métropole Européenne de Lille.
+
+Contexte : 
+Le stage entre dans le cadre du projet Livre&Lecture mené entre le laboratoire GERiiCO et la Métropole Européenne de Lille, sur la période 2016 - 2018, qui vise à étudier les pratiques des citoyens dans et à l’extérieur du réseau des bibliothèques de la Métropole Européenne de Lille. Plus particulièrement, le projet propose d'étudier la place des bibliothèques sur le territoire de la MEL en analysant les pratiques dans le temps et dans l’espace des citoyens (usagers et non usagers) autour des bibliothèques, ainsi que son insertion dans la vie sociale. Cela passe par une récolte des flux de déplacements des citoyens dans le temps et dans l’espace, puis par une cartographie des flux de déplacements pour mettre en avant des habitudes, particularités, lieux d’intérêts autour et pour les bibliothèques, etc. Nous nous appuierons notamment sur les résultats des travaux du projet Senterritoire (Kergosien et al., 2015) pour la représentation des données dans le temps et dans l’espace.
+
+Objectifs du stage : 
+L'objectif de ce stage consiste tout d’abord à intégrer dans un système d’information géographique plusieurs couches spatiales proposées par le service SIG de la Métropole Européenne de Lille (bibliothèques, lieux culturels, lieux institutionnels, réseau de transports, etc.). Un démonstrateur Web s’appuyant sur le système d’information géographique doit ensuite permettre de visualiser une ou plusieurs des couches spatiales traitées. 
+Un second travail consistera à identifier des corrélation entre les bibliothèques et les autres lieux présents dans les différentes couches spatiales traitées. L’objectif ici sera d’identifier des récurrences et des particularités qui pourraient aider à expliquer les pratiques des citoyens. 
+
+
+Plus spécifiquement, il s'agit des objectifs suivants:
+- travailler avec le service SIG de la MEL pour identifier les couches spatiales pertinentes,
+- intégrer les couches spatiales dans un SIG (QGIS est préconisé),
+- intégrer des couches spatiales externes (OpenStreeMaps, etc.),
+- Mettre en place un démonstrateur Web permettant d’interroger les différentes couches spatiales (Infrastructure préconisée du monde du libre, notamment GEOServer, Open Layers…). Une solution WebSig est également envisagée. Les choix techniques seront à discuter collégialement,
+- Mener des analyses quantitatives sur les données spatiales traitées pour identifier des récurrences (par exemple écoles souvent proches des bibliothèques, etc.),
+- Intégrer des couches spatiales correspondantes aux résultats des enquêtes menées dans le cadre du projet pour connaître les pratiques en termes de déplacements des citoyens,
+- Mener des analyses qualitatives s’appuyant sur les couches spatiales de la MEL et les pratiques des citoyens.
+- Présenter les avancées du stage et résultats à l’équipe complète du projet faisant collaborer les chercheurs de GERiiCO et les membres de la MEL.
+
+ Compétences et qualités requises : 
+- Très bonne maitrise des SIG et bases de données géographiques, et expérience dans le domaine des Websig,
+- Connaissances en aménagement du territoire,
+- Une expérience en conception et mise en place d’une application Web s’appuyant sur les solutions logicielles du libre (QGIS, GeoServer, Open Layers, ets.) serait un vrai plus,
+- Rigueur nécessaire à la mise en oeuvre d’un SIG 
+- Aptitude à travailler en équipe et en autonomie 
+- lecture et analyse de la littérature scientifique et technique.
+
+Candidature / Modalités du stage et du recrutement : 
+Niveau: Master 2
+Financeur : Métropole Européenne de Lille
+Rémunération : Le stage est rémunéré à hauteur de 554 euros nets par mois.
+Durée : 6 mois
+Début du stage : à discuter
+Lieu : Laboratoire GERiiCO, Université Lille 3 à Villeneuve d’Ascq et Métropole Européenne de Lille à Lille.
+Selon les résultats du stage, une poursuite en tant qu’ingénieur d’études pourrait être envisagée.
+
+Pour présenter une candidature: envoyer un CV, la lettre de motivation, le relevé de notes et les contacts de deux référents à
+eric.kergosien@univ-lille3.fr <mailto:eric.kergosien@univ-lille3.fr>
+
+===========
+
+—
+Eric Kergosien
+GERiiCO
+Université Lille 3,
+http://ekergosien.net <http://ekergosien.net/>-----------------------------------------------------------------------

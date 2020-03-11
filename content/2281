@@ -1,0 +1,101 @@
+
+Offre de stage de niveau Master 2
+
+Fouille de bases bibliographiques pour extraire les interactions entre
+l'alimentation et les médicaments
+
+Grâce aux avancées de la recherche, l'activité des professionnels et
+la participation de la communauté, les informations et les
+connaissances concernant une question donnée sont actuellement
+distribuées entre différentes sources, comme par exemple les bases
+bibliographiques, les bases de connaissances ouvertes, les réseaux
+sociaux, etc. Il se pose alors la question de l'accès efficace et
+rapide à ces informations et connaissances et à leur croisement [1].
+
+Le contexte du travail s'inscrit dans le domaine médical. L'intérêt
+central concerne l'extraction des informations sur les interactions
+entre l'alimentation et les médicaments. Les aliments peuvent en effet
+avoir des interactions avec les médicaments et cela peut mener à des
+conséquences malheureuses pour le patient. Ces interactions sont très
+peu étudiées. DrugBank [2], qui est la base de connaissances la plus
+complète sur cette question, propose des informations textuelles sur
+les interactions pour moins de 10 % de médicaments. De plus, ces
+informations concernent essentiellement le moment de prise des
+médicaments (par exemple, pendant le repas).
+
+De manière générale, il peut exister trois types d'interactions: (1)
+diminution ou suppression de l'action du médicament sous l'effet d'un
+aliment ; (2) augmentation de l'effet du médicament ; (3) apparition
+de nouveaux effets indésirables du médicament.
+
+Le pomelo, qui est un exemple bien connu, a des interactions avec
+plusieurs médicaments à cause de son principe actif qui inhibe les
+enzymes des médicaments, ce qui peut causer le surdosage de ces
+médicaments [3,4]. D'autres aliments peuvent avoir des interactions,
+comme par exemple l'alcool, les cranberries, les tomates, le thé vert,
+les épinards ou le curcuma.
+
+Ce stage s'inscrit dans le projet ANR MIAM (Maladies, Interactions
+Alimentation-Médicaments). Pour la réalisation du stage, des méthodes
+de Traitement Automatique de la Langue et de fouille de textes seront
+utilisées.
+
+Plus spécifiquement, il s'agit des objectifs suivants:
+- travailler avec des corpus de textes de différents types et
+  provenant de différentes sources
+- exploiter et améliorer les annotations des textes avec différents
+  niveaux de spécificité
+- exploiter, adapter ou développer des méthodes pour l'extraction
+  d'informations
+- faire le lien avec les bases de données et de connaissances
+  existantes
+- évaluer les méthodes et les résultats
+
+Le stagiaire sera amené à utiliser des outils TAL existants et à
+développer ses propres programmes pour mieux analyser les données.
+
+Prérequis:
+- connaissances en TAL et en informatique
+- manipulation et test des outils de TAL
+- habitude de Linux
+- capacité de travailler en équipe et individuellement
+- lecture et analyse de la littérature scientifique
+- maîtrise de l'anglais
+- autonomie
+
+Le stage est rémunéré selon les règles en vigueur.
+
+Selon les résultats du stage, une poursuite en thèse pourra être
+envisagée.
+
+Niveau: Master 2
+Durée: 6 mois
+Lieu: Orsay
+Début du stage : Mars ou avril 2017
+
+Pour présenter une candidature: envoyer un CV, la lettre de
+motivation, le relevé de notes et les contacts de deux référents à
+thierry.hamon@limsi.fr et natalia.grabar@univ-lille3.fr
+
+
+REFERENCES
+
+1. J. Kozák, M. Necaský, J. Dedek, J. Klímek, and J. Pokorný. Linked
+open data for healthcare professionals. In Proceedings of
+International Conference on Information Integration and Web-based
+Applications & Services, IIWAS’13, pages 400:400-400:409, New York,
+NY, USA, 2013. ACM.
+2. http://www.drugbank.ca/
+3. Duke Med Health News. Grapefruit: enemy of many medications. in
+some patients, the interaction of fruit and drug may put their life
+and health at risk. Duke Med Health News, 19(2):1-2, 2013.
+4. D. Greenblatt and H. Derendorf. Grapefruit-medication
+interactions. CMAJ, 185(6):507, 2013.
+
+
+-- 
+Thierry Hamon                                     E-mail : hamon@limsi.fr
+LIMSI-CNRS                                         Tel: +33 1 69 85 80 39
+Institut Galilée - Université Paris 13             Tel: +33 1 49 40 35 53
+URL: http://perso.limsi.fr/hamon/
+

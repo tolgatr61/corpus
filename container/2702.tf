@@ -1,0 +1,15 @@
+à 
+appel 
+bien 
+bonjour 
+cet 
+communications 
+cordialement 
+de 
+diffuser 
+mail 
+merci 
+nacer 
+original 
+re 
+vouloir 

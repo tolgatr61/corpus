@@ -1,0 +1,35 @@
+Bonjour à toutes et à tous,
+
+Désolé pour les réceptions multiples !
+
+Vous êtes invités au tutoriel  "Exploration et analyse visuelle de traces numériques : Capitalisation et réutilisation des connaissances d'analyse"
+Ce tutoriel se tiendra le lundi 29 juin 2015 à la conférence IC 2015 (http://pfia2015.inria.fr/conference-ic).
+
+Avez vous déjà été confrontés à :
+    
+la nécessité d'exploiter des traces de bas niveaux pour en extraire du sens, c'est-à-dire une connaissance de plus haut niveau ?
+de comprendre comment une connaissance se construit, d'en saisir ses origines ?
+de créer/réutiliser des connaissances d'analyse et/ou de réutiliser celles de personnes plus expertes ?
+d'explorer visuellement des traces transformées ?
+
+Oui ? Ce tutoriel devrait vous intéresser !
+
+L'objectif de ce tutoriel est de familiariser/initier les participants à :
+L'exploration et l'analyse visuelle de traces numériques sur plusieurs niveaux d'abstraction
+La capitalisation, la réutilisation et le partage de connaissances d'analyse et d'exploration de trace
+Ces principaux enjeux seront abordés au travers de l'utilisation d'une application dédiée : D3KODE (http://liris.cnrs.fr/d3kode/) et d'un cas concret.
+Les participants pourront apporter leurs propres traces (prendre contact pour les formats acceptés) afin de voir ensemble comment les utiliser avec D3KODE.
+D3KODE est une application Web de type client léger permettant de stocker, de transformer et de visualiser plusieurs niveaux de traces numériques sur la base du concept de « trace modélisée ».
+
+A l'issue du tutoriel, les participants auront été formés au concept de « trace modélisée » et à l'utilisation du prototype D3KODE. Ils pourront l'employer dans leurs activités de recherche.
+
+Pour plus d'informations : http://pfia2015.inria.fr/conference-ic/ateliers/tutoriel-d3kode
+
+Contact et inscription : les inscriptions se font par mail ainsi que toutes demandes d'informations supplémentaires : olivier.champalle@gmail.com
+
+Actuellement deux sessions sont prévues le lundi matin et après midi en fonction du nombre de participants.
+
+Au plaisir de se voir
+
+Olivier CHAMPALLE
+www.olivier-champalle.fr

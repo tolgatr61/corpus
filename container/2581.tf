@@ -1,0 +1,12 @@
+à 
+amicalement 
+appel 
+bonjour 
+ci 
+communications 
+de 
+diffuser 
+joint 
+l 
+merci 
+nacer 

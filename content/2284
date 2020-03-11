@@ -1,0 +1,75 @@
+Stage Master 2 au L3i
+
+Modèle décisionnel basé sur un entrepôt de données au sein d’un système d’information stratégique
+
+ 
+
+Contexte du stage :
+
+Actuellement, les technologies décisionnelles permettent aux structures d’organiser leurs masses de données et d’en tirer le meilleur parti. Dans ce stage, l’objectif est de construire un modèle décisionnel basé sur un entrepôt de données au sein d’un système d’information stratégique. Ce modèle décisionnel porte sur les données du système de gestion de la scolarité.             
+
+Objectif :
+
+Le système de gestion de la scolarité est une partie importante du système d’information d’un établissement d’enseignement, en particulier dans le supérieur. Les processus métiers du système de gestion de la scolarité sont souvent une affaire de spécialistes dû à : 
+•	la complexité des données : elles sont thématiques, historisées et non volatiles ; 
+•	la diversité des sources de données : Application Post-Bac (APB), Campus France, bases de données locales, Open-Data, etc. ;
+•	des processus métiers avec des règles précises : notamment celles liées à des textes réglementaires ; 
+•	des processus métiers avec des règles utilisateurs : liées à des usages et des procédures internes définies au sein de la structure. 
+
+Les responsables de ces structures sont souvent amenés à extraire des indicateurs complexes portant sur différentes phases de la scolarité (candidature, inscription, validation de semestres, etc.). En général, ces indicateurs sont formellement bien définis. On les retrouve dans divers tableaux de bords, ou des rapports d’activités pour un usage interne à la structure, pour l’université, pour des regroupements régionaux ou lors de dossiers demandés par le Ministère de tutelle. Toutefois, les responsables des structures sont aussi conscients de la capacité expressive des données et souhaitent tirer plus d’informations pertinentes en particulier celles qui sont liées au territoire. 
+
+Le schéma opérationnel de réalisation du travail demandé se résume comme suit :
+•	Concevoir un business model de la reprise de données des applications de scolarité : il s’agit d’automatiser l’ensemble des processus constituant la reprise de données pour  l’alimentation de l’entrepôt. 
+•	Concevoir un modèle de vérification, de consolidation et d’intégration des données : modèle basé sur des procédures dites « data checking tests ». 
+•	Concevoir le modèle décisionnel : il s’agit en fait d’une instanciation du modèle décisionnel défini dans le système décisionnel actuel. 
+•	Implanter les indicateurs métiers : cette phase nécessite une connaissance approfondie du méta-modèle utilisé par le modèle décisionnel. On s’intéresse en particulier aux problèmes des mesures semi-additives, et particulier les mesures dites KPI (key performance indicators).  
+
+Prérequis :
+
+	Ce sujet d’adresse aux étudiants en Master 2 Informatique, ou élève de dernière année d'une école d'ingénieur en informatique. Vous êtes rigoureux dans votre travail mais aussi créatif avec une forte envie d'apprendre et de vous investir dans un projet décisionnel de taille réelle au sein d’un environnement professionnel regroupant divers acteurs.
+
+	Les technologies utilisées dans le cadre de la mise en œuvre sont : 
+
+	•	Programmation : Java – JEE (ejb, seam, jsf, xml, ajax, webservices, etc.) 
+
+	•	Modélisation dimensionnelle : Mondrian •	Données multidimensionnelles : MDX, XQuery 
+
+ 	•	Solution d’informatique décisionnelle : Pentaho CE (Kettle, BI Server, Report Designer, Shema Workbench …) 
+
+	•	Base de données : PostgreSQL (avec la cartouche spatiale) 
+
+	•	Gestion et automatisation du projet : Maven, Redmine 
+
+Informations complémentaires :
+
+	Encadrant(s) : Jamal Malki*, Olivier Sauzet** et Patrice Joubert** 
+
+	Cadre de coopération : L3i (*) – IUT La Rochelle (**) 
+
+	Date de début du stage : à partir du début de l’année 2016 
+
+	Durée du contrat : 5 mois (minimum) 
+
+	Stage rémunéré
+
+Candidature :
+
+Merci d’adresser votre dossier de candidature à : jamal.malki@univ-lr.fr <mailto:jamal.malki@univ-lr.fr>
+Le dossier de candidature doit contenir : 
+
+•	le CV
+
+•	les relevés de notes des 2 dernières années (M1 et M2)
+
+•	la lettre de motivation
+
+•	tout autres documents pouvant appuyer la candidature 
+
+
+Jamal MALKI
+Laboratoire L3i, Université de La Rochelle
+Département Informatique
+IUT La Rochelle 
+jmalki@univ-lr.fr <mailto:mickael.brasebin@ign.fr>
+
+

@@ -1,0 +1,12 @@
+à 
+appel 
+bonjour 
+ci 
+cordialement 
+de 
+diffuser 
+joint 
+l 
+merci 
+nacer 
+papiers 

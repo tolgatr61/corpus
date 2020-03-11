@@ -1,0 +1,101 @@
+*Approches Formelles dans l'Assistance au Développement de Logiciels*
+*AFADL 2014 *
+
+*11-12 juin 2014, Paris
+*http://afadl2014.lacl.fr/
+
+Dates importantes :
+
+  * Soumission de résumé : *7/02/2014*
+  * Soumission article complet : *14/02/2014*
+  * Notification aux auteurs : *14/04/2014*
+  * Soumission version finale : *28/04/2014*
+
+*Appel à contributions*
+
+L'atelier AFADL rassemble de nombreux acteurs académiques et industriels 
+intéressés par la mise en oeuvre des techniques formelles aux divers 
+stades du développement des logiciels et/ou des systèmes. Il a pour 
+objectif de mettre en valeur les travaux récents effectués autour de 
+thèmes comme :
+
+  * les techniques et outils formels contribuant à assurer un bon niveau
+    de confiance dans la construction de logiciels et de systèmes,
+  * les méthodes et processus permettant d'exploiter efficacement les
+    techniques et outils formels disponibles ou conçus,
+  * les méthodes et processus mettant en oeuvre des techniques formelles
+    différentes et hétérogènes dans un développement,
+  * les leçons tirées de la mise en oeuvre de ces outils ou principes
+    sur des études de cas ou des applications industrielles.
+
+Les techniques et outils présentés assistent notamment les activités 
+suivantes :
+
+  * la modélisation, la validation et la gestion d'exigences formelles
+    applicables aux logiciels,
+  * les spécialisations ou extensions de techniques de modélisation et
+    d'évaluation induites par des domaines applicatifs
+    (télécommunication, contrôle-commande, robotiques, systèmes
+    interactifs, architectures, composition de services, applications
+    distribuées sur le web, ..) ou des points de vue particuliers sur
+    les systèmes (sécurité informatique, exécution temps réel, ...),
+  * le passage d'une étape de conception à la suivante: patrons de
+    raffinement de spécifications, déploiement d'une architecture
+    logicielle sur une architecture matérielle, génération automatique
+    de code, réutilisation de composants, ...
+  * le test et l'évaluation rigoureuse de modèles formels ou codes,
+  * la spécification et la vérification formelles d'architectures.
+    *Cette année, AFADL et CAL (Conférence francophone sur les
+    Architectures Logicielles) envisagent d'organiser une session
+    commune sur ce thème*.
+
+On s'intéressera aussi à la combinaison d'approches formelles avec des 
+approches informelles ou semi-formelles, à la coopération de techniques 
+formelles de développement avec des techniques plus classiques (par 
+exemple à la complémentarité vérification formelle / test pour les 
+aspects V&V).
+
+
+*
+
+Cinq types de contributions sont attendus :
+
+*
+
+ 1. *Articles longs présentant des travaux de recherche. *Les auteurs
+    sont invités à soumettre un article d'au plus 15 pages. L'article
+    sera publié dans les actes de la conférence.
+ 2. *Articles courts. *Les auteurs sont invités à soumettre un article
+    d'au plus 6 pages. Un article court peut correspondre à la
+    présentation d'un point de vue ou d'une approche émergente, de
+    travaux de doctorants en cours, d'expériences industrielles.
+    L'article sera publié dans les actes de la conférence.
+ 3. *Démonstration d'outils. *Les auteurs sont invités à soumettre un
+    article d'au plus 4 pages précisant les noms des auteurs, le nom de
+    l'outil, les services offerts par l'outil et éventuellement des
+    pointeurs vers des sources d'informations complémentaires (principes
+    techniques sous-jacents, mode d'emploi, compte-rendu d'application,
+    ...). L'article sera publié dans les actes de la conférence.
+ 4. Présentations de projets. Les auteurs sont invités à soumettre un
+    résumé d'au plus 2 pages décrivant au moins les noms des
+    partenaires, l'agence de financement, les objectifs et les dates du
+    projet. Le résumé sera inclus dans les actes de la conférence, s'il
+    est accepté.
+ 5. Présentations de recherches publiées récemment. Pour éviter que les
+    meilleurs travaux de la communauté francophone ne soient uniquement
+    présentés dans les conférences internationales, le comité de
+    programme invite tout membre de la communauté ayant un article en
+    cours de soumission ou récemment accepté (depuis l'édition
+    précédente) à une conférence internationale à le soumettre également
+    à AFADL pour présentation. S'il est accepté, un résumé d'une page en
+    français de l'article sera inclus dans les actes de la conférence.
+    La conférence internationale devra être indiquée lors de la
+    soumission ainsi que le statut du papier (soumis ou accepté).
+
+Les modalités de soumission sont détaillées sur le site d'AFADL 2014 : 
+http://afadl2014.lacl.fr/
+
+Catherine Dubois (CEDRIC), Régine Laleau (LACL)
+Présidentes du comité de programme
+
+

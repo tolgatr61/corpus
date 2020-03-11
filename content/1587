@@ -1,0 +1,65 @@
+Toutes nos excuses pour les réception multiples.
+-------------------------------------------------------------------------
+Bonjour
+
+Pourriez-vous diffuser cette offre de stage auprès de vos étudiants de M2R ?
+
+En vous remerciant par avance.
+
+Cordialement
+
+Jamal Atif
+
+===============================================================================================================================
+Sujet : Interprétation d'images cérébrales : apport des approches structurelles et logiques
+
+Lieu :  Equipe TAO, Laboratoire de Recherche en Informatique, Université Paris Sud 11, Bat 490, Orsay.
+
+Direction :
+ - Jamal Atif, Maîtres de Conférences, Université Paris Sud 11. Email : jamal.atif@lri.fr
+ - Isabelle Bloch, Professeur,  Equipe TII, Télécom-ParisTech. Email :  isabelle.bloch@telecom-paristech.fr 
+
+Collaboration :
+-  Céline Hudelot, Professeur,  Maîtres de Conférences, Laboratoire MAS, Ecole Centrale Paris. Email :  celine.hudelot@ecp.fr
+
+Contexte : 
+
+Ce travail de stage s'inscrit dans le cadre d'un projet ANR (LOGIMA) dont le but est de développer des outils logiques pour le raisonnement spatial et l'interprétation d'images. 
+
+L'interprétation d'images peut se définir comme le processus d'inférence d'une connaissance de haut niveau à partir de pixels de l'image et sa traduction dans un vocabulaire adapté, celui du domaine d'application.  En particulier, l'interprétation d'image s'attache à la "compréhension du contexte de l'image" en analysant l'agencement structurel des objets présents dans une image. 
+
+A titre d'illustration, considérons l'exemple suivant : supposons que l'on dispose d'une base de connaissances sur le cerveau et sur ses pathologies, d'une première extraction des noyaux gris internes (noyaux caudés, putamen, thalamus) d'une image à interpréter ainsi que d'une mesure quantitative des relations spatiales entre ces noyaux internes. Le processus d'interprétation consiste dans ce cas à confronter les relations spatiales mesurées entre les structures extraites dans l'image et les relations spatiales encodées dans la base de connaissances. Dans le cas où ces relations spatiales ne concordent pas, le processus devra inférer la présence d'une pathologie et en considérant la base de connaissances sur les pathologies,  donnera des indications sur la pathologie en question.
+
+Les briques de base du processus d'interprétation tel que décrit plus haut sont : la base de connaissances, la représentation des relations spatiales, la segmentation des structures internes et le processus d'inférence. L'équipe d'accueil dispose d'outils pour ces différentes briques [1,2,3,4,5] qui constitueront les fondements du travail de stage. 
+
+Problématique : 
+
+Le travail de stage s'intéressera en particulier au processus d'inférence dans le cas où les bases de connaissances sont encodées sous forme d'ontologies. L'interprétation d'image guidée par ontologies sera  formalisée comme une tâche de raisonnement  abductif dans une logique de description [1,7] :  les structures extraites de l'image et leurs relations spatiales représentent l'observation ; la tâche d'interprétation revient donc à calculer la “meilleure explication” à la manifestation de ces observations  en prenant en compte la connaissance experte. Dans un premier temps, l'étudiant aura à implémenter des méthodes de la littérature [1,7] proposant  des algorithmes d'abduction dans les logiques de description et étudier leurs performances dans le cadre de l'interprétation d'images cérébrales. Il s'attachera, ensuite, à proposer des extensions de ces méthodes dans le cas de logiques de description plus expressives permettant d'encoder des relations spatiales complexes, chose qu'elle ne permettent pas actuellement.
+
+
+
+Profil : 
+Master Recherche ou fin de cycle Ecole d'ingénieur, spécialité Intelligence Artificielle et/ou Traitement d'images. De bonnes connaissances en langage de programmation Java et/ou C++ sont requises.   Bon niveau en anglais.
+  	
+Indemnités : 
+436,05 € mois. Ce stage dure 6 mois à compter du mois de février 2012.
+
+Modalités de Candidature :
+Envoyez par mail  votre CV accompagné d'une lettre de motivation.
+ 
+Débouchées : 
+Ce stage s'inscrit dans le cadre d'un projet de recherche accepté pour financement par l'Agence Nationale de la Recherche. Ce projet a débuté en septembre 2012, prévoit le recrutement d'un doctorant, dont le sujet de thèse est lié à celui du présent stage.
+
+
+Références
+[1] J. Atif, C. Hudelot, and I. Bloch. (2011). Abduction in des-cription logics using formal concept analysis and mathematical morphology : application to image interpretation. In Concept Lattices and Applications (CLA2011), Nancy, Paris.
+
+[2] H. Khotanlou, O. Colliot, J. Atif, and I. Bloch. 3D Brain Tumor Segmentation in MRI Using Fuzzy Classification, Symmetry Analysis and Spatially Constrained Deformable Models. Fuzzy Sets and Systems, (160):1457-1473, 2009.
+
+[3] C. Hudelot, J. Atif, and I. Bloch. Fuzzy Spatial Relation Ontology for Image Interpretation. Fuzzy Sets and Systems, 159:1929-1951, 2008. 
+
+[4] J. Atif, C. Hudelot, G. Fouquier, I. Bloch, and E. Angelini. From Generic Knowledge to Specific Reasoning for Medical Image Interpretation using Graph-based Representations. In International Joint Conference on Artificial Intelligence IJCAI'07, Hyderabad, India, pages 224-229, January 2007.
+
+[5] I. Bloch: Fuzzy spatial relationships for image processing and interpretation: a review. Image Vision Comput. 23(2): 89-110 (2005)
+
+[7] S. Colucci, T. Di Noia, E. Di Sciascio, F. M. Donini, M. Mongiello: A Uniform Tableaux-Based Approach to Concept Abduction and Contraction in ALN. Description Logics 2004

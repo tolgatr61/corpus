@@ -1,0 +1,71 @@
+Bonjour à tous,
+
+Le 1er décembre à 14h à Paris (Odéon) aura la soutenance d'une thèse
+d'informatique médicale ayant pour sujet :
+Méthodes structurelles et sémantiques pour la mise en correspondance de cas
+textuels de dysmorphies fœtales
+
+Cette thèse est défendue par Yves Parès et encadrée par Marie-Christine
+Jaulent et Xavier Aimé, devant un jury composé de :
+
+Isabelle Bichindaritz
+
+Professeur associé, CS Department, State Univ. of New York Oswego
+
+Chantal Reynaud
+
+Professeur Univ. Paris 11, LRI (UMR CNRS 8623)
+
+Pierre Zweigenbaum
+
+DR CNRS, LIMSI (UPR CNRS 3251)
+
+Jean-Marie Jouannic
+
+PU-PH, Hôpital Trousseau (APHP) & Univ. Paris 6
+
+Xavier Aimé
+
+Chercheur INSERM, LIMICS (UMRS 1142)
+
+Marie-Christine Jaulent
+
+DR INSERM, LIMICS (UMRS 1142)
+
+L'adresse est :
+Laboratoire d'Ingénierie de Connaissances en Santé
+Centre de Recherche des Cordeliers
+Escalier D, 2e étage,
+15 rue de l'école de médecine
+75006 Paris
+
+Résumé de la thèse :
+
+Cette thèse se place dans le contexte d'Accordys, un projet d'ingénierie
+des connaissances qui vise à fournir
+un système de rapprochement de cas en fœtopathologie, qui est le domaine de
+l'étude des maladies rares et
+dysmorphies du fœtus. Ce projet se base sur un corpus de comptes rendus
+d'examens fœtaux.
+Notre matériel consiste en des comptes rendus en texte brut présentant un
+vocabulaire très spécifique
+(qui n'est que partiellement formalisé dans des terminologies médicales en
+français), des économies linguistiques
+(un style "prise de notes" très prononcé rendant difficile l'utilisation
+d'outils analysant la grammaire du texte) et une mise
+en forme matérielle exhibant une structuration commune latente (un
+découpage en sections, sous-sections, observations).
+Cette thèse vise à tester l'hypothèse qu'une uniformisation de la
+représentation des cas exploitant cette structure arborescente
+en la faisant correspondre à un modèle de cas (lui aussi arborescent) peut
+supporter la constitution d'une base de cas
+qui conserve les informations contenues dans les comptes rendus originaux
+et permette la mesure de similarité
+entre deux cas. La mise en correspondance entre cas et modèle
+(instanciation du modèle) est réalisée via un mapping
+d'arbres ayant pour base une méthode de Monte Carlo. Nous comparerons ceci
+avec des mesures de similarités obtenues
+en représentant nos comptes rendus (soit tels quels, soit enrichis
+sémantiquement grâce à un annotateur sémantique)
+dans un modèle vectoriel.
+

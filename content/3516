@@ -1,0 +1,150 @@
+	     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              SERIES OF WEBINARS ON REPRODUCIBLE RESEARCH
+
+               Episode XI:  The Popper Convention:
+             An Approach to Practical Falsifiable Research
+	     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
+		     (English version in Section 2)
+
+
+1 Version Française
+═══════════════════
+
+  Pour améliorer concrètement notre pratique en terme de
+  reproductibilité de la rechercher, nous organisons avec des collègues
+  une série de webinars ayant pour objectif de partager un savoir-faire
+  ou des idées sur ces différentes thématiques. Ces webinars s'adressent
+  à tous (doctorants, post-doctorants, ingénieurs, chercheurs, …) et
+  sont en anglais. Nous avons déjà eu plusieurs séminaires sur le thème,
+  couvrant des sujets aussi variés que la gestion d'un cahier de
+  laboratoire et d'articles réplicables, le contrôle de son
+  environnement, la reproductibilité numérique, le traçage et la
+  sauvegarde de son activité, l'archivage du logiciel et des données,
+  l'utilisation de workflows en bioinformatique, ou l'évaluation
+  d'artéfacts. L'ensemble des documents et des vidéos est évidemment en
+  en ligne à partir de l'adresse suivante:
+
+  [https://github.com/alegrand/RR_webinars/README.org]
+
+  Le prochain webinar portera sur "Le protocole Popper: une approche
+  pratique permettant une recherche réfutable" et sera donné par Ivo
+  Gimenez (UC Santa Cruz).
+
+  Au cours de la dernière décennie, les communautés d'ingénierie
+  logicielle et d'administration des systèmes ont développé des
+  techniques et des stratégies sophistiquées pour assurer la
+  «reproductibilité du logiciel», c'est-à-dire la reproductibilité des
+  artefacts logiciels et leur comportement à l'aide du contrôle de
+  version, de la gestion des dépendances, de la virtualisation, de
+  l'automatisation de l'infrastructure et de la documentation. Dans cet
+  exposé, Ivo Gimenez présentera un aperçu du protocole
+  d'expérimentation Popper ([http://falsifiable.us]) développé au
+  Laboratoire de recherche des systèmes à UC Santa Cruz en collaboration
+  avec Sandia National Labs, LLNL, NCAR, Unidata et l'Université de
+  Wisconsin, Madison. L'idée clé derrière Popper est de gérer toute
+  exploration scientifique basée sur du calcul ou de l'exploitation de
+  données en tant que projet logiciel, en utilisant des outils et des
+  services qui sont de nos jours facilement disponibles et bénéficient
+  d'une grande popularité. Ce faisant, les explorations scientifiques
+  deviennent reproductibles avec la même commodité, efficacité et
+  évolutivité que la reproductibilité du logiciel tout en tirant parti
+  des améliorations continues de ces outils et services.
+
+  L'équipe d'Ivo Gimenez a adopté (et a fait évoluer) le protocole
+  Popper pendant un peu plus d'un an pour tous leurs travaux de
+  recherche, y compris des présentations d'articles à des conférences et
+  des workshops plutôt système. Les étudiants apprécient en général de
+  suivre ce protocole parce qu'ils estiment que ce travail améliore leur
+  productivité. Ils travaillent actuellement avec des groupes de
+  recherche en génomique et en prévision météorologique pour les aider à
+  "consolider" leurs explorations scientifiques.
+
+  Ce séminaire aura lieu le jeudi 20 juillet 2017 de 13:30 à 15:30PM
+  (UTC+2) en salle 406 du bâtiment IMAG à Grenoble. Il sera diffusé en
+  temps réel et mis à disposition une fois retravaillé. Comme
+  d'habitude, il sera possible d'interagir avec les intervenants (en
+  particulier durant les parties pratiques) en passant par des médias
+  parallèles au webcast (pad, hangout, …). L'ensemble des informations
+  est disponible ici:
+
+  [https://github.com/alegrand/RR_webinars/blob/master/11_popper/index.org]
+
+  Si vous souhaitez suivre cette intervention, je vous invite à regarder
+  si une salle a été prévue près de chez vous sur la page précédente et
+  si ça n'est pas le cas à en réserver une et à mettre la page à jour
+  car il est plus facile/agréable d'apprendre avec d'autres que tout
+  seul dans son coin. :)
+
+  À bientôt j'espère,
+
+  Arnaud Legrand
+
+
+2 English Version
+═════════════════
+
+  To improve our practice in terms of reproducible research, some
+  colleagues and I organize a series of webinars where we will share our
+  experience and thoughts and on those different themes. These webinars
+  are open to anyone (PhD students, post-doc, engineers, researchers, …)
+  and will be in English (possibly with a strong French accent ;-). The
+  first ones have addressed various topics such as the management of a
+  laboratory notebook and of replicable articles, the control of an
+  environment, numerical reproducibility, activity logging and backing
+  up, software and data archiving, workflows in bioinformatics, artifact
+  evaluation. All the slides and videos are available here:
+
+  [https://github.com/alegrand/RR_webinars]
+
+  The next webinar will be given by Ivo Gimenez (UC Santa Cruz) on "The
+  Popper Convention: An Approach to Practical Falsifiable Research".
+
+  Over the last decade, software engineering and systems administration
+  communities have developed sophisticated techniques and strategies to
+  ensure "software reproducibility", i.e. the reproducibility of
+  software artifacts and their behavior using versioning, dependency
+  management, virtualization, infrastructure automation, and
+  comprehensive documentation. In this talk Ivo Gimenez will introduce
+  and give an overview of the Popper Experimentation Protocol
+  ([http://falsifiable.us]) developed at the Systems Research Lab at UC
+  Santa Cruz in collaboration with SandiaNational Labs, LLNL, NCAR,
+  Unidata, and the University of Wisconsin, Madison. The key idea behind
+  Popper is to manage every scientific exploration in computation and
+  data exploration as a software project, using tools and services that
+  are readily available now and enjoy wide popularity. By doing so,
+  scientific explorations become reproducible with the same convenience,
+  efficiency, and scalability as software reproducibility while fully
+  leveraging continuing improvements to these tools and services.
+
+  His team has adopted (and evolved) the Popper protocol for a little
+  more than a year for all their research work, including paper
+  submissions to peer-reviewed systems conferences and
+  workshops. Students prefer following the protocol because they find it
+  makes their work for them personally more productive. They are now
+  working with research groups in genomics and numerical weather
+  prediction to help “popperize” their scientific explorations.
+
+  It will take place on Thursday 20th July 2017, from 1:30PM to 3:30PM
+  (UTC+2) in room 406 of the IMAG building in Grenoble. It will be
+  screencast and interactions during the presentations will take place
+  through written interactive documents (pad, hangout, …). The resulting
+  videos will be edited within a few days for a better exploitation by
+  people that would not have been able to attend the event. All the
+  information are gathered here:
+
+  [https://github.com/alegrand/RR_webinars/blob/master/11_popper/index.org]
+
+  If you are interested in following these talks, you should check on
+  the previous web page whether a room has been reserved nearby and, if
+  not, book one and update the web page accordingly as it is always much
+  more fun/easy to learn in company of others rather than alone in a
+  dark office. :)
+
+  We hope to see you soon.
+
+  Best,
+
+  Arnaud Legrand
+

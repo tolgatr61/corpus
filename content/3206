@@ -1,0 +1,92 @@
+Bonjour,
+
+Pouvez-vous faire passer cette proposition de stage de master ?
+
+Violaine Antoine
+
+* Sujet :
+
+Développement d'une carte auto-organisatrice pour le paramétrage
+automatique d'un détecteur de type PET
+
+
+* Contexte :
+
+Le stage s'inscrit dans le cadre du Labex PRIMES, associant en partenariat
+le LIMOS et le pôle santé du LPC à Clermont-Ferrand.
+
+
+* Description du stage :
+
+Divers types de thérapies sont pratiquées pour traiter les tumeurs
+cancéreuses. L'utilisation de détecteurs de type PET ont suscité un vif
+intérêt pour le contrôle en temps réel de la qualité des traitements
+appliqués aux patients, car ils minimisent les effets secondaires.
+Néanmoins, le paramétrage de ces détecteurs est souvent complexe et
+laborieux. Par ailleurs, cette calibration doit être corrigée au cours du
+temps.
+
+Plusieurs algorithmes ont été proposés pour paramétrer automatiquement un
+détecteur de type PET [1,2], dont notamment les cartes auto-organisatrices
+(SOM) [3]. Cette méthode, couramment appliquée en classification
+automatique ou dans des recherches de topologie, prend en entrée des
+données et les organise sous forme de carte en sortie. Une SOM comprend une
+phase d'apprentissage de la carte. Cet apprentissage peut ensuite continuer
+lorsque de nouvelles données sont disponibles. L'avantage de cette méthode
+est donc son aspect incrémental. Néanmoins, l'apprentissage initial peut
+être long. Dans ce cadre, plusieurs innovations récentes peuvent être
+utilisées et améliorées [3,4].
+
+L'objectif de ce stage est de développer une carte auto-organisatrice
+adaptée aux données des détecteurs de types PET. L'algorithme devra être
+capable d'améliorer la qualité des résultats tout en ayant une phase
+d'apprentissage rapide. La méthode devra enfin être comparée aux autres
+méthodes existantes [2].
+
+
+* Encadrement :
+
+Mme V. Antoine, LIMOS, Clermont-Ferrand (violaine.antoine@univ-bpclermont.fr
+)
+Mr G. Montarou, LPC, Clermont-Ferrand
+
+
+* Conditions :
+
+Durée du stage : 4 à 6 mois
+Lieu du stage : ISIMA, campus des cézeaux, Clermont-Ferrand
+Profil recherché :
+  - stage de niveau M2 en informatique ou école d'ingénieur
+  - intérêt pour l'apprentissage automatique et connaissances en réseaux de
+neurones
+  - compétence en programmation
+
+
+* Procédure de candidature :
+
+Les candidats sont invités à envoyer à Mme V. Antoine par e-mail les
+documents suivants : un CV détaillé, une lettre de motivation et les
+derniers relevés de notes.
+
+
+* Référence :
+
+[1] D. Hu, B. Atkins, M. Lenox, B. Castleberry, S. Siegel. A neural network
+based algorithm for building crystal look-up table of PET block detector.
+Nuclear Science Symposium Conference Record, volume 4, pages 2458-2461,
+2006.
+
+[2] X. Kang, Z. Gu, X. Sun, Y. Liu, S. Wang, Z. Wu, J. Wang, Y. Jin. Comparing
+crystal identification algorithms for PET block detectors. Nuclear Science
+Symposium Conference Record (NSS'08), pages 4562-4566, 2008.
+
+[3] T. Kohonen. Essentials of the self-organizing map. Neural Networks,
+volume 37, pages 52-65, 2013.
+
+[4] J. Burguillo. Using self-organizing maps with complex network
+topologies and coalitions for time series prediction, Soft Computing,
+volume 18, number 4, pages 695-705, 2014.
+
+-- 
+Violaine ANTOINE.
+

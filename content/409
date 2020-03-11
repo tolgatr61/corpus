@@ -1,0 +1,119 @@
+L'atelier " INtégration de sources/masses de données hétérogènes et Ontologies, dans le domaine des sciences du VIVant et de l’Environnement" 
+aura lieu le 30 juin après-midi à Rennes 
+Il est associé à la conférence IC 2015 de la plateforme PFIA (http://pfia2015.inria.fr/conference-ic) 
+
+
+*************************************************** 
+Dates importantes 
+------------------------ 
+-Soumission des articles : 6 mai 2015 
+-Notification aux auteurs: 26 mai 2015 
+-Soumission de la version définitive: 8 juin 2015 
+-Atelier IN-OVIVE à IC: 30 juin 2015 
+
+*************************************************** 
+Présentation 
+---------------- 
+
+
+La société actuelle doit faire face à des évolutions rapides et à des enjeux multiples (environnementaux, sociétaux, économiques). C'est particulièrement vrai pour le monde des sciences du vivant et de l’environnement, soumis en plus aux aléas naturels. Afin de répondre à ces enjeux et évolutions, il est nécessaire de posséder une vue globalisée et intégrée du domaine d’application étudié ( e.g . les filières agricoles), tout en étant capable de préconiser des actions à des niveaux assez fins (e.g., parcelle, opération unitaire) et en tenant compte des différents points de vue impliqués. 
+
+Pour cela, il faut développer des outils génériques adéquats, or la plupart des études menées jusqu’à présent, soit ont proposé des approches spécifiques à une partie du domaine d’application étudié (e.g. amélioration génétique d’une filière), soit se sont concentrées sur des enjeux bien déterminés (e.g. problèmes sanitaires). Il en a résulté un éparpillement de la connaissance et une séparation des ensembles de données, ce qui s’est traduit par une grande difficulté à faire cohabiter ces connaissances et restituer ces données dans un système unique. Un des facteurs limitant du traitement informatique des données en sciences du vivant et de l’environnement est la difficulté à appréhender les données disponibles. Cette difficulté s’explique par les raisons suivantes : 
+
+    * le stockage des données expérimentales suffisamment décrites (par des métadonnées) et sous une forme informatisée homogène est loin d’être systématique dans l’approche analytique classique, 
+    * les données sont éparses, stockées dans des bases de données de laboratoire, publiées dans des revues scientifiques ou sur des pages de sites Web, mais aussi dans des rapports de projet, des thèses ou des supports de cours, 
+    * les données sont représentées dans des formats hétérogènes (textes, tableaux, graphiques, spectres, images, …). 
+    * les évolutions technologiques rapides, qui permettent une observation de plus en plus fine (nature de l'information, fréquence d’acquisition, géo localisation), nécessitent de s’adapter et de gérer des volumes de données en forte croissante. 
+    * l’intégration de ces données à différentes échelles, dans des modèles cohérents pose de nouvelles questions de recherche. 
+
+
+
+La recherche menée aujourd’hui autour de ces problématiques est de plus en plus collaborative, multi-expertes et requiert un usage intensif des données. La gestion automatisée et l’analyse de données scientifiques nécessitent d’intégrer des connaissances du domaine concerné. L’intégration nécessite de confronter les données et les connaissances disponibles et de valider la qualité de ces données et de ces connaissances. Avant de pouvoir combiner, explorer et expliquer les sources de données, il faut être capable de les caractériser et de les relier. Ceci peut être réalisée à l’aide de méthodes informatiques d’intégration qui consistent à essayer d’établir des correspondances entre les données à l’aide d’une ontologie de domaine qui est une représentation, formalisée et structurée, du vocabulaire spécifique au domaine étudié. 
+
+Ces questions d’IC trouvent dans les domaines des sciences du vivant et de l’environnement une résonance importante et particulière qui justifie l’intérêt considérable de l’IC pour ces domaines et le développement de méthodes adaptées. 
+
+L'objectif de cet atelier est de dresser un panorama des recherches et expérimentations francophones traitant de l’intégration de sources/masses de données hétérogènes notamment à l’aide d’ontologies, dans le domaine des sciences du vivant et de l’environnement. 
+
+Thèmes 
+---------- 
+
+
+Les auteurs sont invités à envoyer des propositions ayant une portée théorique, méthodologique ou appliquée, sur l’un des thèmes suivants (liste non exhaustive) : 
+- Modélisation et capitalisation de connaissances extraites à partir de sources ouvertes, 
+- Acquisition de connaissances à partir de documents, 
+- Apprentissage automatique à partir de corpus, 
+- Traitement automatique de la langue, 
+- Annotation sémantique de connaissances, guidée par une ontologie, 
+- Extraction d'informations à partir des données structurées (tableaux ou graphiques), peu structurées ou pas structurées, en langue naturelle 
+- Évaluation et qualification des sources d'informations et des données extraites 
+- Détection de redondances dans les sources de données, 
+- Représentation de connaissances, en particulier à l’aide des langages du Web sémantique 
+- Génération et publication des données et des ontologies sur le Web de données afin de permettre notamment l’interconnexion de jeux de données, 
+- Interopérabilité des sources de données et alignement d'ontologies, 
+- Méthodes d’intégration de données et découverte de données 
+- Gestion des ontologies, 
+- Construction et évolution des ontologies 
+Il pourra s'agir de travaux de recherche (présentation de méthodes, d'outils ou de résultats théoriques) ou de travaux plus appliqués tels que des études de cas ou des applications scientifiques ou industrielles. Dans tous les cas, les soumissions devront montrer la spécificité des questions scientifiques posées par le domaine des sciences du vivant et de l’environnement et montrer l’intérêt des résultats pour ces domaines. 
+
+
+
+
+SOUMISSION 
+---------- 
+Les soumissions pour faire une présentation orale à l’atelier pourront avoir deux formes : 
+- soit sous la forme d’un résumé (maximum 2 pages), 
+- soit sous la forme d’un article. 
+
+
+******************************************************* 
+Organisateurs : 
+------------------- 
+Buche Patrice, INRA IATE, Montpellier 
+Dervaux Stéphane, INRA Mét@risk, Paris 
+Dibie Juliette , AgroParisTech & INRA MIA, Paris 
+Ibanescu Liliana, AgroParisTech & INRA MIA, Paris 
+Nédellec Claire , INRA MIG, Paris 
+Neveu Pascal , INRA MISTEA, Montpellier 
+
+
+Comité de programme : 
+------------- 
+Berrahou Lilia, INRA & CIRAD, Montpellier 
+Deléger Louise, INRA MIG, Paris 
+Desprès Sylvie, Université Paris 13 & unité INSERM LIMICS, Paris 
+Grau Brigitte, ENSIIE & LIMSI, Paris 
+Haemmerlé Ollivier, Université Le Mirail Toulouse III & IRIT, Toulouse 
+Kamel Mouna, Université de Perpignan et IRIT, Toulouse 
+Pernelle Nathalie, Université Paris-Sud 11 & LRI, Paris 
+Roche Mathieu, CIRAD, Montpellier 
+Roussey Catherine,IRSTEA, Clermont Ferrand 
+Saïs Fatiha, Université Paris-Sud 11 & LRI, Paris 
+Szulman Sylvie, Université Paris 13 Sorbonne Paris Cité & LIPN, Paris 
+Todorov Konstantin, Université Montpellier II & LIRMM, Montpellier 
+Zargayouna Haïfa , Université Paris 13 Sorbonne Paris Cité & LIPN, Paris 
+
+
+
+
+Juliette Dibie 
+*** 
+Professeur 
+UFR Informatique 
+Département MMIP (Modélisation Mathématiques Informatique Physique) 
+AgroParisTech & INRA UMR MIA 518 
+16, rue Claude Bernard, F-75 231 PARIS Cedex 05 
+Tél. (+33)1 44 08 18 48 - Fax (+33)1 44 08 16 66 
+E-mail : dibie@agroparistech.fr 
+Home Page: http://www-old.agroparistech.fr/mia/equipes:membres:page:juliette_dibie 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+Bonjour,
+
+Pourriez-vous s’il-vous-plaît diffuser l’annonce de soutenance de thèse suivante ?
+
+Merci beaucoup,
+
+Nathalie Abadie
+
+**************
+
+Bonjour,
+Abdelfettah Feliachi soutiendra sa thèse de l’Université Paris-Est Marne-la-Vallée, école doctorale MSTIC, spécialité « sciences et technologies de l’information géographique », effectuée au sein de l’équipe COGIT du LASTIG de l’IGN le 27 octobre 2017, sur le sujet : "Interconnexion et visualisation de ressources géoréférencées du Web de données à l’aide d’un référentiel topographique de support". Vous êtes cordialement invités à cette soutenance.
+Elle se déroulera le vendredi 27 octobre à 09h30, en salle K024 à l’Institut National de l’Information Géographique et Forestière (IGN, 73 Avenue de Paris, Saint-Mandé – Plan d’accès : http://www.ign.fr/institut/adresses-lign#map). La soutenance de thèse est publique. Dans le cadre des mesures de sécurité du plan Vigipirate, nous vous demandons de bien vouloir nous informer de votre venue (avant le 26 octobre, 16h, par e-mail à : abdelfettah.feliachi@ign.fr<mailto:abdelfettah.feliachi@ign.fr>) et de vous munir d’une pièce d’identité afin de permettre votre accès au site de l’IGN. Il est demandé aux ressortissants de pays hors UE de bien vouloir fournir une copie de leur pièce d’identité pour le 24 octobre 2017 au plus tard.
+Elle sera soutenue devant le jury composé de :
+Oscar Corcho                Universidad Politécnica de Madrid                              Rapporteur
+Nathalie Pernelle           Université Paris Sud                                                 Rapporteur
+Jérôme Euzenat            INRIA                                                                      Examinateur
+Fabian Suchanek           Télécom ParisTech                                                   Examinateur
+Thomas Devogele         Université de Tours                                                  Examinateur
+Nathalie Abadie             IGN                                                                        Encadrante
+Fayçal Hamdi                CNAM                                                                     Encadrant
+Bénédicte Bucher          IGN                                                                        Directrice de thèse
+Le résumé de la thèse est joint à la fin de ce mail.
+Bien cordialement,
+
+Nathalie Abadie
+
+----------- Résumé de la thèse ----------
+
+
+De nombreuses ressources publiées sur le Web de données sont dotées de références spatiales qui décrivent leur localisation. Ces références spatiales constituent des propriétés privilégiées pour interconnecter et visualiser les ressources sur le Web de données. Cependant, les hétérogénéités de niveau de détail et de modélisation géométrique entre les sources de données constituent un défi majeur pour l’utilisation de la comparaison des références spatiales comme critère pour l’interconnexion des ressources. Ce défi est amplifié par la nature ouverte et collaborative des sources de données du Web qui engendre des hétérogénéités géométriques internes aux sources de données. En outre, les applications de visualisation cartographique des ressources géoréférencées du Web de données ne fournissent pas une visualisation lisible à toutes les échelles.
+
+
+Dans cette thèse, nous proposons un vocabulaire pour formaliser les connaissances sur les caractéristiques de chaque géométrie dans un jeu de données. Nous proposons également une approche semi-automatique fondée sur un référentiel topographique pour acquérir ces connaissances pour chaque géométrie à traiter. Nous proposons de mettre en œuvre ces connaissances dans une approche d’adaptation dynamique du paramétrage de la comparaison des géométries dans un processus d’interconnexion. Nous proposons une approche complémentaire s’appuyant sur un référentiel topographique pour la détection des liens de cardinalité n:m. Nous proposons enfin des applications qui s’appuient sur des données topographiques de référence et leurs liens avec des ressources géoréférencées du Web pour offrir une visualisation cartographique multi-échelle lisible et conviviale de ces ressources.
+
+

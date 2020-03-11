@@ -1,0 +1,81 @@
+Le projet GreenFeed est un projet du programme FUI15, incluant 10
+partenaires, majoritairement industriels. Son objectif est d'organiser la
+charge électrique de véhicules lors de longs déplacements, au niveau
+national. Un conducteur pourra ainsi, par exemple pour un voyage prévu à
+l'avance, planifier et réserver les points de charge nécessaires à son
+voyage.
+
+Telecom Saint Etienne est en charge de la spécification et mise en place de
+l'architecture de la plate-forme d'intermédiation entre tous les
+partenaires de la chaine de la recharge électrique. Une architecture cloud
+est ciblée.
+
+La personne recrutée aura ainsi pour tâches de :
+
+- participer à la spécification des données à échanger et des ontologies
+supportant les échanges,
+
+- spécifier les services logiciels supportant ces échanges,
+
+- définir l'infrastructure cloud requise et superviser sa mise en place par
+un sous-traitant,
+
+- participer à la validation de l'architecture définie.
+
+
+
+Le profil de cette personne doit ainsi inclure:
+
+- un diplôme de niveau ingénieur ou M2 en informatique
+
+- des méthodes de spécification des données et UML
+
+- des connaissances en architecture distribuées et si possible cloud,
+
+- une connaissance des architectures REST. Une expérience dans
+l'implémentation d'une telle architecture est clairement un plus.
+
+- un esprit d'ouverture aux problématiques de recherche académique et R&D
+industriel.
+
+
+
+Nous proposons :
+
+- un cadre de travail agréable
+
+- une participation active à un projet d'envergure national, en
+collaboration avec plusieurs entreprises en pointe dans le secteur de
+l'énergie
+
+- une formation à des approches logicielles (map/reduce, architecture
+distribuées, ...) et de gestion d'infrastructures pour le cloud (openstack,
+chef, ...) en pointe de la technologie
+
+- un environnement de travail résolument tourné vers l'innovation
+
+- la possibilité de collaborer avec des chercheurs sur des implémentations
+logicielles de travaux de recherche.
+
+
+
+
+
+Le salaire suit les grilles de recrutement de l’Université Jean Monnet, qui
+dépend de l'expérience du candidat. Le poste est à pourvoir en janvier
+2014, pour une durée d'un an.
+
+
+
+Les candidats doivent envoyer un CV et des recommandations à
+frederique.laforest@telecom-st-etienne.fr
+
+-- 
+--------
+Frédérique Laforest
+Professeur des Universités/Full professor
+Telecom Saint Etienne, UJM, Université de Lyon
+LT2C Satin
+25 rue Docteur Remy Annino
+42000 Saint Etienne - France
+

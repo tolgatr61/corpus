@@ -1,0 +1,120 @@
+
+Lien vers les propositions:
+  http://natalia.grabar.perso.sfr.fr/stages2014.html
+
+
+ÉVOLUTION ET VISUALISATION DES ÉMOTIONS
+
+contact : Natalia Grabar (natalia.grabar@univ-lille3.fr)
+
+Les forums issus du domaine médical permettent à des internautes
+d'échanger à propos de leur santé. Intermédiaires entre discours oral et
+écrit, les forums de discussion sont des espaces d’échanges asynchrones
+de messages textuels. Ce nouveau mode de communication est très prisé
+des patients car associé à une grande liberté du discours due notamment
+à l'anonymat. Dans ce contexte éminemment subjectif, la caractérisation
+et la compréhension des perceptions que les patients ont de leur maladie
+et du suivi médical est difficile, mais néanmoins particulièrement
+intéressante pour les professionnels de santé. De nombreux verrous sont
+associés à l’analyse semi-automatique de ces forums, en particulier la
+volumétrie des textes et leur hétérogénéité.
+
+Dans le cadre du projet ANR TecSan Ravel et du projet MSHM Parlons de
+nous, nous proposons un stage de Master 2. Ce stage fait suite aux
+travaux déjà réalisés dans l'équipe sur la détection et l'annotation de
+la subjectivité (incertitude, émotions...) dans les documents biomédicaux
+(Grabar & Hamon, 2009, Périnet et al, 2011, Chauveau-Thoumelin & Grabar, 2014).
+
+Plus particulièrement, le stage aura pour objectif de :
+
+- travailler avec les documents provenant de différents genres médicaux (cliniques, scientifiques, forum, etc.)
+
+- exploiter et améliorer les annotations des documents avec différents niveaux de spécificité
+
+- proposer une visualisation de l'évolution des émotions et une représentation adéquate des données
+
+L'ensemble du travail sera effectué en collaboration avec les chercheurs en traitement automatique de langues (TAL), en linguistique (syntaxe et sémantique) et en informatique.
+
+Le stagiaire sera amené à utiliser des outils existants et à développer ses propres programmes pour mieux analyser et visualiser les données.
+
+Prérequis:
+
+- connaissances en TAL, informatique et linguistique
+- manipulation et test des outils de TAL
+- habitude de Linux
+- capacité de travailler en équipe et individuellement
+- lecture et synthèse de la littérature scientifique
+
+Lieu du stage : Lille, Paris ou Montpellier
+
+Le stage est rémunéré.
+
+Selon les résultats du stage, une poursuite en thèse pourrait être envisagée.
+
+
+EXTRACTION D'INFORMATIONS LIÉES AUX CONTROVERSES
+
+contact : Natalia Grabar (natalia.grabar@univ-lille3.fr)
+
+Les méthodes du Traitement Automatique des Langues permettent
+d'effectuer plusieurs tâches très coûteuses pour un utilisateur humain,
+comme par exemple l'extraction d'information, les questions/réponses,
+l'inférence textuelles et la fouille de textes de manière
+générale. Cette proposition de stage Master 2 concerne la détection
+automatique du risque chimique, qui crée souvent des situations de controverse.
+
+Le risque chimique couvre les situations où les produits chimiques sont
+ou peuvent être dangereux pour la santé humaine, animale et pour
+l'environnement. Une des controverses actuelles concerne le risque
+chimique lié au bisphénol A et aux phtalates, qui affectent le système
+hormonal des individus. Dans les situations de controverse, la détection
+d'informations objectives (risque chimique) peut être brouillée par des
+informations subjectives propres aux controverses (incertitudes,
+opinions, etc.). L'objectif du stage est d'améliorer un système
+d'extraction d'information sur le risque chimique existant.
+
+Plus particulièrement, les tâches visées sont les suivantes :
+
+- travailler avec les documents produits dans le domaine de chimie (chercheurs, institutions...)
+
+- améliorer les ressources linguistiques existantes
+
+- exploiter et améliorer les annotations des documents avec différents niveaux de spécificité
+
+- ajuster les modèles d'apprentissage automatique
+
+L'ensemble du travail sera effectué en collaboration avec les chercheurs en traitement automatique de langues (TAL), en risque chimique et en informatique.
+
+Le stagiaire sera amené à utiliser des outils existants et à développer ses propres programmes pour mieux analyser et visualiser les données.
+
+Prérequis:
+
+- connaissances en TAL, informatique et linguistique
+- manipulation et test des outils de TAL
+- habitude de Linux
+- capacité de travailler en équipe et individuellement
+- lecture et synthèse de la littérature scientifique
+
+Lieu du stage : Lille ou Paris
+
+Le stage est rémunéré.
+
+Selon les résultats du stage, une poursuite en thèse pourrait être envisagée.
+
+
+
+UMR CNRS 8163 STL (Savoirs, Textes, Langage), Université Lille 3, est un
+laboratoire de recherche multidisciplinaire composé de linguistes,
+philologues, philosophes et historiens des sciences. STL se compose
+d'une centaine de personnel permanent environ et de nombreux étudiants
+en thèse et de master. Les chercheurs et les enseignants-chercheurs du
+laboratoire ont participé et participent à de nombreux projets de
+recherche financés, nationaux ou européens. La recherche menée en
+linguistique est structurée en quatre axes, dont les travaux en
+traitement automatique des langues, en lexique et en structure
+syntaxique argumentale.
+
+
+
+
+

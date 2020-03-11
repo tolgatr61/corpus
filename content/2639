@@ -1,0 +1,230 @@
+Deuxième appel à contributions / CFP in English below.
+
+Traitement automatique des langues et recherche d'informations.
+
+Numéro spécial de la revue 'TRAITEMENT AUTOMATIQUE DES LANGUES' (TAL)
+
+Date limite de soumission : 7 juillet 2015
+
+
+
+#########
+
+La recherche d'informations (RI) et le traitement automatique des 
+langues (TAL) ont beaucoup en commun : ils traitent tous deux de langues 
+naturelles et de textes. Il serait donc naturel qu’il y ait beaucoup 
+d’interactions entre les communautés RI et TAL. Pourtant, à quelques 
+exceptions notables près, elles ont longtemps évolué indépendamment, 
+développant chacune un corpus de techniques et de connaissances propres, 
+sans beaucoup de contacts fructueux.
+
+Leur rapprochement semble cependant inexorable. Il est le fait, d'une 
+part, d'une évolution des besoins : à l'ère du « big data », il faut 
+savoir à la fois gérer la quantité et faire sens des textes. D'autre 
+part, la convergence des techniques des sciences des données, notamment 
+l'apprentissage artificiel et les approches numériques, offre un socle 
+commun en terme d'outillage et de culture.
+
+Ce numéro spécial de la revue TAL propose de faire le point sur cette 
+convergence du TAL et de la RI, en sollicitant des articles à la 
+jonction des deux domaines. Ceux-ci peuvent décrire des travaux 
+combinant TAL et RI pour différentes applications (par exemple, 
+approches issues de la RI pour des tâches relevant du TAL, méthodes du 
+TAL pour des problématiques de RI, traitement des données bruitées dans 
+les réseaux sociaux…). Ils peuvent aussi être des contributions de fond 
+questionnant la dichotomie TAL/RI, son évolution et ses points de 
+convergence (par exemple, quel rôle devrait jouer le TAL dans la RI et 
+vice versa ? le TAL pour la RI devrait-il être différent du TAL général 
+?, approches génériques pour le TAL et la RI...).
+
+Parmi les thèmes pertinents, on peut mentionner par exemple :
+- techniques de TAL pour la RI
+- utilisation de techniques de RI pour le TAL
+- représentation riche des textes pour la RI, par exemple, apprentissage 
+profond et représentations continues (word embedding)
+- recherche d'informations translingue
+- recherche d'informations sémantique
+- ressources linguistiques pour la RI
+- RI spécialisée, terminologie pour la RI
+- recherche d'informations fines, question-réponse
+- TAL pour la RI multimédia, TAL pour la RI dans les réseaux sociaux
+- utilisation de l’inférence textuelle (text entailment) et raisonnement 
+en RI
+-  RI et TAL à grande échelle, « big data »
+- …
+
+CONTACTS
+--------
+
+Jian-Yun Nie, Univ. de Montréal, nie@IRO.UMontreal.CA
+Vincent Claveau, IRISA-CNRS, vincent.claveau@irisa.fr
+
+
+LA REVUE
+--------
+La revue TAL (Traitement Automatique des Langues) est une revue 
+internationale éditée depuis 1960 par l’ATALA (Association pour le 
+Traitement Automatique des Langues) avec le concours du CNRS. Elle est 
+maintenant publiée en format électronique, avec accès gratuit immédiat 
+aux articles publiés, et impression annuelle à la demande.
+
+
+LANGUE
+------
+Les articles sont écrits en français ou en anglais pour les auteurs non 
+francophones.
+
+FORMAT
+------
+La revue ne publie que des contributions originales, en français ou en 
+anglais.
+Les feuilles de style sont disponibles en ligne sur le site de la revue 
+( http://www.atala.org/IMG/zip/tal-style.zip ).
+
+Les chercheurs ayant l’intention de soumettre une contribution sont 
+invités à déposer leur article en cliquant sur le menu "Soumission d’un 
+article" (25 pages maximum, format PDF). Pour cela, si ce n’est déjà 
+fait, ils doivent s’inscrire sur le site http://www.sciencesconf.org (en 
+haut à gauche, "créer un compte"), puis revenir sur la page 
+http://tal-56-3.sciencesconf.org/, se connecter et effectuer le dépôt.
+
+*** La sélection des articles se fait double-aveugle. Merci d’anonymiser 
+votre article. ***
+
+COMITÉ SPÉCIFIQUE
+-----------------
+
+Jacques Savoy Neuchatel, Suisse
+Cédrick Fairon, Université Catholique de Louvain, Belgique
+Marie-Francine Moens Computer Science dept, KU Leuven, Belgique
+Abdelmajid Ben Hamadou MIRACL, Université de Sfax, Tunisie
+Jaap Kamps Univ Amsterdam, Pays-Bas
+Fatiha Sadat Dept informatique, UQAM, Canada
+Lyne Da Sylva, École de bibliothéconomie et des sciences de 
+l'information, Université de Montréal, Canada
+Brigitte Grau LIMSI-CNRS, ENSIIE, France
+Lorraine Goeuriot LIG, Univ. de Grenoble Alpes, France
+Benjamin Piwowarsky LIP6-CNRS, UPMC, France
+Catherine Berrut LIG, Univ. J. Fourier, France
+Olivier Ferret CEA-LIST, France
+Mohand Boughanem IRIT, Univ. de Toulouse, France
+Xavier Tannier Univ Paris-Sud, LIMSI-CNRS, France
+Eric Gaussier LIG, Univ. J. Fourier, France
+Haifa Zargayouna LIPN, Univ. Paris 13, France
+Guillaume Cabanac IRIT, Univ. Toulouse 3, France
+Mathias Géry Lab Hubert Curien, Univ. St-Etienne, France
+Mathieu Roche Cirad, UMR TETIS, Montpellier, France
+
+TBC
+
+
+######################################################
+
+Second call for papers
+Information Retrieval (IR) and Natural Language Processing (NLP), 
+special issue of the journal TAL
+
+Submission deadline: July 7, 2015
+
+Information Retrieval (IR) and Natural Language Processing (NLP) have 
+much in common: both deal with natural language and texts. Many 
+interactions between the IR and NLP communities would thus been 
+expected. Yet, apart from some notable exceptions, they have evolved 
+quite independently for a long time, separately developing their own 
+sets of techniques and knowledge, with few fruitful contacts.
+
+However, stronger interactions between them seem inexorable. This is 
+due, first, to the emerging needs: in the era of big data, we have both 
+have to cope with a large quantity of texts and to make sense of it. 
+This is also due to the fact that the convergence of data science 
+techniques, including machine learning and probabilistic approaches, 
+provides them with common foundations in terms of tools and culture.
+
+This special issue of TAL aims at providing a forum on the latest 
+developments on the convergence of NLP and IR by soliciting papers 
+dealing with the interactions between the two fields. These papers can 
+present studies combining NLP and IR in different applications (for 
+example, approaches of IR used for NLP tasks, NLP methods applied to IR 
+problems, processing of noisy data from social media...). They can also 
+focus on more fundamental problems concerning the NLP/IR dichotomy, its 
+evolution and convergence (for example, what role should NLP play in IR 
+and vice versa? Should NLP used in IR be different from general NLP? 
+Generic approaches for NLP and IR...).
+
+Relevant topics include:
+- NLP techniques for IR
+- Use of IR techniques for NLP
+- Rich text representation for IR, for example, deep learning and 
+continuous representations (word embedding)
+- Cross-lingual IR
+- Semantic IR
+- Linguistic resources for IR
+- IR in specialized domains, terminology for IR
+- Fine-grain IR, question answering
+- NLP for multimedia IR, NLP for IR in social networks
+- Text entailment and reasoning for IR
+- Large scale IR and NLP, big data
+- …
+
+
+CONTACTS
+--------
+
+Jian-Yun Nie, Univ. de Montréal, nie@IRO.UMontreal.CA
+Vincent Claveau, IRISA-CNRS, vincent.claveau@irisa.fr
+
+
+ABOUT THE JOURNAL
+--------
+TAL (Traitement Automatique des Langues / Natural Language Processing) 
+is an international journal published by ATALA (French Association for 
+Natural Language Processing) since 1959 with the support of CNRS (French 
+National Center for Scientific Research). It has moved to an electronic 
+mode of publication, with free access to the papers and printing on demand.
+
+
+LANGUAGE
+------
+Papers may be written in French or English for non French-speaking authors.
+
+PRACTICAL ISSUES
+------
+The journal only publishes original contributions in French or in English.
+Contributions (max. 25 pages, PDF format) must be uploaded at 
+http://tal-56-3.sciencesconf.org/?eng by clicking the item 
+"Submissions". An account on SciencesConf is required and may be created 
+at  http://www.sciencesconf.org
+Style sheets are available for download on the Web site of the journal 
+(http://www.atala.org/IMG/zip/tal-style.zip).
+
+
+*** TAL uses a double-blind reviewing process. Therefore, please 
+anonymize your papers. ***
+
+
+SPECIFIC COMMITTEE
+------------------
+
+Jacques Savoy Neuchatel, Switzerland
+Cédrick Fairon, Université Catholique de Louvain, Belgium
+Marie-Francine Moens Computer Science dept, KU Leuven, Belgium
+Abdelmajid Ben Hamadou MIRACL, Université de Sfax, Tunisia
+Jaap Kamps Univ Amsterdam, Netherlands
+Fatiha Sadat Dept informatique, UQAM, Canada
+Lyne Da Sylva, École de bibliothéconomie et des sciences de 
+l'information, Université de Montréal, Canada
+Brigitte Grau LIMSI-CNRS, ENSIIE, France
+Lorraine Goeuriot LIG, Univ. de Grenoble Alpes, France
+Benjamin Piwowarsky LIP6-CNRS, UPMC, France
+Catherine Berrut LIG, Univ. J. Fourier, France
+Olivier Ferret CEA-LIST, France
+Mohand Boughanem IRIT, Univ. de Toulouse, France
+Xavier Tannier Univ Paris-Sud, LIMSI-CNRS, France
+Eric Gaussier LIG, Univ. J. Fourier, France
+Haifa Zargayouna LIPN, Univ. Paris 13, France
+Guillaume Cabanac IRIT, Univ. Toulouse 3, France
+Mathias Géry Lab Hubert Curien, Univ. St-Etienne, France
+Mathieu Roche Cirad, UMR TETIS, Montpellier, France
+
+TBC
+

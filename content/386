@@ -1,0 +1,213 @@
+
+Appel à Communication Atelier CluCo – EGC Rennes 28 Janvier 2014
+
+---------------------------------------------------------------------------------------------------
+
+CluCo : ATELIER Clustering and Co-clustering
+
+http://perso.rd.francetelecom.fr/lemaire/CluCo2014
+
+La classification non supervisée ou clustering est de nos jours 
+largement utilisée dans un nombre croissant d’applications dans des 
+domaines aussi divers que l’analyse d’image, la reconnaissance de formes 
+, la fouille de textes, la gestion de la relation client, la veille 
+scientifique ou technologique, la bioinformatique, la recherche 
+d’information, l’analyse de réseaux sociaux…
+
+Bien que le clustering forme un domaine de recherche en soi, avec une 
+longue histoire, et d’innombrables méthodes, de nombreuses questions se 
+posent toujours, telles que par exemple:
+
+• quel(s) sont les bons paramètre(s) : nombre de classes versus finesse 
+d’analyse ?
+
+• comment estimer la qualité d’un clustering, l’importance des variables 
+explicatives ?
+
+• les classes doivent-elles être strictes, floues, ou recouvrantes ?
+
+• comment rendre un clustering robuste et résistant au bruit ?
+
+• comment évaluer l’évolution temporelle du déploiement d’un clustering ?
+
+• …
+
+*Format de l’atelier : *
+
+L'objectif de cet atelier est de favoriser des présentations et des 
+discussions plutôt que de se focaliser sur des articles écrits complets.
+
+Seuls des résumés étendus (de 4 à 6 pages au format EGC) sont 
+nécessaires comme soumission et seront publiés sous forme d’actes en ligne.
+
+La soumission de prises de position bien articulées, d’expériences 
+industrielles et de travaux en cours sont les bienvenus et privilégiés.
+
+Le but est le partage d’expérience et de savoir sur les problématiques 
+liées au clustering (coclustering).
+
+Le but est aussi de vous (industriels et/ou universitaires) permettre de 
+présenter des problèmes non résolus avec les méthodes de l'état de l'art 
+et/ou les logiciels sur étagères.
+
+Venez présenter votre problématique de recherche...
+
+Si le nombre de soumissions reçu est important nous envisageons une 
+partie plénière et une partie poster de manière à maximiser les échanges 
+et discussion.
+
+*Principaux thèmes (liste non limitative) : *
+
+•             Clustering, Coclustering
+
+•             Clustering (coclustering) supervisé
+
+•             Clustering (coclustering) semi-supervisé
+
+•             Indice de qualité d’un clustering (coclustering)
+
+•             Mesure d’importance Locale au cluster des variables après 
+la réalisation d’un clustering (coclustering)
+
+•             Mesure d’importance Globale aux clusters des variables 
+après la réalisation d’un clustering (coclustering)
+
+•             Méthode automatique ou critère pour la détermination du 
+bon nombre de clusters
+
+•             Algorithme de clustering (coclustering) pour grande 
+volumétrie
+
+•             Méthode de mesure de l'évolution d’un clustering
+
+•             Clustering sous contraintes
+
+La liste des domaines applicatifs est longue, on pourra citer :
+
+P. Berkhin « Survey of clustering data mining techniques », Accrue 
+Software, San Jose, CA, 2002.
+
+*Soumission : *
+
+Sur EasyChair : https://www.easychair.org/conferences/?conf=clucoegc14
+
+*Dates importantes (dates prévisionnelles) : *
+
+•             Date limite de soumission des articles : 03 décembre
+
+•             Notification aux auteurs : 21 décembre
+
+•             Version finale : 10 janvier
+
+•             Atelier : 28 janvier
+
+*Comité d’organisation : *
+
+Vincent Lemaire
+
+ORANGE-LABS, Lannion, France
+
+2 avenue Pierre Marzin
+
+22300 Lannion
+
+vincent.lemaire@orange-ftgroup.com
+
+http://perso.rd.francetelecom.fr/lemaire
+
+Jean-Charles Lamirel
+
+LORIA - SYNALP Research Team,
+
+Campus Scientifique
+
+BP 239
+
+54506 Vandoeuvre-lès-Nancy
+
+jean-charles.lamirel@loria.fr
+
+Pascal Cuxac
+
+INIST-CNRS,
+
+Recherche Développement
+
+2 allée du Parc de Brabois
+
+CS 10310
+
+54519 Vandoeuvre les Nancy Cedex
+
+pascal.cuxac@inist.fr,
+
+https://sites.google.com/site/pascalcuxac/
+
+*Comité de programme (ordre alphabétique, en cours d’élaboration) : *
+
+•             Gilles Bisson (LIG)
+
+•             Alexis Bondu (EDF R&D)
+
+•             Marc Boullé (Orange Labs)
+
+•             Laurent Candillier (Expertise lcandillier.free.fr)
+
+•             Fabrice Clérot (Orange Labs)
+
+•             Guillaume Cleuziou (LIFO)
+
+•             Antoine Cornuéjols (AgroParisTech)
+
+•             Pascal Cuxac (INIST-CNRS, Vandoeuvre les Nancy)
+
+•             Pascale Kuntz-Cosperec (Polytech'Nantes)
+
+•             Patrick Gallinari (LIP6)
+
+•             Nistor Grozavu (LIPN)
+
+•             Romain Guigoures (à préciser)
+
+•             Jean-Charles Lamirel (LORIA - SYNALP)
+
+•             Mustapha Lebbah (LIPN)
+
+•             Vincent Lemaire (Orange Labs)
+
+•             Fabien Torre (Lille 3)
+
+*Tarifs d'inscription *
+
+La participation à l'atelier seul (avec repas du midi) est de 80€ (50€ 
+pour étudiant).
+
+Les tarifs de la conférence EGC et de ses ateliers sont en nette baisse 
+cette année, en raison du passage à des actes électroniques (cf. 
+http://egc2014.irisa.fr/inscriptions-et-tarifs).
+
+________________________________________
+
+Pascal CUXAC
+
+Recherche Développement - INIST - CNRS
+
+2 allée du Parc de Brabois
+
+CS 10310
+
+54519 Vandoeuvre les Nancy Cedex
+
+France
+
+tel : 03.83.50.46.00
+
+Page perso : https://sites.google.com/site/pascalcuxac/
+
+site : http://recherche.inist.fr/
+
+________________________________________
+
+
+
+

@@ -1,0 +1,102 @@
+Bonjour à toutes et à tous,
+
+*See below for the english version.*
+
+J'ai le plaisir de vous inviter à ma soutenance de thèse intitulée "*Gérer
+et exploiter des connaissances **produites par une communauté en ligne
+-- Application au raisonnement à partir de cas*".
+La soutenance aura lieu le *mercredi 22 juin à 10h30* dans la *salle A008
+du **LORIA**, Campus scientifique, Vandœuvre-lès-Nancy*.
+La présentation sera en français.
+
+Composition du jury.
+
+Rapporteurs :
+Sylvie Despres, Professeure, Université Paris 13
+Patrick Gallinari, Professeur, Université Paris 6
+
+Examinateurs :
+Anne Boyer, Professeure, Université de Lorraine
+Alain Mille, Professeur, Université Claude Bernard Lyon 1
+
+Directeur et co-encadrant :
+Jean Lieber, Maître de conférences, Université de Lorraine
+Emmanuel Nauer, Maître de conférences, Université de Lorraine
+
+*Résumé.*
+Cette thèse propose deux approches pour améliorer la qualité des réponses
+d'un système de raisonnement à partir de cas (RàPC) utilisant des
+connaissances produites par une communauté en ligne. La première approche
+concerne la mise en oeuvre d'un modèle permettant de gérer la fiabilité des
+connaissances produites par la communauté sous la forme d'un score. Ce
+score de fiabilité est utilisé d'une part pour filtrer les connaissances
+non fiables afin qu'elles ne soient pas utilisées par le système de RàPC et
+d'autre part pour classer les réponses retournées par
+le système. La deuxième approche concerne la représentation de la
+typicalité entre sous-classes et classes dans une organisation
+hiérarchique. La typicalité est alors utilisée pour réorganiser les
+connaissances
+hiérarchiques utilisées par le système de RàPC. L'apport de ces deux
+approches a été évalué dans le cadre de eTaaable, un système de RàPC qui
+adapte des recettes de cuisine en utilisant des connaissances produites par
+une communauté en ligne. L'évaluation montre que la gestion de la fiabilité
+des connaissances produites par la communauté améliore la qualité des
+réponses retournées par eTaaable. De même, l'évaluation montre que
+l'utilisation par eTaaable des hiérarchies des connaissances réorganisées
+en exploitant la typicalité améliore également la qualité des réponses.
+
+*Mots-clés.* raisonnement à partir de cas, communauté en ligne, fiabilité,
+typicalité.
+
+Bien cordialement,
+Emmanuelle Gaillard
+
+---------------------------------------------------------------------------------------------------------------
+
+Dear colleagues,
+
+It is with pleasure that I invite you to my PhD defense on the topic
+"*Managing and exploiting knowledge
+produced by an e-community -- Application to case-based reasoning*".
+The defense will take place on *w**ednesday**, 22 June, at 10h30* in *A008
+at the LORIA**, Campus scientifique, Vandœuvre-lès-Nancy*.
+The presentation will be in french language.
+
+*Jury.*
+
+Reviewers:
+Sylvie Despres, Professeure, Université Paris 13
+Patrick Gallinari, Professeur, Université Paris 6
+
+Examiners:
+Anne Boyer, Professeure, Université de Lorraine
+Alain Mille, Professeur, Université Claude Bernard Lyon 1
+
+Advisors:
+Jean Lieber, Maître de conférences, Université de Lorraine
+Emmanuel Nauer, Maître de conférences, Université de Lorraine
+
+*Abstract.*
+This research work presents two approaches to improve the quality of the
+results returned by a case-based reasoning (CBR) system exploiting
+knowledge produced by an e-community. The first approach relies on a new
+model to manage the trustworthiness of the knowledge produced by the e
+community. In this model, the trustworthiness is represented through a
+score which is used to filter untrustworthy knowledge so that the CBR
+system will not use it anymore. Moreover, the trustworthiness score is also
+used to rank the CBR results. The second approach addresses the issue of
+representing the typicality between subclasses and classes in a hierarchy.
+The typicality is used to change the hierarchical organization used by the
+CBR system. Both approaches have been evaluated in the framework of
+eTaaable, a CBR system which adapts cooking recipes using knowledge coming
+from an e-community. The evaluations show that managing the trustworthiness
+of the knowledge produced by an e-community improves the quality of the
+results returned by eTaaable. The evaluations also shows that eTaaable
+returns also better results when using knowledge reorganized according to
+typicality.
+
+*Keywords.* case-based reasoning, e-community, trustworthiness, typicality.
+
+Yours sincerely,
+Emmanuelle Gaillard
+

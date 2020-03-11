@@ -1,0 +1,60 @@
+Objet : Stage Master 2 / Ingénieur
+
+Lieu : Université de Haute-Alsace / Laboratoire MIPS (EA 2332), Mulhouse,
+France
+
+Sujet : Modélisation et analyse de procédures chirurgicales
+
+Stage de 6 mois rémunéré 523 EURO / mois, démarrage entre janvier et mars 2015.
+
+Sujet : Plus d'un demi-million de chirurgies sont effectuées chaque jour
+dans le monde, ce qui fait de la chirurgie un des éléments les plus
+importants dans le domaine de la santé. De nombreux facteurs concurrentiels
+incitent à une meilleure compréhension des processus chirurgicaux : le
+nombre de patients ne cesse d'augmenter, les procédures chirurgicales
+deviennent de plus en plus complexes, les interventions chirurgicales
+doivent être de plus en plus justifiées et les procédures moins coûteuses.
+
+Depuis maintenant plusieurs années, notre équipe s'intéresse à l'analyse
+d'enregistrements de chirurgies [1,2] sous la forme de séquences
+symboliques d'activités chirurgicales. Nous avons ainsi proposé de
+nouvelles méthodes d'analyse permettant de comparer et d'identifier
+différents comportements chirurgicaux. Le but de ce stage sera de se
+familiariser avec le domaine des SPM (Surgical Process Model) [3] et de
+contribuer aux évolutions des méthodes actuellement en cours de
+développement au sein de notre équipe de recherche [1,2]. L'utilisation
+d'objets connectés (type Google Glass) sera notamment envisagée afin
+d'étudier leur pertinence dans ce domaine.
+
+Des compétences en analyse de données (intégration, clustering,
+classification), base de données (SQL), développement (Java), et web
+sémantique (OWL) sont demandées.
+
+CV et lettre de motivation sont à envoyer à germain.forestier@uha.fr pour
+faire acte de candidature.
+
+Cordialement,
+
+Germain Forestier
+germain.forestier@uha.fr
+http://germain-forestier.info/
+
+[1] G. Forestier, F. Lalys, R. Riffaud, L. Collins, J. Meixensberger, S. N.
+Wassef, T. Neumuth, B. Goulet, and P. Jannin. Multi-site study of surgical
+practice in neurosurgery based on surgical process models. Journal of
+Biomedical Informatics, 46(5):822-829, 2013.
+
+[2] G. Forestier, F. Lalys, L. Riffaud, B Trelhu, and P. Jannin.
+Classification of surgical processes using dynamic time warping. Journal of
+Biomedical Informatics, 45(2):255-264, 2012.
+
+[3] Lalys, F. and Jannin, P. Surgical process modelling: a review.
+International journal of computer assisted radiology and surgery, 2013
+
+-- 
+Germain Forestier - Maitre de conférences
+Université de Haute Alsace / ENSISA / MIPS
+Tel : 03 89 33 69 63
+Twitter : @gforestier <http://twitter.com/gforestier>
+http://germain-forestier.info/
+

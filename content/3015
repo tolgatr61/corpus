@@ -1,0 +1,39 @@
+(Désolée pour les envois multiples.)
+
+Bonjour,
+
+Nous cherchons des candidats pour effectuer un stage de Master 2 Recherche au sein du site de Blois du Laboratoire d’Informatique de l’Université de Tours, sur un sujet d’extraction de motifs séquentiels dans un environnement Hadoop/Spark :
+
+http://www.info.univ-tours.fr/~li/stages/2015/
+
+
+Titre : Extraction de motifs séquentiels dans un environnement Hadoop/Spark
+
+Depuis quelques années, la nécessité de stocker et d’analyseravec des milliers de nœuds et des pétaoctets de données. Parmi les nombreux frameworks ayant été développés pour cet objectif, le framework Hadoop implémentant le modèle de programmation MapReduce et le framework Spark basé sur le modèle RDD (Resilient Distributed Datasets) ont été largement utilisés pour la fouille de données.
+
+Dans ce contexte, différents algorithmes d’extraction de motifsencore été conduits sur ce type de framework. L’objectif de ce stage de Master 2 Recherche sera ainsi d’implémenter un algorithme de type Pattern-Growth dans un environnement Hadoop (particulièrement MapReduce) ou Spark afin d’extraire des motifs séquentiels. Pour atteindre un tel objectif, les travaux principaux à réaliser seront :
+
+• Une étude bibliographique des approches existantes pour l’extraction de motifs fréquents basées sur les framework Hadoop et/ou Spark ;
+
+• Une implémentation d’une méthode d’extraction de motifs séquentiels de type Pattern-Growth, basée sur un framework Hadoop ou Spark ;
+
+• Une évaluation expérimentale de la méthode implémentée sur de très grands volumes de données (synthétiques et réelles).
+
+Suite au stage, des perspectives sont envisagées dans le cadre d’une thèse.
+
+Mots clés : fouille de données, motifs séquentiels, Pattern-Growth, MapReduce, Hadoop, Spark.
+
+Durée : 4 mois (de mars à juin 2015).
+
+Lieu : le stage se déroulera sur le site de Blois du Laboratoire d’Informatique de l’Université François Rabelais de Tours (http://li.univ-tours.fr).
+
+Gratification : environ 500 € mensuel.
+
+Contact : pour candidater, envoyer CV + relevés de notes + lettre de motivation à Dominique Li (dominique.li@univ-tours.fr). Les candidats devront posséder des compétences en fouille de données et en programmation Java. Les candidats retenus seront contactés pour un entretien oral (qui pourra être fait à distance, par exemple par Skype).
+
+Cordialement,
+
+Dominique Li
+
+
+

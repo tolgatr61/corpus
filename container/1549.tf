@@ -1,0 +1,20 @@
+à 
+bonjour 
+chantal 
+ci 
+cordialement 
+d 
+de 2
+des 
+descriptif 
+ingénieur 
+institut 
+joint 
+l 
+modélisation 
+poste 
+recherche 
+reynaud 
+systèmes 
+un 
+vivants 

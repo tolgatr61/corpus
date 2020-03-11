@@ -1,0 +1,134 @@
+(Désolé pour les envois multiples)
+
+APPEL A CONTRIBUTIONS
+
+ATELIER VIF – EGC 2015
+27 Janvier 2015 Luxembourg
+
+Dates importantes
+- Date limite de soumission : 2 décembre 2014
+- Notification aux auteurs : 19 décembre 2014
+- Publication du pré-programme : 6 janvier 2015
+- Version finale des articles : 13 janvier 2015
+- Atelier : 27 janvier 2015
+
+-----------------------------------------------
+
+ATELIER Visualisation d’Informations, Interaction, et Fouille de données
+
+http://egc2015.lippmann.lu/fr/ateliers/ateliervif/
+
+Présentation générale :
+
+Désormais bien établi à EGC, l’atelier VIF émane du groupe de travail 
+Visualisation d’Information, Interaction et Fouille de données, fruit de 
+la collaboration entre les associations EGC et AFIHM.
+
+L’atelier se propose de faire le point sur les tendances les plus 
+actuelles en visualisation interactive d’informations, tant du point de 
+vue fondamental que des applications.
+
+À la confluence des communautés EGC et VIS, les méthodes de 
+visualisation interactive et de fouille visuelle des données sont au 
+cœur de cet atelier. Il aura pour vocation de favoriser l’échange sur 
+l’évolution récente des axes de recherche dans ces thématiques, et sur 
+l’application des méthodes de visualisation à des problématiques 
+industrielles. Le traitement de données massives (Big Data) et des flux 
+de données fera l’objet d’une attention particulière.
+
+
+Thèmes (liste non-exhaustive) :
+
+•	Analyse visuelle des données
+•	Visualisation de données complexes et/ou hétérogènes
+(Open Data, Linked Data)
+•	Fouille de données visuelle
+•	Visualisation collaborative
+•	Visualisation dynamique et interactive
+•	Applications de la visualisation (e.g. en business intelligence)
+•	Applications scientifiques (notamment aux études environnementales)
+•	Supports logiciels et/ou matériels à la visualisation
+
+
+Objectifs :
+
+L’atelier se propose d’être un lieu d’échange privilégié entre acteurs 
+scientifiques et opérationnels s’intéressant aux méthodes de 
+visualisation interactive.  Les présentations peuvent porter sur des 
+travaux scientifiques, des réalisations pratiques, ainsi que sur des 
+projets en cours ou réalisés mettant en évidence les défis et 
+l’efficacité des méthodes visuelles interactives. Les travaux présentant 
+des cas d’utilisation de la visualisation et de la fouille de données 
+visuelle seront particulièrement appréciés, tout comme le seront les 
+démonstrations de logiciel associées le jour de l’atelier.
+
+
+Cas d’utilisation suggéré :
+
+Pour encourager les cas d’utilisation pratiques, et faire émerger les 
+complémentarités entre techniques de fouille de données visuelle, nous 
+proposons aux auteurs le souhaitant d'appliquer leurs techniques à un 
+scénario impliquant le jeu de données UCI Forest Cover Type 
+(http://archive.ics.uci.edu/ml/datasets/Covertype). Les particularités 
+de ce jeu de données (e.g., volumétrie relativement importante, 
+variables numériques et catégorielles, sémantique forte des variables) 
+devraient permettre aux auteurs d'enrichir la tâche de classification 
+supervisée à laquelle ces données sont habituellement dévolues.
+
+
+Soumission et présentation :
+
+Les soumissions se feront sous la forme d’un article de 6 à 12 pages, 
+via le lien easychair suivant :
+
+https://easychair.org/conferences/?conf=ateliervifegc2015
+
+Les auteurs devront formater leurs contributions grâce au style LaTeX 
+RNTI :
+
+http://www.editions-rnti.fr/files/RNTI-X-Y2.1.zip
+
+Les auteurs disposeront de 20 minutes pour présenter leurs travaux. 
+Chaque présentation sera suivie de 10 minutes de questions. Le cas 
+échéant, le temps de présentation sera aménagé pour permettre les 
+démonstrations, et favoriser les échanges avec l’audience (e.g., outils 
+utilisés, données).
+
+
+Organisateurs :
+
+Mohammad Ghoniem (CRP – Gabriel Lippmann)
+Pierrick Bruneau (CRP – Gabriel Lippmann)
+Michaël Aupetit (Qatar Computing Research Institute)
+
+
+Comité de Programme :
+
+Michaël Aupetit (Qatar Computing Research Institute)
+Hanene Azzag (Université Paris 13 Sorbonne)
+Fatma Bouali (Université François Rabelais de Tours et Université de 
+Lille 2)
+Pierrick Bruneau (CRP – Gabriel Lippmann)
+Mohammad Ghoniem (CRP – Gabriel Lippmann)
+Fabrice Guillet (Université de Nantes)
+Patrik Hitzelberger (CRP – Gabriel Lippmann)
+Pascale Kuntz (Université de Nantes)
+Nicolas Labroche (Université François Rabelais de Tours)
+Guy Mélançon (Université de Bordeaux 1)
+Monique Noirhomme (Institut d'Informatique, FUNDP, Namur)
+Benoît Otjacques (CRP – Gabriel Lippmann)
+Fabien Picarougne (Université de Nantes)
+Bruno Pinaud (Université de Bordeaux)
+Julien Velcin (Université de Lyon 2)
+Gilles Venturini (Université François Rabelais de Tours)
+
+-----------------------------------------------
+
+Pierrick Bruneau
+
+Chercheur
+Centre de Recherche Public - Gabriel Lippmann
+41, rue du Brill
+L-4422 Belvaux (Luxembourg)
+
+

@@ -1,0 +1,106 @@
+Bonjour,
+
+Ci-dessous, une annonce concernant un poste d'ingénieur en géomatique au 
+sein du projet PIA-Jeunesse (Métropole de Lille - laboratoire GERiiCO, 
+Université de Lille) avec des missions en développement et déploiement 
+d’un moteur de recherche géographique.
+
+Eric Kergosien
+Coordinateur projet PIA Jeunesse - GERiiCO,
+MCF GERiiCO,
+Université Lille.
+
+===========
+
+Conception et développement d’un moteur de recherche géographique pour 
+l’aide à la prise de décisions à l’échelle d’un territoire métropolitain 
+: le cas de la Métropole européenne de Lille sur le Programme 
+d’Investissement d’Avenir PIA-Jeunesse autour des thématiques emploi - 
+jeunesse - mobilité et numérique.
+
+
+Le contrat d'ingénieur entre dans le cadre du projet PIA-Jeunesse mené 
+entre le laboratoire GERiiCO et la Métropole Européenne de Lille, sur la 
+période 2017 - 2020.
+Le contrat est de 13/14 mois sur la période février/avril 2018 8 —> 
+avril/juin 2019.
+
+Le projet vise pour le laboratoire à participer à l’évaluation du 
+programme d’Investissement d’Avenir PIA-Jeunesse mené par la Métropole 
+Européenne de Lille. L’évaluation du projet est en effet centrale dans 
+la démarche du PIA métropolitain pour pérenniser des modalités de 
+travail et mieux intégrer les politiques jeunesses à l’échelle des 
+bassins de vie et à simplifier les parcours des jeunes. Il est proposé 
+de mettre en place un cadre évaluatif permettant d’accompagner chaque 
+étape du projet.
+
+Dans ce sens, le contrat vise à proposer une application web dynamique 
+permettant de (1) cartographier le réseau des acteurs participant de 
+près ou de loin au projet et (2) de proposer des interfaces dynamiques 
+pour analyser les résultats provenant des différents travaux menés sur 
+le terrain (enquêtes des chercheurs, observations, etc.).
+A terme, l'application devra également être en mesure de pouvoir 
+projeter des corpus documentaire (enquêtes, résultats, articles de 
+presse, données des réseaux sociaux, etc.) et de naviguer à travers ces 
+documents numériques de façon dynamique. Nous nous appuierons notamment 
+sur les résultats des travaux du projet Senterritoire (Kergosien et al., 
+2015) pour la représentation des données dans le temps et dans l’espace.
+
+Pour la mise en place de l'application, des compétences en analyse de 
+données spatiales et des compétences techniques liées à la mise en place 
+d’un Système d’Information Géographique seront nécessaires.
+
+Une première action de ce contrat consistera à mettre en place un moteur 
+de recherche d’information géographique sous forme d’une application Web 
+et d’y intégrer plusieurs couches spatiales proposées par le service SIG 
+de la Métropole Européenne de Lille (acteurs du projet, lieux culturels, 
+lieux institutionnels, réseau de transports, etc.). Le démonstrateur Web 
+doit ensuite permettre de visualiser une ou plusieurs des couches 
+spatiales traitées.
+Un second travail consistera à proposer de nouvelles couches spatiales 
+représentant l’ensemble des travaux menés et l’ensemble des corpus 
+documentaires manipulés dans le cadre du projet. L’application proposera 
+une interface à facette permettant de filtrer les informations à 
+afficher selon différents critères (couches spatiales, période 
+temporelle, acteurs à afficher, thématiques, etc.).
+
+Plus spécifiquement, il s'agit des objectifs suivants:
+- travailler avec les chercheurs du laboratoire GERiiCO et le service 
+SIG de la MEL pour intégrer les couches spatiales pertinentes,
+- intégrer les couches spatiales dans un SIG (QGIS est préconisé),
+- intégrer des couches spatiales externes (OpenStreeMaps, etc.),
+- mettre en place un démonstrateur Web permettant d’interroger les 
+différentes couches spatiales (Infrastructure préconisée du monde du 
+libre, notamment GEOServer, Open Layers…). Les choix techniques seront à 
+discuter de façon collégiale.
+- Intégrer les données manipulées et produites (résultats des enquêtes 
+menées, observations, statistiques des études d’organismes experts, 
+etc.) dans le cadre du projet,
+- proposer un moteur de recherche multicritères (spatial, temporel, 
+thématiques, compétences, types documents, etc.) et dynamique permettant 
+aux experts décideurs (Métropole européenne de Lille, chercheurs, etc.) 
+de naviguer à travers les données et de mener des analyses.
+- Présenter les avancées du travail et résultats à l’équipe complète du 
+projet faisant collaborer les chercheurs de GERiiCO, CERPAS et TVES et 
+les membres de la MEL.
+
+Prérequis :
+- manipulation et test des systèmes d’information géographiques,
+- une expérience en conception et mise en place d’une application Web 
+s’appuyant sur les solutions logicielles du libre (QGIS, GeoServer, Open 
+Layers, ets.) est nécessaire,
+- connaissances en aménagement du territoire,
+- capacité de travailler en équipe et individuellement,
+- lecture et analyse de la littérature scientifique et technique.
+
+Niveau: Master 2/ Ingénieur,
+Durée: 13/14 mois en CDD.
+Salaire : Salaire selon les diplômes et suivant la grille de la fonction 
+publique
+Lieu : Laboratoire GERiiCO, Université Lille 3 à Villeneuve d’Ascq et 
+Métropole Européenne de Lille.
+
+Pour présenter une candidature: envoyer un CV, la lettre de motivation, 
+le relevé de notes et les contacts de deux référents à
+eric.kergosien@univ-lille3.fr <mailto:eric.kergosien@univ-lille3.fr>
+

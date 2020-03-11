@@ -1,0 +1,53 @@
+Bonjour.
+
+J'ai le plaisir de vous convier à ma soutenance de thèse, intitulée : «
+Validation, synthèse et paramétrage des cartes cognitives ».
+
+La soutenance aura lieu le lundi 4 novembre à 10h00 à l'UFR Sciences de
+l'Université d'Angers, en salle L002.
+Vous êtes également conviés au pot qui aura lieu en salle de pause du
+département informatique après la soutenance.
+
+Le jury sera composé de :
+    Patrice Buche, Ingénieur de recherche, Montpellier SupAgro (rapporteur)
+    Juliette Dibie-Barthélemy, Professeur, AgroParisTech (rapporteur)
+    Christophe Roche, Professeur, Université de Savoie (examinateur)
+    Stéphane Loiseau, Professeur, Université d'Angers (directeur de thèse)
+    David Genest, Maître de conférences, Université d'Angers, (co-encadrant)
+    Laurent Garcia, Maître de conférences, Université d'Angers
+(co-encadrant)
+    Philippe Leray, Professeur, École polytechnique de Nantes (membre
+invité)
+
+Résumé :
+Les cartes cognitives sont un modèle graphique qui permet de représenter
+visuellement des influences entre des concepts. Ce modèle est utilisé
+pour l'aide à la prise de décision. Il dispose pour cela d'une
+opération, appelée influence propagée, qui calcule l'influence globale
+de n'importe quel concept de la carte sur n'importe quel autre.
+Notre première contribution consiste à proposer différents critères de
+qualité pour valider une carte. Ces critères permettent de s'assurer que
+l'influence propagée d'un concept sur un autre n'est pas ambiguë. Notre
+seconde contribution est de synthétiser différentes cartes cognitives
+produites par différents designers en une carte unique. Nous utilisons
+pour cela une taxonomie de concepts qui exprime les liens entre les
+concepts utilisés dans les différents cartes et un ordre de préférence
+sur ces designers pour gérer les informations contradictoires. Notre
+troisième contribution consiste à étudier la sémantique qu'on peut
+donner à une carte cognitive en comparant ce modèle à d'autres modèles
+de représentation des connaissances. De cette étude, nous définissons le
+modèle des cartes cognitives probabilistes dans lequel les valeurs des
+influences sont apparentées à des probabilités. Nous avons également
+développé un outil logiciel implémentant les différentes notions
+décrites précédemment.
+
+Cordialement,
+Aymeric Le Dorze
+
+-- 
+Aymeric Le Dorze
+Doctorant au LERIA
+Université d'Angers 2, Boulevard Lavoisier 49045 ANGERS CEDEX 01
+Tel: 02 41 73 52 74
+
+

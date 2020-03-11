@@ -1,0 +1,34 @@
+L'analyseur multilingue LIMA sous licence libre
+
+Le CEA LIST annonce la mise sous licence libre de son analyseur linguistique LIMA, désormais disponible sous la licence Affero GPL v3 ici: https://github.com/aymara/lima/wiki.
+
+LIMA (Libre Multilingual Analyzer) est un analyseur linguistique multilingue développé par le laboratoire LVIC (Laboratoire Vision et Ingénierie des Contenus) du CEA LIST pendant plus de 10 ans, selon un modèle propriétaire. Le logiciel est désormais disponible selon un modèle de double licence.
+
+LIMA supporte l'ensemble des étapes de l'analyse linguistique (morphologie, syntaxe, sémantique, entités, coréférences) selon une architecture modulaire et hautement configurable, avec des performances élevées aussi bien en vitesse qu'en qualité d'analyse. LIMA présente aussi l'avantage d'avoir été conçu dès le départ dans le but de l'intégrer à des solutions de qualité industrielle.
+
+La version Libre est complète avec des modules de traitement et des ressources permettant d'analyser des textes en anglais et en français. Conformément à la licence Affero GPL v3, il est possible d'utiliser LIMA librement tant que les logiciels qui y sont liés, qu'ils soient distribués ou exécutés à travers le réseau, sont eux aussi des logiciels libres avec une licence compatible.
+
+La version commerciale est complétée avec des modules et des ressources permettant d'analyser des textes dans de multiples langues supplémentaires (allemand, arabe, chinois, espagnol, hongrois, italien, ...). Elle est disponible directement auprès du CEA LIST dans le cadre de partenariats de R&D ou auprès de son partenaire ANT'inno, qui propose des offres incluant le support du logiciel et l'adaptation de ressources linguistiques à des besoins spécifiques.
+
+Avec cette publication libre de son logiciel, l'objectif du CEA LIST est de fournir une solution d'analyse linguistique utilisable aussi bien par des chercheurs du domaine que comme outil de prétraitement de textes dans des applications open source. L'adoption de LIMA par une large communauté en permettra une amélioration plus rapide et robuste, aussi bien d'un point de vue purement logiciel que scientifique.
+
+L'intérêt pour les utilisateurs de la version Libre est de disposer d'un outil de qualité industrielle dont les développements open source sont supportés par un acteur pérenne (CEA). Concernant la version commerciale, il leur est possible de librement tester et adapter LIMA à leur usage avant d'en acquérir une licence commerciale.
+
+Contact: Gaël de Chalendar gael.de-chalendar@cea.fr
+
+
+-- 
+Gael de Chalendar
+CEA LIST
+Laboratoire Vision et Ingénierie des Contenus
+(Vision and Content Engineering Laboratory)
+
+CEA SACLAY - NANO INNOV
+BAT. 861
+Point courier 173
+91191 GIF SUR YVETTE
+
+Tél.:+33.1.69.08.01.50 Fax:+33.1.69.08.01.15 
+Email : Gael.D.O.T.de-Chalendar.A@T.cea.D.O.T.fr
+
+

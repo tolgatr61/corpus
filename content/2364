@@ -1,0 +1,77 @@
+Urgent: date limite de candidature 25/06/2014
+
+Choral [1] est un système de résumé automatique mono-document par extraction 
+développé au LVIC, industrialisé et mis à la disposition des 3000 utilisateurs 
+de l'IRSN. Choral repose largement sur l'analyseur linguistique multilingue du 
+laboratoire, LIMA [2]. Actuellement, Choral se contente d'extraire verbatim 
+les phrases d'un unique document source qu'il juge les plus pertinentes selon 
+plusieurs critères (sens des mots les plus représentés dans le document, 
+expressions exprimant le point de vue de l'auteur, présence de syntagmes 
+nominaux complexes, ...).
+
+Les tendances de fond de ces dernières années dans le domaine sont le résumé 
+multi-documents [3,4] et le résumé dynamique (ou évolutif) [5]. Une approche 
+complémentaire, le résumé orienté par un profil, a déjà été explorée au 
+laboratoire [6]. Le but de cette thèse sera de proposer des améliorations des 
+techniques existantes et d'en intégrer une implémentation à Choral en vue de 
+son expérimentation.
+
+
+La thèse se déroulera de la manière suivante:
+- exploration de la bibliographie ;
+- prise en main des outils et du code existants;
+- proposition d'améliorations possibles des approches existantes exploitant 
+les spécificités des outils et ressources du laboratoire;
+- conception et développement d'une implémentation dans Choral ;
+- évaluation des résultats sur des données de référence ;
+- si possible, participation à une campagne d'évaluation.
+
+
+La thèse se déroulera dans les locaux du LVIC situés à Nano Innov à Palaiseau 
+(près de Polytechnique, Sup'Optique, Thales et Danone). Elle est financée par 
+le CEA.
+
+Requis :
+ - date limite de réception des candidatures : 25 juin 2014
+ - Master 2 en informatique avec une composante TAL
+ - Mentions en licence, master 1 et 2 (joindre relevés de notes)
+
+Envoyer les candidatures à:
+mailto:gael.de-chalendar@cea.fr
+
+Références:
+[1] Flores, J. G., Ferret, O., & de Chalendar, G. Summarizing through sense 
+concentration and Contextual Exploration rules: the CHORAL system at TAC 2009.
+[2] Besançon, R. et al. (2010). “LIMA: A Multilingual Framework for Linguistic 
+Analysis and Linguistic Resources Development and Evaluation”. In LREC 2010.
+[3] Ji, H., Favre, B., Lin, W. P., Gillick, D., Hakkani-Tur, D., & Grishman, 
+R. (2013). Open-Domain multi-document summarization via information 
+extraction: Challenges and prospects. In Multi-source, Multilingual 
+Information Extraction and Summarization (pp. 177-201). Springer Berlin 
+Heidelberg.
+[4] Munoz, R., & Atkinson, J. (2013). Rhetorics-based multi-document 
+summarization. Expert Systems with Applications.
+[5] Gohr, A., Spiliopoulou, M., & Hinneburg, A. (2013). Visually Summarizing 
+Semantic Evolution in Document Streams with Topic Table. In Knowledge 
+Discovery, Knowledge Engineering and Knowledge Management (pp. 136-150). 
+Springer Berlin Heidelberg.
+[6] Ferret, O., Châar, S. L., & Fluhr, C. (2004). Filtrage pour la 
+construction de résumés multi-documents guidée par un profil. Traitement 
+automatique des langues, 45(1), 65-93.
+
+
+-- 
+Gael de Chalendar
+CEA LIST
+Laboratoire Vision et Ingénierie des Contenus
+(Vision and Content Engineering Laboratory)
+
+CEA SACLAY - NANO INNOV
+BAT. 861
+Point courier 173
+91191 GIF SUR YVETTE
+
+Tél.:+33.1.69.08.01.50 Fax:+33.1.69.08.01.15 
+Email : Gael.D.O.T.de-Chalendar.A@T.cea.D.O.T.fr
+
+

@@ -1,0 +1,100 @@
+---------------------------------------------------------------------------------------------------
+Offre de stage recherche Master 2 informatique ou 3ème année ingénieur
+
+Annotation sémantique fine de textes par clustering
+---------------------------------------------------------------------------------------------------
+
+Niveau : Master 2 informatique ou 3ème année ingénieur
+Date de début : mars, avril 2015
+Durée : 4-6 mois
+Mots clefs: *informatique, apprentissage automatique non supervisé*, 
+ontologie, sémantique distributionnelle, traitement automatique de la langue
+
+Contexte :
+
+L’annotation sémantique fine de textes identifie et catégorise 
+automatiquement des termes dans des documents par des concepts 
+d’ontologies de grandes tailles. Elle est utilisée par les moteurs de 
+recherche sémantique, les outils d’extraction d’information et 
+Question-Réponse et par les méthodes de peuplement, de révision et 
+d’alignement d’ontologies. Les équipes de recherche en informatique 
+MaIAGE-Inra et LaHDAK-LRI développent des méthodes de modélisation de 
+connaissance à partir d’ontologies multiples par alignement et à partir 
+de textes pour l’acquisition de connaissance. L’objectif du stage est de 
+développer une méthode de sémantique distributionnelle appliquée au 
+texte pour (1) annoter sémantiquement des textes et (2) aligner des 
+ontologies en utilisant le texte.
+
+Objectif :
+
+L’approche proposée pour le stage est d’utiliser la sémantique 
+distributionnelle pour calculer une similarité sémantique entre les 
+termes à étiqueter et les concepts de l’ontologie. La sémantique 
+distributionnelle regroupe par clustering les termes sémantiquement 
+proches en fonction de leur contexte d'apparition dans le texte. Deux 
+voies seront explorées pour obtenir des distances pertinentes. Tout 
+d’abord, les contextes des termes seront décrits par les dépendances 
+syntaxiques locales. Ensuite, pour que les classes sémantiques soient 
+interprétables à la lumière de la structure a priori des ontologies, une 
+méthode de clustering semi-supervisé, comme celle de Lemaire & 
+Cornuejols [Ismaili et al., 2014] permettra de (1) guider la formation 
+des classes à l'aide de la connaissance des ontologies pour qu'elles 
+soient faciles à intégrer dans les ontologies et (2) d'expliquer les 
+classes formées pour qu'elles soient utilisables pour une éventuelle 
+révision de l’ontologie. Le stage sera réalisé en collaboration avec 
+l’unité Inra MIA Paris (Antoine Cornuéjols et Juliette Dibie).
+
+Exemple : "[..] /endophytic bacteria isolated from roots of coastal sand 
+dune plants/ [..]"
+--> Le terme "/coastal sand dune plants/" doit être associé à la 
+catégorie "/plant/".
+
+Données et logiciels :
+Les données utilisées pour évaluer la méthode seront celles du domaine 
+des biotopes microbiens, développées par l’équipe Bibliome. Les méthodes 
+seront intégrées dans la suite AlvisNLP de l'équipe. Elles contribueront 
+à la préparation des données de la prochaine édition de la tâche BioNLP 
+Shared Task Bacteria Biotope.
+
+Lieu : Unité MaIAGE, centre de recherche INRA, Jouy-en-Josas
+
+Financement : Financement Labex DiGiCosme
+
+Encadrants : Claire Nédellec, Equipe Bibliome, unité INRA MaIAGE 
+(http://bibliome.jouy.inra.fr) et Brigitte Safar, Equipe LahDAK, LRI, 
+Université Paris-Sud (http://lahdak.lri.fr)
+
+Contact : Merci d'envoyer un CV, une lettre de motivation et un relevé 
+de notes à claire.nedellec[at]jouy.inra.fr et/ou brigitte.safar[at]lri.fr.
+---------------------------------------------------------------------------------------------------
+
+Références :
+
+Robert Bossy, Wiktoria Golik, Zorana Ratkovic, Dialekti Valsamou, 
+Philippe Bessières, Claire Nédellec. An Overview of the Gene Regulation 
+Network and the Bacteria Biotope Tasks in BioNLP’13. BMC Bioinformatics, 
+à paraître en 2015.
+
+Golik W., Warnier P., Nédellec C. "Corpus-based extension of 
+termino-ontology by linguistic analysis: a use case in biomedical event 
+extraction. " Ontology and Lexicon: new insights. Actes du workshop TIA 
+2011 : 9th International Conference on Terminology and Artificial 
+Intelligence, M. Slodzian et al., (eds), Paris, novembre 2011.
+
+F. Hamdi, B. Safar, N. Niraula, C. Reynaud, TaxoMap alignment and 
+refinement modules: Results for OAEI 2010, Ontology Alignment Evaluation 
+Initiative (OAEI) 2010 Campaign - ISWC Ontology Matching Workshop, 
+Shanghai International Convention Center, Shanghai, Chine, 7 novembre, 2010.
+
+Oumaima Alaoui Ismaili, Vincent Lemaire, and Antoine Cornuéjols. A 
+Supervised Methodology to Measure the Variables Contribution to a 
+Clustering. C.K. Loo et al. (Eds.): ICONIP 2014, (21th International 
+Conference on Neural Information Processing), Kuching, Malaisie, Part I, 
+LNCS 8834, pp. 159–166, Springer 2014.
+
+V. Lemaire, O. Allaoui and A. Cornuéjols, “Supervised pretreatments are 
+useful for supervised clustering”, in Proc. of the Second Conf. on Data 
+Analysis (ECDA-2014), Breme, Allemagne, Juillet, 2014.
+
+
+

@@ -1,0 +1,198 @@
+
+Toutes nos excuses en cas de réception multiples
+Merci de diffuser dans vos réseaux
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bonjour,
+
+Veuillez trouver ci, un sujet de thèse, susceptible d'être financée pour 
+la rentrée 2014 par l'École Doctorale Sciences, Technologies, Santé de 
+l'UPJV (Amiens) sur le contingent d'allocations ordinaires (Ministère).
+
+*Titre du sujet de Thèse : *un assistant adaptable et individualisable 
+pour favoriser la persistance des apprenants dans les cours en ligne 
+ouverts et massifs (MOOC-Massive Online Open Courses)**
+
+*Directeurs de thèse : *Gilles Kassel (PR MIS), Marilyne Rosselle (MCF 
+MIS), Stéphanie Jean-Daubias (PR LIRIS)**
+
+*Adresse(s) e-mail : *gilles.kassel@u-picardie.fr 
+<mailto:gilles.kassel@u-picardie.fr>, marilyne.rosselle@u-picardie.fr 
+<mailto:marilyne.rosselle@u-picardie.fr>, 
+Stephanie.Jean-Daubias@liris.univ-lyon1.fr 
+<mailto:Stephanie.Jean-Daubias@liris.univ-lyon1.fr>
+
+*Date limite de réception des candidatures : 30 mai 2014*
+
+*Informations complémentaires (dont constitution du dossier) sur : 
+http://www.u-picardie.fr/65470861/0/fiche_pagelibre/*
+
+**
+
+*Compétences / Prérequis : *collecte et calcul sur les traces, learning 
+analytics, educational data mining, sparql, kTBS, big data.**
+
+*Mots clés : *traces d'utilisation, calcul d'indicateur, assistance à 
+l'utilisateur, adaptation, individualisation, MOOC
+
+**
+
+*Résumé du sujet de thèse : *
+
+Les MOOC sont des dispositifs de formation qui offrent des cours en 
+ligne ouverts à un grand nombre d'apprenants. Dans ce travail, nous 
+partons du constat que le taux d'abandon dans les MOOC est très 
+important : autour de 80%. Parmi les étudiants qui quittent le 
+dispositif après avoir effectivement commencé la formation, certains 
+n'avaient pas l'intention de la suivre intégralement, d'autres ont 
+renoncé à suivre la formation pour des raisons professionnelles ou 
+personnelles. Mais d'autres encore sont perdus dans le dispositif ou 
+perdent leur motivation face aux difficultés qu'ils y rencontrent. C'est 
+à cette dernière catégorie d'apprenants que nous nous intéressons. Notre 
+objectif dans cette recherche est de proposer des modèles théoriques et 
+des outils opérationnels permettant d'identifier ces étudiants et de 
+leur fournir une assistance personnalisée. Nous nous intéressons donc 
+aux deux questions principales suivantes : comment identifier les 
+étudiants en difficulté ? Et comment leur apporter une aide 
+appropriée (nous parlons de remédiation) ?
+
+Cette thèse se situe à l'intersection de l'Ingénierie des Connaissances 
+et du domaine des Environnements Informatiques pour l'Apprentissage Humain.
+
+L'enjeu de cette thèse est de proposer à la fois une approche permettant 
+de calculer au fil du déroulement du MOOC (presqu'en temps réel) des 
+indicateurs révélateurs des difficultés des participants. Par exemple, 
+si l'apprenant clique sur de nombreuses zones de l'écran pendant un 
+temps relativement long, cela peut être le signe qu'il cherche quelque 
+chose ou qu'il est perdu dans le MOOC. Il est envisageable de calculer 
+un indicateur à partir notamment des types de clics de l'utilisateur et 
+du temps moyen entre deux clics. Une synthèse de ces indicateurs 
+constitue un bilan d'utilisation du MOOC, qui peut être communiqué à 
+l'équipe de conception du MOOC (comme dans [Caron 2014]) pour qu'elle 
+puisse le faire évoluer. Mais surtout, nous souhaitons exploiter ce 
+bilan afin de proposer une remédiation adaptative et individualisée. En 
+effet, les MOOC ayant chacun leurs particularités, la remédiation doit 
+être adaptée à chaque MOOC d'une part, et personnalisée en fonction des 
+besoins des participants d'autre part.
+
+Jusqu'à présent, si des diagnostics ont pu être établis concernant les 
+difficultés des participants, ils l'ont été uniquement /a posteriori/, à 
+l'issue du MOOC. Le calcul de tels indicateurs /au cours /du MOOC est 
+une problématique nouvelle, à la fois ardue et prometteuse. Par 
+ailleurs, le MOOC étant par définition identique pour tous les 
+participants, l'individualisation et l'adaptation de la remédiation est 
+elle aussi un enjeu majeur. Enfin l'inclusion des concepteurs de MOOC 
+dans le processus de remédiation est aussi une approche intéressante 
+pour envisager la persistance (/i.e. /le fait de persister dans le MOOC, 
+de continuer à y participer) des apprenants dans les MOOC.
+
+Le calcul d'indicateurs de difficultés rencontrées par les participants 
+et d'indicateurs de persistance pourra bénéficier des approches 
+d'Educational Data Mining ou de Learning Analytics, s'appuyant sur les 
+traces recueillies dans les MOOC, mais aussi sur des enquêtes. Pour la 
+définition de ces indicateurs, nous nous appuierons notamment sur les 
+cadres théoriques, les méthodes et outils de [Caron /et al./, 2014] et 
+[Heutte /et al./ 2014].
+
+Pour la remédiation personnalisée, une des approches envisagées est 
+d'individualiser l'interface et d'adapter les parcours, mais aussi 
+d'utiliser des formes d'étayage comme l'embarquement progressif proposé 
+dans les jeux, où le participant découvre des fonctionnalités et des 
+environnements de plus en plus complexes. Ces approches pourraient 
+soutenir la motivation des participants et renforcer la persistance.
+
+Le terrain d'application privilégié sera celui des MOOC déployés à Lyon, 
+en particulier dans la phase d'élaboration des indicateurs, en raison de 
+l'accès facilité qui nous sera donné. Nous utiliserons aussi les données 
+collectées jusqu'à présent sur le MOOC iNum et sur différents MOOC de 
+FUN. Enfin, nous pourrons également appliquer ces recherches à tout type 
+de plateforme MOOC ou de MOOC qui émergera au cours de la thèse.
+
+Une des difficultés majeures de cette thèse réside dans la proposition 
+d'une approche à la fois suffisamment générique pour être applicable aux 
+différents MOOC, et adaptable et individualisable en fonction des 
+spécificités du contexte et des participants, tout en identifiant des 
+algorithmes ne nécessitant pas un temps de calcul rédhibitoire.
+
+Différentes collaborations sont d'ores et déjà prévues sur différentes 
+parties de ce travail.
+
+Une collaboration est prévue avec le laboratoire LIRIS. Ce laboratoire 
+d'informatique a une expérience à la fois en ce qui concerne les traces 
+(théorie de la trace modélisée ; kTBS, un système de gestion de traces 
+opérationnel [Champin et al., 2013] [kTBS]), et sur l'assistance à 
+l'utilisateur (SÉPIA, un système d'assistance épiphyte également 
+opérationnel [Ginon et al, 2013] [Ginon et Jean-Daubias, 2014]).
+
+Nous collaborerons aussi avec le laboratoire CIREL de l'Université Lille 
+1. Ce laboratoire de Sciences de l'éducation reconnu pour son haut 
+niveau scientifique a une expérience dans la définition des critères 
+d'abandon et de persistance, ainsi que dans le soutien à la motivation 
+[Heutte /et al./, 2014a et 2014b] [Caron /et al./, 2014a, 2014b et 2014c].
+
+*Références*
+
+[Caron /et al. /1014a] P.-A. Caron, J. Heutte, and _M. Rosselle_, 
+"Rapport d'Expertise et Accompagnement par la recherche du dispositif 
+expérimental MOOC iNum," Rapport de recherche [halshs-00950766 - version 
+1] rendu à la MINES (mission numérique pour l'enseignement supérieur), 
+http://hal.archives-ouvertes.fr/, 2014.
+
+[Caron /et al. /1014c] P.-A. Caron, J. Heutte, and _M. Rosselle_, 
+« Appréhension instrumentale d'un dispositif de formation de type MOOC: 
+cadre théorique et méthodologie »dans /Colloque international sur les 
+TIC en éducation////: bilan, enjeux actuels et perspectives 
+futures,/Montréal, Canada, 1-2 mai 2014, à paraître.
+
+[Caron /et al. /1014c] P.-A. Caron, J. Heutte et _M. Rosselle_, 
+« Présentation d'une méthode et d'outils pour évaluer les perceptions 
+des apprenants dans un MOOC », dans /JOurnées Communication et 
+Apprentissage Instrumentés en Réseau/, JOCAIR'2014, Amiens-Paris, 
+France, juin 2014, à paraître.
+
+[Champin et al., 2013] P.-A. Champin, A. Mille & Y. Prié, « Vers des 
+traces numériques comme objets informatiques de premier niveau : une 
+approche par les traces modélisées », numéro spécial « De la trace à la 
+connaissance à l'ère du Web » A. Mille Eds., intellectica 2013/1, n° 59.
+
+[Ginon /et al./, 2013] B. Ginon, _S. Jean-Daubias_, P-A. Champin. « Mise 
+en place d'un système d'assistance personnalisée dans une application 
+existante », dans 24ièmes Journées francophones d'Ingénierie des 
+Connaissances, Lille, du 3 au 5 juillet, Lille, France. 2013.
+
+[Ginon et Jean-Daubias, 2014] B. Ginon and _S. Jean-Daubias_, "Une 
+approche unifiée pour proposer des activités interactives entièrement 
+personnalisées sur les profils d'apprenants," TSI, vol. 33, Nov. 2014, à 
+paraître.
+
+[Heutte /et al./, 2014a] J. Heutte, P.-A. Caron, G. Molinari, and _M. 
+Rosselle_, « Symposium Persistance des apprenants dans les dispositifs 
+collaboratifs à distance: comment mieux intégrer la perception de leur 
+espace d'action ainsi que les composantes motivationnelles et 
+émotionnelles? », /dans 28ième Congrès de l'Association Internationale 
+de Pédagogie Universitaire (AIPU) « Pédagogie universitaire: entre 
+recherche et enseignement »,/ Mons, Belgique, 18-22 mai 2014, à paraître.
+
+[Heutte /et al./, 2014b] J. Heutte, P.-A. Caron et _M. Rosselle_, 
+« Contribution à l'outillage conceptuel, méthodologique et technique de 
+l'évaluation la persistance des apprenants dans un MOOC », dans 
+/Colloque international sur les TIC en éducation////: bilan, enjeux 
+actuels et perspectives futures/, Montréal, Canada, 1-2 mai 2014, à 
+paraître.
+
+[kTBS] kTBS: a kernel for Trace-Based Systems,
+http://kernel-for-trace-based-systems.readthedocs.org/en/latest/, 
+dernière consultation le 09/04/2014.
+
+**
+
+**
+
+
+-- 
+UPJV - UFR des Sciences - Département Informatique / laboratoire MIS
+Coordonnées et informations surhttp://www.u-picardie.fr/mlr/  (in french)
+
+
+
+

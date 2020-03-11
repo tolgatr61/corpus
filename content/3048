@@ -1,0 +1,48 @@
+Offre de thèse au Centre universitaire d’informatique (Université de Genève)
+
+Titre:
+Modèles et outils pour la représentation et l'interconnexion de ressources de connaissances. Application à l'édition savante de corpus de manuscrits.
+
+Contexte:
+Le travail proposé fait partie du projet de recherche "Knowledge engineering models and tools for the digital scholarly publishing of manuscripts" financé par le Fonds national suisse de la recherche scientifique.
+
+Abstract
+The aim of the research is to obtain a knowledge representation and management model and a system for the digital edition of large corpora of original works (manuscripts). One of the key concepts of the proposed approach is that a digital edition of a corpus of manuscripts is not a single document containing a scholarly transcription of the manuscripts. It is in fact a set of evolving interconnected knowledge resources (manuscript transcriptions, annotations, scholarly transcriptions, related terminologies and ontologies, dictionaries, etc.) that represents the current state of our knowledge about the manuscripts. Therefore the proposed research concentrates on models and tools for the representation and the interconnection of these knowledge resources. The proposed research methodology consists in
+ 1. creating a knowledge representation and operation model for producing scholarly digital editions of manuscripts
+ 2. developing a knowledge management system that implements this model
+ 3. testing the relevance of the model by using the system on a real publication task
+The model and system will be applied to the scholarly publishing of some set of manuscripts from Ferdinand de Saussure.
+
+Objectifs de la thèse:
+La question de recherche générale abordée dans cette thèse est "Comment créer et exploiter un réseau de ressources de connaissances associé à un corpus de manuscrits".  Cela soulève des sous-questions telles que:
+"Comment modéliser un réseau de ressources hétérogènes comprenant des images, des textes, des dictionnaires, terminologies et ontologies, et divers types de relations entre ces ressources (alignements, annotation, …)"
+"Comment définir, puis implémenter, un ensemble d'opérations d'interconnexion de ressources hétérogènes (recherche de correspondances, découverte de relations sémantiques et temporelles, ...)
+
+Contexte de travail:
+Le travail se déroulera au sein des équipes Ingénierie des connaissances (cui.unige.ch/isi/ <http://cui.unige.ch/isi/> ) et Technologie du langage (http://www.latl.unige.ch <http://www.latl.unige.ch/> ) du Centre universitaire d’informatique, en collaboration avec la Faculté des Lettres de l’Université de Genève. Les implémentations et tests se feront autour de la plate-forme de stockage et de visualisation de manuscrits fds.unige.ch <http://fds.unige.ch/>  .
+
+Profil:
+Le candidat doit avoir un master en informatique/systèmes d'information avec de bonnes connaissances des systèmes de représentation de connaissances (ontologies, terminologies, ...), de l'extraction d'information et connaissances à partir de textes et des technologies du Web sémantique (RDF, SPARQL, OWL).
+
+Financement: financement du Fonds national suisse de la recherche scientifique
+Durée : 24 mois (renouvelable une fois)
+Début : 1er octobre ou 1er novembre 2015
+Salaire : CHF 4000 (env.)
+
+Candidature :
+Les candidats transmettront par courriel  un CV et une lettre de motivation   à  Gilles Falquet (gilles.falquet@unige.ch <mailto:gilles.falquet@unige.ch>) et Luka Nerima (luka.nerima@unige.ch <mailto:luka.nerima@unige.ch>)
+
+
+
+
+Gilles Falquet
+_________________________________________
+Centre universitaire d’informatique, Université de Genève
+7 route de Drize, CH-1227 Carouge, Suisse
+Tél.: +41 22 379 01 62 - Fax +41  22 379 02 33
+
+
+
+
+
+

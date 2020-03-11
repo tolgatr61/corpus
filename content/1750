@@ -1,0 +1,146 @@
+Ingénieure ou ingénieur Java
+
+
+  Contexte :
+
+Le projet ANR APPEL (Analyse Pluridisciplinaire du Pétitionnement
+En Ligne – Pluridisciplinary Analysis of On Line Petitioning,
+http://anr-appel.eu) vise à faire de l’étude de l’e-pétitionnement
+l’occasion d’un questionnement à trois dimensions, qui correspondent
+chacune à une entrée disciplinaire : sociologique et politologique ;
+juridique ; et méthodologico-linguistique. Dans le cadre de ce projet,
+les équipes impliquées analysent notamment une importante base de
+données de pétitions en mobilisant divers outils informatiques et
+statistiques. Un pôle de l’ANR est plus particulièrement impliqué dans
+l’analyse statistique des données textuelles, autour d’un axe « sciences
+du langage et de l’informatique »et qui est chargé de développer un
+logiciel voué à l’étude automatique du langage, et tout particulièrement
+adapté à l’étude de l’argumentation et à la visualisation des données en
+partant de « big data ». Ce pôle est constitué de chercheurs du Céditec
+et du LIGM concepteurs des outils TreeCloud et TextObserver.
+
+Il s’agit ici de développer l'outil TextObserver conçu par Jean-Marc
+Leblanc et d’y adjoindre des fonctionnalités ciblées sur les besoins
+liés à ce corpus de pétitions.
+
+Le Céditec – Centre d’étude des discours, images, textes, écrits,
+communication – est une unité de recherche interdisciplinaire de
+l'Université Paris-Est Créteil qui regroupe des chercheuses et
+chercheurs en sciences du langage et en sciences de l’information et de
+la communication autour d’un domaine d’étude commun : les discours dans
+leurs rapports aux institutions. Les approches sont diverses (analyse du
+discours, sémiologie, linguistique et informatique textuelles,
+sociologie, anthropologie culturelle, histoire, sciences politiques) et
+les études portent sur les formes de construction et d’interprétation,
+les conditions de production et de réception, les pratiques et usages
+sociaux ainsi que sur les enjeux de pouvoir et de
+savoir (http://ceditec.u-pec.fr).
+
+Le Céditec collabore avec le LIGM, unité de recherche en informatique de
+l'Université Paris-Est Marne-la-Vallée, sur le développement d'outils de
+traitements de corpus textuels.
+
+
+  Positionnement du poste :
+
+Placée sous la responsabilité de Jean-Marc Leblanc, la personne recrutée
+sera en charge des développements de nouvelles fonctionnalités pour le
+logiciel libre TextObserver, selon un mode de développement agile.
+Localisée au CEDITEC, elle sera en contact régulier avec Philippe
+Gambette pour les aspects plus algorithmiques et techniques.
+
+Les développements réalisés devront respecter des contraintes de
+propriété intellectuelle (licence libre GPL), de rapidité (notamment
+pour les fonctionnalités de mise à jour des visualisations), de
+modularité, de commentaire (en français ou en anglais) et de
+documentation technique et fonctionnelle (en français pour la
+documentation fonctionnelle) du code développé.
+
+Dans le cas d'un recrutement de stagiaire pour travailler sur le logiciel
+TextObserver, une collaboration ou un co-encadrement pourront être envisagés.
+
+
+  Missions principales et activités :
+
+Les tâches d'implémentation consisteront à :
+
+- optimiser le code actuel pour l'adapter au traitement de gros corpus
+  textuels (réflexion sur des méthodes de prétraitement, de traitement
+  multi-échelle, d'échantillonnage, d'indexation, etc.)
+
+- ajouter des outils de visualisation de textes (nuages arborés
+  construits avec TreeCloud, graphes de cooccurrences récursives et
+  cooccurrences généralisées), en intégrant ou en adaptant des
+  bibliothèques ou outils existants de visualisation d'arbres ou de graphes ;
+
+- intégrer des outils d'étiquetage : automatique d'une part (par exemple
+  par étiquetage avec TreeTagger et Unitex) ou manuel (ajout de balises
+  XML-TEI par l'interface graphique) ;
+
+- ajouter des outils de comparaison de visualisations de deux corpus
+  textuels : identification de mots communs dans deux analyses
+  factorielles, deux arbres de mots ou deux réseaux de cooccurrences ;
+
+- ajouter des outils améliorant la navigabilité entre les visualisations, et l'ergonomie du logiciel ;
+
+- éventuellement, adapter l'outil pour une utilisation comme application web, ou en lien avec une interface web.
+
+La personne recrutée sera également impliquée dans la conception des
+sessions de tests pour les utilisateurs, la réflexion sur les solutions
+techniques à apporter à certaines problématiques rencontrées, les choix
+des fonctionnalités à implémenter, les choix techniques, etc. Dans le
+cas où des publications académiques seraient issues de ses travaux, elle
+fera partie des auteurs de ces publications.
+
+
+  Compétences requises :
+
+En plus d'un bon niveau technique en développement Java, autonomie et
+esprit d'initiative sont des compétences importantes pour ce poste. De
+bonnes aptitudes de communication sont demandées, pour s'intégrer dans
+un cadre de travail interdisciplinaire.
+
+Des compétences en algorithmique seront particulièrement importantes
+pour les tâches d'optimisation, notamment dans le calcul des
+visualisations, et leur mise à jour dynamique. Des connaissances en
+algorithmique du texte, en outils de visualisation de données textuelles
+ou en textométrie constitueront un avantage significatif pour ce poste.
+
+Une expérience de développement de logiciel libre, ou selon une méthodologie
+agile, seront appréciées. Pour le cas où une version web du logiciel serait
+envisagée, des compétences en développement web seront bienvenues.
+
+
+  Qualification :
+
+Bac + 5, diplôme d’ingénieur.
+
+
+  Rémunération :
+
+Selon la qualification et l’expérience : de 1500 à 2400 euros nets par mois
+
+Durée: 14 mois à compter du 1er septembre 2016 ou début janvier 2017 au plus tard.
+
+
+  Localisation :
+
+La personne recrutée travaillera sur le site suivant:
+
+UFR des Lettres, Langues et Sciences Humaines,
+61 avenue du général de Gaulle, 94010 Créteil Cedex
+
+
+Contact :
+
+jean-marc.leblanc@u-pec.fr
+
+01.45.17.11.73
+01.45.17.66.06
+Méthode agile : https://fr.wikipedia.org/wiki/M%C3%A9thode_agile
+Product owner : Jean-Marc Leblanc
+Scrum master : Philippe Gambette
+Développeur : personne recrutée
+
+
+

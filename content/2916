@@ -1,0 +1,47 @@
+Bonjour,
+L'irstea propose un sujet de M2 avec une possibilité de thèse en prolongement sur les "Méthodes de publication de données sur Internet pour Réseau de Capteurs Sans Fil".
+
+Cordialement
+Jean-Pierre Chanet
+
+---------------------
+Méthodes de publication de données sur Internet pour Réseau de Capteurs Sans Fil
+
+Résumé
+L'émergence de nouvelles technologies sans fil ouvrent de nouvelles perspectives au niveau des Réseaux de Capteurs Sans Fil (RCSF) pour l’agriculture et l’environnement. De nouveaux modes de fonctionnement peuvent être envisagés et sont à définir pour la mise à disposition et la présentation des données collectées à l'utilisateur final dans le cadre de l’Internet des Objets (IdO). Cependant, un capteur sans fil reste un dispositif électronique avec des ressources limitées (énergie, mémoire et puissance de calcul) qui complexifient voire interdisent l’utilisation de systèmes de publication de données sur Internet appliqués à d’autres entités telles que les téléphones intelligents (« smartphones »). L’objectif global de ce stage est de répertorier les méthodes et architectures logicielles existantes pour la publication de données sur Internet afin d’étudier leur application au domaine des RCSF. Ce stage pourrait être suivi d’une thèse.
+
+Mots clés
+Réseau de Capteurs Sans Fil (RCSF), Internet des Objets (IdO), technologies Web Sémantique, acquisition de données agri-environnementales
+
+Description du sujet
+Les capteurs sans fil permettent l'acquisition de différents types de grandeur physique à l'aide de leurs sondes (ou capteurs) et de transmettre ces données, par communication sans fil, vers un système central (ou station) de collecte pour les fournir à l'utilisateur final. Cette transmission peut être directe ou relayer par les autres capteurs sans fil du même Réseau de Capteurs Sans Fil (RCSF) (Akyildiz et al. 2002). En outre, le système central, associé à une passerelle de communication, peut rendre les données d’un RCSF disponibles sur Internet dans le cadre de l’Internet des Objets (IdO) (Atzori, Iera, and Morabito 2010). Cependant, ce mode de fonctionnement centralisé pose différents problèmes dont le principal est les différences de consommation d’énergie, observées au niveau des capteurs sans fil, liées à leur position par rapport au système de collecte. L’arrivée de nouvelles technologies de communication sans fil telles que 6LoWPAN (IPv6 over Low power Wireless Personal Network) offre la possibilité de proposer et de mettre en pratique des nouveaux modes de fonctionnement au niveau des RCSF (Kushalnagar, Montenegro, and Schumacher 2007). Elle permet également d’envisager l’utilisation, dans le cadre des RCSF, de systèmes ou méthodes de publication de données sur Internet élaborés pour d’autres types d’entités telles que les téléphones intelligents (« smartphone »). Certains d’entre eux découlent de travaux de recherche menés dans le cadre du Web Sémantique et utilisent, par exemple, le format RDF (Resource Description Framework) (W3C 2011). La première étape du stage consiste à répertorier les travaux existants et d’étudier précisément ceux s’adaptant le mieux aux contraintes des RCSF. Ces dernières proviennent, pour la plupart, des ressources limitées en termes d’énergie, de puissance de calcul et de mémoire d’un capteur sans fil. En s’appuyant sur les résultats de cette étude, la seconde étape vise à la conception et la réalisation d’une solution, basée sur un système existant ou non, adaptée aux RCSF pour l’agriculture et l’environnement. La troisième étape est l’évaluation de la solution développée à l’aide d’une plateforme réelle de RCSF déployée pour l’acquisition des données agri-environnementales.
+
+Irstea Clermont-Ferrand – Unité de Recherche Technologies et Systèmes d’information pour les agrosystèmes (UR TSCF) Campus universitaire des Cézeaux 24 avenue des Landais BP 50085 63172 Aubière cedex France www.irstea.fr
+
+
+Références
+Akyildiz, I. F., W. Su, Y. Sankarasubramaniam, and E. Cayirci. 2002. “Wireless sensor networks: a survey”. Computer Networks, vol. 38 no. 4, pp. 393–422, March 15, 2002.
+Atzori, L., A. Iera, and G. Morabito. 2010. “The Internet of Things: A Survey.” Computer Networks 54 (15): 2787–2805.
+Kushalnagar, N, G Montenegro, and C. Schumacher. 2007. “IPv6 over Low-Power Wireless Personal Area Networks (6LoWPANs): Overview, Assumptions, Problem statement, and Goals”. IETF RFC 4919, August 2007.
+W3C Semantic Sensor Network Incubator Group. 2011. http://www.w3.org/2005/Incubator/ssn/. Report, June 28, 2011.
+
+Compétences recherchées
+-Technologies sans fil, Réseau de Capteurs Sans Fil (RCSF), systèmes embarqués -Technologies Web Sémantique (RDF, RDFS, OWL, SPARQL)
+
+Informations pratiques
+Niveau : Bac + 5
+Lieu : Irstea Clermont-Ferrand, site d’Aubière Durée : 6 mois (poursuite éventuelle en thèse) Rémunération : environ 430 € par mois pour le stage
+
+Contacts
+Gil De Sousa, UR TSCF, gil.de-sousa(at)irstea.fr
+ou Jean-Pierre Chanet, UR TSCF, jean-pierre.chanet(at)irstea.fr
+
+--------------------------------------
+Dr. Jean-Pierre CHANET
+Animateur de l'équipe Copain
+
+Irstea – Centre de Clermont-Fd
+24, avenue des Landais - BP 50085 - 63 172 Aubière Cedex
+Tél. +33 (0)4 73 44 06 78
+
+

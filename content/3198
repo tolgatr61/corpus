@@ -1,0 +1,47 @@
+
+Proposition de contrat de postdoctorat en informatique / bases de données.
+Durée : 1 an
+Démarrage possible d'avril à juin 2018
+Profil recherché : connaissance en bases de données et systèmes 
+d'information
+Lieu : Laboratoire TSCF, Irstea de Clermont-Ferrand, campus des Cézeaux, 
+Aubière - http://www.irstea.fr/tscf
+Contrat : CDD de l'Université de Clermont Auvergne, financé dans le 
+cadre de l'ISITE CAP2025
+
+Contact : Merci d'envoyer un CV rapidement à François Pinet, 
+francois.pinet@irstea.fr
+
+Description :
+
+Le postdoctorat se déroulera dans le laboratoire TSCF (Technologies et 
+Systèmes d’information pour les agrosystèmes - Clermont-Ferrand), au 
+sein de l'équipe COPAIN, groupe travaillant sur les systèmes 
+d’information communicants et agri-environnementaux. Il s'agit d'une 
+équipe de 17 personnes, incluant 7 docteurs (4 HDR).
+
+Les travaux s'intéressons à l’entreposage de données des capteurs dans 
+le contexte Big data. Les capteurs seront du type de ceux utilisés en 
+agriculture : fixes (capteurs sur des parcelles agricoles) ou mobiles 
+(capteurs d'agro-équipements). Les données de capteurs présentent des 
+particularités qui rendent difficile leur gestion/analyse avec les 
+modèles de Big EDs (Big Entrepôts de données). Le travail demandé dans 
+ce projet consiste en :
+1. Etat de l’art sur les Big EDs
+2. Définition d’un ou plusieurs modèles de Big EDs pour l’interrogation 
+de données capteurs
+3. Mise en place d'une architecture pour l’implémentation de modèles
+4. Expérimentation et validation avec les données capteurs issues 
+d'Irstea et de données simulées.
+
+Le travail consistera aussi à participer activement au groupe de travail 
+Big data de l'ISITE CAP2025 regroupant différents laboratoires de 
+recherche sur Clermont-Ferrand.
+
+-- 
+François Pinet
+Directeur de Recherche
+Irstea, Campus des Cézeaux, Clermont-Ferrand, France
+http://www.irstea.fr/pinet
+
+

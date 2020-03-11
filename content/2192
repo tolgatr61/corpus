@@ -1,0 +1,88 @@
+
+J'ai le plaisir de vous annoncer ma soutenance de thèse de doctorat en
+informatique, intitulée :
+"Métrologie des graphes de terrain, application à la construction de
+ressources lexicales et à la recherche d'information".
+
+Cette soutenance se déroulera le lundi 4 novembre 2013 à 11h00,
+en salle des theses de l'ENSEEIHT à Toulouse.
+
+*Directeurs :
+Bruno Gaume, (CLLE/ERSS, Université de Toulouse)
+Henri Prade, (IRIT, Université de Toulouse)
+
+*Rapporteurs :
+Pierre Fraigniaud, (LIAFA, Université Paris Diderot - Paris 7)
+Clémence Magnien, (LIP6, Université Pierre-et-Marie-Curie - Paris 6)
+Pierre Zweigenbaum, (LIMSI, CNRS)
+
+*Examinateurs :
+Frédéric Amblard (IRIT, Université de Toulouse)
+Eric Gaussier (LIG, Université Joseph Fourier - Grenoble I)
+
+*Résumé :
+Cette thèse s'organise en deux parties : une première partie s'intéresse
+aux mesures de similarité entre sommets d'un graphe, une seconde aux
+méthodes de clustering de graphe biparti.
+Une nouvelle mesure de similarité entre sommets basée sur des marches
+aléatoires en temps courts est introduite. Cette méthode a l'avantage,
+en particulier, d'être insensible à la densité du graphe. Il est ensuite
+proposé un large état de l'art des similarités entre sommets, ainsi
+qu'une comparaison expérimentale de ces différentes mesures.  Cette
+première partie se poursuit par la proposition d'une méthode robuste de
+comparaison de graphes partageant le même ensemble de sommets. Cette
+mesure est mise en application pour comparer et fusionner des graphes de
+synonymie. Enfin une application d'aide à la construction de ressources
+lexicales est présentée. Elle consiste à proposer de nouvelles relations
+de synonymie à partir de l'ensemble des relations de synonymie déjà
+existantes.
+Dans une seconde partie, un parallèle entre l'analyse formelle de
+concepts et le clustering de graphe biparti est établi. Ce parallèle
+conduit à l'étude d'un cas particulier pour lequel une partition d'un
+des groupes de sommets d'un graphe biparti peut-être déterminée alors
+qu'il n'existe pas de partitionnement correspondant sur l'autre type de
+sommets. Une méthode simple qui répond à ce problème est proposée et
+évaluée. Enfin Kodex, un système de classification automatique des
+résultats d'une recherche d'information est présenté. Ce système est une
+application en RI des méthodes de clustering vues précédemment. Une
+évaluation sur une collection de deux millions de pages web montre les
+avantages de l'approche et permet en outre de mieux comprendre certaines
+différences entre méthodes de clustering.
+
+*Mots clés :
+graphes de terrain - similarité - comparaison de graphes -
+marche~aléatoire - clustering - ressources lexicales - recherche
+d'information
+
+*Abstract :
+This thesis is organized in two parts: the first part focuses on
+measures of similarity between vertices of a graph, the second part on
+clustering methods for bipartite graph.
+A new measure of similarity between vertices, based on short time random
+walks, is introduced. The main advantage of the method is that it is
+insensitive to the density of the graph. A broad state of the art of
+similarities between vertices is then proposed, as well as experimental
+comparisons of these measures. This is followed by the proposal of a
+robust method for comparing graphs sharing the same set of
+vertices. This measure is shown to be applicable to the comparison and
+merging of synonymy networks. Finally an application for the enrichment
+of lexical resources is presented. It consists in providing candidate
+synonyms on the basis of already existing links.
+In the second part, a parallel between Formal Concept Analysis and
+clustering of bipartite graph is established. This parallel leads to the
+particular case where a partition of one of the vertex groups can be
+determined whereas there is no corresponding partition on the other
+group of vertices. A simple method that addresses this problem is
+proposed and evaluated. Finally, a system of automatic classification of
+search results (Kodex) is presented. This system is an application of
+previously seen clustering methods. An evaluation on a collection of two
+million web pages shows the benefits of the approach and also helps to
+understand some differences between clustering methods.
+
+*Keywords :
+complex networks - terrain networks - similarity - graph comparison -
+random walks - clustering - lexical resources - information retrieval
+
+
+
+

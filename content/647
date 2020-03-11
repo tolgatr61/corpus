@@ -1,0 +1,108 @@
+Bonjour,
+
+J'ai le plaisir de vous inviter à ma soutenance de thèse intitulée :
+
+"Construction d'une cartographie de domaine à partir de ressources
+sémantiques hétérogènes"
+
+qui se déroulera le *vendredi 25 octobre 2013 à 14h00* à l'université Paris
+13, 99 av. J-B Clément 93430 Villetaneuse, salle *B107* du Laboratoire
+d'Informatique de Paris Nord (LIPN:  http://lipn.univ-paris13.fr/**
+fr/contact <http://lipn.univ-paris13.fr/fr/contact>).
+
+Vous êtes également conviés au pot qui suivra.
+
+
+
+Le jury sera composé de :
+
+Chantal Reynaud - Professeur, Université Paris Sud 11 (Rapportrice)
+Gaël Dias - Professeur, Université de Caen Basse-Normandie (Rapporteur)
+Adeline Nazarenko, Professeur, Université Paris 13 (Directrice)
+Haïfa Zargayouna, Maître de conférences, Université Paris 13 (Co-Encadrante)
+Pierre Zweigenbaum - Directeur de recherche, LIMSI-CNRS (examinateur)
+Claire Nédellec - Chargée de recherche, MIG, INRA (examinatrice)
+François Lévy, Professeur, Université Paris 13 (examinateur)
+
+
+Résumé :
+
+Ces dernières années, un effort considérable a été accompli pour le partage
+et la réutilisation des connaissances dans le cadre du Web sémantique. Un
+nombre important de ressources sémantiques ont été mises à disposition mais
+cette richesse et cette diversité compliquent la réutilisation de
+ressources existantes.
+
+Avant de chercher à réutiliser des ressources, un ingénieur de la
+connaissance doit commencer par dresser un état des lieux du domaine qui
+l'intéresse, identifier les ressources disponibles et les positionner les
+unes par rapport aux autres. Il lui faut se repérer dans un web foisonnant
+dont l'hétérogénéité sémantique ne cesse de croître. C'est le défi que
+cette thèse a cherché à relever. Nous proposons de <<cartographier>> les
+ressources sémantiques en calculant des correspondances entre les entités
+qui les composent et en aidant à repérer et analyser les liens entre ces
+ressources.
+
+Nous avons défini un processus global de construction de cartographies qui
+se décompose en deux étapes clés. La première étape permet d'aligner les
+différentes ressources. L'originalité de cet alignement est qu'il est guidé
+par le texte : les entités de ressources différentes sont rapprochées sur
+la base de leur proximité distributionnelle dans le texte. La deuxième
+étape permet de détecter et au besoin de corriger les anomalies sur les
+correspondances obtenues à l'issue de la phase d'alignement; cette phase
+permet aussi de détecter et d'afficher les correspondances remarquables qui
+peuvent aider l'ingénieur à prendre connaissance du matériau existant.
+
+Notre méthode d'alignement d'ontologies présente la particularité d'être
+guidée par le texte. L'alignement consiste classiquement à identifier des
+relations ou <<correspondances>> existant entre les entités issues
+d'ontologies différentes.  L'exploitation d'un texte permet de rapprocher
+des entités ontologiques qui n'ont ni la même étiquette -- comme dans les
+méthodes d'alignement lexical -- ni la même position dans les ressources
+d'origine -- comme dans les approches structurelles. Nous proposons de
+différencier deux types de correspondance selon la nature de la relation
+existant entre les termes associés : si les termes ou étiquettes tendent à
+apparaître dans les mêmes phrases nous présumons l'existence d'une relation
+associative entre eux ; à l'inverse, s'ils se substituent l'un à l'autre,
+on peut faire l'hypothèse d'une relation d'équivalence.
+
+La construction d'une cartographie de domaine se fait à partir des
+résultats de l'alignement. Cette phase consiste à repérer les anomalies et
+les correspondances remarquables à présenter à l'ingénieur de la
+connaissance. Nous faisons en effet l'hypothèse que ces deux types de
+configurations sont importantes à repérer: les anomalies font apparaître
+des différences notables dans les choix de conceptualisation sur lesquels
+reposent les deux ressources alignées; les configurations remarquables font
+au contraire ressortir les zones les plus centrales et les plus cohérentes
+de l'alignement proposé. Repérer et analyser ces configurations doit donc
+permettre à l'ingénieur de comprendre comment les ressources alignées se
+positionnent l'une par rapport à l'autre.
+
+L'ensemble de cette approche a été implémenté et testé sur différents cas
+d'usage dans les domaines de la biologie, de la géographie et de
+l'alimentation.
+
+Mots clés : alignement, ontologie, hétérogénéité, ressource sémantique,
+cartographie, interopérabilité.
+
+
+Bien cordialement,
+Sarra Ben Abbès
+
+
+
+
+-----------------------------------
+
+Sarra BEN ABBES
+http://www-lipn.univ-paris13.fr/~benabbes/
+
+Doctorante au Laboratoire d'Informatique de Paris Nord (LIPN), équipe RCLN
+
+UMR 7030 CNRS
+Université Paris-Nord
+99 av. JB Clément
+93430 Villetaneuse - FRANCE
+
+Email: sarra.benabbes@lipn.univ-paris13.fr
+

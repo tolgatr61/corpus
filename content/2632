@@ -1,0 +1,164 @@
+Revue TAL volume 54 numéro 2
+Numéro spécial sur les Entités Nommées
+-------------------------------------------------------------------------------
+
+Direction :
+
+Sophia Ananiadou (Sophia.ananiadou@manchester.ac.uk)
+Nathalie Friburger (nathalie.friburger@univ-tours.fr)
+Sophie Rosset (sophie.rosset@limsi.fr)
+
+Les entités nommées constituent un champ de recherche très actif depuis de nombreuses années. Elles sont depuis longtemps considérées comme un point central dans de nombreuses applications mettant en jeu des notions comme la compréhension, la recherche sémantique, etc.
+La notion d'Entités Nommées (EN) couvre non seulement les noms propres mais aussi des entités plus complexes comme les expressions multi-mots. Les entités nommées sont en général typées selon des taxonomies plus ou moins vastes et fortement dépendantes du domaine d'application ou des besoins considérés. Elles recouvrent classiquement des noms désignant des personnes, des lieux ou des organisations mais peuvent aussi se rapporter à des notions plus techniques comme les maladies.
+
+La détection des entités et de leurs relations, malgré de nombreuses années de recherche, reste un problème difficile. Les principaux points à résoudre incluent la résolution des ambiguïtés, la détection des synonymes, la co-référence et la variabilité (acronymes, orthographe etc.). Plusieurs méthodes ont été proposées et évaluées pour améliorer la détection et la classification
+des entités ainsi que leurs relations. Ces méthodes vont des approches fondées sur des connaissances explicites (approches à base de règles, de lexiques, etc.) aux approches à base d'apprentissage supervisé, faiblement supervisé voire non supervisé.
+
+L'évaluation des systèmes de détection des entités nécessite au minimum l'existence de corpus de référence (gold standard). L'évaluation des relations ajoute un niveau de complexité puisqu'il s'agit, le plus souvent, d'une tâche complexe impliquant la détection des entités puis des relations entre elles. Comment évaluer la détection des relations dans le cadre d'une tâche complète ? Quelle métrique utiliser pour tenir compte des erreurs de la tâche précédente (détection des EN) ?
+Si les entités nommées simples permettent d'atteindre de bons voire de très bons résultats, il n'en va pas de même lorsque leur définition est complexe ou lorsqu'on traite des domaines spécialisés.
+Nous invitons donc les contributions portant sur tout aspect relatif au traitement des entités nommées, et en particulier (liste non exclusive) :
+définition et typologie des entités nommées, y compris dans un sens étendu
+Détection des entités nommées et type de documents (résumés, articles, ressources collaboratives comme Wikipedia, domaine de   spécialité, media sociaux comme twitter, emails, file de discussion, parole...)
+Détection des empans et analyse structurelle des EN
+Co-référence inter-documents et suivi d'entités
+Suivi d'entités à travers le temps, les groupes sociaux et géographiques, suivi d'entités intra- et inter-documents, etc.
+
+Reconnaissance d'entités nommées dans le domaine général ou en domaine de spécialité
+Guides et schémas  d'annotation, outils, méthodes et corpus annotés
+Aspects multilingues, extraction d'entités dans des corpus comparables ou parallèles
+désambiguïsation des entités
+Applications et entités
+évaluation, comparaison et validation d'outils
+
+LANGUE
+Les articles sont écrits en français ou en anglais. Les soumissions en anglais ne sont acceptées que pour les auteurs non francophones.
+LA REVUE
+Depuis 40 ans, TAL (Traitement Automatique des Langues) est un journal international publié par l'ATALA (Association pour le Traitement Automatique des Langues) avec le soutien du CNRS. Depuis quelques années, il s'agit d'un journal en ligne, des versions papier pouvant être obtenues sur commande. Ceci n'affecte en rien le processus de relecture et de sélection.
+DATES IMPORTANTES
+* 15 avril 2013 Deadline pour la soumission
+* Juillet 2013        Notification aux auteurs
+* Automne 2013        Publication
+
+FORMAT DE LA SOUMISSION
+Les articles soumis doivent décrire un travail original, complet et non publié. Chaque soumission sera étudiée par 2 membres du comité de programme.
+Les articles (25 pages environ, format PDF) doivent être déposés sur la plateforme Sciencesconf [adresse disponible très bientôt]
+Merci de contacter les éditeurs de cette revue si vous souhaitez y soumettre un article en leur fournissant un résumé d'une page.
+
+Sophia Ananiadou (Sophia.ananiadou@manchester.ac.uk)
+Nathalie Friburger (nathalie.friburger@univ-tours.fr)
+Sophie Rosset (sophie.rosset@limsi.fr)
+ 
+Les papiers acceptés feront au maximum 25 pages en PDF. Le style est disponible pour téléchargement sur le site du journal  (http://www.atala.org/-Revue-TAL-)
+
+COMITE SCIENTIFIQUE (tentative)
+
+Maud Ehrmann, European Commission, JRC
+Olivier Galibert, LNE, France
+Natalia Grabar, STL, Université de Lille 1 et 3, France
+Kais Haddar, University of Sfax, Tunisie
+Thierry Hamon, LIM&Bio, Paris 13, France
+Sanda Harabagiu, Texas, USA
+Valia Kordoni, Humboldt-Universität, Berlin, Germany
+Anna Korhonen, University of Cambridge, UK
+Ioannis Korkontzelos, University of Manchester, UK
+Anne-Laure Ligozat, LIMSI, France
+Bernardo Magnini, FBK, HLT, Italy
+Makoto Miwa, University of Manchester, UK
+Claire Nedellec, MIG, INRA, France
+Aurélie Névéol, LIMSI, France
+Noaoaki Okazaki, Tohoku University, Japan
+Christian Raymond, IRISA, France
+Fabio Rinaldi, University of Zurich
+Patrick Ruch, University of Geneva, Swiss
+Benoit Sagot, ALPAGE, France
+Satoshi Sekine, NYU, USA
+Jian Su, A-STAR, Singapore
+Junichi Tsujii, Microsoft Research Asia, China
+Patrick Watrin, UCL, CENTAL, Belgique
+Fabio Zanzotto, Tor Vergata, university of Rome, Italy
+
+----------------------------------------------------------------------------
+
+Call for Papers TAL
+Special issue on Named Entities
+
+Guest editors:
+
+Sophia Ananiadou (Sophia.ananiadou@manchester.ac.uk)
+Nathalie Friburger (nathalie.friburger@univ-tours.fr)
+Sophie Rosset (sophie.rosset@limsi.fr)
+
+We wish to invite papers on new research relating to Named Entities (NEs), their recognition (NER) or the extraction of NE relations (NERelX), one of the most widely studied areas in information extraction as they are useful for several NLP applications (information retrieval, question-answering, machine translation, summarisation, etc.).
+NEs include proper nouns but also entities expressed through other nominal expressions, such as multi-word units, classified into types which may be coarse or fine-grained according to domain or user requirements. Despite years of research, NER still includes several challenges, such as correct classification, resolution of ambiguity, synonym detection, coreference and variability (e.g., acronyms, orthography). Several methods have been used to improve the prediction of correct classes, ranging from rule-based and dictionary-based approaches, to semi-supervised, and unsupervised machine learning techniques.  Evaluation depends on the existence of gold (or silver) standards and domain specificity (e.g. genes, proteins, symptoms in health records, etc). Evaluation of NREelX is even more complex when considered in the end-to-end case. How can we evaluate NERelX while taking into account the errors coming from previous analysis steps?
+
+We invite submissions on all topics relating to NE, NER and NE relation extraction, including:
+
+Definition and typology of NEs, multi-word units
+Domain and document adaptation methods in NER (abstracts, full papers, wikipedia, domain specific documents, new social media like twitter,  online threads, spoken documents, etc.)
+Detecting NE spans and structural analysis of NEs (NE parsing)
+Cross-document coreference and entity linking
+NE Tracking through time, social or geographical groups, intra- and inter-document NE tracking etc.
+Normalisation aspects of NE (coreference, disambiguation)
+Recognising NEs in general language and special domains
+Guidelines and annotation tools of NE resources, NE corpora
+Cross-language aspects in NE extraction
+Evaluation, comparison and critical assessment of tools
+NE and NLP applications dependant or based on NEs
+
+LANGUAGE
+Manuscripts may be submitted in English or French. French-speaking authors are requested to submit their contributions in French.
+
+THE JOURNAL
+
+TAL (Traitement Automatique des Langues / Natural Language Processing) is an international journal published by ATALA (French Association for Natural Language Processing, http://www.atala.org) since 1959 with the support of CNRS (National Centre for Scientific Research). It has moved to an electronic mode of publication, with printing on demand.
+http://www.atala.org/-Revue-TAL-
+
+IMPORTANT DATES
+
+April 15, 2013     Deadline for submissions
+
+July 2013             Notification to authors
+
+Autumn 2013            Publication
+
+ 
+
+PAPER SUBMISSION
+
+Papers must describe original, completed, and unpublished work.  Each submission will be reviewed by two programme committee members. Authors who intend to submit a paper are encouraged to contact the guest editors of the special issue, with a one page extended abstract.
+Papers (25 pages, PDF format) must be submitted on Sciencesconf platform [address available soon]
+FORMAT
+
+Accepted papers will be maximum 25 pages long in PDF. Style sheets are available for download on the Web site of the journal (http://www.atala.org/-Revue-TAL-)
+
+PC members (tentative)
+
+Maud Ehrmann, European Commission, JRC
+Olivier Galibert, LNE, France
+Natalia Grabar, STL, Université de Lille 1 et 3, France
+Kais Haddar, University of Sfax, Tunisie
+Thierry Hamon, LIM&Bio, Paris 13, France
+Sanda Harabagiu, Texas, USA
+Valia Kordoni, Humboldt-Universität, Berlin, Germany
+Anna Korhonen, University of Cambridge, UK
+Ioannis Korkontzelos, University of Manchester, UK
+Anne-Laure Ligozat, LIMSI, France
+Bernardo Magnini, FBK, HLT, Italy
+Makoto Miwa, University of Manchester, UK
+Claire Nedellec, MIG, INRA, France
+Aurélie Névéol, LIMSI, France
+Noaoaki Okazaki, Tohoku University, Japan
+Christian Raymond, IRISA, France
+Fabio Rinaldi, University of Zurich
+Patrick Ruch, University of Geneva, Swiss
+Benoit Sagot, ALPAGE, France
+Satoshi Sekine, NYU, USA
+Jian Su, A-STAR, Singapore
+Junichi Tsujii, Microsoft Research Asia, China
+Patrick Watrin, UCL, CENTAL, Belgique
+Fabio Zanzotto, Tor Vergata, university of Rome, Italy
+
+
+
+
+

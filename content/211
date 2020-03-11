@@ -1,0 +1,54 @@
+Bonne année,
+en vous remerciant de relayer cette annonce.
+
+---
+
+Recherchons Post doc / Ingé. informatique en perception artificielle 
+pour handisport
+
+Durée : 6 mois dès février
+
+Contexte :
+Dans le cadre du projet GSN (Guide Sensoriel de Navigation) initié il y 
+a 3 ans, le laboratoire COSMER (Université de Toulon) a conçu un système 
+pour faciliter le guidage des kayakistes non-voyants en mer offrant un 
+guidage individualisé et une très large sensation d’autonomie recherchée 
+par toutes les personnes atteintes de déficience visuelle lors de 
+pratiques sportives ou dans les tâches du quotidien.
+
+Le GSN a été testé in situ dans un Club de Kayak non/mal-voyants qui ont 
+unanimement manifesté leur intérêt et enthousiasme. La Fédération 
+Française de Canoé Kayak et EDF ont participé au développement du GSN. 
+Publication en cours dans « Journal of Field Robotics ».
+
+Le GSN est à l’heure actuelle un démonstrateur. Il se compose d'une 
+carte mère, des capteurs de position (GPS, boussole), batteries et des 
+bracelets vibrants reliés par câbles entre les poignets de l’utilisateur 
+qui est guidé le long d’un parcours pré-édité grâce aux vibrations 
+transmises à ses poignets.
+
+L’objectif principal de ce poste est de porter l’application du GSN sur 
+cible mobile telle qu’un smartphone. Par ailleurs, on souhaite 
+s’affranchir des câbles entre l’utilisateur et le centre de calculs 
+(jusqu’à maintenant carte mère dans le boitier étanche) avec des 
+communications Bluetooth pour piloter les bracelets vibrants.
+
+L’application doit satisfaire les besoins du kayakiste non voyant lors 
+de sorties encadrées en mer, et les scientifiques qui comptent faire 
+évoluer les algorithmes de guidage à partir des données de navigation 
+collectées lors des campagnes d’essais (ce qui justifie l’enregistrement 
+de nombreuses données datées de navigation).
+
+Plusieurs algorithmes de guidage seront testés tandis que l’IHM 
+(Interface Homme Machine) pourra également être améliorée suite aux 
+expériences lors des campagnes d’essais.
+
+Compétence : dev. Androïd, JAVA/C++, système embarqué, intérêt en robotique
+
+Contact :
+
+
+      <vincent.hugel@univ-tln.fr <mailto:vincent.hugel@univ-tln.fr>>,
+      cedric.anthierens@univ-tln.fr <mailto:cedric.anthierens@univ-tln.fr>
+
+

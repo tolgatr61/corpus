@@ -1,0 +1,98 @@
+
+
+*Thèse CIFRE Ina et Inria-Zenith: “Apprentissage interactif de 
+représentations multicouche à large échelle pour la création de bases de 
+connaissances dans le contexte de la valorisation d’archives”
+*
+
+
+*Sujet*
+L’accroissement du nombre de programmes audiovisuels à archiver impose 
+des contraintes de productivité nouvelles sur la documentation. Le 
+développement d’outils automatiques et semi-automatiques pour assister 
+le travail des documentalistes est désormais indispensable pour 
+exploiter au mieux la très grande quantité d’information disponible. Ces 
+dernières années, sont ainsi apparues des techniques d’indexation et 
+d’analyse de contenu visuel ou sonore, permettant la modélisation 
+d’information de haut niveau, comme par exemple : des visages, des 
+locuteurs, des monuments, des logos, des décors, des noms de chansons, 
+etc. La modélisation consiste à construire des représentations visuelles 
+des entités avec lesquelles on désire annoter des archives multimédia. 
+Les processus de modélisation sont basés sur des méthodes 
+d’apprentissage non-supervisées, supervisées, ou parfois pauvrement 
+supervisées.
+Avec l’essor des réseaux de neurones convolutionnels durant ces 
+dernières années, les représentations visuelles ad-hoc (“hand-crafted”) 
+sont progressivement remplacées par des représentations multicouche 
+apprises à partir de données d’apprentissage dédiées à la tâche 
+d’annotation visée. Ces stratégies d’apprentissage supervisées allant du 
+signal (pixels) jusqu’aux classes ou entités dans un même formalisme ont 
+permis d’atteindre des performances très importantes pour la 
+reconnaissances d’objets dans les images.
+Ces méthodes ont toutefois deux limitations majeures pour envisager une 
+exploitation dans le contexte de la documentation professionnelle à 
+large échelle. Premièrement, elles fonctionnent en monde fermé c’est à 
+dire avec un nombre fixe de classes préalablement connues. Dans le cadre 
+de l’Ina, il est essentiel de fonctionner en monde ouvert car à chaque 
+instant :
+des utilisateurs peuvent vouloir créer de nouvelles classes,
+le système de prédiction peut être sollicité pour des images 
+n’appartenant pas à la base d’apprentissage, ce qui est essentiel à 
+détecter.
+Deuxièmement, elles ne permettent pas d’envisager efficacement des 
+stratégies d’apprentissage actif et incrémental du type bouclage de 
+pertinence ou propagation d’annotation. Hors ces modes de fonctionnement 
+dynamiques et interactifs sont indispensable à une mise en oeuvre 
+métier. Il y au sein de l’INA des dizaines de documentalistes qui ont 
+pour mission d’annoter les documents vidéos. Il est essentiel que ces 
+documentalistes puissent interagir avec le système de reconnaissance et 
+que celui-ci soit suffisamment réactif.
+Plus formellement, le coeur de la thèse sera de s’attaquer aux problèmes 
+d’apprentissage actif multilabel et de détection de la nouveauté dans le 
+contexte de représentations visuelles multicouche. Cela nécessitera de 
+résoudre des verrous liés au passage à l’échelle des méthodes de 
+prédiction à partir de modèles profond.
+
+
+*Encadrement*
+L’encadrement universitaire sera assuré par Dr. Alexis Joly (HDR). Les 
+acteurs de cette thèse, l’équipe Zénith de l’INRIA et l’INA ont une 
+expérience solide dans l’analyse de données multimédia et le passage à 
+l’échelle et apporteront des compétences complémentaires sur le sujet. 
+Les travaux de Zénith s’articulent principalement autour de la gestion, 
+l’analyse et de la recherche d’informations dans des données hétérogènes 
+de très grande taille.
+Au sein de l’INA, il rejoindra le département de Recherche et de 
+l’Expérimentation. Le thésard travaillera en collaboration avec un 
+chercheur permanent Dr. Olivier Buisson et un doctorant Valentin Leveau.
+
+*Candidature*
+Avant le 15 septembre 2016, envoyer par email et en PDF à l’adresse 
+suivante : thcand@ina.fr <mailto:thcand@ina.fr>, les documents suivants :
+
+  * CV,
+  * lettre de motivation ciblée sur le sujet,
+  * au moins deux lettres de r commandation,
+  * relevés de notes + liste des enseignements suivis en M2 et en M1.
+
+
+*Profil du candidat*
+
+  * Diplôme : master 2 en informatique ou école d’ingénieur.
+  * De bonnes connaissances et une pratique en indexation par contenu
+    (visuel et sonore) et machine learning, ainsi que la maîtrise de la
+    programmation C/C++.
+  * Bon niveau d’anglais.
+
+
+*Informations sur le poste*
+Début : deuxième semestre 2016
+Salaire : 35 202€ bruts sur 13 mois.
+Lieu : Ina (Institut national de l’audiovisuel) à Bry-sur-Marne.
+Le temps de travail devrait être partagé de la manière suivante : 75% 
+Ina et 25% Inria.
+
+
+
+
+

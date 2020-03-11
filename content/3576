@@ -1,0 +1,29 @@
+=====================================
+
+Jean-Luc Hainaut nous communique
+
+=====================================
+
+J'ai le plaisir de vous informer de la mise en ligne de la version 1.2 de SQLfast. SQLfast est une extension du langage SQL permettant à des utilisateurs de rédiger rapidement et simplement des petites applications interactives centrées sur les données.
+
+Ce langage est supporté par le logiciel de même nom, offrant, via une interface graphique, un environnement de gestion de bases de données ainsi que de développement, de gestion et d'exécution d'applications SQLfast. La distribution SQLfast comporte un langage hypertexte interactif et un moteur de tutoriels permettant le développement de tutoriels et de documents d'aide. Rédigé en Python et compilé pour Windows, ce logiciel inclut la dernière version stable de SQLite 3. Il est totalement autonome, ne requiert ni installation ni paramétrage et ne modifie aucun paramètre du système.
+
+Langage et environnement SQLfast offrent plusieurs niveaux de fonctionnalités appropriés à une large gamme d'utilisation : familiarisation avec les concepts des bases de données, apprentissage du langage SQL et de la programmation de bases de données, environnement de résolution de problèmes destiné à des utilisateurs non professionnels, développement de petites applications, développement rapide de prototypes.
+
+La distribution SQLfast inclut une collection extensible de tutoriels, depuis l'apprentisage des éléments de SQL jusqu'à la programmation récursive et la génération de code. En particulier, cette collection propose des tutoriels et des applications dédiés à la 3e édition de l'ouvrage "Bases de données : Concepts, utilisation et développement; Dunod 2015" :https://projects.info.unamur.be/~dbm/mediawiki/index.php/LIBD:Ouvrages.
+
+Le logiciel SQLfast, sa documentation (qui comporte une vingtaine d'études de cas) et ses tutoriels sont disponibles à l'adresse :
+https://projects.info.unamur.be/~dbm/mediawiki/index.php/DUNOD2015_SQLfast
+
+Prof. Jean-Luc Hainaut
+Faculté d'Informatique
+Université de Namur
+Rue Grandgagnage, 21
+B-5000 - Namur (Belgique)
+Courriel :jlhainaut@info.fundp.ac.be
+http://www.info.fundp.ac.be/libd
+
+=====================================
+
+
+

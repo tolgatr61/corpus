@@ -1,0 +1,185 @@
+
+*Appel à Communications JFSMA 2015
+*
+23èmes Journées Francophones sur les Systèmes Multi-Agents
+http://pfia2015.inria.fr/conference-jfsma
+
+organisées au sein de la plateforme de l'Intelligence Artificielle 
+(http://pfia2015.inria.fr) du 29 juin au 3 juillet 2015 à Rennes
+
+*Dates importantes :*
+*
+*- Soumission des résumés : *13 février 2015
+*- Soumission des articles : *20 février 2015*
+- Notification aux auteurs : 10 avril 2015
+- Réception des versions définitives : 1er mai 2015
+
+*Domaine de la conférence*
+
+Le domaine des Systèmes Multi-Agents a atteint depuis quelques années
+un stade de maturité qui en fait une approche appropriée au développement
+d’applications informatiques ouvertes, adaptatives et évolutives. 
+Puisant souvent son inspiration dans la
+pluridisciplinarité, la modélisation à base d'agents logiciels mis
+en interaction au sein d'un environnement partagé facilite
+l'appréhension de systèmes complexes grâce à des outils, modèles ou
+plateformes, développés par notre communauté de chercheurs
+depuis plus de 20 ans, adressant, parfois de manière combinée, les niveaux
+microscopique et macroscopique.
+
+La prise en compte des dimensions locale et globale d'un système
+multi-agent, ainsi que de leur influence réciproque, permet de
+considérer au plus près l'hétérogénéité des acteurs, services et
+matériels d'une application. C'est un des facteurs du succès de
+l'approche multi-agent lorsqu'il est nécessaire d'intégrer dès la
+conception du système des spécificités propres à la présence
+d'humains, de dispositifs matériels aux ressources limitées ou à des
+dynamiques d'environnement.
+
+
+Il est de tradition que chaque édition des JFSMA mette en avant une
+thématique privilégiée. Cette année, l'accent sera mis sur l'impact
+des environnements socio-techniques, physiques ou simulés, dans les
+modèles et développements de systèmes multi-agents. L'objectif est
+d'étudier de quelles manières la conception d'un système multi-agent
+prend en compte les contraintes inhérentes à l'immersion d'un système
+multi-agent dans un environnement physique (où les agents sont amenés
+à interagir avec des dispositifs matériels et/ou des utilisateurs
+humains), virtuel (en interactions avec d'autres ressources
+numériques), ou mixtes (dans une approche type web des objets). Selon la
+nature des environnements considérés, il s'agira de s'intéresser à la
+manière dont les travaux de recherche gèrent des aspects tels que la
+perception d'une dynamique propre à l'environnement, la prise
+d'initiative et l'élicitation des préférences des utilisateurs, la
+sureté de fonctionnement et la protection de données sensibles... Il
+sera également intéressant d'aborder cet impact dans le cadre de
+simulations multi-agents, en étudiant de quelles manières une
+simulation peut reproduire, et avec quelles limites, les
+caractéristiques et contraintes réelles d'environnements socio-techniques
+simulés.
+
+Les soumissions sur cette thématique privilégiée seront
+encouragées. Des contributions sur d'autres travaux originaux en
+systèmes multi-agents seront aussi considérés, notamment ceux visant à
+répondre aux 4 grands champs applicatifs des systèmes multi-agents :
+- le développement de systèmes informatiques décentralisés où
+l’approche SMA permet l’intégration flexible et la coopération de
+logiciels et de services autonome;
+- la résolution collective de problème pour laquelle il s’agit de
+résoudre de manière distribuée un problème qui se pose globalement à
+la collectivité d’agents;
+- la simulation de phénomènes complexes où la modélisation
+multi-agent apporte un cadre conceptuel permettant la représentation
+et la simulation de systèmes faisant intervenir différentes entités en
+interaction;
+- le développement de systèmes médiatisés ou utilisateurs humains et
+agents artificiels interagissent directement ou indirectement, dans le
+cadre d’activités collectives de type éducatif, culturel ou social.
+
+
+Nous attendons des contributions originales relevant de ces
+domaines. Celles-ci peuvent proposer des avancées conceptuelles,
+formelles ou logicielles. Elles peuvent également être analytiques
+(sur les problèmes, les enjeux...) ou encore synthétiques (par
+exemple, des retours sur expérimentations).
+
+Dans le cas d'une soumission multiple à plusieurs conférences de
+PFIA 2015, l’article ne pourra être accepté qu’à une seule, à la
+discrétion des conférences concernées.
+
+*Format des soumissions d’articles longs*
+
+La langue officielle de la conférence est le français. Seules les
+soumissions en français et respectant le format de soumission seront
+considérées. Les actes de la conférence feront l'objet d'une
+publication comme pour les années précédentes et seront indexés sur DBLP.
+Les meilleurs articles des JFSMA 2015 seront sollicités pour la soumission
+d’une version étendue à un numéro spécial de la Revue d’Intelligence 
+Artificielle.
+
+Les articles ne devront pas dépasser 10 pages et leur format devra
+respecter scrupuleusement les instructions aux auteurs disponibles sur
+le site de la conférence.
+
+*Format des soumissions d’articles de démonstration*
+
+La soumission de démonstrations à présenter pendant la conférence est
+également prévue par un article de 2 pages, respectant le format d’article
+disponible sur le site de la conférence. Les articles de démonstration 
+seront
+inclus dans les actes des JFSMA 2015.
+
+*Processus de soumission*
+
+La soumission se fait en deux temps : soumission d'un résumé de
+l'article et soumission de l'article complet, une semaine plus
+tard. Le processus de soumission et de relecture s'appuie sur
+EasyChair à cette adresse : 
+https://www.easychair.org/conferences/?conf=jfsma2015
+
+Les auteurs qui rencontreraient des difficultés pour
+soumettre leur résumé ou la version complète de leur article via
+EasyChair sont invités à contacter le président du comité de programme
+à l'adresse : laurent.vercouter@insa-rouen.fr 
+<mailto:laurent.vercouter@insa-rouen.fr>
+
+*Soumission du résumé de l'article*
+
+Les résumés sont soumis en utilisant EasyChair au format texte
+uniquement. La soumission comprend le titre de l'article, les noms et
+affiliations  des auteurs, un résumé d'environ 10 lignes et un
+ensemble de mots-clés parmi les suivants :
+
++ Méthodes et méthodologies multi-agents
++ Méta-Modèles multi-agents
++ Langages de programmation multi-agent
++ Environnements de développements multi-agents
++ Vérification et validation des systèmes multi-agents
++ Déploiement de SMA, Résistance aux pannes, Fiabilité
++ Agent (architecture, perception, action)
++ Interaction, Communication, Protocoles
++ Organisations, Normes, Coalitions
++ Environnement (modélisation d’environnements)
++ Coordination, Travail en équipe, Planification
++ Confiance, Confidentialité, Sécurité
++ Evolution, Adaptation, Apprentissage
++ Emergence, Auto-organisation, Viabilité
++ Robotique collective
++ Intelligence ambiante, Informatique diffuse
++ Simulation multi-agent
++ Théorie des jeux
++ Modèles formels agent
++ Modèles de comportement agent
++ Agents conversationnels
++ Systèmes mixtes, Approches participatives
+
+*Soumission de la version complète de l'article
+*
+La soumission de la version complète se fait également via EasyChair,
+au format PDF. Les autres formats ne seront pas acceptés. Elle devra
+respecter scrupuleusement le style de présentation disponible sur le 
+site de la conférence.
+
+*Comités*
+
+Président du comité de programme : Laurent Vercouter (LITIS, INSA de
+Rouen, France)
+
+Comité consultatif : Pierre Chevaillier (Lab-STICC, ENIB),
+Rémy Courdier (LIM, Université de la Réunion), Zahia Guessoum (LIP6,
+CReSTIC-Reims), Salima Hassas (LIRIS, Université de Lyon), Michel
+Occello (LCIS, Valence)
+
+Comité de programme : (en construction)
+
+—
+*Laurent Vercouter*
+Directeur des études du département STPI
+Professeur des Universités en Informatique
+Fédération CNRS Norm@STIC FR 3638
+LITIS, INSA de Rouen, France
+Ph: (+33) 2 32 95 99 86
+
+
+
+

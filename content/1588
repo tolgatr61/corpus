@@ -1,0 +1,139 @@
+Bonjour, 
+
+L'équipe DRUID https://www-druid.irisa.fr/ (IRISA Rennes) propose un sujet de stage de M2 Recherche d'une durée de 6 mois sur la p ersonnalisation d'analyses en fonction de profils d'un groupe d'utilisateurs. Le sujet est décrit ci-dessous. 
+
+Les candidats intéressés par l'analyse des réseaux sociaux, les bases de données et les requêtes à préférences peuvent candidater, avant le 25 janvier 2015, par mail à Tassadit BOUADI ( tbouadi@irisa.fr ) et Arnaud MARTIN ( arnaud.martin@irisa.fr ). Détails de soumission en fin de sujet. 
+
+N'hésitez pas à diffuser. 
+
+Bien cordialement, 
+== 
+Tassadit BOUADI 
+IRISA - Université de Rennes 1(IUT Lannion) 
+tbouadi@irisa.fr 
+
+
+[Version française] 
+Titre : Personnalisation d'analyses en fonction de profils d'un groupe d'utilisateurs 
+
+Mots clés : Réseaux sociaux, requêtes à préférences, recommandation, fusion de préférences 
+
+
+
+Contexte 
+
+Le contexte applicatif de ce stage concerne l'analyse des réseaux sociaux. 
+
+Le contexte théorique est celui des requêtes à préférences appliquées à des bases de données volumineuses. L'expression de préférences dans des requêtes est devenue dans la communauté bases de données un sujet dont l'importance est maintenant pleinement reconnue. L'intérêt majeur de ces requêtes est double : elles permettent d’une part de traduire fidèlement le besoin d’information d’un utilisateur donné, d'autre part de produire un ensemble de réponses ordonnées (ce qui est particulièrement intéressant dans le cas d'interrogation de gros volumes de données). En pratique, il est courant que l'expression des préférences dépende du contexte et du profil d’un utilisateur donné. Cependant, avec l’avènement des réseaux sociaux tels que Facebook, Twitter, Instagram , …, l’utilisateur n’est plus considéré comme une entité individuelle, du moins plus uniquement. Dans ce contexte, l’utilisateur désigne une entité sociale interconnectée et est auteur de flux d’informations conséquents. 
+
+
+
+Objectif scientifique du stage 
+
+Après une analyse bibliographique, l’objectif de ce stage sera la mise en place d’un système collaboratif permettant de personnaliser les analyses (i.e. requêtes à préférences) en fonction des profils d’un groupe d’utilisateurs. 
+
+
+
+Dans un premier temps, ceci nécessiterait la détermination des utilisateurs les plus proches de l’utilisateur courant dans une communauté donnée (cercle d’amis sur Facebook, réseau professionnel sur LinkedIn, ...). La mise en œuvre d’une mesure de similarité pour comparer les profils des utilisateurs s’avère donc nécessaire. L’idée serait de définir la notion de lignes de niveaux ( skyline ) de profils par similarité. Ce type de requêtes multicritères permettra l’extraction de tous les profils utilisateurs de la base de données interrogée qui ne sont dominés par aucun autre profil utilisateur de la base au sens de la relation de dominance par similarité définie dans [2]. Chaque profil réponse sera retourné avec un vecteur de scores montrant les différentes similarités correspondant aux différentes caractéristiques avec le profil de la requête. Une étape d’appariement d’utilisateurs sera ensuite ajoutée en amont des requêtes à préférences. Les algorithmes d’intégration de préférence et de génération de recommandation [3] resteront inchangés, mais ils prendront en entrée des préférences de différents utilisateurs. 
+
+
+
+
+Références 
+
+[1]. Hogg, T., Inferring preference correlations from social networks, Electronic Commerce Research and Applications, Vol. 9, pp. 29‐37, 2010. 
+
+[2]. K. Abbaci, A. Hadjali, L. Lietard, and D. Rocacher. A similarity skyline approach for handling graph queries - a preliminary report. In Proceedings of the 2011 IEEE 27th International Conference on Data Engineering Workshops, ICDEW ’11, 2011. 
+
+[3]. T. Bouadi, M-.O. Cordier, and R. Quiniou. Computing skyline incrementally in response to online preference modification. T. Large-Scale Data- and Knowledge-Centered Systems, 10 :34–59, 2013. 
+
+[4]. Swapnil Dhamal and Y Narahari. Scalable preference aggregation in social networks. In First AAAI Conference on Human Computation and Crowdsourcing, pages 42–50. AAAI, 2013. 
+
+
+
+
+
+
+
+Candidature : CV, relevés de notes, lettre de motivation, tout autre document estimé utile (recommandation,...) 
+Tous les documents doivent être au format pdf 
+
+
+
+
+Encadrants : Tassadit BOUADI - Arnaud MARTIN 
+
+Équipe : IRISA Rennes – Équipe DRUID 
+
+Mails : tbouadi@irisa.fr , arnaud.martin@irisa.fr 
+
+
+-------------------------------------------------------------------------- 
+
+[Version anglaise] 
+
+
+Title: Personalizing the analysis based on user group profiles users 
+
+Keywords: Social networks, preference queries, recommendation, preference merging 
+
+
+
+Context 
+
+The application context of this internship concerns social network analysis. 
+
+The theoretical context is the application of preference queries to very large databases . 
+
+The concept of preference queries has been established in the database community and was intensively studied in the last decade. These queries have dual benefits. On the one hand, they allow accurate interpretation of the information needs for a given user. On the other hand, they constitute an effective method to reduce very large datasets to a small set of highly interesting results and to overcome empty result sets. 
+
+A query is personalized by applying the related user preferences stored in his/her profile. 
+
+However, with the advent of social networks such as Facebook, Twitter, Instagram, etc., the user is no longer considered as an individual entity. In this context, the user designates an interconnected social entity and is the author of significant information flow. 
+
+
+
+
+
+Scientific purpose of the internship 
+
+After a literature review , the objective of this internship will be the development of a collaborative system for personalized analysis (i.e. preference queries) based on the profiles of a user group. 
+
+
+
+As a first step, this would require the determination of the closest users of the current user in a given community (for example circle of friends on Facebook, professional network on LinkedIn, etc .). Therefore the implementation of a similarity measure for comparing user profiles is required. The idea is to introduce the notion of similarity skyline of a profile query defined by the subset of profiles of the target database that are the most similar to the query according to the similarity dominance relation [2]. 
+
+The idea is to achieve a d-dimensional comparison between user profiles in terms of d local distance (or similarity) measures and to retrieve the profiles that are most similar according to the Pareto dominance relation. 
+
+A step of user matching will then be added upstream of preference queries. The preference-based and recommendation algorithms [3] will remain unchanged, but they will take preferences from multiple different users as input. 
+
+
+
+
+
+References 
+
+[1]. Hogg, T., Inferring preference correlations from social networks, Electronic Commerce Research and Applications, Vol. 9, pp. 29‐37, 2010. 
+
+[2]. K. Abbaci, A. Hadjali, L. Lietard, and D. Rocacher. A similarity skyline approach for handling graph queries - a preliminary report. In Proceedings of the 2011 IEEE 27th International Conference on Data Engineering Workshops, ICDEW ’11, 2011. 
+
+[3]. T. Bouadi, M-.O. Cordier, and R. Quiniou. Computing skyline incrementally in response to online preference modification. T. Large-Scale Data- and Knowledge-Centered Systems, 10 :34–59, 2013. 
+
+[4]. Swapnil Dhamal and Y Narahari. Scalable preference aggregation in social networks. In First AAAI Conference on Human Computation and Crowdsourcing, pages 42–50. AAAI, 2013. 
+
+
+
+
+
+
+
+Applications should be addressed to : Tassadit BOUADI tbouadi@irisa.fr and Arnaud MARTIN arnaud.martin @irisa.fr before january 25th, with the following pieces of information: 1 CV, 1 motivation letter, recommendation letters and some technical realizations description. 
+
+Supervisors : Tassadit BOUADI - Arnaud MARTIN 
+
+
+Team: IRISA Rennes – DRUID team 
+
+Mails: tbouadi@irisa.fr , arnaud.martin@irisa.fr 
+
+

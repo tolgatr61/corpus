@@ -1,0 +1,58 @@
+
+Bonjour,
+
+
+Dans le cadre du projet de recherche MapMuxing (voir résumé plus bas), 
+qui vient juste d'être accepté par l'Agence Nationale de la Recherche 
+(ANR), le laboratoire COGIT de l'IGN recrute un doctorant en 
+cartographie/informatique. Le sujet porte principalement sur la 
+généralisation cartographique dans une pyramide de cartes à différentes 
+échelles, le détail du sujet est disponible à cette adresse :
+
+http://recherche.ign.fr/labos/cogit/pdf/PROPOSITIONS/2014/2014_Proposition_Th%C3%A8se_MapMuxing.pdf
+
+Depuis de nombreuses années, le laboratoire COGIT applique des 
+techniques IA comme les systèmes multi-agents, les CSP, ou les 
+meta-heuristiques, pour permettre l'automatisation d'opérations 
+cartographiques complexes comme la généralisation ou le placement de 
+toponymes sur une carte.
+
+Le projet doit démarrer à l'automne 2014, pour une durée de 3 ans et 
+demi. Le début de la thèse aurait donc lieu idéalement en novembre 2014. 
+Le dépôt des candidatures pourra se faire jusqu'au 10 septembre.
+
+
+Profil recherché :
+Nous recherchons des candidats titulaires d'un Master en informatique 
+avec un gout pour la cartographie ou l'algorithmie géométrique.
+
+
+Candidature :
+voir le détail des démarches pour une candidature sur le site du COGIT : 
+http://recherche.ign.fr/labos/cogit/propositionsCOGIT.php 
+<http://recherche.ign.fr/labos/cogit/propositionsCOGIT.php>
+
+
+Contact :
+Guillaume Touya, guillaume.touya@ign.fr
+
+
+Résumé du projet ANR MapMuxing :
+Grâce à des applications comme Google Maps ou le Géoportail français, le 
+grand public a facilement accès à de nombreuses données géographiques. 
+Les opérations liées à la combinaison de données et représentations, 
+ainsi que celles plus basiques liées à la navigation, restent cependant 
+difficiles. Par exemple, obtenir des détails sur un point d'intérêt tout 
+en conservant une vue globale d'un itinéraire demande un nombre 
+d'actions et un effort cognitif importants. Pour les spécialistes, les 
+problèmes sont encore plus complexes et les exigences de performance 
+plus grandes. Lors d'une crise liée à une catastrophe naturelle comme un 
+tsunami, les analystes doivent identifier rapidement les zones exposées 
+et communiquer efficacement avec les acteurs sur le terrain. MapMuxing 
+réunit des chercheurs en Interaction Homme-Machine (INRIA Saclay) et en 
+Géomatique (COGIT-IGN et Université Montpellier 3) afin de proposer de 
+nouvelles méthodes pour combiner différentes représentations 
+cartographiques et naviguer efficacement entre ces représentations.
+
+
+

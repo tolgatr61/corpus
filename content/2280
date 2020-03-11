@@ -1,0 +1,102 @@
+SUJET: Utiliser des contraintes discursives pour améliorer le résumé automatique
+
+CONTEXTE:
+
+Le stage se focalise sur les systèmes de résumé automatique par extraction,
+c’est-à-dire les systèmes réalisant des résumés en extrayant des documents
+sources les unités, le plus souvent des phrases, les plus représentatives de
+leur contenu. Les approches les plus récentes dans ce domaine posent ce problème
+comme un problème d’optimisation consistant à trouver le compromis le plus
+intéressant entre le respect d’une contrainte de taille maximale du résumé à
+produire et la maximisation du contenu informationnel de ce dernier, représenté
+de façon non structurée par un ensemble de mots ou de séquences de mots
+[Gillick and Favre (2009)].
+
+OBJECTIFS:
+
+La maximisation du contenu informationnel n’est pas le seul critère intéressant
+à considérer pour produire un résumé. Elle intègre de façon indirecte une prise
+en compte de la redondance informationnelle mais n’exploite pas la
+hiérarchisation des informations mise en avant par les documents. Savoir qu’une
+phrase donne un exemple ou une justification en relation avec le contenu d’une
+autre phrase est dans cette optique un élément intéressant à exploiter pour
+sélectionner l’information à faire apparaître dans un résumé. Dans le cas de la
+phrase "Most of our children are living in California now ; Judy, for instance,
+lives in Berkeley" [Foster (1984)], la détection de la relation
+d'exemplification unissant les deux propositions peut ainsi être mise à profit
+pour laisser de côté la seconde proposition.
+
+Sur un plan général, cette hiérarchisation des informations peut être
+caractérisée au travers d’une analyse discursive des documents. De ce point de
+vue, la Rhetorical Structure Theory (RST) [Mann and Thompson (1988)] est l’une
+des théories discursives parmi les plus connues et les mieux outillées. En
+outre, des travaux de recherche existants ont déjà démontré la capacité de la
+RST à sélectionner les segments de textes les plus pertinents dans un contexte
+de résumé automatique [Marcu (1998, 1997)].
+
+Le stage s’inscrira donc dans ce cadre et se donnera les trois objectifs
+principaux suivants :
+– en s’appuyant notamment sur [Marcu (1998, 1997)], faire une étude des
+relations rhétoriques intéressantes du point de vue du résumé automatique ;
+– analyser le repérage de ces relations pour les outils existants
+[Joty et al. (2013); Feng and Hirst (2014)] et proposer le cas échéant des
+stratégies permettant de pallier de façon ciblée certaines de leurs
+insuffisances ;
+– proposer une méthode de prise en compte des relations rhétoriques ciblées dans
+un cadre d’optimisation de contraintes fondée sur la programmation linéaire en
+nombres entiers (ILP) dédié au résumé automatique, avec une extension possible
+vers les techniques de décomposition (dual decomposition)
+[Rush and Collins (2012)].
+
+Les travaux s’effectueront prioritairement dans un cadre de résumé mono-document
+pour des documents en anglais de type articles de journaux, avec une extension
+possible au multi-document. Ils seront évalués en reprenant les protocoles
+et les données des campagnes d’évaluation DUC (Document Understanding
+Conference) et TAC Summarization (Text Analysis Conference).
+
+-Domaine de spécialité requis: Informatique
+-Spécialité complémentaire: Linguistique
+-Langages de programmation: Python, bash, éventuellement Perl ; la connaissance
+de C++ est un plus
+-Niveau souhaité: Master 2
+-Durée: 6 mois
+-Employeur: Laboratoire LVIC du CEA/LIST
+-Stage rémunéré : entre 700 et 1300 euros selon la formation + prise en charge à
+75% des transports en IdF.
+-Lieu du stage: dans les locaux du LVIC à Nano Innov à Palaiseau.
+
+Les candidatures sont à envoyer à Maâli Mnasri à l'adresse :
+maali.mnasri@cea.fr
+Stage co-encadré par Gaël de Chalendar et Olivier Ferret.
+
+RÉFÉRENCES:
+
+Dan Gillick and Benoit Favre. A Scalable Global Model for Summarization. In
+Proceedings of the Workshop on Integer Linear Programming for Natural Langauge
+Processing, ILP ’09, pages 10– 18, Boulder, Colorado, 2009. ISBN
+978-1-932432-35-0. URL http://dl.acm.org/citation.cfm?id=1611638.1611640.
+
+William C. Mann and Sandra A. Thompson. Rhetorical Structure Theory : Toward a
+functional theory of text organization. Text, 8(3) :243–281, 1988.
+
+Susan H. Foster. Teun A. van Dijk, Studies in the Pragmatics of Discourse. the
+hague : Mouton, 1981. pp. xii + 331. Language in Society, 13 :369-375, 9 1984.
+ISSN 1469-8013. doi : 10.1017/S0047404500010563.
+
+Daniel Marcu. Improving summarization through rhetorical parsing tuning. In
+Proceedings of The Sixth Workshop on Very Large Corpora, pages 206–215,
+Montreal, Canada, August 1998.
+
+Daniel Marcu. The rhetorical parsing, summarization, and generation of natural
+language texts. Technical Report CSRG-371, Computer Systems Research Group,
+University of Toronto, 1997.
+
+Shafiq Joty, Giuseppe Carenini, Raymond Ng, and Yashar Mehdad. Combining Intra-
+and Multi-sentential Rhetorical Parsing for Document-level Discourse Analysis.
+In Proceedings of ACL, 2013.
+
+Vanessa Wei Feng and Graeme Hirst. A linear-time bottom-up discourse parser with
+constraints and post-editing. In Proceedings of the 52nd Annual Meeting of the
+Association for Computational Linguistics, pages 511–521, June 2014.
+URL http://www.aclweb.org/anthology/P14-1048.
+

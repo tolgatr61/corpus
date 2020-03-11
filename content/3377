@@ -1,0 +1,78 @@
+Proposition de stage M2 recherche en Informatique/Mathématiques 
+Appliquées au LIFO (http://www.univ-orleans.fr/lifo/) à Orléans.
+
+=> Possibilités de poursuite en thèse (Informatique) <=
+
+Titre du stage : Apprentissage d'espaces prétopologiques pour 
+l'extraction de taxonomies lexicales
+
+Le sujet du stage portera sur l'extraction de connaissances structurées, 
+c'est-à-dire modélisées sous forme de graphes (arbres, DAG ou réseaux 
+quelconques). Étant donné un ensemble partiel de relations déjà établi, 
+l'objectif est alors d'apprendre -- dans un contexte semi-supervisé -- 
+les relations cachées structurant la globalité des éléments constitutifs 
+de la connaissance. Nous avons développé une nouvelle approche (LPS) 
+consistant à apprendre un modèle de propagation à partir de relations de 
+voisinages et nous avons montré que, dans le contexte décrit 
+précédemment, cette méthode permet d'atteindre des structurations 
+complexes jusqu'ici non accessibles par des méthodes classiques 
+d'apprentissage (statistique et/ou symbolique).
+
+L'objectif du stage sera d'exploiter la méthode LPS décrite ci-dessus 
+dans un formalisme d'apprentissage différent à savoir l'apprentissage 
+d'une règle logique de combinaison de voisinages par une approche 
+gloutonne. Nous envisagerons différentes stratégies de construction 
+d'une DNF positive (non nécessairement linéaire) en étudiant les 
+propriétés des opérateurs logiques par rapport aux combinaisons de 
+structures qu'ils induisent.
+
+L'efficacité de cette nouvelle stratégie d'apprentissage d'un espace 
+prétopologique sera étudiée tant en terme de coût d'apprentissage qu'en 
+terme de qualité des structurations induites, sur une série de 
+taxonomies dans des domaines génériques et spécialisés.
+
+
+Références :
+
+P. Velardi, S. Faralli, R. Navigli: OntoLearn Reloaded: A Graph-Based 
+Algorithm for Taxonomy Induction. Computational Linguistics 39(3): 
+665-707 (2013)
+
+G. Cleuziou, D. Buscaldi, V. Levorato, G. Dias : A pretopological 
+framework for the automatic construction of lexical-semantic structures 
+from texts.CIKM 2011: 2453-2456
+
+Z. Kozareva, E. H. Hovy: A Semi-Supervised Method to Learn and Construct 
+Taxonomies Using the Web. EMNLP 2010: 1110-1118
+
+Ch. Largeron, S. Bonnevay: A pretopological approach for structural 
+analysis. Inf. Sci. 144(1-4): 169-185 (2002)
+
+
+Compétences requises :
+
+- stage de niveau M2 ou école d'ingénieur en informatique ou 
+mathématiques appliquées
+
+- compétences en : programmation, algèbre (espaces vectoriels, théorie 
+des ensembles)
+
+- intérêt pour la fouille de textes (Recherche d'Information) et 
+l'apprentissage automatique.
+
+Le stage peut durer de 4 à 6 mois au sein du LIFO, dans l'équipe CA à 
+partir de février/mars 2015. Il sera co-encadré par Guillaume Cleuziou 
+et Vincent Levorato et sera financé au tarif stage de 435 euros mensuels.
+
+Envoyer CV + lettre de motivation à guillaume.cleuziou@univ-orleans.fr 
+et vlevorato@cesi.fr.
+
+-- 
+Guillaume Cleuziou
+Maître de Conférences : LIFO - IUT
+Correspondant Apprentissage : IUT informatique d'Orléans
+Tel LIFO : (+33) (0)2 38 49 25 91
+Tel IUT  : (+33) (0)2 38 49 44 59
+http://www.univ-orleans.fr/lifo/Members/cleuziou/
+
+

@@ -1,0 +1,234 @@
+Chers collègues,
+
+
+
+veuillez nous excuser pour les réceptions multiples.
+
+
+
+*******************************************************
+
+Proposition de Post-Doctorat : Communautés dynamiques et recouvrantes pour
+la segmentation de clientèle
+
+*******************************************************
+
+Lieu : 40% à lUniversité Paris 1 Panthéon-Sorbonne, 60% chez le partenaire
+industriel Rexel France
+
+Université Paris 1 Panthéon-Sorbonne, Centre de Recherche en Informatique,
+90, rue de Tolbiac 75013 Paris, France
+
+Rexel France, 13 boulevard du Fort de Vaux  CS 60002, 75838 Paris Cedex 17
+
+
+
+Encadrants : Bénédicte LE GRAND (Benedicte.Le-Grand@univ-paris1.fr),
+Jean-Loup Guillaume (Jean-Loup.Guillaume@lip6.fr), Steven Durand
+
+(stdurand@rexel.fr)
+
+
+
+Mots-clés : fouille de données, segmentation clients/produits,
+recommandation, clustering de graphes
+
+
+
+Durée : 12 mois
+
+
+
+Date de début : dès que possible.
+
+
+
+-------------------------------------------------------
+
+Contexte :
+
+
+
+Ce sujet de post-doctorat sinscrit dans le contexte dune collaboration
+entre le Centre de Recherche en Informatique (CRI) de lUniversité Paris 1
+Panthéon-Sorbonne, le Laboratoire dInformatique de Paris 6 (LIP6) de
+lUniversité Pierre et Marie Curie et le partenaire industriel Rexel France.
+
+
+
+La recherche menée au sein du CRI est dédiée à lingénierie des systèmes
+dinformation. Lun des enjeux est la personnalisation, ladaptation des
+services fournis aux utilisateurs et la recommandation de services adaptés.
+Le CRI développe en ce sens des techniques de clustering et danalyse de
+graphes, en collaboration avec des chercheurs du LIP6.
+
+
+
+Le partenaire Rexel propose aux professionnels de lindustrie, de lhabitat
+et du tertiaire des produits et des solutions électriques durables et
+innovantes. Il est le leader mondial sur ce marché avec 13,5 milliards
+deuros de chiffre daffaires en 2012. Sa filiale France, avec 5 000
+collaborateurs et un réseau de 400 points de vente, offre à ses 200 000
+clients un catalogue de plusieurs millions de références.
+
+
+
+Rexel France a initié en 2012 un projet de refonte de sa gestion de la
+relation client. Son objectif est de proposer un ensemble doutils et
+dinterfaces pour capter, traiter et analyser les informations relatives aux
+clients, dans le but de répondre à leurs besoins spécifiques.
+
+
+
+Enjeux industriels :
+
+
+
+Lintention de Rexel est de recentrer son modèle pour être capable
+danticiper les besoins et comportements de ses clients et de proposer
+proactivement un service ou une offre pertinente.
+
+La grande variété et lhétérogénéité de la clientèle impliquent dutiliser
+des approches segmentées, qui cherchent à détecter, qualifier et quantifier
+des opportunités ou des anomalies, et permettent dadapter dynamiquement le
+traitement des clients pour améliorer la relation client et tirer lemeilleur
+profit de chaque interaction.
+
+
+
+Par ce projet, Rexel vise à mettre au point des solutions de marketing
+individualisé, rendant possible :
+
+- la caractérisation des clients selon leur profil de consommation ;
+
+- la qualification des produits et ensembles de produits à partir des
+données de transaction ;
+
+- l'augmentation de la valeur des commandes par des ventes additionnelles ;
+
+- lamélioration du positionnement stratégique en termes doffre dans une
+approche data-driven ;
+
+- la définition en temps réel et individuellement de leviers daugmentation
+de la valeur du capital client (ventes additionnelles, réorientation des
+coûts, etc.) ;
+
+- la mesure et le suivi des actions entreprises, ainsi que lenrichissement
+de la connaissance clients.
+
+
+
+-------------------------------------------------------
+
+Enjeux et verrous du point de vue de la recherche :
+
+
+
+Au-delà des enjeux industriels stratégiques pour Rexel, la problématique
+décrite ci-dessus représente aussi des défis du point de vue de la
+recherche.
+
+
+
+La segmentation (ou clustering) et les systèmes de recommandation sont des
+sujets largement abordés dans le monde de la recherche.
+
+
+
+Néanmoins, le contexte spécifique de ce post-doctorat soulève des questions
+complexes liées à lapprentissage automatique et au clustering de données,
+telles que :
+
+- la collecte et lanalyse de données provenant de sources multiples et
+hétérogènes, structurées et non structurées ;
+
+- le caractère évolutif de ces données dans le temps et la nécessité de
+fournir des recommandations en temps réel ;
+
+- le besoin de ne pas se limiter à un partitionnement des clients et des
+produits, et donc la nécessité didentifier rapidement des clusters
+recouvrants
+
+- lévaluation de la segmentation et des recommandations effectuées ;
+
+- le traitement de données de grande taille.
+
+
+
+------------------------------------------------------
+
+Qualifications requises / expérience :
+
+
+
+Le candidat recherché doit avoir soutenu sa thèse (ou la soutenir avant le
+début du post-doctorat). Une expérience avérée en recherche dans le domaine
+de la fouille de données / recommandation ou du clustering de graphes est
+impérative. Idéalement le candidat aura déjà travaillé sur des
+problématiques similaires ou impliquant du clustering recouvrant et/ou avec
+une notion de temporalité et sera conscient des problématiques spécifiques
+liées au traitement de données de grande taille. Une expérience de fouille
+sur des données structurées de type graphe serait un plus indéniable. Des
+travaux préliminaires ayant déjà été effectués avec R, une connaissance de
+ce logiciel serait également considérée favorablement.
+
+
+
+Le candidat aura également le souhait de travailler dans un contexte
+industriel, une capacité à communiquer (oral et écrit) en français et en
+anglais et sera capable de travailler de manière autonome.
+
+
+
+------------------------------------------------------
+
+Plan de travail :
+
+
+
+- Prise en main des données et étude de lexistant
+
+                -Analyse des données
+
+                -Analyse de la segmentation existante
+
+- Utilisation des méthodes de létat de lart pour la segmentation de la
+clientèle
+
+                -En fonction des produits commandés et de leur séquentialité
+
+                -En fonction des comportements dachat
+
+                               * Diversité des produits commandés
+
+                               * Volume et montant des commandes
+
+                               * Intervalles temporels entre les commandes
+
+                               * 
+
+- Conception dalgorithmes (partition et clusters recouvrants),
+implémentation et test des algorithmes pour la segmentation de la clientèle
+et la
+
+recommandation de produits
+
+- Evaluation des résultats obtenus et comparaison des différentes approches.
+
+
+
+
+
+Candidature : CV + lettre de motivation à envoyer à Bénédicte LE GRAND
+(Benedicte.Le-Grand@univ-paris1.fr), Jean-Loup Guillaume (Jean-
+
+Loup.Guillaume@lip6.fr), Steven Durand (stdurand@rexel.fr).
+
+
+
+
+
+---
+This email is free from viruses and malware because avast! Antivirus protection is active.
+http://www.avast.com
+

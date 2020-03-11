@@ -1,0 +1,30 @@
+Bonjour, 
+
+J'ai le plaisir de vous inviter à la soutenance de ma thèse de Doctorat en Informatique, intitulée : 
+
+Mesures sémantiques à base de connaissance : de la théorie aux applicatifs 
+
+La soutenance se déroulera le vendredi 25 avril à 10h30 sur le site du Laboratoire de Génie Informatique et d'Ingénierie de Production (LGI2P) de l'Ecole des mines d'Alès. 
+Salle de conférence (cube 6, niveau 1), Parc Scientifique Georges Besse, 30035 Nîmes. 
+Le jury sera composé de : 
+Pascale Kuntz , Professeur, Ecole Polytechnique de l'Université de Nantes (Rapporteur) 
+Jérôme Euzenat , Directeur de Recherche, INRIA Grenoble Rhône-Alpes (Rapporteur) 
+Amedeo Napoli , Directeur de Recherche, CNRS, LORIA - Nancy-Lorraine (Examinateur) 
+Isabelle Mougenot , Maître de Conférences, Université de Montpellier II (Examinateur) 
+David Sánchez , Enseignant-Chercheur, Universitat Rovira i Virgili - Tarragona, Espagne (Examinateur) 
+Jacky Montmain , Professeur, Ecole des mines d'Alès (Examinateur - Directeur de thèse) 
+Sylvie Ranwez , HDR, Ecole des mines d'Alès (Examinateur - Encadrement) 
+Stefan Janaqi , Maître-assistant, Ecole des mines d'Alès (Examinateur - Encadrement) 
+Vous êtes chaleureusement conviés au pot qui suivra. 
+
+Résumé 
+
+
+De nombreux travaux s’intéressent à la définition de mesures permettant de comparer des unités lexicales ou conceptuelles à partir de l’analyse de corpus de textes ou de représentations de connaissance (e.g. ontologies). L’analyse de ces mesures, dites sémantiques, amenée par un état de l'art approfondi et interdisciplinaire, nous a permis d'identifier certaines propriétés communes de ces mesures, et de proposer un cadre théorique permettant de généraliser un grand nombre d’approches proposées pour comparer deux concepts ou groupes de concepts définis dans une taxonomie. Ainsi, au-delà de leur apparente diversité et hétérogénéité, nous montrons que ces mesures de similarité sémantique reposent sur un ensemble réduit de primitives abstraites, et que, bien que définies indépendamment dans la littérature, la plupart d'entre-elles ne sont que des expressions particulières de mesures paramétriques génériques. Dans la veine des travaux portant sur l’unification des mesures sémantiques, le cadre théorique que nous proposons permet ainsi de reformuler les problèmes de définition, de sélection et d’analyse de ces mesures au travers de problèmes d’optimisations. Les premiers cas concrets d'utilisation du cadre théorique et de son implémentation permettent de souligner son apport pour l'analyse théorique et empirique des mesures. Nous montrons aussi son utilité pour l’étude de la robustesse d’une mesure, que nous définissons comme sa capacité à résister à l’incertitude associée aux jeux de tests classiquement utilisés dans les protocoles d’évaluation des mesures. 
+
+
+
+Ces travaux de thèse ont également conduit à différentes contributions théoriques et logicielles, nous proposons notamment: (i) une méthode permettant de comparer des instances définies dans un graphe RDF(S) ; nous montrons son intérêt pour la mise en place de systèmes de recommandation à base de contenu, (ii) une nouvelle approche pour comparer des concepts représentés dans des taxonomies chevauchantes, et (iii) une bibliothèque logicielle dédiée à l'analyse et au calcul des mesures sémantiques, la Semantic Measures Library (SML) : http://www.semantic-measures-library.org . 
+Bien cordialement, 
+Sébastien Harispe 
+

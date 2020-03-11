@@ -1,0 +1,69 @@
+
+Projet CATI
+  
+Profil de poste
+Ingénieur de recherche chargé(e) de la modélisation statistique de la variabilité des images acquises dans différents centres
+  
+  
+Contexte
+Le CATI a été créé il y a un peu plus de 2 ans pour exploiter les images multimodales acquises dans de multiples centres de radiologie et de médecine nucléaire pour identifier des biomarqueurs d’imagerie pertinents dans le décours de la maladie d’Alzheimer, et ceci dans le cadre de la constitution d’une cohorte de 2000 personnes présentant initialement une plainte cognitive et suivi sur plusieurs années.
+Ces données d’imagerie proviennent de différentes modalités offertes par la TEP avec différents radioligands et l’IRM et ses différents contrastes (anatomique, fonctionnelle de repos, diffusion moléculaire).
+  
+La première étape dans ce contexte est d’optimiser les acquisitions sur des systèmes d’imagerie de constructeurs et de générations différentes. La phase d’optimisation vise à réduire la variabilité des mesures provenant de centres d’imagerie différents et à atteindre une qualité optimale des images. Cette phase est réalisée à partir de mesures sur des fantômes qui permettent d’approcher au plus près la situation d’imagerie cérébrale. Ces fantômes permettent d’évaluer le contraste dans des structures de volume différent dans les images TEP. Ils permettent également d’extraire une mesure de rapport signal à bruit des images.
+  
+Mission principale
+Proposer une modélisation statistique de la variabilité intercentre s’appuyant sur les données fantômes et sur des données obtenues chez un échantillon de sujets.
+  
+Activités principales
+	• Des analyses multicentriques qui tiennent compte de la variabilité des données ont été déjà réalisées par le passé. L’ingénieur recruté doit mettre en place une modélisation statistique qui respecte la qualité des données des centres les plus performants.
+	• Suivre et exploiter les données multidimensionnelles issues des analyses d’images multimodales du CATI, TEP et IRM anatomique.
+	• Contribuer à la réalisation des  analyses statistiques quantitatives demandées en interne par le CATI.
+  
+Missions par ordre de priorité
+	• Proposer une modélisation qui exploite les données fantômes acquises en TEP. Cette modélisation sera évaluée sur un sous échantillon des données patients.
+	• Inclure dans un second temps dans la modélisation les paramètres propres à chaque patient susceptibles d’induire une variation (dose injectée/poids, intervalle injection-acquisition…).
+	• Inclure les effets longitudinaux des données acquises.
+	• Etendre et inclure éventuellement la modélisation aux données IRM et la variabilité des données IRM.
+	• Analyser des données statistiques sur l’ensemble des activités du CATI.
+  
+Activités secondaires
+	• Adapter et optimiser les outils de traitement statistique, et en développer au besoin de nouveaux.
+	• Choisir et mettre en œuvre, en les adaptant, des méthodes statistiques appropriées
+	• Mettre en forme les données (format, recalage,..) en utilisant l’ensemble des techniques nécessaires.
+  
+Compétences
+	• Connaissance approfondies des techniques statistiques (échantillonnage, analyses descriptives uni et multivariées, tests statistiques, plans d’expériences, …).
+	• Connaissance de l’imagerie TEP, IRM.
+	• Connaissances approfondies d’au moins un des logiciels de statistique (SAS, SPSS, SPHINX).
+	• Connaissances approfondies de l’outil informatique, en particulier pour le traitement d’informations de base de      données (manipulation de données massives ou réparties, mise en forme des éditions, outils graphiques).
+	• Autonomie dans la conduite d’une étude ou d’un projet.
+	• Maîtriser l’anglais technique du domaine à l’écrit et à l’oral.
+	• Autonomie, sens de l'initiative.
+	• Sens du contact, pour un travail statistique d'interface entre équipes multidisciplinaires.
+  
+Responsabilité hiérarchique
+La définition des objectifs de travail ainsi que des priorités de recherche de la personne recrutée seront effectuées par le comité exécutif du CATI sous la responsabilité d’Habib Benali, Marie Odile Habert, Régine Trébossen.
+  
+Durée du contrat
+CDD de 1 an (avec possibilité de reconduction)
+
+Prise de poste envisagée
+Janvier 2014
+
+Date de clôture des candidatures
+30 Novembre 2013
+
+Contact
+Pour tout renseignement ou envoi de candidature (lettre de motivation + Curriculum Vitae) s’adresser à :
+
+Monsieur Sullivan MARIE,
+Chef de Projet WP 2 CATI,
+UNITÉ UPMC - UMRS 678, 91 bd de l’hôpital, 75634 Paris cedex 13.
+Courriel : sullivan.marie@imed.jussieu.fr
+Tél : 01.53.82.84.30
+
+
+
+
+
+

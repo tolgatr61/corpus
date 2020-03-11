@@ -1,0 +1,65 @@
+
+Poste d'ingénieur en développement Java, Labex ASLAN, Lyon, Oct 2014
+
+Dans le cadre des activités du Labex ASLAN (http://aslan.universite-lyon.fr),
+le laboratoire ICAR (http://icar.univ-lyon2.fr) cherche à pourvoir un **CDD de 12 mois**
+à partir de début octobre 2014 axé sur le développement de la plateforme d'analyse
+de données textuelles TXM (http://textometrie.ens-lyon.fr).
+L'ingénieur intégrera l'équipe de développement du site de Lyon au sein du laboratoire.
+Il participera aux évolutions de la version portail web de TXM (développement de services
+de mise en ligne d'éditions critiques et intégration du moteur de recherche syntaxique
+TIGERSearch) ainsi que de la version pour poste (intégration d'outils de TAL dans la
+plateforme et développement de nouveaux services d'annotation/correction de corpus).
+
+D'excellentes compétences en conception et en programmation sont attendues.
+Plus précisément les compétences recherchées incluent :
+- expérience en conception et développement Java open-source : développement Java
+  (type Eclipse RCP), spécification/recettage par gestion de tickets (Redmine),
+  gestion de versions (SVN), rédaction de documentation développeur (Javadoc) et
+  utilisateur (LibreOffice, Dokuwiki)
+- développement web : développement Java/JavaScript (GWT + Tomcat), web services (REST),
+  standards HTML/CSS
+- traitement XML (StAX/DOM, XSLT)
+- traitement relationnel (SQL, JDBC)
+- rédaction technique en français et en anglais
+
+Connaissances supplémentaires appréciées :
+- connaissance de standards d'encodage XML de textes : Text Encoding Initiative,
+  TIGER XML, TMX
+- connaissance générale en TAL : tokenization, étiquetage morpho-syntaxique,
+  lemmatisation, annotation syntaxique
+- connaissance en ergonomie des interfaces graphiques utilisateur
+- langage de programmation C
+- langage de script R
+
+La personne devra faire preuve d'excellentes capacités relationnelles pour le
+travail en équipe avec des développeurs, des chercheurs et des étudiants, ainsi
+que faire preuve d'autonomie.
+
+Salaire annuel brut de 26 000 euros selon diplôme.
+
+Le poste est ouvert aux débutants (récents diplômés d'école d'ingénieur ou de Master)
+mais aussi aux récents docteurs possédant de bonnes capacités en programmation.
+
+Le profil possède une forte dominante développement, toutefois le travail attendu
+s’inscrit dans les activités de recherche de l'équipe Lincobato, très active dans
+le domaine de l'analyse informatisée de corpus textuels et la philologie numérique
+en ancien français, et se prête à publications.
+En fonction de la qualité de l'ingénieur/docteur recruté, le laboratoire bénéficie
+d'un fond constant de projets permettant d'envisager la prolongation du contrat à
+l'issue des 12 mois.
+
+Les candidats peuvent envoyer un dossier (cv, motivation et éventuelles
+lettres de recommandation, en pdf) à serge.heiden-_-à-_-ens-lyon.fr.
+
+========================================================================
+
+-- 
+Dr. Serge Heiden, slh@ens-lyon.fr, http://textometrie.ens-lyon.fr
+ENS de Lyon/CNRS - ICAR UMR5191, Institut de Linguistique Française
+15, parvis René Descartes 69342 Lyon BP7000 Cedex, tél. +33622003883
+
+
+
+
+

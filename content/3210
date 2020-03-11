@@ -1,0 +1,71 @@
+Bonjour,
+
+Vous trouverez ci-dessous un sujet de stage à Reims.
+
+Sujet : Traitement et visualisation web de données de localisation 
+issues de capteurs RFID.
+
+*Contexte : *
+Depuis quelques années, les colliers GPS sont de plus en plus utilisés 
+pour étudier finement les modalités d’utilisation de l’espace par les 
+animaux. D’ailleurs, en Champagne-Ardenne, l’URCA-CERFE conduit 
+actuellement des études sur la faune sauvage ordinaire avec des colliers 
+GPS. Si cette nouvelle technologie a déjà démontré  son efficacité dans 
+plusieurs études chez différentes espèces, les colliers GPS restent 
+néanmoins trop lourds et trop encombrants pour des espèces plus légères 
+et de petite taille. De plus, cette technique est très consommatrice en 
+énergie, et il est nécessaire de trouver un compromis entre le nombre de 
+localisations (donc la finesse de résolution des déplacements) et la 
+durée de vie du collier. La précision temporelle maximale obtenue à ce 
+jour pour un collier de 50 g (pour les petits animaux d’environ 1.5kg) 
+est de 1 localisation toutes les 5 minutes pour une durée de vie du 
+collier de 2 mois. Or, un animal peut modifier ses modalités 
+d’utilisation de l’espace en fonction des saisons. A moins de réussir à 
+recapturer l’animal pour le ré-équiper, ce qui est souvent peu probable, 
+un suivi GPS d’animaux de petite taille est encore très difficile.  Il 
+s’agit donc ici de développer de nouvelles méthodes de suivi peu 
+invasives permettant la géolocalisation de différentes espèces d’animaux 
+sauvages. L’objectif principal de du projet porte sur l’étude de 
+pertinence d’un réseau de capteurs sans fil afin de pallier aux 
+problèmes des colliers GPS.
+
+*Objectifs : *
+Il s'agira dans ce stage de travailler à la remontée de l'information 
+issue des capteurs RFID et à leur visualisation au travers d'une 
+interface web. Les données remontées devront être filtrées et agrégées 
+pour le calcul des localisations. A partir des localisations, des 
+premiers motifs devront être calculé afin de permettre une 
+visualisation, proche du temps-réél, des trajectoires sur le web. Des 
+évolutions pourront être apportées sur la représentation de 
+l'incertitude du positionnement, sur le stockage et l'historisation des 
+données et sur la plateforme de traitement de ces dernières.
+
+*Contacts :*
+La durée maximale du stage est de 6 mois avec démarrage le plus tôt 
+possible. Le stage s'effectuera dans les locaux du CReSTIC à Reims.
+Le montant de la gratification sera de 508,2€ par mois.
+Veuillez envoyer votre CV et lettre de motivation à :
+Cyril de Runz : cyril.de-runz@univ-reims.fr
+Marwane Ayaida : marwane.ayaida@univ-reims.fr
+
+
+-- 
+Cyril de Runz
+Maitre de Conférences -- Associate Professor
+Université de Reims Champagne-Ardenne
+IUT de Reims Châlons Charleville
+CReSTIC-SIC/Département Informatique
+Chemin des Rouliers CS30012 51687 REIMS CEDEX 2
+Tel : (+33) 3 26 91 84 58
+http://crestic.univ-reims.fr/membre/312-cyril-de-runz
+http://sites.google.com/site/cyrilderunz/
+Mel : cyril.de-runz@univ-reims.fr
+***********************************
+Directeur pédagogique de la LP Menatis
+http://www.menatis.fr
+http://www.iut-rcc.fr/Infos-diplome-37-Medias-Numeriques-Associes-aux-Technologies-de-l-Image-et-Son-Presentation
+*************************************
+Chargé de communication adjoint de l'EGC
+http://www.egc.asso.fr/
+
+

@@ -1,0 +1,38 @@
+
+
+------------------
+
+LELIE: Challenges of Discourse Processing: the case of technical texts
+Cambridge Scholars
+
+Patrick Saint-Dizier, IRIT-CNRS
+
+170 pages, Avril 2014.
+
+A travers le développement d'outils d'analyse de la langue naturelle, cet ouvrage aborde:
+
+- Les méthodes de rédaction contrôlée des procédures, spécifications et exigences,
+
+- La détection automatique d'erreurs de rédaction et les méthodes d'aide à la correction,
+
+- La notion d'explication dans les textes techniques,
+
+- L'analyse de la structure de discours (les articulations) dans les textes techniques: titres,
+prérequis, circonstances, conditions, buts, instructions, exigences, avertissements, conseils, etc.
+pour l'amélioration du style et l'exploitation du contenu,
+
+- La plateforme d'analyse de discours TextCoop, basée sur la logique, et le langage de programmation Dislog,
+avec des exemples simples de mise en oeuvre,
+
+- Le projet ANR LELIE, mise en oeuvre concrète de ces principes.
+
+Les travaux présentés sont applicables à un grand nombre de secteurs industriels.
+
+L'ouvrage est complété par la mise à disposition d'une archive du noyau du système (français, anglais)
+en Creative Commons BY disponible auprès de l'auteur (stdizier@irit.fr).
+
+
+----------------
+
+
+

@@ -1,0 +1,145 @@
+Bonjour,
+Veuillez trouver ci-après un sujet de stage de M2 sur la conception de 
+jeux sérieux pour les musées.
+Cordialement,
+Nadira Lammari
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+*Sujet de stage MASTER 2 recherche*
+
+**
+
+*Méthode de conception de jeux sérieux pour les musées*
+
+*__*
+
+
+*Lieu *: Laboratoire CEDRIC (Centre de Recherche en Informatique du 
+CNAM), au CNAM de Paris, 292 rue Saint Martin, 75003 Paris, France. 
+(http://cedric.cnam.fr/ )
+
+*Contact *: Nadira Lammari (ilham-nadira.lammari@cnam.fr).
+
+*Durée *: maximum 5 mois
+
+*Rémunération *: 537.6 € / mois
+
+*Contexte :*
+
+Ce stage s’inscrit dans le cadre des projets EMULE1^^[1] <#_ftn1>, 
+EMULE2^^[2] <#_ftn2> et EMULE3, dirigés par le professeur Carole 
+Bouchard du laboratoire LCPI (ENSAM), sous la tutelle du laboratoire 
+d’Excellence Creation Art et Patrimoine. Les autres membres participants 
+sont : Eric Gressier (Le Cnam), Nadira Lammari (Le Cnam), Elisabeth 
+Métais (Le Cnam) et Vincent Rieuf (LAbex Cap, HESAM). EMULE1, EMULE2 et 
+EMULE3 sont respectivement menés en collaboration avec le musée des arts 
+et métiers, le muséedu quai Branly et la cité de la céramique.
+
+*Sujet* :
+
+Les musées doivent actuellement se montrer innovants dans la manière de 
+captiver leur auditoire. Le challenge est actuellement de créer des 
+espaces éducatifs qui ne soient pas juste des diffuseurs statiques de 
+contenus, mais bien des endroits (1) capables d’attirer des publics 
+jeunes comme âgés, (2) satisfaire l’accessibilité, quel que soit le 
+handicap.
+
+Ces exigences peuvent être remplies en introduisant des jeux sérieux 
+dans les musées. Dans les faits, un musée utilisant des jeux sérieux 
+dans la médiation est considéré comme un espace ludique d’éducation. 
+L’un des challenges est alors de conserver un équilibre entre le côté 
+ludique et l’apport éducatif.
+
+La littérature sur les jeux sérieux est abondante, dont une partie 
+dédiée à l’héritage culturel. Mais rien n’est publié sur la méthode 
+sous-jacente à la conception du jeu. Il existe cependant des travaux de 
+recherche sur l’ingénierie des jeux sérieux. Certains proposent des 
+frameworks, des modèles et des ontologies qui aident à la démarche de 
+conception. D’autres travaux adressent les parties techniques de la 
+conception.
+
+A notre connaissance, il n’existe pas de méthode d’analyse et de 
+conception d’expérience muséographique à travers des jeux sérieux qui 
+intègre les besoins non fonctionnels, tels que le plaisir du jeu, 
+l’accessibilité et l’apprentissage, dans les différentes phases de 
+développement d’un jeu depuis la spécification des besoins jusqu’à 
+l’implémentation.
+
+Dans le cadre des projets EMULES, nous avons déjà conçu une première 
+version de méthode. pour la conception d’une expérience muséale à 
+travers des jeux sérieux. Mais cette méthodologie n’est pas suffisamment 
+formalisée pour constituer un guide applicable.
+
+*Tâches à réaliser*:
+
+-Dans un premier temps le candidat ou la candidate devra étudier la 
+littérature sur les processus d’analyse et de conception des jeux sérieux ;
+
+-Dans un second temps, le travail de recherche attendu doit tirer profit 
+des travaux faits dans les systèmes d’information et l’ingénierie des 
+jeux sérieux pour formaliser la méthode de conception produite dans le 
+cadre des projets EMULES et l’enrichir par un guidage qui lui permettra 
+d’être utilisée par les musées.
+
+*Profil recherché*:
+
+-Le candidat ou la candidate doit correspondre à l'un des trois profils 
+suivant :
+
+oDes connaissances en systèmes d'information ou Software Engineering 
+(aspects méthodologiques) avec éventuellement des connaissances 
+complémentaires en réalité virtuelle ou en conception de jeux sérieux ;
+
+oOu connaissances en conception de jeux sérieux avec éventuellement des 
+connaissances en conception de systèmes d'information (aspects 
+méthodologiques) ou en Software Engineering (aspects méthodologiques);
+
+oOu des connaissances  en réalité virtuelle  avec éventuellement des 
+connaissances en systèmes d'information (aspects méthodologiques)  ou en 
+Software Engineering (aspects méthodologiques).
+
+-Le candidat ou la candidate doit de plus :
+
+oEffectuer un master 2 recherche
+
+oAvoir une connaissance suffisante de la langue anglaise pour réaliser 
+un état de l’art exhaustif ;
+
+oAvoir le goût du travail bien fait et des qualités de rigueur et 
+d’abstraction ;
+
+oAimer le travail en équipe et s’intégrer facilement ;
+
+-Aucune connaissance particulière n’est requise dans le domaine de 
+l’art ; une passion pour la recherche et un intérêt pour la valorisation 
+des œuvres est suffisant.
+
+
+------------------------------------------------------------------------
+
+[1] <#_ftnref1> 
+http://labexcap.fr/micro-projets/emule-emotional-user-enlightning-experience/
+
+[2] <#_ftnref2> 
+http://labexcap.fr/micro-projets/emule-2-emotional-user-enlightning-experience-2
+
+
+-- 
+
+
+
+**************************************************
+
+       LAMMARI ILHAM NADIRA
+       Maître de conférences-HDR
+       Département Informatique - Equipe ISI
+       Laboratoire CEDRIC - Equipe ISID
+       Conservatoire National des Arts et Métiers
+       292 rue St-Martin 75141 Paris Cedex 03
+       tel : 01 40 27 24 86   fax : 01 40 27 24 06
+
+**************************************************
+
+

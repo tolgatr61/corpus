@@ -1,0 +1,71 @@
+
+Post-Doc en fouille de données au Laboratoire LIRIS (INSA de Lyon)
+
+L’équipe DM2L (« Data Mining and Machine Learning ») de l’UMR CNRS 5205 
+(laboratoire LIRIS, Lyon) recherche un candidat pour un contrat de 
+post-doc d’une année à pourvoir dès maintenant. Le financement provient 
+d’un projet FUI visant à fournir des outils d’analyse de grandes 
+collections de traces unitaires pour des industries manufacturières. 
+Plus précisément, en faisant l’hypothèse que chaque produit manufacturé 
+est tracé de façon individuelle et de façon plus ou moins complète au 
+cours de son cycle de vie (de la fabrication à sa vente en passant par 
+ses transformations et des circuits logistiques à l’échelle mondiale), 
+nous pouvons disposer de très grands volumes de traces (typiquement des 
+dizaines de millions de séquences d’événements géo-localisés). Le 
+problème ouvert qui nous intéresse est celui des apports de la fouille 
+de données sous contraintes pour détecter des anomalies dans ces 
+collections. La finalité de ces recherches est de contribuer à la 
+détection de fraudes (contrefaçons, marché gris, etc).
+
+La personne recrutée travaillera avec les spécialistes en fouille de 
+données sous contraintes de l’équipe DM2L pour construire une 
+méthodologie d’analyse de ces traces unitaires. Ceci comportera la 
+conception de domaines de motifs et l’étude des problèmes de passage à 
+l’échelle des calculs associés (énumérations et traitement actif de 
+contraintes, complétude ou mises en œuvre heuristiques). Plusieurs 
+difficultés mais aussi opportunités se posent dans ce contexte 
+spécifique de découverte de motifs : (a) Il s’agit de s’intéresser à des 
+découvertes d’anomalies donc, a priori, des événements rares alors que 
+l’effort des chercheurs a jusqu’ici porté davantage sur la recherche de 
+motifs fréquents, et (b) C’est un contexte où la connaissance du domaine 
+est assez riche (« process » industriel) or les approches classiques en 
+extraction de motifs exploitent difficilement et/ou trop tardivement la 
+connaissance du domaine.
+
+Nous souhaitons des candidatures de docteurs en informatique avec une 
+bonne connaissance de la fouille de données. La personne recrutée devra 
+être force de proposition sur des questions conceptuelles (élaboration 
+de la méthodologie d’analyse) et algorithmiques. Elle doit également 
+être motivée par ce nouveau champ d’application très prometteur pour de 
+nombreuses industries manufacturières. Un doctorant travaille déjà sur 
+le projet à l’interface entre les entreprises partenaires et le LIRIS. 
+Des développements logiciels ont débuté pour une preuve de concept 
+concernant l’apport des domaines de motifs simples (« itemsets », 
+« séquences ») sur la détection de certaines anomalies. La personne 
+recrutée sur ce post-doc pourra s’appuyer la disponibilité de cette 
+ressource humaine pour le développement et la validation de ses 
+propositions.
+
+Les docteurs en informatique candidats doivent avoir des compétences en 
+programmation (C++, Java, Python) et des connaissances en Web 
+sémantique, en construction/exploitation d’ontologies, et en 
+statistiques sont des plus. La langue de travail peut être le Français 
+ou l’Anglais. Le poste peut être pourvu dès maintenant et devra l’être 
+avant le 1/03/2015.
+
+Les candidatures doivent être adressées à Jean-François Boulicaut 
+(jean-francois.boulicaut@insa-lyon.fr 
+<mailto:jean-francois.boulicaut@insa-lyon.fr>). Les candidats doivent 
+fournir (i) une lettre de motivation, (ii) un CV, et (iii) les rapports 
+de pré-soutenance de thèse de doctorat. Tout autre document permettant 
+d’apprécier l’expertise (e.g., github, codes sources, etc.) est bienvenu.
+
+
+-- 
+-----------------------------------------------------
+Jean-Francois Boulicaut
+Professor at INSA de Lyon, Computer Science Department
+Deputy head LIRIS CNRS UMR 5205
+http://liris.cnrs.fr/~jboulica/
+
+

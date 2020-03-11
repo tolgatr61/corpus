@@ -1,0 +1,46 @@
+Désolé pour les réceptions multiples
+
+Un sujet de thèse intitulé "Contextes Formels pour l’Évaluation de Méthodes
+d’Interprétation d’Images de Documents basées sur des Dictionnaires
+Visuels" est proposé au LORIA.
+
+Résumé : Le but de cette thèse est de formaliser et d’évaluer des façons de
+représenter explicitement des contextes d'interprétation induites par
+diverses techniques de reconnaissance et d’analyse d’images de documents,
+basées sur des dictionnaires visuels. Les approches basées sur les
+dictionnaires sont actuellement parmi les méthodes les plus performantes la
+reconnaissance d'images depuis les travaux séminaux de Sivic et Zisserman
+[6] et ont depuis été déclinés en diverses approches combinant
+classification non supervisée sur des descripteurs locaux et des
+représentations parcimonieuses. Elles permettent de construire des «
+vocabulaires » visuels, qui sont ensuite utilisés pour exprimer le contenu
+de l'image.
+il est important de chercher à capturer explicitement le contexte
+d'interprétation car l'état de l'art semble ne pas être en mesure de passer
+le fameux fossé sémantique. Bien qu’il existe des approches d’évaluation et
+de benchmarking très avancées et largement adoptées pour mesurer les
+performances de différentes approches (Pascal VOC, LSVRC, TREC, CLEF,
+concours ICDAR ...), ils opèrent tous dans le même cadre général :
+1. Fourniture des données de apprentissage annotées (vérité terrain ou
+golden standard)
+2. Développement d’algorithmes d'interprétation perceptive basés sur cette
+vérité terrain
+3. Comparaison et classement des algorithmes en fonction de leur
+performance sur des données annotées, différentes des données
+d’apprentissage.
+
+Dans cette proposition de thèse, nous nous concentrons sur des méthodes qui
+utilisent des approches basées sur les dictionnaires lors de la phase 2
+ci-dessus. Inspiré par [7] dans laquelle un l’Analyse Formelle de Concepts
+[3] est utilisée pour optimiser la construction du dictionnaire, nous
+allons étudier l'utilisation de méthodes d'apprentissage formel (FCA [3],
+ILP [4], MLN [5]) pour tenter de découvrir dans quelle mesure les
+dictionnaires résultant de différentes approches de l’état de l’art
+partagent une sémantique commune.
+
+Pour plus d'informations :
+https://www.adum.fr/as/ed/voirproposition.pl?print=oui&matricule_prop=8448
+
+Contact :  B. Lamiroy (Bart.Lamiroy@loria.fr)  / J. Weber (
+jonathan.weber@loria.fr)
+

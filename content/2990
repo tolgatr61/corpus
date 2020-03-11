@@ -1,0 +1,64 @@
+Proposition de contrat postdoctoral sur l'apprentissage collaboratif distribué pour de la prévision de séries temporelles à l'ISEP 
+
+Ce poste se situe dans le cadre d'un projet de recherche bilatéral avec la R&D d'un énergéticien français. Il vise à développer une plateforme pair à pair de prévision collaborative pour un réseau de capteurs géolocalisés. 
+
+Cette plateforme sera utilisée dans le cadre de la production d'énergie électrique à partir de sources renouvelables soumises à des aléas climatiques (conditions météorologiques). Ces aléas ayant une forte corrélation spatio-temporelle, on cherchera à tirer parti de la géolocalisation des unités de production pour anticiper les variations locales. 
+
+Cette approche a été l'objet de travaux de recherches récents sur la production d'énergie d'origine éolienne[WPF2011], mais l'état de l'art se révèle encore insuffisant sur les points suivants : 
+
+- Prévision en temps réel 
+- Adaptation en temps réel 
+- Robustesse 
+- Minimisation des communications 
+
+L'objectif de ce projet est de faire progresser l'état de l'art sur tous ces points et d'implémenter la/les solution(s) proposée(s) pour traiter un cas pratique réel de prévision de production d'énergie renouvelable à court terme. 
+
+La personne recrutée aura pour mission de : 
+
+- Faire un état de l’art des systèmes d'apprentissage collaboratifs 
+distribués (architectures pair à pair) 
+- Proposer des améliorations / adaptations de l'état de l'art pour 
+traiter le cas de la production d'énergie d'origine renouvelable. 
+- Participer à l'implémentation d'un système de prévision collaborative 
+distribuée sur une plateforme pair-à-pair. 
+
+* Références : 
+Spatio-temporal analysis and modeling of short-term wind power forecast errors 
+Julija Tastu, Pierre Pinson, Ewelina Kotwa, Henrik Madsen, Henrik Aa. Nielsen 
+Wind Energy Volume 14, Issue 1, pages 43–60, January 2011 
+
+Robust Kalman Filtering for Signals and Systems with Large Uncertainties, 
+Ian R. Petersen, Birkhauser Boston, 1999 
+
+* Compétences et profil 
+
+** Formation, expérience 
+
+Les candidats doivent être titulaires d’un diplôme de doctorat en informatique ou mathématiques appliquées sur un sujet connexe (systèmes distribués et/ou machine learning et/ou prévision de séries temporally). 
+
+
+** Profil technique 
+
+- Bonne maîtrise des outils d'analyse/filtrage/modélisation de séries temporelles 
+- Bonne expérience dans les outils de développement (basés sur JVM). 
+- Solide expérience en programmation. 
+- Bonne aptitude au travail en équipe. 
+
+* Environnement de travail: 
+
+- Lieu :: ISEP, Laboratoire RDI 21 rue d'Assas 75006 Paris 
+- Durée :: 1 an, éventuellement renouvelable. 
+- Date de début :: Dès que possible 
+- Salaire mensuel (net) :: 2200 € 
+
+Les candidatures (lettre de motivation + curriculum vitae détaillé (e.g. sujet de thèse, publications, développements logiciels) sont à envoyer avant le 31 janvier à: 
+
+Bernard Hugueney 
+
+ISEP Laboratoire RDI 
+28 rue N-D des Champs 
+75006 Paris France 
+
+mailto:bernard.hugueney@isep.fr 
+
+

@@ -1,0 +1,103 @@
+Proposition de post-doc sur 2 ans en traitement automatique de textes
+juridiques et règlementaires, financé par le SHOM
+http://perso.telecom-bretagne.eu/yannisharalambous/data/SHOM-postdoc-06-2016.pdf
+
+TITRE :
+
+Modélisation ontologique des réglementations maritimes (projet REIZHMOR)
+
+RÉSUMÉ DU PROJET :
+
+Le but de ce projet est de proposer un modèle et un cadre général
+permettant de modéliser la législation et la réglementation existante
+dans le domaine maritime.
+
+Les performances des systèmes actuels sont faibles, la généricité des
+outils est inexistante. Il n’existe pas d’ontologies dans le domaine des
+textes réglementaires maritimes mais au mieux des bases de données, et
+le plus généralement des références à des documents scannés voire
+analogiques.
+
+Comme chacun sait, nul n’est censé ignorer la loi. Mais compte tenu du
+contexte, il est très difficile pour les juristes, encore plus pour des
+personnes non expertes du domaine, d’identifier dans un corpus en
+expansion continue, les textes et les jurisprudences qui les intéressent
+voire les concernent.
+
+Le but de ce projet est donc de proposer un cadre général d’analyse des
+textes règlementaires, un modèle ontologique capable d’en décrire les
+concepts, les relations, et la sémantique attachée, une base de
+connaissances et ses outils d’entretien, ainsi qu’un service de
+requête. L’étude se focalisera dans un premier temps sur le contexte
+juridique spécifique de la PEM (Planification de l’Espace Maritime).
+
+Des problèmes scientifiques se posent au vu de la complexité et de
+l’ambiguïté de certains textes. Malgré le style formel et rigoureux
+employé par les juristes, il est difficile d’automatiser entièrement le
+procédé d’analyse et de constitution de la base de connaissances. Les
+bases d’un processus semi-automatique d’entretien de l’ontologie devront
+être étudiées pour permettre à du personnel non informaticien
+d’effectuer des corrections et des mises à jours. Celles-ci s’appuieront
+sur des définitions de concepts, de relations et de représentations
+lexicales les plus larges possibles.
+
+En ce qui concerne le corpus, on se limitera à des contextes
+spécifiques. Celui retenu est relatif à la PEM avec un focus tout
+particulier sur :
+
+- La convention de Montego Bay, bien que relevant plutôt du droit de la
+ mer, permet de disposer du fondement juridique des différents types de
+ délimitations maritimes utilisées dans la PEM ;
+
+- Les règles de sécurité de la navigation de l’OMI (conventions SOLAS,
+ SAR et COLREG essentiellement) sous-jacentes à de nombreuses
+ réglementations maritimes ;
+
+- Les arrêtés des préfets terrestres et des préfets maritimes relatifs
+ aux activités en mer ou en lien avec la mer, telles que la pêche, les
+ énergies marines renouvelables ou le trafic maritime, pour ne citer
+ que celles-là.
+
+A condition de respecter certains standards, il sera toujours possible
+ensuite d’étendre ces ontologies ou d’en rassembler des fragments pour
+couvrir des domaines juridiques de plus en plus larges.
+
+PRÉRQUIS : thèse de doctorat en gestion des connaissances/modélisation
+ontologique et/ou traitement automatique de langue, bonne connaissance du français
+
+LIEU : Télécom Bretagne, Brest. (Laboratoire Lab-STICC, équipe DECIDE)
+
+DÉBUT DE CONTRAT : entre octobre 2016 et mars 2017, selon les
+                  disponibilités du candidat
+
+DURÉE DU CONTRAT : 24 mois
+
+CONTACT : yannis.haralambous@telecom-bretagne.eu
+
+
+
+-------------------------------------------------------
+Join the “Graphemics in the 21st century” conference in June 2018!
+http://conferences.telecom-bretagne.eu/grafematik/
+-------------------------------------------------------
+Yannis Haralambous
+Professor
+Institut Mines-Télécom, Télécom Bretagne (soon: IMT Atlantique)
+Computer Science Department
+UMR CNRS 6285 Lab-STICC
+Technopôle Brest Iroise
+CS 83818, 29238 Brest Cedex 3, France
+Email: yannis.haralambous@telecom-bretagne.eu
+Internet: http://perso.telecom-bretagne.eu/yannisharalambous/
+ICBM address: 48°21'31.57"N 4°34'16.76"W
+Twitter: y_haralambous
+-------------------------------------------------------
+...the ball I threw while playing in the park
+has not yet reached the ground
+(Dylan Thomas)
+
+Es gab eine Zeit, wo ich nur ungern über Schubert sprechen,
+nur Nächtens den Bäumen und Sternen von ihm vorerzählen mögen.
+(Robert Schumann)
+
+

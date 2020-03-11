@@ -1,0 +1,124 @@
+
+
+Sujet de thèse : Structuration, navigation et recherche au sein de 
+collections de documents
+
+English below.
+
+Laboratoire : IRISA, Rennes ; labex Comin'Labs. Équipe texmex : 
+www.irisa.fr/texmex
+
+Dans beaucoup de domaines, l'exploitation des grandes quantités de 
+documents numériques reste un problème majeur. Dans ce contexte dit 'big 
+data', une grande partie de l'information se présente de manière 
+informelle dans des textes. Le seul stockage informatique de ces 
+documents ne permet pas d'accéder facilement aux informations qu'ils 
+contiennent, de les retrouver efficacement, de les mettre en regard les 
+unes avec les autres, de les recouper en vue de les analyser.
+Le projet LIMAH du labex Comin'Labs s'intéresse à ses problématiques de 
+découverte d'information et de navigation dans des collections 
+multimédias (journaux TV, blogs...) et c'est dans ce cadre que s'inscrit 
+ce sujet de thèse.
+
+Il existe bien sûr des outils, comme les moteurs de recherche, 
+permettant d'interroger des archives textuelles. Cependant, ces outils 
+ont des limites qui les rendent inadaptées comme outils de découverte de
+connaissances.
+D'une part, ils nécessitent de l'utilisateur qu'il exprime clairement 
+son besoin d'information quelle que soit sa complexité. Ce point est 
+souvent bloquant : un utilisateur sait souvent bien ce qu'il cherche 
+sans pouvoir le formaliser correctement sous forme d'une requête 
+textuelle unique.
+D'autre part, les systèmes existants considèrent les documents 
+indépendamment les uns des autres et ne permettent donc pas de prendre 
+en compte les liens pouvant exister entre ces documents pour répondre à
+l'utilisateur.
+Enfin, et cela est lié aux deux points précédents, ils ne permettent pas 
+à l'utilisateur de naviguer dans la collection en se basant sur le 
+contenu de ces documents et sur les différents liens qu'ils peuvent 
+entretenir.
+
+Cette thèse a pour but de développer de nouveaux cadres théoriques et 
+technologiques pour une exploitation intelligente des informations 
+textuelles dans des collections de documents en se basant sur leurs
+contenus. Au delà d'un simple moteur de recherche, le candidat devra 
+développer, implémenter et évaluer des techniques nouvelles permettant 
+de découvrir des liens entre les documents textuels au sein d'une
+collection, de les typer et de les exploiter pour la recherche et la 
+navigation. Cette thèse s'inscrit donc dans les domaines de la recherche 
+d'information (RI), du traitement automatique des langues (TAL) et de la 
+fouille de données.
+
+Le travail de thèse s'effectuera dans le cadre d'un contrat à durée 
+déterminée de 3 ans, débutant en septembre-octobre 2014.
+
+
+Candidature
+
+Le candidat devra être issu d'un master en informatique ou d'une 
+formation équivalente, avec un très bon classement.
+Il devra avoir suivi des cours en apprentissage artificiel et/ou fouille 
+de données, et des compétences en traitement automatique des langues 
+seront appréciées.
+
+Les candidatures, par e-mail à vincent.claveau@irisa.fr , devront 
+comporter un CV, le relevé de notes du master avec une indication du 
+classement, une lettre de motivation et le nom et les coordonnées d'un 
+professeur pouvant recommander le candidat.
+
+============
+
+PhD : Structuring, navigating and searching through collections of documents
+
+Lab: IRISA, Rennes ; labex Comin'Labs. Team texmex : www.irisa.fr/texmex
+
+In many domains, exploiting large amounts of digital documents is a 
+major problem . In this so called 'big data' context, most of the 
+information is contained as unformatted texts. Storing these documents 
+does is not enough to easily acccess the information they contain, 
+compare them...
+The LIMAH project in the labex Comin'Labs interested in such issues of 
+information discovery and navigation in multimedia collections (TV news, 
+blogs ... ) and it is in this context that this PhD is proposed.
+
+Of course there are tools such as search engines, for querying textual 
+archives. However, these tools have limitations that make them 
+unsuitable for knowledge discovery.
+First,  they require the user to clearly express his information need 
+regardless of its complexity. This point is often blocking: a user often 
+knows what he wants without being able to properly formalize it.
+Second, existing systems consider the documents independently of each 
+other and therefore do not take into account the possible links between 
+these documents.
+Consequently, they do not allow the user to browse the collection based 
+on the contents of these documents and on the many different links that 
+they may share.
+
+The goal of the PhD is to develop new theoretical and technological 
+frameworks for intelligent use of textual information in document 
+collections based on their content.
+Beyond a simple search engine , the candidate will develop, implement 
+and evaluate new techniques for discovering links between text documents 
+in a collection, for characterizing these links and for exploiting them 
+for searching and browsing. This thesis is concerned with information 
+retrieval, Natural Language Processing and data mining .
+
+The thesis work will be done under a fixed term contract of 3 years, 
+starting in September-October 2014 .
+
+
+Application
+
+The candidate must belong a master degree in computer science with a 
+very good ranking. He must have taken courses in machine learning and / 
+or data mining, and skills in language processing will be appreciated.
+
+Applications by e -mail to vincent.claveau@irisa.fr , should include a 
+resume, grades and ranks in the master, a motivation letter and the 
+names and contact details of a teacher that may recommend the candidate.
+
+
+
+V. Claveau
+IRISA, TexMex team
+

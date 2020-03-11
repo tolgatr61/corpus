@@ -1,0 +1,114 @@
+Dans le cadre du projet ANR C3PO (http://www.c3po-anr.fr), Telecom Saint
+Etienne recrute une personne titulaire d’un doctorat en informatique.
+
+
+
+Ce projet souhaite promouvoir l'utilisation de réseaux sociaux spontanés et
+éphémères (RSSE) pour permettre la production collaborative de contenus
+numériques élaborés lors de manifestations sportives et culturelles. Ces
+RSSE reposent sur une architecture distribuée pair à pair et sur des
+réseaux mobiles ad hoc, et exploitent les ressources et les services
+offerts par les terminaux mobiles. À l'instar des réseaux sociaux
+traditionnels, ces RSSE permettent de mettre en relation des individus
+nomades en fonction de leurs affinités et/ou de leurs centres d'intérêt
+afin que ceux-ci puissent collaborer à la réalisation de tâches données au
+sein d'un RSSE. Dans le projet C3PO, cette collaboration se veut incitative.
+
+
+
+Dans ce projet, Telecom Saint Etienne et en particulier l’équipe Satin,
+doit étudier la recommandation de contenus et de services. Cette équipe a
+des compétences en architectures de réseaux sociaux sémantiques, en
+sensibilité au contexte, en modélisation sémantique et en techniques de
+recommandation sociale, qui sont attestés par leurs publications (cf. plus
+bas)
+
+
+
+Il s’agira pour la personne recrutée de prendre en charge à la fois les
+aspects d’analyse de l’état de l’art et des besoins, de conception, de
+prototypage et de tests en grandeur réelle de la technique de
+recommandation la plus adaptée au contexte de ce projet, dans une démarche
+incrémentale et agile.
+
+Pour l’intégration de ce travail dans la plate-forme C3PO, la personne
+recrutée devra collaborer avec les autres partenaires du projet, notamment
+avec les deux autres post-doctorants recrutés par les autres équipes et par
+l’ingénieur de la société partenaire directement impliqué. Cette équipe de
+quatre personnes, sera au cœur de la mise en place de la plate-forme C3PO.
+
+
+
+La personne recrutée doit avoir obtenu une thèse de doctorat en
+informatique, avec une forte préférence pour que cette thèse concerne un
+des domaines concernés par cet emploi, notamment les techniques de
+recommandation.
+
+
+
+Le profil recherché inclut des compétences en :
+
+- techniques de recommandation par le contenu, de recommandation sociale ou
+basées sur la confiance,
+
+- architectures logicielles distribuées et mobiles
+
+- développement pour environnements mobiles (javascript, android)
+
+- maîtrise des outils de développement actuels (git, maven…)
+
+- maîtrise de l’anglais
+
+- autonomie et force de proposition
+
+
+
+Le salaire suit les grilles de recrutement de l’Université Jean Monnet, qui
+dépend de l'expérience du candidat. Le poste est à pourvoir en octobre
+2014, pour une durée d'un an.
+
+
+
+Contact
+
+Merci d’envoyer votre CV accompagné de lettres de recommandations à :
+
+Frédérique Laforest frederique.laforest@telecom-st-etienne.fr
+
+
+
+
+
+*Publications*
+
+Story Henry, Blin Romain, Subercaze Julien, Gravier Christophe, Maret
+Pierre, Turning a Web 2.0 Social Network into a Web 3.0, distributed, and
+secured Social Web application, Proceedings of the 21st World Wide Web
+Conference (Companion Volume, Demonstrations), pp.417--420, Lyon, France,
+April 16-20, 2012
+
+Subercaze Julien, Gravier Christophe, HashGraph : an expressive and
+scalable Twitter users profile for recommendation, 2013 IEEE/WIC/ACM
+International Conference on Web Intelligence (WI'13), Atlanta, USA,
+November 17th--20th, 2013
+
+Simon Meyffret<http://www.informatik.uni-trier.de/~ley/pers/hd/m/Meyffret:Simon.html>,
+Lionel Médini<http://www.informatik.uni-trier.de/~ley/pers/hd/m/M=eacute=dini:Lionel.html>,
+Frédérique Laforest: Confidence on Collaborative Filtering and Trust-Based
+Recommendations. EC-Web
+2013<http://www.informatik.uni-trier.de/~ley/db/conf/ecweb/ecweb2013.html#MeyffretML13>:
+162-173
+
+S. Meyffret, L. Medini, F. Laforest. Trust-based local and social
+recommendation, ACM Recommender Systems 2012 Workshop on Recommender
+Systems & the Social Web (RSWeb@RecSys), Dublin, Ireland, september 2012
+
+-- 
+--------
+Frédérique Laforest
+Professeur des Universités/Full professor
+Telecom Saint Etienne, UJM, Université de Lyon
+LT2C Satin
+25 rue Docteur Remy Annino
+42000 Saint Etienne - France
+
