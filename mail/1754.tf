@@ -1,9 +1,0 @@
-aux 
-cordialement 
-de 
-ferré 
-intéressées 
-merci 
-personnes 
-sébastien 
-transmettre 
