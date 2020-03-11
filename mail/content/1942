@@ -1,0 +1,93 @@
+*Proposition de poste d'ingénieur gestion de données ANR ALIA MAP’OPT 
+(CDD 6 mois)*
+
+Le projet ANR ALIA MAP’OPT rassemble 3 unités de recherche, l’UMR IATE 
+(Ingénierie des Agro polymères et Technologie Emergente) à Montpellier, 
+l’unité INRA Mét@risk à Paris et le LUBEM - UBO (Laboratoire 
+Universitaire de Biologie et d’Ecologie Microbienne - Université de 
+Bretagne Occidentale) et 6 centres techniques et laboratoires de 
+recherche/développement (ADRIA Développement Quimper, LNE Paris, Aérial 
+Strasbourg, ADRIA Normandie, SOREDAB SAS).
+
+De manière à mieux conserver les qualités microbiologiques des aliments, 
+l’objectif de MAP’OPT est d’expliquer, quantifier et modéliser les 
+effets des atmosphères modifiées sur la croissance des micro-organismes 
+selon le transfert de l’O_2 et du CO_2 à travers l’emballage et dans 
+l’aliment. Ce projet intègre diverses disciplines, l’ingénierie des 
+connaissances, les sciences des matériaux, les sciences des aliments, la 
+microbiologie, l’emballage, et la modélisation mathématique.
+
+Dans ce contexte, l’équipe Ingénierie des connaissances de l’UMR IATE 
+(http://umr-iate.cirad.fr/axes-de-recherche/ingenierie-des-connaissances/presentation) 
+propose un CDD de 6 mois consistant à enrichir une base de données de 
+caractéristiques d’aliments (diffusivité/solubilité O2/CO2) et 
+d’emballages alimentaires (perméabilité O2/CO2) et à tester un workflow 
+permettant la mise à disposition des données sur le Web de données.
+
+*Missions à effectuer*
+
+Le CDD se déroulera en plusieurs parties.
+
+Premièrement, le candidat devra prendre connaissance du schéma et des 
+données de la base de données existante développée sous MySQL.
+
+Deuxièmement, le candidat aura en charge la conception et la mise en 
+oeuvre des modifications de schéma nécessaires et l’intégration des 
+nouvelles données.
+
+Troisièmement, il évaluera l’implémentation d’un workflow développé par 
+l’équipe permettant la mise à disposition des données sur le Web de données.
+
+*Environnement technique*
+
+Le candidat sera accueilli dans les locaux de l’équipe « Ingénierie des 
+connaissances » de l’UMR IATE, localisée sur le campus SupAgro à 
+Montpellier, notamment composée de deux ingénieurs informaticiens, 
+experts en base de données, dans les technologies du Web sémantique et 
+en Java. Il travaillera également en collaboration avec deux ingénieurs 
+informaticiens, experts en Java avancé et en Web sémantique, basés dans 
+l’unité Mét@risk, à Paris.
+
+Le candidat sera amené à évoluer dans l’environnement technique suivant :
+
+  * Systèmes d'exploitation : Windows, Linux ;
+  * Bases de données : MySQL, PowerAMC;
+  * Langages : Java, SQL, UML;
+  * Outils de développements : Eclipse.
+  * Web sémantique: RDF, OWL, SPARQL
+
+
+
+*Requis : *Niveau ingénieur ou master M2 pro
+
+*Durée :*6 mois
+
+*Date de début : *à partir de Novembre 2013
+
+*Rémunération : *à titre indicatif, environ 1900 € brut/mois pour un 
+niveau ingénieur d’étude débutant
+
+
+*Pour postuler**:*merci d'envoyer, *AVANT LE 1er OCTOBRE 2013*, votre CV 
+et une lettre de motivation aux personnes responsables du recrutement 
+(voir ci-dessous).
+
+*Contacts : *{Patrice.Buche@supagro.inra.fr, Luc.Menut@supagro.inra.fr}
+
+
+-- 
+Patrice Buche
+
+Joint Research Unit Agropolymers Engineering and Emerging Technologies
+JRU 1208 IATE UM2, CIRAD, INRA, Montpellier SupAgro
+
+Computer Science Team
+
+2, place Pierre Viala  -  34 060 MONTPELLIER Cedex 02 - FRANCE
+E-mailPatrice.Buche@supagro.inra.fr  
+Tel +33499612283, Fax +33499613076
+Home Pagehttp://umr-iate.cirad.fr/axes-de-recherche/ingenierie-des-connaissances/membres/patrice-buche-s-cv
+
+
+
+

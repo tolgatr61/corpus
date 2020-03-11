@@ -1,0 +1,63 @@
+Veuillez trouver ci-dessous le second appel à participation à la 
+compétition de correction post-OCR d'ICDAR 2017. L'objectif des 
+participants y est d'améliorer l'OCR souvent bruitée qui se trouve dans 
+les collections numérisées. Les méthodes pourront utiliser des 
+ressources ou non, être supervisées ou non.
+
+Le jeu de données peut être vu comme 2 sous-collections, l'une en 
+français, l'autre en anglais. Nous attirons votre attention quant au 
+fait que les méthodes fonctionnant pour une seule de ces 2 langues sont 
+les bienvenues.
+
+
+================= /Call for Participation/ ==================/
+/*ICDAR2017 Competition on Post-OCR Text Correction
+*/more information on/ /http://l3i.univ-larochelle.fr/ICDAR2017PostOCR/
+================================================
+*
+***** GOAL ****
+Improve/denoise OCR-ed texts, based on an a original corpus of OCRed 
+documents composed of 12M characters (2.1M tokens) aligned with their 
+corresponding Gold Standard, with an equal share of English- and 
+French-written materials. You can participate in English, French, or 
+both. Given the noisy OCR of printed text, the participants are invited 
+to participate in the two following independent subtasks : 
+*1)****DETECTION* and *2) CORRECTION*. The participant are encouraged to 
+compute separate scores for the English- and the French-written parts of 
+the collection, allowing for the evaluation of language-specific approaches.
+
+***
+
+  - TASK 1)* Detection of OCR errors: given the raw OCR-ed text, the 
+participants are asked to provide the position and the length of the 
+suspected errors.
+
+* - ***TASK* 2) *Correction of OCR errors: given the OCR errors in their 
+context, the participants are asked to provide, for each error, either 
+a) only their one correction or b) a ranked list of candidates for 
+correction. Providing multiple candidates enables the indirect 
+evaluation of semi-automated techniques, with a human in the loop.
+
+**** IMPORTANT DATES ****
+  • Training dataset available online : End-Feb. 2017
+  • Registration deadline : 30th March 2017
+  • Result submission : 15th June 2017
+• ICDAR2017 Conference: 10th November 2017
+
+A*competition report including both the description of the methodology 
+and a comparative analysis of participants' performances will be 
+submitted for**publication at the ICDAR2017 conference.*
+
+**** CONTACTS ****
+  • Guillaume CHIRON (BnF/L3i) : guillaume.chiron(at)univ-lr.fr
+  • Antoine DOUCET (L3i) : antoine.doucet(at)univ-lr.fr
+  • Jean-Philippe MOREUX (BnF) : jean-philippe.moreux(at)bnf.fr
+
+
+***
+*
+**** WEBSITE ****
+http://l3i.univ-larochelle.fr/ICDAR2017PostOCR
+/
+/
+

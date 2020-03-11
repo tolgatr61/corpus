@@ -1,0 +1,81 @@
+*Modèles, traitements et analyses dédiés aux informations spatiales et 
+temporelles*
+*https://gt-gast.irisa.fr/motaist-rig2018/*
+**
+*Appel à soumission*
+*Numéro spécial de la Revue Internationale de Géomatique (RIG)*
+http://rig.revuesonline.com/
+Ce numéro spécial est porté conjointement par le groupe de travail 
+*GAST* (*Gestion et Analyse de données Spatiales et Temporelles) *de 
+l’EGC et l’action prospective *EXCES* *(EXtraction de Connaissances à 
+partir de donnéEs Spatialisées)* du GDR MAGIS. L’objectif de ce numéro 
+spécial est notamment de poursuivre les dynamiques enclenchées lors 
+des ateliers tenus lors d’EGC (2015, 2016 et 2017) et EXCES (2016).
+Ce numéro spécial s’intéresse à la prise en compte de l'information 
+temporelle ou spatiale – quantitative ou qualitative – dans leurs 
+processus de gestion et d'analyse de données. Ces axes de recherche 
+connaissent une dynamique forte grâce au développement de l'estampillage 
+spatial et temporel des données. Des méthodes et outils spécifiques sont 
+requis pour répondre au besoin d'exploration approfondie des données et 
+d'exploitation des informations qu'elles contiennent. Ces outils 
+doivent, en particulier, faciliter la modélisation, l’extraction, 
+l’analyse, la gestion, la représentation et la visualisation d’information.
+Les soumissions attendues porteront sur les besoins, outils, problèmes, 
+méthodes et algorithmes dédiés à l'analyse de données :
+·temporelles : séries temporelles, textes, données séquentielles, ...
+·spatiales : images satellites, textes, données numériques, géomatiques, ...
+·spatio-temporelles : données issues de réseaux de capteurs, réseaux 
+sociaux, traces spatio-temporelles (déplacements d’espèces vivantes, 
+objets), séries temporelles d'images satellites, données géomatiques 
+horodatées, etc.
+Les domaines d’applications peuvent être (liste non exhaustive) :
+
+  * applications en santé (monitoring de patients, suivis
+    spatio-temporel épidémiologique, surveillance, self-monitoring)
+
+·applications liées à l’environnement (données géomatiques, images de 
+télédétection, données de transport public, documents liés à l’aménagement)
+·applications commerciales (CRM, géolocalisation des « sujets chaud », 
+recommandation mobile et spatialisée)
+·autres applications innovantes utilisant des données spatiales ou 
+temporelles.
+Les questions éthiques et pratiques relatives à l'utilisation des 
+données spatiales et temporelles sont également des sujets d'intérêt 
+pour le numéro.
+
+**
+
+*Éditeurs invités*
+·Cyril De Runz, CReSTIC – Reims
+·Thomas Guyet, AGROCAMPUS-OUEST/IRISA – Rennes
+·Eric Kergosien, GERIICO, Université Lille 3 – Lille
+·Christian Sallaberry, LIUPPA, Université Pau et des Pays de l’Adour – Pau
+·Maguelonne Teisseire, TETIS, IRSTEA – Montpellier
+*Calendrier*
+·date limite remise contributions :        01/04/2017
+·réponse aux auteurs :                         15/06/2017
+·réception des articles définitifs :          01/09/2017
+·parution du numéro :                           2e trimestre 2018
+*Recommandations aux auteurs*
+Les soumissions en français ou en anglais (20 à 25 pages) sont à envoyer 
+au format PDF non-crypté par email aux éditeurs invités 
+(motaist-rig2018@univ-reims.fr <mailto:motaist-rig2018@univ-reims.fr>) 
+et devront respecter la feuille de style de la revue disponible à 
+l’adresse suivante :
+http://rig.revuesonline.com/images/stories/instructions/feuilledeStyle_ARL.doc
+https://gt-gast.irisa.fr/files/2016/12/Hermes-RIG-LaTeX_MOTAIST.zip
+*Contact*
+motaist-rig2018@univ-reims.fr <mailto:motaist-rig2018@univ-reims.fr>
+Cordialement,
+
+
+
+-- 
+Eric Kergosien
+Maître de Conférences
+Université de Lille 3
+Laboratoire GERiiCO
+
+http://ekergosien.net
+
+

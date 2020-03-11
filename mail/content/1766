@@ -1,0 +1,90 @@
+Recrutement d'un Développeur/euse Web : API REST (Java) & applications clientes riches (AngularJS)  
+
+ 
+
+Contrat de 3 ans assimilé catégorie A
+
+Sa mission : Contribution aux développements informatiques au projet grand emprunt E-Recolnat
+
+Poste ouvert le 5 février 2015
+
+Missions de l’entité :
+
+Dans le cadre du projet grand-emprunt E-Recolnat (http://recolnat.org/), la mission du laboratoire Dicen est de spécifier et développer un portail Web permettant à des scientifiques et au grand public de consulter et enrichir des planches d'herbiers numérisés. Ce portail se composera :
+
+*	D'un module d'exploitation scientifique dit « co-laboratoire », permettant aux scientifiques d'accomplir différentes opérations savantes sur les planches (mesures, annotations, comparaison) et de partager le fruit de leur étude avec leurs pairs. Ce module sera également proposé aux botanistes amateurs, dans une perspective de sciences citoyenne.
+*	D'un module « visite virtuelle », dans lequel des conservateurs/trices pourront constituer des parcours de visite augmentée des planches dont ils/elles ont la responsabilité afin de les valoriser auprès du grand public ;
+*	D'un module réseau social, qui sera le ciment de la communauté Recolnat.
+
+Missions de l’agent :
+
+L'agent aura pour missions :
+
+*	de participer aux spécifications techniques du portail Recolnat évoqué supra, son expertise technique lui permettant de proposer les technologies les plus adaptées aux ambitions du projet ;
+*	de développer les composants serveur et client Web du portail, conformément aux spécifications fonctionnelles ;
+*	de produire un code complètement couvert par des tests unitaires et d'intégration, de sorte que son travail puisse être aisément vérifié et repris par un autre développeur.
+
+Activités essentielles de l’agent :
+
+Note : les différentes technologies pressenties sont listées dans la section « Compétences requises ».
+
+*	Participation à l'identification des technologies (côté serveur & client) qui seront utilisées (en collaboration avec l'ingénieur chargé des spécifications).
+*	Développement d'un service Web REST articulant les différents modules du portail + écriture des tests unitaires & d'intégration.
+*	Conception de l'API régissant les échanges clients-serveur (en collaboration avec l'ingénieur chargé des spécifications).
+*	Développement des trois applications client (module co-laboratoire, module visite virtuelle, module de réseau social)
+
+Compétences requises :
+
+Connaissances générales :
+
+*	Bonnes connaissances des paradigmes d'architecture d'applications Web.
+*	Expérience en conception de sites Web participatifs.
+*	Pratique quotidienne des tests unitaires.
+
+Connaissances spécifiques :
+
+Le poste articule une partie backend (services REST JVM) et une partie front (application AngularJS) :
+
+*	Expérience en développement d'API REST sur la JVM (idéalement, connaissance du framework DropWizard, ou équivalent).
+*	Pratique solide de Java (notamment, connaissance des apports de la version 8 du langage).
+*	Expérience en développement d'applications client de type Single-page application (si possible avec le framework AngularJS).
+*	Expérience en conceptions d'interfaces HTML5/CSS3/JS.
+*	La connaissance d'un autre langage de la JVM ou de l'environnement Node.js est un plus.
+*	Pratique de Git.
+
+Qualités nécessaires (écoute, aptitude au travail en équipe, rigueur...) liées aux nécessités du poste :
+
+*	Goût par la culture technique autour du Web.
+*	Capacité à exposer clairement un problème, à rendre compte d'une décision argumentée, à prendre part à des processus de décision technique & conceptuelle avec d’autres ingénieurs.
+
+Rémunération :
+
+Entre 2 500 et 3 200 € brut mensuel (variable selon expériences)
+
+Envoyer CV et lettre de motivation à
+
+
+
+ou à
+
+ <http://dicen-idf.org/wp-content/uploads/2012/04/Capture-decran-2014-09-18-10.32.52.png> 
+
+ 
+
+ 
+
+ <http://www.zacklad.org/> Manuel ZACKLAD
+Directeur du laboratoire  <http://www.dicen-idf.org/> DICEN-IDF, Dispositifs d'Information et de Communication à l'Ère du Numérique en Ile de France - Dicen-IDF EA7339, CNAM
+
+Professeur Titulaire de la Chaire  <http://communication-culture.cnam.fr/> Expressions et Cultures au Travail <http://communication-culture.cnam.fr/>  du  <http://www.cnam.fr/> CNAM - Département Culture, Information, Technique et Société (D6) - Ecole Management & Société :  <mailto:manuel.zacklad@cnam.fr> manuel.zacklad@cnam.fr
+Adresse : CNAM – CITS - 16DP30 - 292, rue Saint Martin - 75141 Paris Cedex 03
+
+Bureau : 2, rue de Conté, 75003 – M° Arts & Métiers -  31.3.5A – Accès 31 - 3eme et.
+
+ <http://presentation.cnam.fr/adresses-et-plans-d-acces/adresses-et-plans-1245.kjsp> Plan d’accès CNAM 
+
+Tel (urgent) : 33 (0)6 77 09 55 87 
+
+ 
+
+

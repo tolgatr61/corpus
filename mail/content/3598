@@ -1,0 +1,71 @@
+Sylvie Calabretto nous communique :
+
+******************************************************************************
+
+Bonjour,
+
+Une offre de thèse de doctorat en co-tutelle entre l'équipe DRIM du 
+LIRIS/INSA Lyon et l'Université de Passau est disponible à partir de 
+septembre 2015 :
+
+Titre = Amélioration d'un processus de classification par apprentissage 
+automatique à travers l'exploitation d'information contextuelle 
+structurée (e.g., Linked Data) : application à la détection de fraude à 
+la carte bancaire.
+
+Sujet =
+La problématique centrale de cette thèse est le développement d'une 
+stratégie efficace pour intégrer de l'information contextuelle 
+structurée (e.g. Linked Data, règles métier produites par des experts, 
+...) lors de la conception d'un algorithme de classification supervisée.
+Les résultats de ce travail s'appliqueront, en particulier, au contexte 
+de la détection de fraude à la carte bancaire. Ce dernier cas d'étude 
+est introduit par la société Atos / Worldline.
+L'orientation scientifique privilégiée par cette thèse sera d'opérer 
+l'intégration d'information contextuelle structurée au moment de la 
+construction d'un noyau reproduisant dans le cadre d'approches par 
+apprentissage automatique basées sur des noyaux (e.g., SVM).
+De plus, le contexte applicatif introduit, entre autres, les 
+spécificités suivantes : un jeu d'apprentissage aux classes 
+déséquilibrées et des contraintes fortes sur le temps d'exécution de 
+l'algorithme de classification (nous parlerons de "near real-time"). 
+Ainsi, pour passer à l'échelle, l'algorithme d'apprentissage devra 
+pouvoir bénéficier d'une infrastructure de calcul parallèle. C'est 
+pourquoi une variante de la descente de gradient stochastique (SGD) sera 
+privilégiée.
+Par ailleurs, il s'agira également de comparer les résultats obtenus 
+avec ceux fournis par des algorithmes de deep learning.
+
+La thèse se fera en co-tutelle entre la France (INSA de Lyon, 
+laboratoire LIRIS, équipe DRIM) et l'Allemagne (Université de Passau). 
+Le/La doctorant(e) passera au minimum 1 an en Allemagne. Les frais de 
+déplacement seront pris en charge par une bourse de mobilité.
+Plus spécifiquement, cette thèse se déroulera dans le cadre d'une 
+collaboration entre le collège doctoral franco-allemand MDPS et la 
+société Atos / Worldline.
+
+La thèse pourra commencer au 1er septembre 2015.
+
+Profil attendu =
+  - Master 2 recherche ou diplôme d'ingénieur en informatique avec de 
+solides bases en mathématiques et si possible une expérience en recherche OU
+  - Master 2 recherche ou diplôme d'ingénieur en mathématiques 
+appliquées avec de solides compétences en informatique/programmation et 
+si possible une expérience en recherche
+
+Dossier de candidature :
+  - Relevés de notes de Master 1 et 2
+  - Rapport de stage de Master et coordonnées de l'encadrant(e)
+  - CV
+  - Lettre de motivation
+
+Les candidatures doivent être envoyées à Léa Laporte 
+(lea.laporte@insa-lyon.fr) et Pierre-Edouard Portier 
+(pierre-edouard.portier@insa-lyon.fr), au plus tard le 22 mai 2015.
+
+Cordialement,
+Sylvie Calabretto
+LIRIS UMR 5205
+INSA Lyon
+
+

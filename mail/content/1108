@@ -1,0 +1,117 @@
+
+L'Université Grenoble Alpes recrute un ingénieur d’études en Traitement
+automatique des langues au sein du laboratoire Lidilem
+Référence n° 20160412-ND-Lidilem
+CDD 1an, renouvelable
+
+Poste à pourvoir pour le 01/09/2016
+
+*Mission*
+
+Le contrat s’inscrit dans le cadre du projet franco-allemand PhraseoRom,
+financé par l’ANR et la DFG pour une durée de trois ans (de 2016 à
+2019). Ce projet est dédié à l’étude de la phraséologie étendue
+(constructions lexico-syntaxiques spécifiques) à travers un corpus
+romanesque multilingue (français, anglais et allemand) constituéd’œuvres du XXe siècle. L’étude comparative portera à la fois sur les
+contrastes entre sous-genres romanesques et entre langues.
+
+*Activités principales :*
+
+Le candidat participera à la constitution des corpus d’étude, en prenant
+en charge les chaînes de traitement nécessaires (téléchargement ou
+numérisation, reformatage, nettoyage, étiquetage, annotation syntaxique
+en dépendances, mise au format XML TEI). Dans un deuxième temps, il
+travaillera sur une interface web permettant d’interroger le corpus en
+ligne. Cette interface reprendra les fonctionnalités du Lexicoscope
+(http://phraseotext.u-grenoble3.fr/lexicoscope/) en y ajoutant de
+nouvelles (comparaison des distributions entre différents sous-corpus).
+L’interface, développée en PHP selon une architecture MVC, s’articulera
+avec une API écrite en Perl (en cours de développement) spécifiquement
+dédiée à l’extraction de constructions lexico-syntaxiques à travers les
+corpus.
+
+*Localisation du poste*
+
+Bâtiment Stendhal
+CS 40700
+38058 Grenoble Cedex 9
+
+*Contexte et environnement de travail*
+
+Etablissement public d’enseignement supérieur résultant de la fusion des
+universités Grenoble 1, 2 et 3, l’Université Grenoble Alpes ambitionne
+d’être une université de rang mondial pluridisciplinaire. Cette
+université est membre de la COMUE Université Grenoble Alpes et
+partenaire du projet IDEX. Elle compte 21 composantes, dont l’ESPE, 3
+instituts universitaires de technologie, 1 école d’ingénieurs, 1 IAE et
+plus de 80 laboratoires de recherche.
+Elle accueille plus de 45 000 étudiants avec le concours de 3000
+enseignants- chercheurs, chercheurs et enseignants, et de 2500
+personnels de support et d’accompagnement. Engagée dans un processus de
+fusion opérationnel depuis le 1er janvier 2016, elle dispose d’un budget
+annuel de 450 M€, dont 350 M€ de masse salariale, et d’un patrimoine
+bâti sur plusieurs départements (450 000 m2).
+L’administration s’organise autour du Directeur général des services qui
+s’appuie sur une équipe de direction générale composée de 2 directeurs
+généraux des services adjoints et de 8 Directeurs Délégués.
+Le Laboratoire de Linguistique et Didactique des Langues Etrangères et
+Maternelles (Lidilem) regroupe actuellement une soixantaine de membres
+permanents et environ 70 doctorants. Les travaux menés au sein du
+Lidilem relèvent des sciences du langage : descriptions linguistiques,
+sociolinguistique, acquisition, constitution et exploitation de corpus,
+didactique des langues, traitement automatique des langues, étude des
+formes nouvelles d’interaction suscitées par les usages numériques.
+L’unité et la spécificité du laboratoire résident dans un intérêt
+partagé pour l’étude des langues et du langage en contexte et pour les
+situations d’apprentissage et d’enseignement des langues. Engagés dans
+de nombreuses collaborations nationales et internationales, les membres
+du Lidilem animent des projets qui favorisent la rencontre entre les
+sciences du langage et d’autres disciplines des SHS. Ouverts sur la
+Cité, ils mènent leurs recherches en étant attentifs aux enjeux
+technologiques ou sociétaux des pratiques langagières et de leur
+transmission dans une société globale marquée par la diversité
+linguistique et la mondialisation des grandes langues de communication,
+notamment du français.
+
+
+*Profil recherché*
+Formation, diplôme requis : Master et/ou Doctorat Informatique /
+traitement automatique des langues
+
+Compétences
+- Bonne maîtrise des chaînes de traitement impliquées dans l’élaboration
+du corpus (à partir de scripts en Perl ou en Python).
+- Solides compétences dans le développement d’applications web.
+- Solides compétences en traitement automatique des langues.
+- Des compétences en linguistique seront un atout apprécié.
+Savoir-faire
+- Savoir techniques : Linux, Perl, Python, XML, HTML, CSS, Javascript,
+JQuery, PHP, MySQL.
+- Savoirs linguistiques : maitriser l’anglais et/ou l’allemand sera un
+atout apprécié.
+
+Savoir-être
+- Travailler en équipe
+- Très bonnes capacités relationnelles, de communication et d’écoute
+
+Rémunération :
+En référence à la grille de rémunération des collaborateurs d’études, le
+salaire brut mensuel sera 1713 euros pour le 1er niveau.
+
+*Procédure de recrutement*
+
+Les personnes intéressées doivent faire parvenir par voie électronique
+leur candidature accompagnée d’une lettre de motivation et d’un CV
+détaillé en rappelant la référence suivante : Rèf 20160412-ND-Lidilem,
+au plus tard le 29/05/2016 à l’adresse suivante :
+Mail : dgdrh-recrutement@univ-grenoble-alpes.fr
+Nelly DUBOST
+Chargé de recrutement / DGDRH / Recrutement
+- Une audition pourra être proposée courant juin 2016.
+- Pour les questions relatives à la fonction, vous pouvez contacter :
+KRAIF Olivier, Maitre de conférences HDR, Laboratoire Lidilem
+
+Mail : Olivier.Kraif@univ-grenoble-alpes.fr
+
+ 
+

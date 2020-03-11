@@ -1,0 +1,97 @@
+
+
+Proposition de stage M2 au LIMSI-CNRS
+
+Responsables du stage : Aurélie Névéol et Xavier Tannier
+
+Titre : Analyse temporelle des dossiers électroniques patient.
+
+Le contenu et l'ambition du stage pourront être modulés en fonction de 
+la formation initiale et de la durée du stage du candidat.
+
+Contexte
+L'analyse temporelle de textes d'information a pour but général de mieux
+localiser dans le temps les événements décrits dans ces textes, et donc
+d'alimenter de façon plus précise des moteurs de recherche ou des outils
+d'extraction d'information. Pour cela, la première étape est de détecter
+correctement les expressions temporelles de ces textes. Ces expressions
+temporelles peuvent être des dates absolues, c'est-à-dire que l'on peut
+placer sans ambiguïté sur l'axe des temps (par exemple, le 14 janvier
+2008), mais aussi des dates relatives, qui nécessitent une phase de
+résolution ou de normalisation (par exemple, le 14 janvier dernier, dans
+6 semaines). Dans le cadre du dossier électronique patient, des
+expressions temporelles propres au domaine de spécialité, le domaine
+médical, peuvent également être rencontrées (par exemple, à 18 SA, à
+j+1). Une deuxième étape consiste à détecter les évènements liés aux
+expressions temporelles.  Dans le domaine médical, il s’agira
+typiquement de maladies, de traitements médicamenteux, de procédures
+chirurgicales, etc.
+
+Les techniques d'analyse temporelle des textes ont fortement progressé
+ces dernières années, mais s'attachent en général au domaine
+journalistique et particulièrement au cadre des dépêches. Nous
+souhaitons étudier un autre domaine de spécialité, le domaine médical,
+ainsi qu’un type de document particulier, le dossier électronique
+patient. Nous nous intéressons au repérage automatique des expressions
+temporelles et des évènements auxquels elles se rapportent dans les
+documents cliniques afin de construire automatiquement une chronologie
+médicale pour chaque patient à l’échelle d’un document, puis d’un
+dossier complet. L’un des objectifs cliniques de ce travail est de
+faciliter les études rétrospectives réalisées par des cliniciens en
+permettant une visualisation et une comparaison automatiques des
+parcours de soin de différents patients, ainsi qu’une comparaison des
+parcours de soin des patients avec les protocoles de référence en
+vigueur.
+
+Le travail s’appuiera sur un corpus de documents cliniques annoté en
+expressions temporelles normalisées selon la norme TimeML, ainsi que sur
+des outils d’analyse temporelle et d’analyse des documents cliniques en
+français développés au sein du LIMSI.
+
+Travail à réaliser :
+
+Selon le niveau d'étude de la personne choisie, nous pourrons nous
+intéresser à une ou plusieurs des problématiques suivantes :
+- Utilisation et adaptation d’outils d’extraction d’évènement
+   biomédicaux dans les documents cliniques
+- Extraction automatique de relations temporelles dans les documents
+   cliniques
+- Réconciliation des expressions temporelles issues de documents
+   différents
+- Création d’une ligne temporelle pour représenter l’historique d’un
+   patient
+On utilisera un corpus de plusieurs centaines de documents cliniques
+désidentifiés en français.
+
+Profil :
+- Master 2 (professionnel ou recherche) en traitement
+   automatique de la langue ou informatique, école d'ingénieur
+- Bonnes compétences en programmation (par exemple, Perl, connaissances
+   en Java souhaitables mais pas nécessaires)
+- Des connaissances en terminologie biomédicale et/ou en apprentissage
+   automatique seront un plus.
+
+Durée : 4 à 6 mois (plein temps)
+Rémunération : Gratification CNRS standard : 536€ + 50€ (frais de
+transport) = 586€/mois de stage
+Lieu : LIMSI-CNRS, Groupe ILES, rue John von Neumann, Université Paris
+Sud, 91403 Orsay Cedex
+
+Contacts :
+Aurelie.Neveol[at]limsi.fr <http://limsi.fr>
+Xavier.Tannier[at]limsi. <http://limsi.fr>
+-- 
+--
+Aurélie Névéol, PhD
+
+LIMSI-CNRS
+Bâtiment 508, bureau RdC010
+Rue John von Neumann
+Université Paris-Sud
+91403 ORSAY
+France
+
+Tel: +33 (0)1 69 85 80 10
+
+
+

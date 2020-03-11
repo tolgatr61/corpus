@@ -1,0 +1,193 @@
+Chère collègue, Cher collègue,
+
+Nous avons le plaisir de vous inviter à participer au nouveau séminaire 
+de recherche conjoint du médialab (Sciences Po) et de la plateforme 
+CorTexT (IFRIS) "*Data, digital methods and mapping social complexity: 
+Visualizing social and semantic dynamics in the social sciences*". Le 
+séminaire sera hébergé par l'ENSCI et animé par une équipe de chercheurs 
+de Sciences Po et de l'IFRIS de février à juillet 2014.
+
+Le séminaire est destiné à un public de doctorants, chercheurs, 
+ingénieurs et designers. Nos rencontres auront lieu huit jeudi 
+après-midis ainsi que deux journées complètes dans l'Espace Viénot de 
+l'ENSCI, située au rez-de-chaussée du 48 rue Saint Sabin, Paris. La 
+langue de travail sera le français, excepté lors des séances auxquelles 
+sont invités des chercheurs anglophones. Vous trouverez ci-dessous la 
+présentation du séminaire et le programme des sessions.
+
+Nous serions heureux de vous compter parmi nous. Merci de nous faire 
+connaître votre participation par courriel ou en vous inscrivant 
+directement sur notre site : www.digitalmethods-seminar.org 
+<http://www.digitalmethods-seminar.org>.
+
+Bien cordialement
+
+/Le C//o//m//ité d'organisation/
+
+  --------------------------------------------------
+
+Data, digital methods and mapping social complexity: Visualizing social 
+and semantic dynamics in the social sciences
+
+
+*Présentation du séminaire*
+
+Les cartes sont des représentations visuelles de l'espace. Ce sont des 
+images codifiées qui permettent de signaler la présence d'éléments sur 
+un territoire donné comme des objets, des zones ou des flux. L'art 
+cartographique a une histoire longue et riche. Initialement conçu pour 
+assister le déplacement des hommes et des biens, la carte vise à 
+représenter l'espace géographique en positionnant des éléments 
+graphiques sur une surface bidimensionnelle. En tant qu'outil figuratif, 
+la carte est rapidement devenu un instrument de recherche et de gestion. 
+De fait, la pratique cartographique a fortement marqué nos façons de 
+représenter, naviguer, comprendre, organiser et contester les espaces 
+que nous habitons.
+
+L'avènement récent de l'informatique et des satellites a profondément 
+bouleversé la pratique cartographique. Les Systèmes d'Informations 
+Géographiques (SIG) permettent aujourd'hui de capter, stocker, manier, 
+analyser et gérer des données spatiales pour assister la science et la 
+prise de décision. Les satellites permettent de positionner et suivre 
+des mouvements sur l'intégralité du globe terrestre alors que des 
+millions d'utilisateurs accèdent à des cartes interactives via leurs 
+ordinateurs ou téléphones portables.
+
+En parallèle à ces développements, un nombre croissant de chercheurs en 
+sciences sociales s'intéresse à la représentation de données 
+non-spatiales. Ces représentations sont régulièrement présentées comme 
+des cartes de territoires inconnus, capables de figurer l'émergence, la 
+stabilisation et la déstabilisation de phénomènes sociaux complexes. En 
+mobilisant des outils d'extraction, de traitement automatisé et de 
+visualisation de données provenant de sources hétérogènes (corpus de 
+documents, bases de données, données web), ces chercheurs espèrent 
+cartographier de façon dynamique des phénomènes sociaux à différents 
+degrés de granularité. La transition technique et épistémologique 
+ouverte par ces outils est parfois nommée /Humanités Digitales/. Ces 
+développements semblent particulièrement attractifs pour les chercheurs 
+intéressés par l'étude quantitative des phénomènes sociaux. Ainsi, ces 
+outils pourraient combler le fossé méthodologique qui sépare l'analyse 
+des interactions spécifiques de celles des structures globales.
+
+Au vu de l'expansion constante de la production et de la circulation de 
+données numériques, il paraît essentiel pour les chercheurs en sciences 
+sociales de s'interroger sur ces nouvelles sources de données ainsi que 
+sur les outils et méthodes pour les analyser. Parmi ces dernières, 
+l'analyse de réseau permet de positionner les acteurs en visualisant 
+leurs interactions. Elle complète les analyses statistiques (régression, 
+analyse de correspondance etc.), offrant un nouvel angle pour étudier la 
+société /faite/ et /en train de se faire/. Une telle approche ouvre de 
+nouvelles perspectives pour de nombreux champs disciplinaires en 
+sciences sociales, allant de la sociologie des sciences et des 
+techniques aux sciences politiques.
+
+Mais d'où viennent ces outils ? Le développement de logiciels de 
+traitement et de visualisation de données tels que Gephi, le CorTexT 
+Manager, Science Scape et Hyphe sont le fruit de travaux 
+interdisciplinaires, à l'intersection de la linguistique informatique, 
+du data mining, de l'intelligence artificielle, des systèmes dynamiques 
+et de la science des réseaux. Ces communautés ont travaillé sur des 
+problèmes variés comme l'extraction, le parsing, la désambiguïsation, le 
+clustering, le filtrage et la visualisation de données. De même, la 
+sémiologie graphique mobilisée dans ces logiciels se nourrit de travaux 
+en cartographie et en design. Ainsi, pour produire des visualisations 
+pertinentes, robustes et lisibles, les chercheurs en sciences sociales 
+peuvent se tourner vers des communautés de chercheurs et de praticiens 
+déjà structurées autour de problèmes et de méthodes spécifiques.
+
+Notre séminaire vise à orchestrer la rencontre et favoriser l'échange 
+entre ces communautés (chercheurs en sciences sociales et sciences 
+« exactes », ingénieurs et designers) à travers la lecture, la 
+présentation et la discussion de textes académiques et non académiques, 
+de travaux d'invités et d'outils.
+
+
+Vous trouverez en pièce jointe la feuille de route (en anglais) que nous 
+avons construite pour rendre compte des multiples questions et manières 
+de faire auxquelles sont confrontés les cartographes /en herbe/ de la 
+complexité sociale.
+
+
+*Programme des sessions*
+
+*
+*
+
+*Calendrier*
+
+*27.02.14 // ENSCI -- Espace Viénot // 14:00-17:30*
+
+Introduction
+
+Richard Rogers (University of Amsterdam)
+
+*06.03.14 // ENSCI -- Espace Viénot // 14:00-17:30*
+
+Mapping science and technology through structured data
+
+Jean-Philippe Cointet (INRA)
+
+*27.03.14 // ENSCI -- Espace Viénot // 14:30-18:00*
+
+Digitized archives and distant reading
+
+/Claire Lemercier (Sciences Po) [à confirmer]/
+
+*10.04.14 // ENSCI -- Espace Viénot // 14:30-18:00*
+
+Natively digital data mapping
+
+Nortje Marres (Goldsmiths University of London)
+
+*24.04.14 // ENSCI -- Espace Viénot // 14:30-18:00*
+
+Transformative interactions: web effects on social dynamics
+
+/Invitations en cours/
+
+*15.05.14 // ENSCI -- Espace Viénot // 14:30-18:00*
+
+Visualizing complexity
+
+Donato Ricci (Sciences Po)
+
+*05.06.14 // ENSCI -- Espace Viénot // 14:00-17:30*
+
+Spatializing data
+
+Jacques Levy (EPFL)
+
+*19.06.14 // ENSCI -- Espace Viénot // 14:30-18:00 *
+
+Activism, journalism, decision-making : DMT's in practice
+
+Benjamin Ooghe-Tabanou (Regards Citoyens) & Data journaliste [à confirmer]
+
+*10.07.14-11.07.14 // ENSCI -- Espace Viénot [à confirmer] // 9:30-17:30*
+
+BarCamp
+
+Avec la participation des équipes de la plateforme CorTexT de l'IFRIS et 
+du médialab Sciences Po
+
+__________
+-- 
+
+----------------------------------------
+
+Audrey Baneyx
+
+
+Responsable de projets scientifiques - PhD
+Project manager Data Science
+
+
+
+/
+
+13 rue de l'Université, 75007 Paris / //http://medialab.sciences-po.fr//
+Tel. +33 (0)1 45 49 50 67 /// audrey.baneyx@sciences-po.fr/ 
+<mailto:audrey.baneyx@sciencespo.fr>
+
+
+

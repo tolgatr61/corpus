@@ -1,0 +1,114 @@
+
+
+Proposition de stage Master  / Ecole d'Ingénieur
+LIMSI-CNRS (Paris-Sud) et LI (Tours)
+
+Résumé
+
+Proposition de stage de fin d'études ou de Recherche de niveau Bac+5
+(Master, Ecole d'Ingénieur) en Informatique appliquée au Traitement
+Automatique des Langues d'une durée de 4 mois minimum.
+
+Contexte scientifique
+
+Le LIMSI-CNRS (Paris-Sud) et le LI (Tours) proposent un sujet de stage
+
+commun dans le cadre du projet de recherche TMH (Télécommunications,
+Mobilité et Handicap) financé par la société BAMSOO. Le sujet porte sur le
+Traitement Automatique des Langues (TAL) par utilisation de techniques de
+fouille de données. La tâche concernée est la reconnaissance des entités
+nommées (REN), qui permet d'extraire les noms de personnes, de lieux,
+d'organisations, d'unités monétaire ou temporelles dans des textes. Pour
+cela, sont implémentés des systèmes plus ou moins supervisés (des automates
+aux CRF) qui s'appuient sur d'autres traitements TAL (morphologie,
+morpho-syntaxe) et/ou des lexiques à large couverture. Ces systèmes sont
+régulièrement mis en compétition lors de campagne d'évaluation.
+
+Le système que nous avons développé (mXS) met en œuvre des techniques de
+fouille de données. Son originalité consiste à rechercher séparément les
+balises de début et de fin de chaque entité nommée. Pour ce faire, le
+système énumère les motifs linguistiques (séquentiels hiérarchiques) qui
+forment le contexte de ces balises et filtrent les motifs d'intérêt comme
+"règles d'annotation". mXS a obtenu de bonnes performances (3ème/8) dans le
+cadre de la campagne d'évaluation ETAPE, en particulier dans des contextes
+bruités (transcriptions automatiques). Cependant, pour améliorer encore les
+performances du système, il s'agit de déterminer si les choix de
+modélisation effectués avantagent ou pénalisent le système. Ce stage a pour
+objectif de mener des travaux expérimentaux permettant d'apporter de
+nouvelles perspectives sur les avantages et inconvénients de notre approche.
+
+Travail à réaliser
+
+En préliminaire, la personne recrutée se familiarisera avec les différentes
+briques du système, dont en particulier :
+- les prétraitements (morpho-syntaxe, lexiques) qui enrichissent les textes,
+- le programme d'extraction de motifs séquentiels hiérarchiques (fouille de
+données),
+- les modèles (symboliques et/ou statistiques) qui utilisent les motifs
+pour annoter des textes.
+
+Ensuite, une étude approfondie sera menée sur l'apport des techniques
+supervisées par insertion des balises d'annotation par rapport aux
+approches de classification mot-à-mot. Cette étude sera amorcée par une
+comparaison des erreurs sur la campagne ETAPE commises par mXS avec celles
+commises par un système à base de transducteurs et un CRF (voire à des
+version hybrides). Les expérimentations et études à mener par la suite
+seront décidées selon déterminées selon les résultats de cette étude. A
+terme, l'objectif est de déterminer quelles sont les perspectives
+
+d'évolution les plus prometteuses pour les systèmes de REN.
+
+En cas d'avancée satisfaisante du travail, le stage pourra être élargi à
+l'étude des méthodes utilisant les motifs séquentiels hiérarchiques pour le
+traitement du langage. Par exemple, cela pourra consister en
+l'implémentation d'outils qui permettent de caractériser des corpus selon
+les motifs qui en ont été extraits automatiquement. De manière plus
+générale, l'idée est de découvrir de nouveaux liens possibles entre les
+méthodes formelles (motifs organisés au sein de treillis) et des tâches
+liées au TAL.
+
+Profil recherché
+
+La personne recrutée sera en cycle terminal d'études en informatique, de
+niveau Bac+5 (Master informatique professionnel, recherche ou
+indifférencié, école d'ingénieur). Des compétences en Traitement
+Automatique des Langues et/ou en Fouille de Données seront appréciées. Dans
+le cas d'un(e) étudiant(e) en Master Recherche, le sujet de stage pourra
+être adapté aux attentes de l'étudiant. Potentiellement, ce travail pourra
+donner lieu à communication dans des conférences scientifiques.
+
+Rémunération
+
+Rémunération maximale prévue par la réglementation à savoir 436,05€ par
+mois, pour une durée de 4 mois de stage minimum (prolongation de la durée
+du stage jusqu'à 6 mois à la demande de l'étudiant ou de son
+établissement). Cette rémunération sera assurée dans le cadre d'un projet
+industriel financé par la société BAMSOO.
+
+Lieu d'exercice
+
+Le stage se déroulera dans les locaux du Laboratoire d'Informatique pour la
+Mécanique et les Sciences de l'Ingénieur (LIMSI-CNRS), Université
+Paris-Sud, Rue John von Neumann, 91403 Orsay, au sein de l'équipe ILES
+(Information, Langue Ecrite et Signée). Le stage sera encadré part Damien
+Nouvel, postdoc au LIMSI et Jean-Yves Antoine, professeur de l'Université
+François Rabelais de Tours (équipe BDLTN).
+
+Dépôts de candidature
+
+Contact : damien.nouvel@limsi.fr
+Merci de déposer un CV détaillé de vos activités passées, accompagné d'une
+lettre de motivation et de vos relevés de notes des deux dernières années
+d'études.
+
+Liens utiles
+
+- Système mXS : http://damien.nouvels.net/fr/mxs
+- Laboratoire LIMSI (groupes ILES et TLP) : http://www.limsi.fr
+- Laboratoire LI (équipe BDTLN) :
+http://li.univ-tours.fr/equipes/equipe-bdtln-198022.kjsp
+- Campagne Etape : http://www.afcp-parole.org/etape.html
+
+
+
+

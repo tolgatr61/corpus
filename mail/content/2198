@@ -1,0 +1,138 @@
+
+Bonjour,
+
+Bruno Pradel soutiendra sa thèse intitulée
+"Evaluation des sytèmes de recommandation à partir d'historiques de
+données"
+le Mercredi 2 Octobre 2013 à 14h à l'université
+Pierre et Marie Curie, 4 place Jussieu, 75005 Paris dans les locaux du
+LIP6, couloir 25-26 Salle 105 (1er étage).
+
+  (plan d'accès :
+http://www.upmc.fr/fr/vie_des_campus/handicap/plan_d_acces.html  )
+
+La thèse sera présentée devant les membres du jury suivant :
+
+Anne Boyer                Professeur (Université de Lorraine)
+Rapporteur
+Stéphane Canu                Professeur (INSA de Rouen)
+Rapporteur
+Isabelle Tellier        Professeur (Université Paris 3)
+Examinateur
+Bernd Amann                Professeur (Université Paris 6)
+Examinateur
+Patrick Gallinari        Professeur (Université Paris 6)
+Directeur de thèse
+Nicolas Usunier                Maître de conférence (Université de
+Compiègne) Co-encadrant
+
+
+==========
+Résumé
+==========
+Cette thèse présente différents protocoles d'évaluations permettant
+une meilleure estimation des erreurs de systèmes de recommandations
+construits à partir d'historiques de données d'utilisateurs (ie sans
+interactions directes avec les utilisateurs du système).
+Dans un premier chapitre de contribution, nous présentons les
+résultats d'une étude de cas d'un système de recommandation uniquement
+basé sur les données d'achats d'un magasin de bricolage. La
+recommandation est une tâche complexe qui à été souvent assimilée
+uniquement à tache de prédiction de notes. Dans cette étude, nous
+cherchons à prédire les achats qu'un client va effectuer et non la
+note qu'il attribuerait à un produit. Les données de notes étant
+indisponibles pour bon nombre d'industriels, cela correspond à une
+application fréquemment rencontrée en pratique mais pourtant rarement
+traitée dans la littérature. Dans ce cadre, nous évaluons les
+performances de plusieurs algorithmes de filtrage collaboratif de
+l'état de l'art. Nous montrons comment certaines modifications des
+protocoles d'apprentissages et de tests, ainsi que l'apport
+d'information de contexte, aboutit à de fortes variations des
+performances entre algorithmes et à une sélection de modèle
+différente.
+Dans les chapitres suivants, nous abordons la problématique de
+l'évaluation d'algorithmes de filtrage collaboratif à partir de
+notes. Dans un deuxième chapitre, nous détaillons notre participation
+au challenge de recommandation contextuelle de films CAMRa. Ce
+challenge propose deux modifications du protocole classique de
+prédiction de notes: les algorithmes sont évalués en considérant des
+mesures d'ordonnancement et les notes sont échantillonnées en test de
+manière temporelle sur deux périodes spécifiques de l'année: la
+semaine de Noël et de la cérémonie des Oscars. Nous proposons un
+algorithme de recommandations personnalisées qui prend en compte les
+variations temporelles de la popularité des items.
+La dernière contribution de cette thèse étudie l'influence du
+processus d'observations des notes sur les mesures de performances
+TopK (rappel/ précision). Les utilisateurs choisissent les items
+qu'ils veulent noter, ainsi les notes sont obtenues par un processus
+d'observations non aléatoires. D'une part, certains items reçoivent
+beaucoup plus de notes que les autres, et d'autre part, les notes
+"positives" sont sur-observés car les utilisateurs notent plus
+fréquemment les items qu'ils aiment. Nous proposons une analyse
+théorique de ces phénomènes et présentons également des résultats
+d'expériences effectuées à l'aide de données Yahoo! réunissant des
+notes collectées à la fois de manière classique et de manière
+aléatoire. Nous montrons notamment qu'une prise en compte des notes
+manquantes comme négatives en apprentissage aboutit à de bonnes
+performances sur les mesures TopK, mais que ces performances peuvent
+être trompeuses en favorisant des algorithmes modélisant la popularité
+des items plus que les réelles préférences des utilisateurs.
+
+**********************************************************************
+
+I'm pleased to invite you to my PhD defense entitled "Offline Evaluation
+of recommender systems".
+The defense will take place on Monday 2nd of July at 2pm, corridor
+25-26, 1st floor, room 105 at the Pierre and Marie Curie University of
+Paris, 4 place
+Jussieu, 75005 Paris.
+
+========== Abstract ==============
+==================================
+This thesis presents various experimental protocols leading to a
+better offline estimation of errors in recommender systems.
+
+As a first contribution, results form a case study of a recommender
+system based on purchased data will be presented. Recommending items
+is a complex task that has been mainly studied considering solely
+ratings data. In this study, we put the stress on predicting the
+purchase a customer will make rather than the rating he will assign to
+an item. While ratings data are not available for many industries and
+purchases data widely used, very few studies considered purchases
+data. In that setting, we compare the performances of various
+collaborative filtering models from the litterature. We notably show
+that some changes the training and testing phases, and the
+introduction of contextual information lead to major changes of the
+relative perfomances of algorithms.
+
+The following contributions will focus on the study of ratings data. A
+second contribution will present our participation to the Challenge on
+Context-Aware Movie Recommendation. This challenge provides two major
+changes in the standard ratings prediction protocol: models are
+evaluated conisdering ratings metrics and tested on two specifics
+period of the year: Christmas and Oscars. We provides personnalized
+recommendation modeling the short-term evolution of the popularities
+of movies.
+
+Finally, we study the impact of the observation process of ratings on
+ranking evaluation metrics. Users choose the items they want to rate
+and, as a result, ratings on items are not observed at random. First,
+some items receive a lot more ratings than others and secondly, high
+ratings are more likely to be oberved than poor ones because users
+mainly rate the items they likes. We propose a formal analysis of
+these effects on evaluation metrics and experiments on the Yahoo!Music
+dataset, gathering standard and randomly collected ratings. We show
+that considering missing ratings as negative during training phase
+leads to good performances on the TopK task, but these performances
+can be misleading favoring methods modeling the popularities of items
+more than the real tastes of users.
+
+-- 
+_____________________________________________
+Prof. Patrick Gallinari,
+UPMC - LIP6, Boite 169, 4 place Jussieu, 75252 Paris Cedex 05, France
+Tel: 33144277370, fax: 33144277000, http://www-connex.lip6.fr/~gallinar/
+
+
+
+

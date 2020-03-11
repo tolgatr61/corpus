@@ -1,0 +1,72 @@
+*Proposition de thèse : Composition sure d’API fondée sur des contrats*
+
+La fourniture de services informatiques sous forme d’API consommables selon
+des canaux de différentes natures et pour des usages variés se développe
+rapidement. Par ailleurs de nouveaux paradigmes architecturaux reprenant de
+façon plus “moderne” les principes des architectures orientées services
+prennent une importance de plus en plus grande. Dans ce contexte, de
+nombreuses applications sont construites comme la composition d’un ensemble
+de ces services, en particulier pour les mobiles. Le développeur de
+l’application ne maitrise alors plus du tout le cycle de vie de ces
+services. C’est une rupture importante avec les approches à base de
+composants traditionnelles qui assuraient la maitrise opérationnelle si ce
+n’est celle du développement. Cette approche ouvre ainsi la porte à la
+possibilité de délivrer des solutions logicielles beaucoup plus rapidement,
+à condition d’être capable de fournir des garanties suffisantes sur leur
+fonctionnement.
+
+Aujourd’hui, il est très difficile de garantir un niveau de qualité de
+service pour une composition donnée et de s’assurer que l’usage d’une
+composition ne va pas violer les termes de services imposés.
+
+L’objectif de cette thèse est de proposer et de valider un modèle et des
+outils permettant d’assurer au mieux l’alignement entre la promesse et les
+contraintes d’un service (API) et le besoin d’une application et de
+garantir que le déploiement d’un service permettra d’assurer la demande
+d’un client. Inversement le modèle doit aussi permettre aux concepteurs
+d’une application fondée sur une composition de services de décrire des
+contraintes sur les conditions opérationnels de cette composition, de
+vérifier qu’elles pourront être respectées et qu’elles le sont
+effectivement.
+
+
+*Compétences demandées*
+
+ Systèmes distribués, Architecture orientée services, Cloud
+
+
+*Conditions d’exécution de la thèse*
+
+La thèse se déroulera en collaboration avec la société Open (
+http://www.open-groupe.com/) chez qui le doctorant sera basé, à Levallois
+Perret. L’encadrement scientifique sera assuré conjointement par François
+Charoy et Olivier Perrin de l’équipe Coast du LORIA et d’Inria à Nancy.
+L’encadrement coté industriel sera assuré par Frédéric Duport de Open.
+
+Pour candidater veuillez envoyer
+
+·        Un CV détaillé
+
+·        Votre mémoire de Master et vos relevés de notes
+
+·        Une lettre de motivation précisant pourquoi ce sujet vous
+intéresse particulièrement
+
+·        Eventuellement des lettres de recommandation.
+
+
+
+à francois.charoy@loria.fr, olivier.perrin@loria.fr et
+frederic.duport@open-groupe.com
+
+
+Le démarrage est espéré en janvier 2017
+
+
+---
+Score Team - LORIA/Inria - Telecom Nancy - Université de Lorraine
++33 354 95 84 93 (LORIA) / +33 383 68 26 30 (Telecom Nancy)
+http://www.loria.fr/~charoy - http://score.loria.fr
+http://fr.linkedin.com/in/charoy - https://twitter.com/charoy
+http://doodle.com/francoischaroy
+

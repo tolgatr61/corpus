@@ -1,0 +1,106 @@
+Bonjour à tous, 
+
+Nous vous proposons le tutoriel suivant a la conférence IC cette année à
+Montpellier le 7 juin (9h-12h) : 
+
+SIFR BioPortal & AgroPortal : gestion dontologies et dalignements pour les
+communautés biomédicales et agronomiques
+
+http://ic2016.sciencesconf.org/resource/page/id/25 
+
+Dans ce tutoriel, nous nous intéressons aux questions relatives à la gestion
+de la connaissance en santé, biologie et agronomie, en particulier via
+lutilisation dontologies pour lintégration, lannotation et lindexation
+sémantique et en plusieurs langues.
+
+Si vous développez une ontologie dans un de ces domaines ou chercher à en
+utiliser, alors ce tutoriel est pour vous !
+
+Dans le cadre des projets SIFR <http://www.lirmm.fr/sifr>  et AgroPortal
+<http://agroportal.lirmm.fr/>  nous développons deux portails dontologies
+et de services à base dontologies. Ces plateformes réutilisent la
+technologie du NCBO BioPortal <http://bioportal.bioontology.org/> , qui est
+le portail de référence en biomédecine avec plus de 500 ontologies à ce
+jour. Dans ce tutoriel, nous faciliterons lutilisation de cette technologie
+(qq. soit le portail) pour répondre à plusieurs questions :
+
+*	Vous souhaitez utiliser une ontologie. Laquelle ? Où et comment la
+trouver ?
+*	Vous souhaitez rendre publique une ontologie. Où et comment ?
+Quest-ce qui existe pour vous faciliter la vie ?
+*	Vous souhaitez annoter des données textuelles facilement en
+français, ou en anglais. Comment utiliser le NCBO ou SIFR Annotator ?
+*	Vous avez aligné des ontologies et souhaitez rendre public les
+alignements. Ou, comment ? Quels autres alignements utiliser ?
+
+Le tutoriel (3h) consistera à démontrer les fonctionnalités de la
+technologie du NCBO, quel que soit le portail, et donc le contenu, que lon
+souhaite utiliser. Dans un premier temps nous passerons en revue les
+fonctionnalités de la plateforme, puis nous regarderons de plus près
+certaines des nouvelles fonctionnalités que nous avons implémenté. Nous
+illustrerons à laide de linterface graphique de la plateforme, mais
+focaliserons sur lusage de son API REST. Nous verrons comment :
+
+*	Charger une ontologie dans BioPortal et préciser les métadonnées en
+suivant les recommandations du web sémantique.
+*	Faire vivre une ontologie avec sa communauté à laide du portail.
+*	Identifier une ontologie pour une tâche. Pour un certain jeu de
+données à annoter ou pour autre chose.
+*	Annoter ses données avec le service dannotation de la plateforme.
+*	Utiliser et ajouter des alignements entre ontologies.
+*	Utiliser lAPI REST ou le SPARQL endpoint
+
+ Pas de matériel spécifique nécessaire (si ce nest son ordinateur
+portable).
+
+Pour participer, contacter Clement Jonquet  <mailto:jonquet@lirmm.fr>
+(jonquet@lirmm.fr <mailto:jonquet@lirmm.fr> ) 
+
+Clement, Anne et Vincent
+
+ 
+
+----------------------------------------------------------------------------
+-----------------------------------
+
+Dr. Clement JONQUET  -  PhD in Informatics  -  Assistant Professor
+
+Coordinator of the  <http://www.lirmm.fr/sifr/> SIFR and
+<http://agroportal.lirmm.fr/> AgroPortal projects
+
+Visiting scholar, Stanford University
+
+ 
+
+ <mailto:jonquet@lirmm.fr> jonquet@lirmm.fr
+
+ <http://www.lirmm.fr/~jonquet> http://www.lirmm.fr/~jonquet 
+
+ 
+
+                University of Montpellier                          Tel:
++33/4 67 14 97 43
+
+                LIRMM
+Fax:                     +33/4 67  41 85 00           
+
+                161 rue Ada
+Skype:                 clementpro
+                34095 Montpellier Cdx 5                            Twitter:
+<http://twitter.com/jonquet_lirmm> @jonquet_lirmm
+
+                France
+Google:                 <mailto:jonquet.lirmm@gmail.com>
+jonquet.lirmm@gmail.com
+
+----------------------------------------------------------------------------
+-------------------------------------
+
+	
+		
+
+ 
+
+ 
+
+

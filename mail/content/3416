@@ -1,0 +1,33 @@
+
+--------------------------
+Thèse à Orange Labs: analyse en locuteurs d'une collection de documents multi-média
+
+Les personnes présentes dans les contenus multi-média constituent une méta-donnée clé pour la recherche et la navigation dans les contenus.
+
+L'analyse en personne d'un document multi-média, sur sa composante audio, implique d'abord une étape de segmentation en locuteurs en tours de parole, puis de regroupement des tours de parole venant du même locuteur. Ensuite, une étape d'extraction de caractéristiques de ce locuteur (en rôle par exemple), et une étape d'identification de ce locuteur sont possibles. L'identification du locuteur peut être réalisée soit à l'aide de caractéristiques biométriques, impliquant l'existence préalable d'un modèle biométrique de la voix du locuteur, soit à l'aide d'un modèle d'inférence de l'identité, à partir d'informations permettant de nommer les locuteurs de façon non-ambigüe (par exemple en utilisant les contextes des noms détectés dans les caractères incrustés à l'écran ou dans la parole ou dans les sous-titres).
+
+Alors que l'immense majorité des traitements d'analyse en personnes des contenus multi-média a été jusqu'à présent focalisée sur l'analyse des documents audio pris isolément, les études récentes en segmentation et regroupement en locuteurs abordent l'aspect « inter-contenu » (apparaissant dans la littérature sous les termes « cross-show speaker diarization », « speaker linking » ou « speaker attribution »), pour associer les tours de parole d'un même locuteur, à travers différents contenus. L'approche proposée dans cette thèse est d'approfondir cet aspect inter-contenu, en abordant l'analyse en locuteurs sous l'angle des collections, où la collection est définie comme un ensemble de documents audiovisuels présentant des caractéristiques communes (e.g. nom de l'émission, date de diffusion, thème, etc).
+
+Cette approche par collections doit permettre d'une part d'améliorer robustesse et performances, et d'autre part d'offrir une représentation synthétique de la collection en termes de personnes ainsi que de nouveaux modes d'exploration de la collection, par l'analyse des relations entre les personnes présentes dans cette collection.
+Par exemple, si la collection est constituée de plusieurs épisodes d'une même émission, l'objectif serait d'inférer la structure de l'émission (présentateur, chroniqueur, invités) et d'identifier en particulier les invités. Si la collection concerne des documents relatifs à l'actualité sur une période temporelle courte, l'analyse en locuteurs de cette collection permettrait d'étudier un évènement à travers l'ensemble de ses acteurs, et pourrait compléter de façon pertinente les technologies de suivi d'actualité.
+
+La thèse se déroulera dans les locaux d'Orange Labs, à Lannion, sous la forme d'un CDD de 36 mois, avec une rémunération motivante.
+Elle s'adresse à un étudiant diplômé du 2ème cycle (master2 ou ingénieur), ayant des compétences en traitement automatique de la parole, et/ou fouilles de données et apprentissage automatique
+Pour plus d'informations : http://orange.jobs/jobs/offer.do?joid=38569&lang=fr&wmode=light
+Ou contacter directement : delphine.charlet@orange.com<mailto:delphine.charlet@orange.com>
+
+
+_________________________________________________________________________________________________________________________
+
+Ce message et ses pieces jointes peuvent contenir des informations confidentielles ou privilegiees et ne doivent donc
+pas etre diffuses, exploites ou copies sans autorisation. Si vous avez recu ce message par erreur, veuillez le signaler
+a l'expediteur et le detruire ainsi que les pieces jointes. Les messages electroniques etant susceptibles d'alteration,
+Orange decline toute responsabilite si ce message a ete altere, deforme ou falsifie. Merci.
+
+This message and its attachments may contain confidential or privileged information that may be protected by law;
+they should not be distributed, used or copied without authorisation.
+If you have received this email in error, please notify the sender and delete this message and its attachments.
+As emails may be altered, Orange is not liable for messages that have been modified, changed or falsified.
+Thank you.
+
+

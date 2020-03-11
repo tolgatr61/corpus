@@ -1,0 +1,55 @@
+Bonjour
+
+Dans le cadre de recherche de l'applicabilité en**Sciences de 
+l'Environnement des techniques de Deep Learning à partir de données 
+satellitaires multi-temporelles nous organisons une manifestation sur 
+deux journées à *Paris* les *29 et 30 novembre*. 
+http://dl2t.sciencesconf.org
+
+L'objectif de ces journées est de réunir :
+
+    • des "spécialistes" du Deep Learning de séries temporelles de 
+données de télédétection mais aussi médicales ou autres
+    • des "thématiciens" des Sciences de l'Environnement, de 
+l'Observation de la Terre, ...
+    • des "méthodologues" de la télédétection (informaticiens, traiteurs 
+d'images ...)
+
+afin de discuter et échanger sur les potentialités mais aussi les 
+limites du Deep Learning pour l'analyse de séries d'images de 
+télédétection. *L'idée est de relier des besoins thématiques à des 
+verrous bloquant potentiellement la mise en œuvre des approches 
+d’apprentissage profond pour l’analyse temporelle de séries d’images de 
+télédétection et ainsi de proposer des voies de recherche visant à les 
+faire sauter. *
+
+Afin d'offrir un cadre optimal de discussions, ces journées prendront la 
+forme de courtes présentations suivie de tables rondes autour de 4 
+questions qu'il nous semble important d'aborder :
+
+    • Quels sont les changements potentiellement extractibles par des 
+méthodes de ce type ?
+    • Quelle est la granularité des objets d’intérêts « optimal » 
+(pixels vs objets) ?
+    • Quels sont les méthodes à adapter ou à développer dans ce cadre ?
+    • Comment les utilisateurs peuvent-ils s’approprier des résultats 
+sous la forme peu classique pour eux, de réseaux de neurones et pour 
+quels usages potentiels ?
+
+/Nous lançons donc à un appel à toute personne intéressée à présenter 
+ses travaux en Sciences de l'Environnement (suivi de la biodiversité, 
+dynamiques urbaines, agricultures, ...)  à partir de séries d'images de 
+télédétection et à donner sa vision (besoins, limites, attentes, ...) 
+sur l'usage du deep learning dans ce contexte l'Environnement. //
+/
+
+/De plus, nous serions aussi intéressés qu'elle participe à l'animation 
+d'une des tables rondes./
+
+/*Pour cela,  il suffit de nous envoyer un mail décrivant succinctement 
+vos travaux ainsi que la table ronde que vous souhaitez animer.**
+*
+/
+  Dino Ienco <dino.ienco@teledetection.fr>
+  Pierre Gançarski <gancarski@unistra.fr>
+

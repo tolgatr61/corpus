@@ -1,0 +1,319 @@
+
+*Numéro spécial de la revue TAL "Traitement automatique de la langue 
+juridique**"*
+tal-58-2.sciencesconf.org <http://tal-58-2.sciencesconf.org>
+(see English version bellow)
+
+APPEL A CONTRIBUTIONS
+La langue et le droit entretiennent depuis toujours des liens étroits, 
+ce dernier étant d'abord un "discours", mais le traitement automatique 
+de la langue juridique représente aujourd'hui un enjeu majeur du fait de 
+l'empreinte croissante du droit sur le web et de sa complexification 
+dans les sociétés contemporaines mondialisées. La langue juridique est à 
+entendre ici dans un sens large : elle est écrite ou orale ; elle 
+recouvre la loi et les jugements aussi bien que les textes 
+réglementaires comme les décrets, les règlements, les contrats ou les 
+exigences.
+
+De nombreux besoins voient le jour autour de
+
+  * l'aide à la rédaction : contrôle de la langue, de la structure
+    documentaire,
+  * la vérification de conformité, légalité et cohérence,
+  * l'aide à l'argumentation,
+  * la recherche, l'extraction et l'exploration d'information,
+  * l'aide à la décision dans le cadre de textes contractuels ou
+    réglementaires, d'exigences, d'appels d'offre,
+  * l'analyse juridique (analyse de cas,  recherche d'antériorité,
+    jurisprudence, etc.),
+  * l'analyse comparative des sources du droit à échelon local,
+    national, européen, international,
+  * la publication et l'ouverture des données.
+
+Indépendamment de ces domaines d'application, le traitement automatique 
+de la langue juridique soulève de nombreux défis du fait des 
+spécificités du discours juridique : au-delà du volume de documents à 
+traiter, il faut prendre en compte la complexité de la langue juridique, 
+l'hétérogénéité et l'interdépendance des textes de droit et des systèmes 
+juridiques sous-jacents, le rôle de l'argumentation et du raisonnement 
+dans l'interprétation du juriste, le degré de précision et de fiabilité 
+requis pour toute analyse fondant le jugement juridique. Du fait de ces 
+spécificités, les méthodes usuelles de traitement automatique des 
+langues doivent être adaptées pour la langue juridique, qui constitue de 
+ce fait un champ d'expérimentation particulièrement intéressant pour le TAL.
+
+Enfin, le prisme d'une langue de spécialité, ici la langue juridique, 
+permet de mesurer les progrès du traitement automatique des langues. Il 
+s'agit d'intégrer différents traitements dans des applications 
+opérationnelles qui répondent à des besoins spécifiques. Il y a des 
+compromis à trouver, parfois même dynamiquement, entre grain, fiabilité 
+et couverture d'analyse. Ce défi de l'intégration est particulièrement 
+important dans le cas de la langue juridique du fait de l'intrication 
+des paliers d'analyse linguistique, depuis l'analyse des chaînes de 
+caractères (pour le repérage des citations, par exemple) jusqu'à celle 
+de l'argumentation.
+
+Ce numéro de TAL doit contribuer à structurer les travaux qui se font 
+actuellement dans le domaine, susciter de nouvelles recherches, mais 
+aussi plus largement montrer comment différents méthodes d'analyse 
+s'organisent pour une langue de spécialité.
+
+Le but de ce numéro intitulé "Traitement automatique de la langue 
+juridique" est de faire le point sur l'apport du TAL pour l'analyse et 
+l'exploitation de l'information juridique, aussi bien d'un point de vue 
+théorique et sur des phénomènes linguistiques particuliers (ex. une 
+nouvelle méthode de TAL adaptée aux spécificités de la langue juridique, 
+son évaluation) que d'un point de vue intégratif ou applicatif. Nous 
+encourageons les soumissions sur tous les aspects concernant le 
+traitement de la langue juridique, notamment sur les problématiques et 
+tâches suivantes :
+
+  * Standards pour l'annotation juridique
+  * Analyse des sources juridiques
+  * Analyse syntaxique de la langue juridique
+  * Terminologie juridique
+  * Stylistique et langue juridique
+  * Analyse sémantique de la langue juridique
+  * Argumentation
+  * Analyse des textes réglementaires
+  * Analyse du discours juridique
+  * Recherche et extraction d'informations juridiques
+  * Traduction automatique de textes juridiques
+  * Annotation sémantique des contenus juridiques
+  * Ingénierie des connaissances juridiques et TAL
+  * Formalisation du raisonnement ou des règles des textes juridiques
+  * Ouverture des données et structuration des contenus juridiques
+
+
+LANGUE
+Les articles sont écrits en français ou en anglais. Les soumissions en 
+anglais ne sont acceptées qu'en cas de présence d'au moins un auteur non 
+francophone.
+
+
+LA REVUE
+
+La revue TAL (Traitement Automatique des Langues) est une revue 
+internationale éditée depuis 1960 par l'ATALA (Association pour le 
+Traitement Automatique des Langues) avec le concours du CNRS. Elle est 
+maintenant publiée en format électronique, avec accès gratuit immédiat 
+aux articles publiés, et impression annuelle à la demande. Cela ne 
+change aucunement son processus de relecture et de sélection.
+
+
+DATES IMPORTANTES
+
+Date limite de soumission : 20 juin 2017
+Notification aux auteurs après première relecture : 30 septembre 2017
+Notification aux auteurs après seconde relecture : 30 novembre 2017
+Publication : début 2018
+
+
+FORMAT DE SOUMISSION
+
+Les articles doivent faire entre 20 et 25 pages.
+Les chercheurs ayant l'intention de soumettre une contribution sont 
+invités à déposer leur article en cliquant sur 
+http://tal-58-2.sciencesconf.org, menu "Soumission d'un article" (format 
+PDF). Pour cela, si ce n'est déjà fait, s'inscrire sur le site 
+http://www.sciencesconf.org (en haut à gauche, "créer un compte"), puis 
+revenir sur la page http://tal-58-2.sciencesconf.org/, se connecter et 
+effectuer le dépôt.
+La revue TAL a un processus de relecture en double-aveugle. Merci 
+d'anonymiser votre article et le nom du fichier.
+Les feuilles de style sont disponibles en ligne sur le site de la revue 
+(http://www.atala.org/Instructions-aux-auteurs-feuilles).
+
+
+COMITÉ SCIENTIFIQUE
+
+Rédacteurs invités
+
+Adeline Nazarenko (LIPN, Université Paris 13 – Sorbonne Paris Cité & 
+CNRS, France)
+Adam Wyner (University of Aberdeen, UK)
+
+Membres
+
+Kevin Ashley (University of Pittsburgh School of Law, USA)
+Danièle Bourcier (CERSA, CNRS & Université Panthéon-Sorbonne, France)
+Pompeu Casanova (UAB Law School, Université Autonome de Barcelone, Espagne)
+Jean-Pierre Chevallet (LIG, Université Grenoble Alpes & CNRS, France)
+Catherine Faron Zucker (I3S, Université de Nice & CNRS, France)
+Aldo Gangemi (LIPN, Université Paris 13 – Sorbonne Paris Cité & CNRS, 
+France)
+Meritxell Fernández-Barrera (ELDA/ELRA, France)
+Thomas Lebarbé (LItt&Arts, Université Grenoble Alpes & CNRS, France)
+François Lévy (LIPN, Université Paris 13 – Sorbonne Paris Cité & CNRS, 
+France)
+Isabelle Moulinier (Product Innovation at Thomson Reuters, USA)
+Monica Palmirani (Computer Science and Law, Bologna University, Italie)
+Wim Peters (Sheffield Natural Language Processing group, Grande Bretagne)
+Patrick Saint-Dizier (IRIT, CNRS & Université Paul Sabatier, France)
+Serena Villata (I3S, CNRS & Nice University, France)
+Giulia Venturi (Institute of Computational Linguistics, CNR, Italie)
+Rabdoub Winkels (Computer Science and Law, University of Amsterdam, 
+Pays-Bas)
+
+—————————————————
+
+*Special issue of the TAL journal "Legal Natural Language Processing »*
+tal-58-2.sciencesconf.org <http://tal-58-2.sciencesconf.org>
+(see French version above)
+
+CALL FOR PAPERS
+While language and law have always been closely linked, the latter being 
+fundamentally a "discourse", the automatic processing of legal language 
+has only recently become a major issue due to the growing footprint of 
+the law on the internet and the interconnected complexity of the law in 
+contemporary globalized societies. Legal language is to be understood 
+here in a broad sense: written and oral language, legal texts and 
+judgments, as well as regulatory texts such as decrees, regulations, 
+contracts or requirements.
+
+Many needs are emerging related to:
+
+  * assist drafting from control language to document structure,
+  * test legality and consistency,
+  * facilitate argumentation,
+  * research, extract, and explore information,
+  * support decision-making based on contractual texts, requirements,
+    calls for tenders or regulatory texts,
+  * analyse the law, e.g. case analysis, search for precedence,
+    jurisprudence,
+  * compare legal sources at local, national, European, international
+    levels
+  * assist with the publication of and access to data.
+
+Independent of these fields of application, the automatic processing of 
+the legal language raises many challenges due to the specificities of 
+legal discourse: the volume of documents to be processed, the complexity 
+of the legal language, the heterogeneity and interdependence of the 
+legal texts and underlying legal systems, the role of argumentation and 
+reasoning in the lawyers' interpretation, and the precision and 
+reliability required for any analysis grounding legal judgment. Because 
+of these specificities, the usual methods of natural language processing 
+need to be tuned for legal language, which is therefore an interesting 
+field of experimentation for NLP.
+
+Finally, by focusing on a special language, e.g. the law, we can measure 
+the progress of natural language processing. To integrate different 
+analyses into operational applications that meet specific needs, 
+trade-off must be found, perhaps even dynamically, between the depth, 
+reliability, and coverage of analysis. Processing legal language 
+requires the integration of various linguistic analyses, for instance, 
+to tackle the character strings of citations, parse complex legal 
+sentences, and analyse arguments.
+
+This issue of the TAL journal will help to structure the work currently 
+being done in the field, stimulate new research strands, and also show 
+more broadly how different methods of analysis can be organized for 
+processing special language.
+
+The aim of this issue, entitled "Automatic Processing of Legal 
+Language", is to take stock of the contributions of NLP to the analysis 
+and exploitation of legal information, considering theoretical and 
+specific linguistic phenomena (e.g. a new method adapted to the 
+specificities of the legal language, or its evaluation) as well as how 
+the analyses are integrated or applied. We encourage submissions on all 
+aspects of legal language processing, including the following issues and 
+tasks:
+
+  * Standards for legal annotation
+  * Analysis of legal sources
+  * Syntactic analysis of the legal language
+  * Legal terminology
+  * Stylistics and legal language
+  * Semantic analysis of the legal language
+  * Argumentation
+  * Analysis of statutory instruments
+  * Analysis of legal discourse
+  * Search and retrieval of legal information
+  * Automatic translation of legal texts
+  * Semantic annotation of legal contents
+  * Legal knowledge engineering and NLP
+  * Formalization of textual legal rules
+  * Opening of data and structuring of legal contents
+
+
+
+LANGUAGE
+Manuscripts may be submitted in English or French. French-speaking 
+authors are requested to submit their contributions in French.
+
+
+JOURNAL
+
+Traitement Automatique des Langues is an international journal published 
+since 1960 by ATALA (Association pour le traitement automatique des 
+langues) with the support of CNRS. It is now published online, with an 
+immediate open access to published papers, and annual print on demand. 
+This does not change its editorial and reviewing process.
+
+
+IMPORTANT DATES
+
+- Paper submission deadline: June 20, 2017
+- Notification to the authors after first review: September 30, 2017
+- Notification to the authors after second review: November 30, 2017
+- Publication: Early 2018
+
+
+SUBMISSION FORMAT
+
+Papers must be between 20 and 25 pages.
+Authors who intend to submit a paper are encouraged to upload their 
+contribution on http://tal-58-2.sciencesconf.org/, via the menu "Paper 
+submission" (PDF format). To do so, they will need to have an account on 
+the sciencesconf platform. To create an account, go to the site 
+http://www.sciencesconf.org and click on "create account" next to the 
+"Connect" button at the top of the page. To submit, come back to the 
+page http://tal-58-2.sciencesconf.org/, connect to the account and 
+upload the submission.
+ From now on, TAL will perform double-blind review: it is thus necessary 
+to anonymise the manuscript and the name of the pdf file.
+Style sheets are available for download on the Web site of the journal 
+(http://www.atala.org/English-style-files).
+
+
+SPECIAL ISSUE EDITORIAL BOARD
+
+Guest editors
+
+Adeline Nazarenko (LIPN, Université Paris 13 – Sorbonne Paris Cité & 
+CNRS, France)
+Adam Wyner (University of Aberdeen, UK)
+
+Members
+
+Kevin Ashley (University of Pittsburgh School of Law, USA)
+Danièle Bourcier (CERSA, CNRS & Université Panthéon-Sorbonne, France)
+Pompeu Casanova (UAB Law School, Université Autonome de Barcelone, Espagne)
+Jean-Pierre Chevallet (LIG, Université Grenoble Alpes & CNRS, France)
+Catherine Faron Zucker (I3S, Université de Nice & CNRS, France)
+Aldo Gangemi (LIPN, Université Paris 13 – Sorbonne Paris Cité & CNRS, 
+France)
+Meritxell Fernández-Barrera (ELDA/ELRA, France)
+Thomas Lebarbé (LItt&Arts, Université Grenoble Alpes & CNRS, France)
+François Lévy (LIPN, Université Paris 13 – Sorbonne Paris Cité & CNRS, 
+France)
+Isabelle Moulinier (Product Innovation at Thomson Reuters, USA)
+Monica Palmirani (Computer Science and Law, Bologna University, Italie)
+Wim Peters (Sheffield Natural Language Processing group, Grande Bretagne)
+Patrick Saint-Dizier (IRIT, CNRS & Université Paul Sabatier, France)
+Serena Villata (I3S, CNRS & Nice University, France)
+Giulia Venturi (Institute of Computational Linguistics, CNR, Italie)
+Rabdoub Winkels (Computer Science and Law, University of Amsterdam, 
+Pays-Bas)
+
+—
+Adeline NAZARENKO
+
+LIPN - CNRS UMR 7030
+Universite Paris 13 – Sorbonne Paris Cité
+Email adeline.nazarenko@lipn.univ-paris13.fr 
+<mailto:adeline.nazarenko@lipn.univ-paris13.fr>
+Tel.  33 - 01 49 40 28 32Fax.  33 - 01 48 26 07 12
+99, av. J-B. Clement           93430 Villetaneuse FRANCE
+
+

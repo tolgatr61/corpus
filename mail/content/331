@@ -1,0 +1,105 @@
+Mesdames, Messieurs,
+
+Nous avons le plaisir de vous annoncer que Houda KHROUF soutiendra 
+publiquement sa thèse doctorale Télécom ParisTech,
+
+Le lundi 30 juin 2014 à 14h00, en Salle des Conseils à EURECOM
+
+Sujet de la thèse :
+« Alignement et fouille de données événementielles dans le Web 
+sémantique » / “Linking and Mining Event-centric Data in the Semantic Web”
+
+Rapporteurs :
+* Dr. Catherine FARON ZUCKER (Université de Nice Sophia Antipolis – France)
+* Prof. Geert-Jan HOUBEN (Delft University of Technology, Delft – Pays-Bas)
+
+Examinateurs :
+* Prof. Talel ABDESSALEM (Télécom ParisTech – France)
+* Prof. John DOMINGUE (Open University, Milton Keynes – Royaume Uni)
+* Dr. Tommaso DI NOIA (Université Polytecnique de Bari – Italie)
+
+Directeur de thèse :
+Dr. Raphael TRONCY (EURECOM, Biot – France)
+
+Nous restons à votre disposition pour toute information complémentaire 
+et vous prions d'agréer, Mesdames, Messieurs, l'expression de nos 
+salutations distinguées.
+
+*****************************
+
+« Alignement et fouille de données événementielles dans le Web sémantique »
+
+La croissance exponentielle de l'utilisation des réseaux sociaux a 
+changé la façon d’explorer et de partager l’information. Une partie de 
+cette évolution concerne la manière dont notre activité sociale est 
+structurée autour d'événements. Avec le développement du Web 2.0, 
+plusieurs sites de partage fournissent une grande quantité de données 
+décrivant des événements passés ou à venir, et certains d’entre eux 
+affichent des médias et des interactions sociales attachés à ces 
+événements. Cependant, l’information disponible est souvent incomplète, 
+erronée et restreinte dans une multitude de sites web. Dans cette thèse, 
+nous étudions l'intégration de données événementielles dans un 
+environnement centralisé, et nous étudions de nouvelles approches qui 
+pourraient améliorer la personnalisation du contenu. La thèse est 
+organisée autour de deux parties principales portant sur les principaux 
+défis liés à la nature complexe des événements qui sont des entités 
+multiples, éphémères et sociales. La première partie étudie 
+l’enrichissement de données en exploitant les technologies du web 
+sémantique afin d’intégrer des sources hétérogènes telles que les 
+référentiels d'événements, les plates-formes de médias et les réseaux 
+sociaux. La deuxième partie aborde le problème de la surcharge 
+d'information. Elle comprend une étude de nouvelles approches de 
+personnalisation afin d’aider les utilisateurs à découvrir des 
+événements et des personnes qui correspondant à leurs centres 
+d'intérêts. Notre étude souligne l’importance de la modélisation 
+ontologique et le filtrage collaboratif dans un système de 
+recommandation d’événements. Nous proposons ensuite une nouvelle 
+solution pour la détection des communautés dans les réseaux, à la fois, 
+sociaux et événementiels. Les approches proposées dans cette thèse 
+fournissent de nouvelles bases pour la construction d'un environnement 
+web supportant de nouveaux mécanismes d'exploration et d'organisation 
+des données événementielles, à savoir EventMedia, 
+http://eventmedia.eurecom.fr/.
+
+*****************************
+
+“Linking and Mining Event-centric Data in the Semantic Web”
+
+The widespread growth of social media has shifted the way people explore 
+and share information of interest. Part of this evolution concerns the 
+way our social activity is structured around events and increasingly 
+documented by user-generated content. With the advent of Web 2.0, the 
+vast amount of information about events, illustrative media and social 
+interactions are spread and locked into diverse sites that provide a 
+limited event coverage. In this thesis, we study the problem of 
+integrating event-centric data into a unified environment, and we 
+propose new approaches that could enhance content personalization in 
+event-based services. The thesis is structured around two main parts 
+dealing with key challenges related to the complex nature of events 
+which are multifaceted, ephemeral and social entities. The first part 
+focuses on event enrichment by leveraging semantic web technologies to 
+integrate heterogeneous sources such as event websites, media platforms 
+and social networks. Our strategy is to discover in real-time meaningful 
+connections between events, venues, media an people. The second part 
+tackles the problem of information overload. It investigates new 
+personalization approaches helping individuals to discover interesting 
+events and like-minded users. Our study underlines the important role of 
+ontology-based content representation and collaborative filtering 
+techniques to enhance event recommendation. We also propose a new 
+solution to detect meaningful communities in event-based social networks 
+by analyzing both the users’ interests and the structural properties of 
+the underlying networks. The approaches proposed in this thesis have 
+provided new basis for building an enhanced web environment changing the 
+way to explore and organize events, namely EventMedia, 
+http://eventmedia.eurecom.fr/.
+
+-- 
+Raphaël Troncy
+EURECOM, Campus SophiaTech
+Multimedia Communications Department
+450 route des Chappes, 06410 Biot, France.
+e-mail: raphael.troncy@eurecom.fr & raphael.troncy@gmail.com
+Tel: +33 (0)4 - 9300 8242
+Fax: +33 (0)4 - 9000 8200
+Web: http://www.eurecom.fr/~troncy/
+

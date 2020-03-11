@@ -1,0 +1,57 @@
+
+Ingénieur informatique Java/Perl
+Ingénieur informatique pour le développement d'outils sécurisés
+d'extraction d'information clinique
+
+Contexte
+Le projet CABeRneT https://cabernet.limsi.fr/ a pour objectif de
+contribuer à l'épidémiologie et à la santé publique par l'analyse
+automatique du contenu textuel des dossiers électronique patient français.
+Ainsi, le projet propose de mettre à disposition de la communauté
+scientifique des ressources et des outils d'analyse issus du travail de
+recherche réalisé au cours du projet.
+Dans ce cadre, l'ingénieur participera de manière centrale à
+l'élaboration d'outils distribuables à partir des prototypes de
+recherche disponibles, dans le souci du respect de la confidentialité
+lié au contenu des documents à l'étude.
+
+
+Présentation des tâches
+L'ingénieur sera responsable du développement informatique d'outils
+d'extraction d'information clinique.
+
+Il s'agira notamment:
+* d'effectuer la transition de prototypes de recherche vers des outils
+  distribuables qui pourront être intégrés dans la plateforme CTAKES.
+* de réaliser une étude des risques de réidentification à partir de
+  modèles statistiques appris sur des corpus confidentiels
+
+Compétences requises
+Ecole d'Ingénieur, Master informatique ou linguistique informatique
+Expériences précédentes en développement informatique requises
+Une expérience en Traitement Automatique des langues souhaitée
+Une expérience en Sécurité Informatique souhaitée
+
+Technologies
+système d'exploitation: Linux
+langages: Java, Perl
+plate-forme de contrôle de versions : git
+base de données : MySql
+outils TAL : Treetagger, Stanford NLP, NLTK
+
+Lieu de travail
+LIMSI-CNRS, université Paris Saclay
+
+Salaire
+selon expérience, environ 2000 euros/nets/mois
+Contrat CDD de 12 mois
+
+Pour candidater, merci d'envoyer les documents suivants par email à
+Aurélie Névéol (neveol@limsi.fr), dès maintenant et jusqu'au 7 Octobre 2016.
+- un CV détaillé,
+- une lettre de motivation
+
+Début du contrat : au plus tôt
+
+
+

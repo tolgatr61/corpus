@@ -1,0 +1,62 @@
+
+*Ingénierie R&D pour une BDD web de textes historiques en quechua et en 
+guarani
+*
+Stage au laboratoire ERTIM (INALCO)_
+_
+_
+_
+_Contexte_
+
+Le projet ANR LANGAS (http://www.langas.cnrs.fr, 2014-2017) a permis la 
+constitution d'une volumineuse base de textes (125 documents, ~290K 
+mots) en quechua et en guarani, liés à la colonisation espagnole et 
+portugaise de l'Amérique du Sud.
+
+Cette base documentaire a été constituée par des anthropologues à l'aide 
+d'un site web adapté à leurs besoins, notamment en proposant 
+d'enregistrer les textes alignés en trois versions : paléographique, 
+translittérée et traduite en espagnol. Ces enregistrements ont 
+l'avantage d'être correctement stockés et alignés, mais des 
+améliorations de la BDD sont nécessaires, avec en prolongement un 
+possible travail en appui à la recherche.
+
+En collaboration avec l'équipe LANGAS du laboratoire CREDA UMR 7227, 
+l'équipe ERTIM propose un stage de 3 mois sur le sujet, qui vise à 
+répondre à ces besoins, prioritairement en développement, mais avec 
+aussi des perspectives en matière de recherche, selon l'avancement.
+
+_Objectifs principaux_*
+*
+1/ Ré-encodage cohérent de la BDD pour faciliter son interrogation
+2/ Adaptation des scripts Angular pour les recherches (classes de 
+caractères, prise en charge de diacritiques, collations)
+3/ Implémentation d'un script de pré-translittération automatique (par 
+règles de transduction, par ex. extraites semi-automatiquement)
+4/ Fouille des données (text mining) en interaction avec les 
+anthropologues dans une perspective socio-linguistique.
+
+_Profil recherché_
+
+- Informatique avec des connaissance web (idéalement Angular)
+- Connaissance des BDD (MySQL) et des encodages (UTF8)
+- Un intérêt pour le TAL et pour les sciences humaines est un plus
+- La connaissance de l'espagnol ou de langues sudaméricaines est un plus
+_
+_
+_Contexte_
+
+- Durée du stage : 3 mois à temps plein
+- Date de début : dès que possible
+- Rémunération : tarif en vigueur (510€/mois, rbst de 50% navigo)
+- Lieu : INALCO, 2 rue de Lille, 75007 Paris
+
+_Candidature_
+
+Merci d'envoyer votre CV et de faire part de vos motivations à Damien 
+Nouvel <damien.nouvel@inalco.fr <mailto:damien.nouvel@inalco.fr>>, 
+Marie-Anne Moreaux <marie-anne.moreaux@inalco.fr 
+<mailto:marie-anne.moreaux@inalco.fr>>, Capucine Boidin 
+<capucine.boidin@univ-paris3.fr <mailto:capucine.boidin@univ-paris3.fr>>.
+
+

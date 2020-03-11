@@ -1,0 +1,61 @@
+
+De : Thierry Poibeau <thierry.poibeau@ens.fr>
+
+
+Proposition de stage : acquisition semi-automatique de patrons caractéristiques à partir de textes
+
+Descriptif :
+
+Le stage vise à extraire semi-automatiquement des patrons syntaxico-sémantiques à partir de textes. Cette tâche a plusieurs applications possibles : les patrons peuvent  servir à repérer des éléments précis dans un texte (tâche classique d'extraction d'information) mais ils peuvent aussi servir de base à des travaux plus linguistiques, visant par exemple à caractériser des textes en fonction de particularités qui ne sont pas directement observables.
+
+Les outils existants reposent essentiellement sur des patrons très proches des formes de surface (Hearst 1992) ou sur des méthodes à base d'apprentissage produisant de très nombreux patrons qui sont ensuite difficiles à trier et à analyser (Quiniou et al., 2012). Ces études ont toutefois mis en avant des approches efficaces et reposant sur un certain nombre de points communs (préanalyse du texte par un analyseur morphosyntaxique, repérage de séquences continues ou non, contraintes sur le niveau d'analyse possible). Pour aller plus loin, il semble nécessaire de proposer des approches interactives, de sorte que l'analyste puisse spécifier dynamiquemlent ses besoins et ainsi guider au mieux l'analyse.
+
+
+Déroulement du stage :
+
+Le stage se déroulera suivant plusieurs étapes :
+
+- état de l'art et choix d'une approche adéquate
+- implémentation d'un algorithme interactif (en réutilisant si possible un logiciel existant pour l'acquisition des patrons eux-mêmes)
+- validation sur une tâche à préciser (la tâche visée et le corpus seront discutés au début du stage)
+- rédaction d'un rapport de stage
+
+
+Références :
+
+- Marti Hearst (1992). "Automatic Acquisition of Hyponyms from Large Text Corpora." In: Proceedings of the 14th International Conference on Computational Linguistics (COLING-1992). doi:10.3115/992133.992154.
+
+- Solen Quiniou, Peggy Cellier, Thierry Charnois, Dominique Legallois (2012). What About Sequential Data Mining Techniques to Identify Linguistic Patterns for Stylistics? Proceedings of Cicling. http://hal.archives-ouvertes.fr/hal-00675578.
+
+
+  Compétences requises :
+
+- bonne connaissance d'un langage de programmation (java, perl ou python seraient particulièrement appréciés)
+- intérêt pour le traitement automatique du langage naturel
+- intérêt pour l'intelligence artificielle, en particulier l'apprentissage automatique
+- qualité de rédaction en français et en anglais
+
+
+Conditions :
+
+Le stage se déroulera au laboratoire Lattice (à Montrouge, http://www.lattice.cnrs.fr/) pendant 6 mois, à partir d'avril 2013. Ce stage est indemnisé grâce au soutien du laboratoire d'excellence "Empirical Foundations of Linguistics" (labex EFL, http://www.labex-efl.org/). Le stage fait partie d'un projet plus large visant à étudier la contribution de sources de connaissances pour l'extraction d'information, mené en commun entre le LATTICE et le LIPN dans le cadre du labex EFL.
+
+Comment postuler ?
+
+Envoyer par mail un CV et une lettre de motivation à Thierry Poibeau (prenom.nom@ens.fr) avant le 7 février 2013.
+Indiquer "stage : acquisition semi-automatique de patrons caractéristiques à partir de textes" comme sujet du mail.
+
+
+------
+Message redirigé par le relais d'information sur les sciences de la cognition (RISC) sans virus
+http://www.risc.cnrs.fr
+
+Cette liste est modérée. Pour envoyer un message à la liste : Pourinfos@risc.cnrs.fr
+
+Vous disposez d'un droit d'accès, de modification, de rectification et de suppression de la liste de diffusion.
+Pour l'exercer adressez vous à Pourinfos@risc.cnrs.fr
+
+
+
+
+

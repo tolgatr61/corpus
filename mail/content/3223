@@ -1,0 +1,99 @@
+
+Bonjour,
+
+nous recherchons un(e) candidat(e) intéressée par une thèse à 
+l'*Institut de Recherche en Informatique de Toulouse* (IRIT) sur les 
+thèmes *Recherche d'informations* (accès à l'information dans de grandes 
+masses de données) et *Intelligence artificielle* (logique et raisonnement).
+
+*Mots-clés :*
+Recherche d'informations, Raisonnement, Gestion de gros volumes de 
+données et documents techniques, Gestion de configurations produits et 
+de leur évolution, Analyse de risques, Gestion des usages et contextes 
+métiers.
+
+*Financement :*
+Ce sujet est prioritaire pour une demande de bourse de thèse du ministère.
+
+*Candidatures *:
+Les candidat(e)s sont invité(e)s à envoyer le plus tôt possible, *au 
+plus tard **le 10 avril 2014*, aux deux encadrantes ci-dessous : 
+une_lettre de motivation_, un _CV_, un _relevé de notes avec classement 
+du Master 2_.
+Une seconde sélection sera ensuite faite par l'école doctorale sur la 
+base d'une audition en juin 2014.
+
+*Encadrants : *
+_Chantal Soulé-Dupuy_ (chantal.soule-dupuy@irit.fr - 05.61.12.87.90) et 
+_Sylvie Doutre_ (Sylvie.Doutre@irit.fr - 05.61.12.87.86).
+
+-----------------------------------------------------------------------------------------------------
+*Descriptif du sujet **
+*
+**Titre :*
+*Evolution des données et des documents techniques : impact des 
+changements.*
+
+Contexte :
+*Le contexte de travail  visé est celui de la gestion de données et de 
+documents techniques (GEDT) vue au travers des processus métier qui les 
+créent et les utilisent.
+Ainsi, dans le cadre d'approches de gestion du cycle de vie de produits 
+(Product Lifecycle Management), où la création d'un produit manufacturé 
+exige des compétences diverses et fait intervenir des équipes 
+pluridisciplinaires, il convient d'organiser l'ensemble des données 
+relatives à un produit ou à une ligne de produits pour non seulement 
+gérer son évolution, mais également les usages qui en sont faits tout au 
+long de son cycle de vie. Les produits sont alors gérés en 
+configurations, et toutes les modifications faites sur la structure même 
+des produits ou sur les données afférentes se doivent d'être tracées et 
+appliquées de manière contrôlée. Cependant, cela revient la plupart du 
+temps à gérer ces données selon des approches cloisonnées par métier 
+concerné, voire même par élément de produit. Ceci induit une gestion 
+indépendante des changements avec risques de neutralisation, d'échos ou 
+de contradictions.
+Il conviendrait donc de pouvoir évaluer ces risques de sorte à pouvoir 
+anticiper les impacts du changement, et mener ou conseiller des actions 
+appropriées. Sachant que tout changement peut avoir des impacts sur les 
+autres éléments de la configuration du produit comme sur les processus 
+qui utilisent ou gèrent ces produits.
+Le travail de thèse consistera, à partir des données et documents 
+techniques, à étudier et formaliser les mécanismes de raisonnement (en 
+particulier d'argumentation) permettant de mesurer l'impact d'un 
+changement, d'identifier et d'éviter des conflits qu'il pourrait engendrer.*
+
+Objectifs :
+*Cette thèse abordera les principaux verrous de recherche suivants :
+.    Formaliser les mécanismes et processus de gestion des données et 
+documents techniques selon des approches multi-usages et 
+multi-contextes, c'est-à-dire exploitant les données à plusieurs niveaux 
+et de différentes façons. Il peut y avoir en particulier une multitude 
+de façons de fabriquer et donc de gérer les configurations produit ;
+.    Appréhender et gérer la complexité des interdépendances entre 
+besoins, données distribuées, informations et processus métier 
+(complexité des canaux d'échanges, des interfaces, etc). Il s'agit en 
+particulier de favoriser le respect des règles d'inter-opérabilité et 
+d'intégration en vue d'assurer une sécurité et une consistance des 
+données appropriées ;
+.    Améliorer la traçabilité, la gestion de l'évolution et de la 
+continuité de données : les architectures d'intégration actuelles 
+tentent déjà  d'assurer une traçabilité des informations tout au long de 
+leur cycle de vie. Le modèle et les services de traitement associés 
+doivent permettre d'une part de mesurer les risques et impacts d'un 
+changement sur chaque élément du modèle et d'autre part d'assurer la 
+préservation des différents états des données et documents techniques ;
+.     Gérer la diversification des sources et des usages (et la 
+complexité inhérente) dans un contexte d'accroissement d'échelle (Big 
+Data) : le nombre très important de données et de documents techniques 
+(nécessaires pour une production agile et cohérente), ainsi que leur 
+hétérogénéité et leur dispersion, rendent les processus de traitement 
+et  d'accès à l'information encore plus complexes.
+*-----------------------------------------------------------------------------------------------------------**
+**
+*
+
+
+
+
+
+

@@ -1,0 +1,84 @@
+Bonjour,
+
+j'ai le plaisir de vous inviter à ma soutenance de thèse, qui s'intitule :
+"Normalisation orthographique de corpus bruités".
+
+La soutenance aura lieu le jeudi 13 Octobre, à 14h30, dans la salle
+visio-conférence du Bâtiment E de l'IUT de Montreuilt, situé 140 rue de la
+Nouvelle France, 93100 Montreuil (venir à l'IUT =>
+https://www.iut.univ-paris8.fr/plan-acces)
+
+Vous êtes également conviés au pot qui suivra.
+
+Cordialement,
+
+Nourhène Alaya
+
+
+Composition du jury :
+
+Pr. Hajer Baazaoui-Zhgal, Université de la Manouba, Tunisie (Rapportrice)
+Pr. Narjes Bellamine Ben Saoud,Université de la Manouba, Tunisie
+(Examinatrice)
+Dr Olivier Curé (HDR), Université Paris-Est (Rapporteur)
+Pr. Nhan Le Thanh,Université de Nice Sophia-Antipolis (Examinateur)
+Pr. Sadok Ben Yahia, Faculté des Sciences de Tunis (Co-Directeur)
+Pr. Myriam Lamolle, Université Paris 8 (Co-directrice)
+
+*Résumé* :
+
+Le raisonnement en logique de description (LD) autour des ontologies
+écrites en OWL est un réel défi en raison du niveau d'expressivité élevé de
+ce langage. En effet, la complexité dans le pire cas de raisonnement avec
+une ontologie OWL2 (DL) est 2N-EXPTIME-complet. De multiples approches de
+raisonnement et de techniques d’optimisation ont été implémentées afin de
+surmonter le compromis entre la complexité des algorithmes de raisonnement
+et l’expressivité du langage de formulation de l’ontologie. Cependant les
+compagnes d'évaluation des raisonneurs continuent de confirmer l'aspect
+*imprévisible* et *aléatoire* des performances de ces logiciels à l'égard
+des ontologies issues du monde réel.
+
+Partant de ces observations, l'objectif principal de cette thèse est
+d’assurer une meilleure compréhension du comportement empirique des
+raisonneurs en fouillant davantage le contenu des ontologies. Nous avons
+déployé des techniques d'apprentissage supervisé afin de capturer les
+relations de corrélation entre, d'une part, les attributs qui décrivent les
+modèles conceptuels des ontologies et d'autre part, l'historique des
+performances des raisonneurs. Les relations découvertes sont exploitées
+afin de permettre la prédiction des comportements futurs des raisonneurs.
+Nos propositions sont établies sous forme d'un système d'assistance aux
+utilisateurs afin de faire face au phénomène de variabilité de performance
+des raisonneurs. Quatre composantes principales ont été proposées. La
+première est un profileur d’ontologie qui décrit son modèle conceptuel par
+l'intermédiaire de 116 descripteurs. La deuxième composante est un module
+d'apprentissage supervisé capable d'établir des modèles prédictifs de la
+robustesse des raisonneurs et de la difficulté empirique des ontologies. La
+troisième composante est un module de classement automatique de
+raisonneurs, mise en place afin d'aider à la sélection du raisonneur le
+plus robuste étant donnée une ontologie. Nous avons proposé deux approches
+de classement ; la première fondée sur la prédiction mono-label et la
+seconde sur la prédiction multi-label. La dernière composante de notre
+système offre la possibilité d'identifier les parties potentiellement les
+plus complexes d'une ontologie. Notre solution repose sur l'approche de
+décomposition atomique et de l'extraction de modules ontologiques de
+localité. L'identification des modules complexes est guidée par notre
+modèle de prédiction du niveau de difficulté d'une ontologie. Chaque
+composante du système proposée a été validée grâce à une large palette
+d'expérimentations.
+
+*Mots clé: ontologie, logique de description, raisonnement, apprentissage
+supervisé, prédiction, classement, extraction.*
+
+
+-- 
+Myriam Lamolle - Professeur des Universités
+IUT de Montreuil - Département Informatique
+140, rue de la Nouvelle France
+93100 Montreuil
+Laboratoire LIASD - Université Paris8
+2 rue de la Liberté - 93526 Saint-Denis cedex
+
+http//:www.iut.univ-paris8.fr/~lamolle
+<http://www.iut.univ-paris8.fr/%7Elamolle>
+Tél: +33(0)1 48 70 34 61 Fax : +33(0)1 48 70 34 67
+

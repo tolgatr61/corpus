@@ -1,0 +1,42 @@
+avance 
+avec 
+avril 
+bonjour 
+chercheur 
+cordialement 
+dans 
+de 3
+début 
+détaillé 
+diffusion 
+doctorant 
+dont 
+du 
+en 
+équipe 
+er 
+est 
+et 
+homme 
+informatique 
+institut 
+joint 
+l 1
+la 
+langue 
+le 1
+lyon 
+merci 
+par 
+pdf 
+post 
+pour 
+profil 
+projet 
+renforcer 
+science 
+son 
+souhaite 
+traitement 
+un 
+votre 

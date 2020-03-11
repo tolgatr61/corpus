@@ -1,0 +1,67 @@
+Bonjour,
+
+nous cherchons un(e) candidat(e) pour une thèse CIFRE 
+(http://www.anrt.asso.fr/fr/espace_cifre/accueil.jsp) à partir de 
+maintenant.
+
+CIFRE avec le LIRIS (équipe DRIM, Elöd EGYED, Sylvie CALABRETTO) et 
+l'entreprise Webcastor
+(http://www.webcastor.fr/). Sujet ci-dessous.
+
+Merci de relayer la demande aux personnes potentiellement intéressées.
+
+Cordialement,
+
+Elöd EGYED
+
+
+
+Sujet : Collecte d'images et enrichissement de leurs annotations
+
+Le projet de la thèse se concentre sur des corpus constitués par les
+documents photographiques produits et diffusés en ligne par des
+amateurs, dans des espaces médiatiques semi-privés, les réseaux sociaux
+(Fickr, Twitter, Pinterest,…), des sites de la presse en ligne,
+concentrés autour d’un lieu, d’un évènement, …. En effet, l’importance
+des usages de la photographie réalisée avec les téléphones mobiles
+permet de faire l’hypothèse d’une production importante d’images de
+l’environnement urbain. Les objectifs scientifiques couvrent la collecte
+et l’analyse du corpus.
+Un premier verrou scientifique se focalise sur la mise en place de
+modèles de traduction de requêtes depuis des critères géographiques et
+quelques mots clés vers des requêtes spécifiques à plusieurs sources
+d’information. En effet, tel qu’exprimé au départ, une requête peut ne
+pas donner de réponse sur certains sites, ou alors, donner trop de
+réponses sur d’autres. Il s’agit de modéliser et d’enrichir le contexte
+de départ afin de mieux cibler les modalités hybrides (basées sur les
+méta-données et sur le contenu des images) de recherche.
+Un deuxième verrou scientifique consiste dans l’enrichissement et le
+filtrage des données (images, méta données et descriptions textuelles).
+Le fossé sémantique existant entre le contenu et la description
+textuelle des images rend leur exploitation et leur analyse difficiles.
+Nous allons combiner des méthodes de traitement d’image (points
+d’intérêt, descripteurs globaux et locaux), des ressources sémantiques
+(dbpedia, wikimapia, …) et collaboratives (flickr, panoramio, …) afin de
+valider et d’enrichir les annotations des images.
+L’enjeu transversal du travail du/de la doctorant-e porte sur la
+réalisation d’une synergie forte entre le travail de problématisation de
+la thèse en SIC et la mise en œuvre de méthodes de collecte, de
+traitement et d’interprétation des données à partir de trois dimensions :
+•       Elaboration de filtres de collecte basés sur des critères 
+multiples,
+touchant des aspects comme le lieu de la prise de vue, de la
+publication, la date, des sujets des textes d’accompagnement mais
+également, le contenu des images.
+•       Etude et mise en avant des « signaux faibles » : des sujets, lieux,
+mots clés (memes) hors grandes tendances. Etude de l’évolution des
+sujets photographiques récurrents dans le temps et dans l’espace.
+•       Etude des cas limites : éléments qui sont à la limite des 
+filtres de
+collecte afin d’améliorer ces derniers.
+
+Nous allons pouvoir tester et valider ces méthodes d’enrichissement sur
+des campagnes scientifiques internationales telles imageClef ou
+MultimediaEval. La validation pourra se faire également sur le corpus de
+l’entreprise Webcastor.
+
+

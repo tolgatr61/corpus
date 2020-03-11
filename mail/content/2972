@@ -1,0 +1,94 @@
+Ingénieur de développement :
+
+Recherche contextuelle et personnalisée 
+
+Laboratoire MAS, Ecole Centrale Paris
+
+France
+
+Contexte
+
+Cette mission se déroule dans le contexte du projet européen PARLANCE, qui
+vise à concevoir et à construire des applications mobiles qui s'approchent
+de la performance humaine dans l'interaction conversationnelle. 
+
+Les systèmes de dialogue classiques sont souvent spécifiques à un domaine et
+utilisent des connaissances  spécifiées manuellement par l'expert du
+domaine. Ces systèmes sont plutôt statiques et ne peuvent pas s'adapter à un
+utilisateur spécifique ou incorporer de nouvelles informations. Dans ce
+projet, nous développons un système de recommandations vocales,
+personnalisées et évolutives, en tenant compte de la situation et les
+spécificités d'un utilisateur particulier. Les défis associés sont les
+suivants:
+
+·       Lintégration de connaissances, sous forme dontologies modulaires,
+dans le processus de recherche (dialogue utilisateur) et lalimentation de
+ces ontologies à laide des données liées du web.
+
+·       L'inclusion des préférences de l'utilisateur et de sa situation
+actuelle dans les réponses fournies, afin que celle-ci soit plus
+personnalisée et sensibles au contexte.
+
+·       La Recommandation de réponses en tenant compte des profils des
+utilisateurs similaires (filtrage collaboratif et recherche sociale).
+
+Mission
+
+La mission du candidat consiste à participer au développement des
+fonctionnalités liées à lutilisation du modèle utilisateur et de la base de
+connaissances pour les étapes de personnalisation au niveau de la
+reformulation de requête et de la recommandation de réponses. 
+
+Compétences et profil
+
+ 
+
+Formation, expérience
+
+Les candidats doivent être titulaires dun diplôme dingénieur en
+informatique ou équivalent au niveau BAC+5.
+
+Profil technique
+
+- Solide expérience en informatique, bonne connaissance des techniques
+d'apprentissage automatique et des technologies du web sémantique.
+
+- Solide expérience dans les outils de développement
+
+- Connaissance en XML, RDF, Jena, SPARQL est un plus.
+
+- Compétences et goût pour la programmation (en java).
+
+- Capacité  dapprentissage et d'adaptation
+
+- Excellente aptitude à communiquer en français et en anglais. 
+
+Environnement de travail :
+
+Lieu: Ecole Centrale Paris, Laboratoire MAS
+
+Durée:    12 mois
+
+Date de début:   Dès que possible   
+
+Salaire net mensuel:     selon expérience
+
+Les candidatures comprenant une lettre de motivation et un curriculum vitae
+détaillé  devront être envoyées avant le 01 octobre 2013 à Marie-Aude
+Aufaure (Marie-Aude.Aufaure@ecp.fr) 
+
+ 
+
+Marie-Aude Aufaure
+
+Professor, Ecole Centrale Paris, MAS Laboratory
+
+Head of the Business Intelligence Team
+
+Scientific Partner at INRIA Paris-Rocquencourt/Axis
+
+ 
+
+ 
+
+

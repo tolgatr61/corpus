@@ -1,0 +1,131 @@
+Merci de diffuser cet appel à communication le plus largement possible.
+
+=========================================
+Appel à communications pour l'atelier RISE 2014
+=========================================
+
+6ème Atelier Recherche d'Information SEmantique
+18 mars 2014
+Associé à Semaine du Document Numérique et de la Recherche d’Information 
+SDNRI 2014
+Soutenu par l'ARIA (Association francophone en Recherche d'Information 
+et Applications)
+
+L'ensemble des informations est disponible sur le site : rise.imag.fr
+
+Dates Importantes
+
+* Soumission de résumés RISE (facultatif) : 01 février 2014
+* Soumission des articles : 07 février 2014
+* Notification aux auteurs: 21 février 2014
+* Soumission de la version définitive: 02 mars 2014
+* Atelier RISE à SDNRI: 18 mars 2014
+
+Présentation
+
+Filtrer et accéder à de l'information pertinente diffusée massivement 
+sur le Web est toujours actuellement un besoin prioritaire.
+Un système de Recherche d'Information (SRI) permet de retrouver des 
+documents pertinents par le calcul de similarité entre une requête et 
+des documents.
+La difficulté majeure de ces moteurs de recherche, est d'obtenir un 
+filtrage très efficace pour accéder uniquement avec l'information 
+pertinente.
+Or, les moteurs de recherche généralistes tendent à donner une réponse 
+standard pour toutes requêtes.
+Nous nous intéressons donc aux moteurs de recherche disposant de plus de 
+sémantique pour mieux répondre aux besoins spécifiques des utilisateurs.
+
+Plus précisément, les technologies actuelles de calcul de correspondance 
+sont basées sur des modèles statiques à base de comptage de mots.
+Nous pensons qu'un tournant doit être pris dans la recherche pour 
+exploiter des ressources sémantiques et
+détecter les index à un niveau conceptuel pour mieux répondre aux 
+requêtes précises des utilisateurs.
+En résumé, nous pensons les prochains systèmes d'accès à l'information 
+devront traiter le besoin de l'utilisateur au niveau sémantique
+et non plus seulement au niveau signal (textuel, image, etc).
+Pour atteindre cet objectif, le sens de l'information doit être 
+explicitement encodé dans des ressources sémantiques (par exemple dans 
+des ontologies).
+
+Le but de cet atelier est de discuter de ce nouveau terrain de recherche:
+les Systèmes Recherche d'Informations Sémantiques (SRIS) où le flux 
+d'information est enrichi par une interprétation de son contenu.
+Cet atelier est dédié à la modélisation l'usage des SRIS, sur le texte 
+en particulier, mais aussi sur les données multimédia.
+
+Cet atelier est alors à la confluence de l’Ingénierie des Connaissances, 
+l’Extraction des Connaissances, le Traitement Automatique des Langues 
+Naturelles
+et la Recherche d'Information et le Web Sémantique.
+
+Thèmes
+
+Les principaux thèmes abordés sont alors (liste non exhaustive, d'autres 
+thèmes connexes peuvent être traités par les auteurs) :
+* Recherche d'Information
+* Extraction d'Information
+* Annotation Sémantique, Indexation, Recherche d'Information Sémantique
+* Ontologies
+* Alignement d'Ontologies et Correspondances pour la Recherche 
+d'Information,
+* Graphes Conceptuels, Logiques de Description, Langages de 
+Représentation des connaissances pour la Recherche d'Information
+* Utilisation des Distances Sémantiques pour la Recherche d'Information
+* Construction et l'enrichissement d'Ontologies ou de Ressources 
+Sémantiques pour la gestion documentaire
+* Usage de larges Bases de Connaissances pour la Recherche 
+d'Information, Web de données documentaires
+
+Soumissions
+
+Deux types de soumissions seront possibles, donnant lieu à une 
+présentation de 20 minutes + 10 minutes de questions:
+Articles longs :
+Article d'au moins 8 pages. Les articles longs devront décrire des 
+contributions originales en cours de développement
+(et non simplement des propositions de recherche).
+Les articles longs peuvent être soumis en français ou en anglais.
+Concernant les publications définitives, Il n'y a pas de contraintes de 
+taille imposée pour l'atelier,
+mais nous recommandons que les articles longs fassent entre 8 et 12 
+pages en tenant compte des figures et des références.
+
+Articles courts :
+Résumé de 2 pages, présentant un projet en cours de développement. Le 
+résumé peut être soumis en anglais ou en français.
+
+Le format à respecter pour les versions finales des articles est le 
+modèle LNCS de springer.
+Les soumissions se feront sur le site de easychair 
+https://www.easychair.org/conferences/?conf=rise2014.
+En cas de soucis vous pouvez envoyer un email aux 3 organisateurs
+(catherine.roussey at irstea.fr, Jean-Pierre.Chevallet at imag.fr, 
+haifa.zargayouna at lipn.univ-paris13.fr)
+
+Les soumissions seront évaluées par au moins 2 membres du comité de 
+programme.
+
+Organisateurs
+
+CHEVALLET Jean-Pierre, LIG, Grenoble (France)
+ROUSSEY Catherine,IRSTEA, Clermont Ferrand (France)
+ZARGAYOUNA Haïfa , LIPN, Paris (France)
+
+Cordialement
+
+-- 
+Catherine Roussey
+Chargé de Recherche
+Unité de Recherche TSCF
+Irstea - Centre de Clermont-Ferrand
+9 avenue Blaise Pascal, CS 20085
+63178 Aubière
++33 (0)4 73 44 06 88
+https://sites.google.com/site/rousseycat/
+
+Si la matière grise était plus rose,
+le monde aurait moins les idées noires (Pierre Dac)
+
+

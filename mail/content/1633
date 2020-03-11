@@ -1,0 +1,88 @@
+Bonjour,
+
+Vous trouverez ci-après et ci-joint un sujet de thèse pour lequel nous 
+recherchons un candidat.
+Les candidatures doivent nous parvenir au plus vite, la sélection devant 
+être faite au début du mois de Mai.
+   Cordialement,
+     Alexandre Pauchet
+
+*
+Titre*: Interactions naturelles dans les systèmes mixtes : vers des 
+sociétés peuplées d'humains et d'agents virtuels autonomes
+
+*Encadrement* : Alexandre Pauchet et Julien Saunier
+
+*Laboratoires d’accueil* : LITIS, Normandie Université - INSA de Rouen
+
+*Profil du candidat* : M2 Recherche en informatique avec des compétences en
+
+  * agents autonomes et systèmes multi-agents,
+  * interaction homme-machine
+  * fouille de données ou apprentissage
+
+*Candidature**à envoyer à *: _alexandre.pauchet@insa-rouen.fr_, 
+_julien.saunier@insa-rouen.fr <mailto:mukesh.barange@insa-rouen.fr>_
+
+  * CV,
+  * Relevés de notes de M1 et M2
+
+*Type de financement* : bourse ministérielle
+**
+
+
+      *Sujet :*
+
+L'explosion du nombre d'objets connectés, de l'informatique ubiquitaire, 
+et des interfaces homme-machines intuitives et naturelles permet 
+d'envisager une démocratisation croissante des systèmes cyber-physiques.
+Si les interactions avec un seul utilisateur disposent d'une littérature 
+abondante -même si tous les verrous ne sont pas encore levés, notamment 
+pour les interactions dialogiques-, la mise en place de systèmes 
+coopératifs mettant en œuvre plusieurs utilisateurs et plusieurs 
+systèmes logiciels reste difficile.
+Dans cette thèse, le doctorant étudiera les moyens théoriques et 
+pratiques pour permettre l'interaction entre [1..N] agents virtuels et 
+[0..M] humains (avec n + m > 2). Pour cela, il s'agit de mettre au point 
+des protocoles et moyens d'interaction identiques que ce soit entre 
+agents purement logiciels, et entre agents et humains dans le cadre de 
+sociétés mixtes. Nous nous focaliserons sur l'utilisation d'agents 
+conversationnels animés, avec une extension possible vers les compagnons 
+robotiques.
+Dans l'objectif d'obtenir des interactions naturelles, dans lesquelles 
+les interfaces sont les moins intrusives possibles, l'interaction 
+dialogique et gestuelle, telle que celle utilisée entre humains, est 
+privilégiée. C'est pourquoi l'expérimentation de telles solutions passe 
+par des dispositifs de captation des actions humaines et de 
+visualisation des agents virtuels. Le LITIS dispose pour la mise en 
+œuvre de ce projet d'étude de systèmes de captation de la gestuelle, de 
+la parole, et du langage corporel (expressions, détection d'émotions), 
+et d'équipements pour la mise en œuvre simultanée de plusieurs agents 
+virtuels en environnement virtuel ou semi-virtuel.
+Une première approche du sujet concerne la mise en place d' un système 
+permettant au concepteur d'ACA de se focaliser sur les choix dialogiques 
+et non la composante d'animation. L'agent sera autonome pour choisir les 
+animations, notamment à composante émotionnelle, le choix desquelles 
+dépendant à la fois du dialogue et de l'état des autres participants de 
+l'interaction (humains ou agents).
+La modélisation de tels systèmes pourra s'appuyer sur la notion de 
+cognition incarnée, de façon à permettre de considérer indépendamment 
+utilisateurs et agents virtuels au sein d'une interface commune.
+
+Les applications possibles de ce projet sont les suivantes :
+- Mise en place de protocoles multi-parties pour l'aide aux utilisateur 
+dans un contexte de réalisation de tâches ou d'apprentissage humain,
+- Étude de la contagion émotionnelle dans les systèmes mixtes,
+- Narration multi-parties avec une composante émotionnelle scénarisée ou 
+non.
+
+
+-- 
+Alexandre Pauchet
+Associate Professor
+INSA Rouen - ASI Department
+LITIS Lab
+Phone: +33(0)2 32 95 98 58
+Web:http://asi.insa-rouen.fr/enseignants/~apauchet/
+
+

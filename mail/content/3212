@@ -1,0 +1,23 @@
+Titre: reconnaissance profonde d'expressions polylexicales par étiquetage séquentiel supervisé
+
+Contexte:
+Les expressions polylexicales, qui forment des combinaisons de mots avec un certain degré de non-compositionalité, posent de sérieux problèmes pour les applications du traitement automatique des langues comme la traduction automatique. L'apparition de corpus annotés en expressions polylexicales a eu pour conséquence le développement de systèmes supervisés de reconnaissance de telles expressions. Ces systèmes reposent en général soit sur des étiqueteurs séquentiels (Vincze et al. 2011; Constant et al. 2012; Schneider et al. 2014), soit sur des analyseurs syntaxiques (Green et al. 2011, 2013; Kung 2014; Candito et Constant 2014; Le Roux et al. 2014), qui peuvent être alimentés par des lexiques. Les travaux sur le sujet sont souvent limités à une reconnaissance de surface, même s'il existe des exceptions: par exemple, Schneider et al. (2014) font une classification binaire des expressions selon leur niveau d'idiomaticité (strong vs. weak); Candito et Constant (2014) reconnaissent la structure syntaxique interne. 
+
+Sujet:
+L'objectif de ce stage est de développer un système de reconnaissance des expressions polylexicales dans le cadre de l'étiquetage séquentiel. Ce système devra être capable de réaliser une analyse plus fine des expressions polylexicales que ce qui est en général réalisé. En particulier, il devra repérer les imbrications d'expressions polylexicales, qui sont relativement fréquentes dans les textes. Par exemple, la séquence 'ministre français des affaires étrangères' contient deux expressions polylexicales 'ministre des affaires étrangères' et 'affaires étrangères'. La construction 'faire faux bond' contient un nom composé imbriqué 'faux bond' ayant une certaine autonomie. Ce phénomène est bien connu du domaine de la terminologie. Il s'agira de s'inspirer des travaux existants sur le sujet.
+
+Lieu : Lattice, CNRS
+Encadrants: I. Tellier (Univ. Paris Sorbonne-Nouvelle) et M. Constant (Univ. Paris-Est Marne-la-Vallée)
+
+Profil du candidat:
+- Master 2 ou école d'ingénieur en informatique ou TAL
+- bonnes compétences de programmation,
+- connaissance des outils d'apprentissage
+
+Durée du stage : 6 mois
+Rémunération : gratification réglementaire
+Financement: projet AIM-WEST : http://aim-west.imag.fr
+
+Les candidatures doivent être envoyées par mail à isabelle.tellier@univ-paris3.fr avant le 31 janvier 2014. Le dossier de candidature contiendra un cv, une lettre de motivation, et, éventuellement, la recommandation d'un enseignant.
+
+

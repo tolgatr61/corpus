@@ -1,0 +1,79 @@
+
+Stage M2 à l'INaLCO
+Développement d'un outil de désambiguisation morpho-syntaxique pour le 
+bambara
+
+Le bambara est une langue mandingue parlée en Afrique de l'Ouest et dans 
+la diaspora africaine. Elle fait partie des langues africaines les mieux 
+décrites (Dumestre 2003, Vydrine 2014). Comme pour toutes les langues et 
+en particulier pour les langues peu dotées, l'outillage du bambara est 
+une nécessité afin de permettre aux bambarophones d'utiliser leur langue 
+natale dans leurs interactions avec les nouvelles technologiques.
+
+À cet effet, le Corpus Bambara de Référence (CBR), été constitué ces 
+dernières années (Vydrine 2013, Maslinsky 2014). Celui-ci contient 
+actuellement plus d'un million de mots et est géré au moyen du logiciel 
+NoSketchEngine (Kilgarriff 2007). Il s'appuie sur le lexique Bamadaba 
+afin de proposer des possibilités de catégories morpho-syntaxiques pour 
+les mots du corpus. Au sein de ce corpus, une sous-partie (300K mots) a 
+été manuellement désambiguisée.
+
+Dans le cadre du projet MANTAL conduit par les équipes ERTIM et LLACAN 
+de l'INaLCO, le stage que nous proposons a pour objectif de mettre en 
+œuvre et d'évaluer des approches pour désambiguiser automatiquement le 
+corpus. A cet effet, des modèles traditionnels à base, par exemple, 
+d'arbres de décision (Schmid 1995), de maximum d'entropie (Denis 2009) 
+ou de champs aléatoires conditionnels (Lafferty 2001), seront évaluées. 
+D'autres techniques seront mises à l'épreuve, dont celles reposant sur 
+l'utilisation conjointe de réseaux de neurones et de techniques de 
+sélection de features itératives.
+
+Profil recherché :
++ Master 2 en Informatique
++ Bonnes compétences en programmation (Python, C++, Java)
++ Compréhension des approches en apprentissage automatique
++ Intérêt pour le traitement automatique des langues
++ La connaissance des langues mandingues sera vivement appréciée
+
+Durée du stage : 5 mois à temps plein
+Date de début : février ou mars 2015
+Gratification : 500,51€/mois (et rbst de 50% des transports)
+Lieu : INaLCO, 2 rue de Lille, 75007 Paris
+Contact: Damien Nouvel ( damien.nouvel@inalco.fr 
+<mailto:damien.nouvel@inalco.fr> )
+
+Références :
+(Denis 2009) Denis, Pascal, Sagot, Benoît. Coupling an annotated corpus 
+and a morphosyntactic lexicon for state-of-the-art POS tagging with less 
+human effort. In Proceedings of PACLIC 2009, Hong-Kong, China, 2009.
+(Dumestre 2003) Dumestre, Gérard. Dumestre, Gérard. Grammaire 
+fondamentale du bambara. Paris : Karthala, 2003.
+(Kilgarriff 2007) A. Kilgarriff, P. Rychly, P. Smrz, D. Tugwell. The 
+Sketch Engine. Lexicology: Critical concepts in Linguistics Hanks, 
+editor. Routledge, 2007.
+(Lafferty 2001) Lafferty, John D., McCallum, Andrew, Pereira, Fernando 
+C. N.. 2001. Conditional random fields: Probabilistic models for 
+segmenting and labeling sequence data. ICML, pp 282-289.
+(Maslinsky 2014) Maslinsky, Kirill. Daba: a model and tools for Manding 
+corpora. Traitement Automatique des Langues Naturelles, 2014.
+(Schmid 1995) Schmid, Helmut. Improvements in Part-of-Speech Tagging 
+with an Application to German. Proceedings of the ACL SIGDAT-Workshop. 
+Dublin, Ireland. , 1995
+(Vydrine 2013) Vydrin, Valentin. Bamana Reference Corpus (BRC) Procedia 
+- Social and Behavioral Sciences, 95:25 October 2013, pp. 75-80. 
+http://www.sciencedirect.com/science/journal/18770428
+(Vydrine 2014) Vydrin, Valentin. Projet des corpus écrits des langues 
+manding : le bambara, le maninka. In : Mathieu Mangeot, Fatiha Sadat 
+(éd.). Actes de l'atelier sur le traitement automatique des langues 
+africaines TALAf 2014. http://jibiki.univ-savoie.fr/~mangeot/TALAf/2014/ 
+<http://jibiki.univ-savoie.fr/%7Emangeot/TALAf/2014/>
+
+
+-- 
+Maître de conférences (PhD), INaLCO
+damien.nouvel@inalco.fr <mailto:damien.nouvel@inalco.fr>
+Tel.: +33 (0) 1 81 70 10 37
+2 rue de Lille, 75007 Paris
+
+
+

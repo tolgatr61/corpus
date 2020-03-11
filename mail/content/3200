@@ -1,0 +1,123 @@
+*Proposition de poste d'ingénieur développement logiciel ANR 3BCAR 
+IC2ACV (CDD 1 an)*
+
+Le projet ANR 3BCAR IC2ACV rassemble 4 unités de recherche: l'UMR IATE 
+(Ingénierie des Agro polymères et Technologie Emergente) à Montpellier, 
+l'UMR UCAI (Unité de Chimie Agro-Industrielle) à Toulouse, le LIRMM 
+(Laboratoire d'Informatique, de Robotique et de Microélectronique de 
+Montpellier) et l'unité INRA Mét@risk à Paris.
+
+
+L'objectif de ce projet est la réalisation d'un couplage des 
+méthodologies d'Ingénierie des Connaissances (IC) et d'Analyse de Cycle 
+de Vie (ACV). Il s'agit (1) de développer une méthode et un outil 
+d'Ingénierie des Connaissances (IC), combinant fouille de texte et 
+représentation de connaissances afin d'extraire, de manière 
+semi-automatique, les informations pertinentes des sources de données 
+pour réaliser une Analyse de Cycle de Vie (ACV) ; (2) d'évaluer si la 
+méthode et l'outil ainsi créés permettent la réalisation d'analyse ACV 
+cohérentes. Dans le cadre de ce projet, la méthodologie mise en place, 
+intégrant des méthodes d'IC et d'ACV, permettra d'évaluer différents 
+scenarii de prétraitements de la biomasse ligno-cellulosique.
+
+
+Dans ce contexte, l'équipe propose un CDD d'un an consistant à 
+développer un nouveau module intégré au logiciel @Web permettant de (1) 
+guider la saisie dématérialisée d'une donnée, (2) maintenir la 
+traçabilité de la donnée depuis le texte source jusqu'à son utilisation 
+dans l'ACV, (3) évaluer la fiabilité de cette donnée.
+
+
+Missions à effectuer
+
+
+Le CDD se déroulera en plusieurs parties.
+
+
+Premièrement, le candidat devra prendre connaissance du logiciel @Web 
+développé dans l'équipe ainsi que de l'ensemble des librairies utilisées 
+par celui-ci.
+
+Deuxièmement, le candidat aura en charge la conception et la mise en 
+oeuvre du nouveau module.
+
+Troisièmement, il évaluera l'implémentation proposée à partir d'un 
+corpus de documents fournis par l'équipe et ses partenaires en réalisant 
+notamment des tests de performance et la robustesse. Il réalisera aussi 
+des tests auprès des utilisateurs afin de valider l'ergonomie de 
+l'interface réalisée.
+
+
+
+Environnement technique
+
+
+Le candidat sera accueilli dans les locaux de l'équipe « Ingénierie des 
+connaissances » de l'unité Mét@risk, localisé à AgroParisTech, Paris, 
+notamment composée de deux ingénieurs informaticiens, experts en Java 
+avancé et dans les technologies du Web sémantique. Il travaillera 
+également en étroite collaboration avec un ingénieur informaticien, 
+expert en Web sémantique, basé dans l'UMR IATE, Montpellier.
+
+
+Le candidat sera amené à évoluer dans l'environnement technique suivant :
+
+  *
+
+    Systèmes d'exploitation : Windows, Linux ;
+
+  *
+
+    Bases de données : PostgreSQL, hibernate ;
+
+  *
+
+    Langages : Java, JEE (servlet, JSP, javascript, AJAX), SQL, UML, XML ;
+
+  *
+
+    Outils de développements : Eclipse.
+
+  *
+
+    Web sémantique: RDF, OWL, SPARQL
+
+
+
+
+Requis : Niveau ingénieur ou master M2 pro
+
+
+Durée :1 an
+
+
+Date de début : à partir d'octobre 2013
+
+
+Rémunération : à titre indicatif, environ 1900 EUR brut/mois pour un 
+niveau ingénieur d'étude débutant
+
+
+*Pour postuler:* merci d'envoyer, *AVANT LE 5 AOUT 2013*, votre CV et 
+une lettre de motivation aux personnes responsables du recrutement (voir 
+ci-dessous).
+
+Contacts :{stephane.dervaux, lydie.soler}@paris.inra.fr, 
+Patrice.Buche@supagro.inra.fr 
+<mailto:Patrice.Buche@supagro.inra.fr>,juliette.dibie@agroparistech.fr,
+
+
+-- 
+Patrice Buche
+
+Joint Research Unit Agropolymers Engineering and Emerging Technologies
+JRU 1208 IATE UM2, CIRAD, INRA, Montpellier SupAgro
+
+Computer Science Team
+
+2, place Pierre Viala  -  34 060 MONTPELLIER Cedex 02 - FRANCE
+E-mail  Patrice.Buche@supagro.inra.fr
+Tel +33499612283, Fax +33499613076
+Home Page http://umr-iate.cirad.fr/axes-de-recherche/ingenierie-des-connaissances/membres/patrice-buche-s-cv
+
+

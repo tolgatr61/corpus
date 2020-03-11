@@ -1,0 +1,85 @@
+
+  Apprentissage automatique à partir de textes techniques et approche
+  sémantique pour construire la base de connaissances d’un assistant virtuel
+
+*Post-doctorant ou ingénieur de recherche en TAL, apprentissage 
+automatique et web sémantique*
+
+*Contexte* : Le candidat sera un des acteurs importants de l’implication 
+de l’IRIT dans le projet AVI-REX en partenariat avec l’entreprise 
+SimSoft3D, soutenu par le FEDER et la région Occitanie – Pyrénées 
+Méditerranée. Ce projet de deux ans vise la mise au point d’un Assistant 
+Virtuel Interactif qui assiste un technicien dans ses activités, en 
+particulier pour rendre compte de son retour d’expérience lorsqu’il 
+rencontre des incidents ou des anomalies pendant l’exécution de 
+procédures. Cet assistant s’appuie sur un modèle de connaissances (une 
+ontologie) qui formalise les notions et procédures du domaine, ainsi que 
+sur une connaissance de la structure adaptée à une bonne restitution des 
+incidents.
+
+L’équipe d’accueil MELODI a développé des méthodes d’extraction de 
+connaissances par apprentissage supervisé et semi supervisé à partir de 
+textes en langue générale d’une part, et des méthodes de construction 
+d’ontologies à partir de textes spécialisés. Le projet permettra de 
+développer de nouveaux outils d’apprentissage dans le cas de textes 
+spécialisés et de les associer à une méthode de construction d’ontologie.
+
+*Missions* : Le candidat sera chargé de mettre en place deux chaînes de 
+traitement. Tout d’abord, il développera une approche de construction 
+d’ontologie pour un assistant virtuel, à partir d’expertise et de 
+documentation technique. Ensuite, il devra sélectionner et mettre en 
+œuvre des techniques d’apprentissage pour dégager des connaissances à 
+partir de fiches de retour d’expérience. Ces connaissances seront aussi 
+exploitées par l’assistant virtuel pour guider les dialogues avec un 
+utilisateur de l’assistant et enregistrer de nouveaux retours 
+d’expérience de façon structurée. Il s’appuiera pour cela sur les 
+méthodes et approches définies ou utilisées par les partenaires du 
+projet et sur l’état de l’art. Le candidat sera également amené à 
+valoriser la dimension recherche de ce travail et à participer à la 
+rédaction de publications.
+
+Outre ses compétences en recherche, le candidat devra avoir un très bon 
+niveau en programmation, faire preuve d’autonomie, de capacités de 
+communication et de collaboration, et d’initiative.
+
+*Durée du contrat* : 23 mois, de janvier ou mars 2018 à début 2020. A 
+pourvoir immédiatement.
+
+*Niveau de recrutement*: être titulaire d’une thèse en informatique de 
+préférence, ou titulaire d’un M2 ou d’un diplôme d’ingénieur,
+
+*Compétences en recherche* : expérience en utilisation et mise au point 
+de logiciels d’apprentissage automatique (supervisé et non supervisé) 
+pour l’analyse du langage naturel, si possible en extraction 
+d’information à partir de textes ; expérience en construction et/ou 
+l’alignement d’ontologies et de bases de connaissances ; maîtrise des 
+langages, outils et standard du web sémantique.
+
+*Compétences techniques *: programmation Java et/ou Python, 
+environnement de développement (type ECLIPSE), maîtrise de XML, XSLT etc.
+
+*Langue* : bonne maîtrise de l’anglais
+
+*Salaire* : niveau ingénieur ou chercheur post-doctorant, entre 1900 € 
+et 2200 € brut suivant expérience
+
+*Employeur* : université Paul Sabatier
+
+*Lieu de travail* : IRIT avec nombreuses missions en entreprise (Labège)
+
+*Contacts :* Nathalie Aussenac-Gilles (DR CNRS) Responsable de l’équipe 
+MELODI, aussenac@irit.fr <mailto:aussenac@irit.fr>- +33 5 61 55 82 93
+
+-- 
+Nathalie Aussenac-Gilles
+
+IRIT - Equipe MELODI
+Universite Paul Sabatier
+118, route de Narbonne			
+31062 TOULOUSE Cedex 9 		
+
+http://www.irit.fr/~Nathalie.Aussenac-Gilles  	aussenac@irit.fr
+Tel : +33 5 61 55 82 93 		Fax : +33 5 61 55 62 58
+-----------------------------------------------------------------------
+
+

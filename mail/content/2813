@@ -1,0 +1,176 @@
+Veuillez nous excuser en cas de réception multiples
+
+============================================================================================= 
+
+14ème conférence francophone sur l'Extraction et la Gestion des 
+Connaissances : EGC 2014
+28 - 31 janvier 2014, Rennes, France
+http://egc2014.irisa.fr/fr/
+============================================================================================= 
+
+
+Présidente du Comité de Programme :
+     Chantal Reynaud - LRI - Université Paris-Sud, France
+
+Présidents du Comité d'Organisation :
+     Arnaud Martin - IRISA - Université de Rennes 1
+     René Quiniou - IRISA - INRIA Centre Bretagne Rennes
+
+L'objectif de EGC est de rassembler des chercheurs de disciplines 
+connexes en liaison avec l'extraction et la gestion de connaissances 
+(apprentissage automatique, ingénierie des connaissances, statistique et 
+analyse de données, systèmes d'information, bases de données) et des 
+spécialistes du monde industriel qui déploient des méthodes d'extraction 
+et de gestion de connaissances sur des données réelles.
+
+Comme chaque année, la conférence EGC est ouverte à la présentation de 
+travaux de recherche récents et de développements industriels dans le 
+domaine de l'extraction et de la gestion des connaissances. Elle permet 
+ainsi d'exposer des résultats de travaux théoriques et appliqués et 
+d'échanger autour de ces derniers.
+
+Plusieurs types de communications sont possibles : des communications 
+orales (papiers longs de 12 pages ou  papiers courts de 6 pages), des 
+posters (accompagnés de papiers de 4 pages) et des démonstrations de 
+logiciels. Les communications orales correspondent soit à des papiers 
+académiques soit à des papiers applicatifs/industriels. Les papiers 
+peuvent être soumis en français ou en anglais (pour les non-francophones 
+uniquement).
+
+Trois prix, dotés globalement de 3500 euros, seront attribués : un prix 
+pour les papiers de la catégorie papier applicatif, un prix pour la 
+catégorie papier académique et un prix de thèse décerné à un jeune 
+docteur dont la thèse a été soutenue depuis moins de trois ans dans les 
+thématiques liées à l'Extraction et la Gestion des Connaissances. Ils 
+seront décernés par un jury composé de membres du comité de pilotage. Le 
+prix de thèse fait l'objet d'une annonce spécifique. Les actes d'EGC 
+2014, comprenant les papiers des communications orales ainsi que ceux 
+associés aux posters, paraîtront dans un numéro de la revue RNTI. Les 
+meilleurs papiers seront sélectionnés pour être publiés dans des 
+post-actes internationaux.
+
+============================================================================================= 
+
+Thématiques de la conférence
+----------------------------
+
+Extraction et gestion de connaissances : fondements
+
+Tâches
+------
+- Apprentissage supervisé : machines à noyaux, machines à vecteurs 
+supports, réseaux de neurones formels, modèles probabilistes, 
+apprentissage de règles, méthodes d'ensembles, régression, ...
+- Classification non supervisée : regroupement conceptuel, méthodes de 
+partitionnement et de recouvrement, méthodes neuronales, méthodes 
+hiérarchiques, clustering multi-vues, multi-stratégies, incrémental, 
+collaboratif
+- Sélection de modèles
+- Extraction de motifs : itemset, séquence, arbre, graphe, ...
+- Détection d'outliers, d'inattendus et d'anomalies
+- Système de recommandations
+- Autres paradigmes : apprentissage semi-supervisé, apprentissage actif, 
+apprentissage multi-stratégie, ...
+
+Méthodes
+--------
+- Méthodes statistiques en fouille de données
+- Apprentissage symbolique - programmation logique inductive
+- Apprentissage topologique, variétés mathématiques
+- Fouille visuelle de données
+- Fouille de données et contraintes
+- Méthodes incrémentales de fouille de données
+- Algorithmes de fouille de données robustes au passage à l'échelle
+- Systèmes distribués / parallèles pour la fouille de donnée
+- Analyse des Données Symboliques
+
+Données
+-------
+- Données structurées, semi-structurées, textuelles,
+- Données hétérogènes sémantiquement / multimedia, spatiales, images, 
+videos, audios, ... / peuplant des modèles de connaissances, données 
+relationnelles, données en réseau, données de graphes
+- Données géolocalisées, temporelles, spatiales
+- Données annotées à l'aide d'ontologies, exploitées dans le cadre du 
+Web sémantique,
+- Données volumineuses, complexes, dynamiques,
+- Données ouvertes
+- Données sociales
+
+Extraction et Gestion de connaissances : méthodologies
+
+- Acquisition, recueil, pré-traitement des données, filtrage, réduction 
+de données, sélection et modification des caractéristiques
+- Critères et évaluation de la qualité des données et des connaissances
+- Intégration de données (entrepôt, OLAP, médiation, ...)
+- Intégration de connaissances dans le processus d'extraction
+- Gestion des connaissances et d'ontologies (acquisition, stockage, mise 
+à jour, interopérabilité, interconnexion, évolution)
+- Visualisation analytique, interaction homme-machine en fouille de données
+- Traçabilité, sécurité et intégrité de l'information et des données
+- Plateformes et systèmes pour l'ECD
+- Etudes comparatives avec benchmark d'évaluation
+- Protocoles d'évaluation et validation de modèles à partir 
+d'échantillons d'utilisateurs
+- Etudes expérimentales sur des données volumineuses
+
+Extraction et Gestion de connaissances dans des domaines émergents
+
+- Social : Analyse de liens, Communautés en ligne, Réseaux sociaux et 
+autres
+- Mobilité, géo-localisation, ambiant, ubiquitaire
+- Modélisation de comportements
+- Commerce électronique, publicité en ligne
+- Fouille de données d'opinions, de dépêches, de microblogging
+- Open data
+- Linked Data
+- Crowdsourcing
+- ...
+
+Applications de l'extraction et de la gestion de connaissances
+
+- Mémoires d'entreprise, veille technologique
+- Détection d'intrusion, prévention de fraude
+- Modélisation des épidémies, recherche clinique, surveillance de points 
+de santé
+- Gestion de la relation client, des réseaux et des systèmes de gestion
+- Développement durable, transports intelligents
+- Autres applications dans des domaines comme la médecine, la biologie, 
+la chimie, la finance, les assurances, ...
+Format de soumission
+Les soumissions seront  anonymes et se feront par voie électronique 
+exclusivement à partir du site web de la conférence. Elles devront être 
+envoyées au format pdf exclusivement et devront impérativement utiliser 
+le format RNTI latex accessible à l'adresse suivante : 
+http://egc2014.irisa.fr/data/RNTI_style_V3.1.2.zip
+Les soumissions qui dépasseraient 12 pages ou qui ne respecteront pas le 
+format RNTI Latex ne seront pas évaluées.
+
+============================================================================================= 
+
+Dates importantes
+-----------------
+
+Toutes les dates sont fermes et définitives. Il ne sera accordé aucun 
+délai ou report.
+
+Articles (longs, courts, posters) (12, 6, 4 pages)
+--------------------------------------------------
+- Résumés des articles : 7 octobre 2013
+- Textes complets des articles : 14 octobre 2013
+- Interactions auteurs/membres Comité de Programme : 12 - 18 novembre 2013
+- Notification aux auteurs : 22 novembre 2013
+- Version finale des articles : 9 décembre 2013
+
+Démonstrations de logiciels (4 pages)
+-------------------------------------
+- Date limite de soumission : 25 novembre 2013
+- Notification aux auteurs : 2 décembre 2013
+- Version finale des textes : 9 décembre 2013
+
+Ateliers
+--------
+- Date limite de soumission : 2 septembre 2013
+- Notification aux organisateurs : 16 septembre 2013
+- Mise en ligne du programme des ateliers : 6 janvier 2014
+

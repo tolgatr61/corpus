@@ -1,0 +1,66 @@
+
+L'équipe ALPAGE a le plaisir d'annoncer le libre accès à un service WEB
+collaboratif de visualisation et de validation de ressources 
+lexicales-sémantiques.
+
+Ce service, encore expérimental, prend place dans la plateforme Libellex
+et a été développé dans le cadre d'une collaboration entre l'INRIA et la
+société Lingua et Machina. Il permet de naviguer dans des listes
+terminologiques et des réseaux lexicaux.
+
+Le service est accessible sous
+   http://alpage.inria.fr/Lbx
+Par défaut, les utilisateurs peuvent se connecter avec l'identifiant 
+suivant:
+    login: guest
+    password: guest
+
+Sous ce compte 'guest', quelques ressources sont déjà librement
+accessibles (comme 'allsemnet'). Elles ont été constituées en analysant
+de gros corpus (Wikipedia, Wikisource, dépêches AFP, OpenSubtitles, ...)
+à l'aide de l'analyseur syntaxique FRMG, et en utilisant les sorties
+syntaxiques pour l'extraction de termes (multi-mots) et la constitution
+de réseaux lexicaux (par des méthodes d'analyse distributionnelle).
+
+Une fois une ressource chargée, une première documentation est
+disponible sous 'MENU' rubrique 'Aide'. L'interface est essentiellement
+constituée de tuiles qu'on peut activer, désactiver, déplacer, et
+redimensionner. Quelques tuiles de base sont ouvertes par défaut.
+
+Les retours d'expérience sont plus que bienvenus, que ce soit sur les
+fonctionnalités et l'ergonomie de l'interface, ou sur la qualité des 
+ressources.
+
+Il est également envisageable de proposer de nouvelles ressources à
+charger, en accès public ou privé. Un exemple de telle ressource (pour
+le fun) est fourni par 'TALN:collaboration' produit par Florian Boudin
+(pour TALN 2013) et qui illustre le réseau de co-auteurs d'articles à TALN.
+
+N'hésitez donc pas à nous contacter, pour toute demande supplémentaire
+d'information, d'aide, ou d'expériences à mener.
+
+Mikaël Morardo (mickael.morardo at inria.fr) développeur principal
+Eric de la Clergerie (eric.de_la_clergerie@inria.fr)
+
+
+Références:
+
+* Vers un environnement de production et de validation de ressources 
+lexicales sémantiques
+Mikaël Morardo, Éric Villemonte De La Clergerie,
+Atelier TALN 2013 SemDIS (2013)
+http://alpage.inria.fr/~clerger/wnet/SemDis13.pdf
+
+* Pour les lecteurs pressés:
+  http://alpage.inria.fr/~clerger/wnet/wnet.html
+
+* Site Alpage http://alpage.inria.fr
+
+* Libellex et Lingua et Machina
+  http://similis.org/linguaetmachina.www/index.php?afficher=11&info=Libellex
+
+
+
+
+
+

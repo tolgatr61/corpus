@@ -1,0 +1,78 @@
+Bonjour à tous,
+
+J'ai le plaisir de vous inviter à ma soutenance de thèse, intitulée
+"Apprentissage de représentations pour la prédiction de propagation
+d'information dans les réseaux sociaux", ainsi qu'au pot qui suivra.
+
+La soutenance aura lieu le jeudi 10 novembre 2016 à 14h, à l'Université
+Pierre et Marie Curie, en salle 105 couloir 25-26. Le plan daccès est
+disponible ici :
+http://www.upmc.fr/fr/universite/campus_et_sites/a_paris_et_en_idf/jussieu.html
+
+La soutenance aura lieu en français.
+Le jury sera composé de :
+
+M. Fabrice Rossi 	- Paris 1 Panthéon Sorbonne 	- Rapporteur
+M. Julien Velcin 	- Université Lumière Lyon 2 	- Rapporteur
+Mme. Christine Largeron - Université Jean Monnet 	- Examinatrice
+M. Christophe Marsala 	- Université Pierre et Marie Curie 	- Examinateur
+M. Sylvain Lamprier 	- Université Pierre et Marie Curie 	- Encadrant de thèse
+M. Patrick Gallinari 	- Université Pierre et Marie Curie 	- Directeur de
+thèse
+
+
+Bien cordialement,
+Simon Bourigault
+
+
+------------ Résumé ------------
+
+Dans ce manuscrit, nous étudions la diffusion d'information dans les
+réseaux sociaux en ligne. Des sites comme Facebook ou Twitter sont en
+effet devenus aujourd'hui des media d'information à part entière, sur
+lesquels les utilisateurs échangent de grandes quantités de données.
+La plupart des modèles existant pour expliquer ce phénomène de diffusion
+sont des modèles génératifs, basés sur des hypothèses fortes concernant la
+structure et la dynamique temporelle de la diffusion d'information
+
+Nous considérerons dans ce manuscrit le problème de la prédiction de
+diffusion dans le cas où le graphe social est inconnu, et où seules les
+actions des utilisateurs peuvent être observées.
+- Nous proposons, dans un premier temps, une méthode d'apprentissage du
+modèle independent cascade consistant à ne pas prendre en compte la
+dimension temporelle de la diffusion. Des résultats expérimentaux obtenus
+sur des données réelles montrent que cette approche permet d'obtenir un
+modèle plus performant et plus robuste.
+  - Nous proposons ensuite plusieurs méthodes de prédiction de diffusion
+reposant sur des technique d'apprentissage de représentations. Celles-ci
+nous permettent de définir des modèles plus compacts, et plus robustes à
+la parcimonie des données.
+  - Enfin, nous terminons en appliquant une approche similaire au problème
+de détection de source, consistant à retrouver l'utilisateur ayant lancé
+une rumeur sur un réseau social. En utilisant des méthodes
+d'apprentissage de représentations, nous obtenons pour cette tâche un
+modèle beaucoup plus rapide et performant que les ceux de l'état de
+l'art.
+
+
+------------ Abstract ------------
+
+  In this thesis, we study information diffusion in online social
+networks.&#8194;Websites like Facebook or Twitter have indeed become
+information medias, on which users create and share a lot of data.
+Most existing models of the information diffusion phenomenon relies on
+strong hypothesis about the structure and dynamics of diffusion.
+In this document, we study the problem of diffusion prediction in the
+context where the social graph is unknown and only user actions are
+observed.
+- We propose a learning algorithm for the independant cascades model that
+does not take time into account. Experimental results show that this
+approach obtains better results than time-based learning schemes.
+- We then propose several representations learning methods for this task
+of diffusion prediction. This let us define more compact and faster
+models.
+- Finally, we apply our representation learning approach to the source
+detection task, where it obtains much better results than graph-based
+approaches.
+
+

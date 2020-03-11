@@ -1,0 +1,45 @@
+
+Titre : "Extraction d'information dans la presse financière"
+
+MarketScience est une start-up en finance, qui développe un centre de
+Data-Mining intégré à une appli. Cette appli sera commercialisée sur la
+plateforme Bloomberg, à une clientèle de professionnels de la finance.
+
+MarketScience combine modélisation des séries financières et
+media-mining. L'extraction d'information financière spécifique à nos
+besoins se fait en mobilisant des algos de TAL.
+
+Ces algos permettent de
+
+1. déterminer la nature de l'article et sa probabilité de contenir une
+  information pertinente pour notre analyse
+
+2. isoler l'information nécessaire et la relier à l'évolution sur certains marchés
+
+3. catégoriser cette information au sein de facteurs économiques pré-identifiés
+
+Ce travail se faisant tout d'abord en anglais (80% de la volumétrie
+journalière), mais aussi en français, allemand, italien, russe et chinois.
+
+Vous travaillerez essentiellement avec les outils suivants : Python,
+Unitex et MySQL/ SQL.
+
+Une connaissance des techniques du TAL (Traitement Automatique des
+Langues) ou des techniques d'apprentissage et de classification (SVM,
+CRF, etc.)  est considérée comme fortement souhaitable.
+
+Ce stage se déroulera au sein d'une équipe pluridisciplinaire composée
+de statisticiens, économistes, programmeurs et ingénieurs TAListes.
+
+Durée du Stage : 4 à 6 mois à partir de février 2014. Embauche à la clé.
+Lieu du Stage : Orléans (45)
+
+Rémunération : 1200 Eur net min.
+
+Contactez-moi sur LinkedIn : Nicolas Boitout.
+
+
+
+
+
+

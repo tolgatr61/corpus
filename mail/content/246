@@ -1,0 +1,95 @@
+Bonjour,
+
+Vous trouverez ci après et ci-joint un sujet de stage de M2 disponible 
+en collaboration entre le LITIS et le LMI (Rouen).
+*
+Titre*: Classification optimisée et interactive pour l'analyse de dialogues
+
+*Encadrement* : Arnaud Knippel et Alexandre Pauchet
+
+*Laboratoires d’accueil* : LMI et LITIS, INSA de Rouen, France
+
+
+      Profil du candidat : Étudiant en M2 Recherche informatique
+
+  *
+
+    Recherche opérationnelle
+
+  *
+
+    Apprentissage, fouille de donnée
+
+  *
+
+    Compétences solides en programmation
+
+  *
+
+    Des compétences en Interactions Homme-Machine seraient un plus
+
+*Candidature**à envoyer à *: _arnaud.knippel@insa-rouen.fr 
+<mailto:mukesh.barange@insa-rouen.fr>_, _alexandre.pauchet@insa-rouen.f_r
+
+  *
+
+    Curriculum Vitae
+
+  *
+
+    Lettre de motivation
+
+  *
+
+    Relevés de notes des années précédentes
+
+*Stage : *Indemnisé *Durée* : 4 – 6 mois
+
+
+      Contexte
+
+Le logiciel VIESA (http://sourceforge.net/projects/viesa/) a été 
+développé par Zacharie Ales lors de son contrat doctoral dans le cadre 
+du projet PRIMO de l'INSA de Rouen et d'une collaboration entre les 
+laboratoires LITIS et LMI, pour l'analyse de dialogues modélisés sous la 
+forme d'annotations 2D. C'est un logiciel d'aide à la décision qui 
+s'appuie sur une méthodologie en deux étapes. Des motifs sont tout 
+d'abord extraits d'un corpus d'annotations 2D (phase d'extraction), puis 
+sont regroupés en classes de motifs (phase de classification). Cette 
+seconde étape est modélisée comme un problème de partitionnement formulé 
+comme un programme linéaire en variables 0-1 et résolu de façon exacte 
+ou approchée. L'utilisateur peut explorer le résultat obtenu de façon 
+graphique. Cette fonctionnalité graphique a permis de faire évaluer les 
+résultats obtenus par un utilisateur (Emilie Chanoni, MCF en 
+Psychologie). Une perspective de ces travaux est de faire évoluer le 
+logiciel pour permettre une interaction accrue avec l'utilisateur.
+
+
+      Sujet de stage
+
+L'objectif de ce stage est de développer les possibilités d'interaction 
+entre l'utilisateur et le logiciel, en jouant sur la modélisation du 
+problème de classification et le choix des paramètres. L'utilisateur, au 
+vu d'une solution proposée par VIESA, pourra imposer des contraintes sur 
+les classes obtenues (par exemple imposer de regrouper deux motifs dans 
+une même classe, ou au contraire imposer que deux motifs soient dans des 
+classes différentes), et une ré-optimisation pourra alors se faire. Il 
+est ainsi nécessaire d'étudier comment modifier la modélisation du 
+problème d'optimisation sous-jacent suivant le type de demande de 
+l'utilisateur. Suivant le type d'interaction et la difficulté 
+mathématique du problème, il sera possible de relancer une procédure 
+d'optimisation avec les nouveaux paramètres ou bien de modifier 
+heuristiquement la solution proposée pour se conformer à la demande de 
+l'utilisateur.
+
+
+
+-- 
+Alexandre Pauchet
+Associate Professor
+INSA Rouen - ASI Department
+LITIS Lab
+Phone: +33(0)2 32 95 98 58
+Web:http://asi.insa-rouen.fr/enseignants/~apauchet/
+
+

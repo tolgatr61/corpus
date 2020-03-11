@@ -1,0 +1,91 @@
+** Appel à participation --Défi Fouille de Textes DEFT 2017 : Analyse
+d'opinion et langage figuratif dans des tweets en français
+
+** Atelier organisé dans le cadre de la conférence TALN-RECITAL 2017 à
+Orléans le 26 juin 2017 (http://taln2017.cnrs.fr/)
+
+** Site du défi : https://deft.limsi.fr/2017/
+
+
+** Contact et inscription : veronique.moriceau(@)limsi.fr
+
+
+
+Nous avons le plaisir de mettre en place la 1ère campagne d'évaluation
+autour de l'analyse d'opinion et le langage figuratif dans les tweets
+pour le français. La tâche est ouverte aux équipes de recherche
+académiques et industrielles.
+
+Le défi est divisé en trois sous-tâches de niveaux de complexité
+croissants. Les participants peuvent choisir de s'inscrire à une ou
+plusieurs sous-tâches :
+
+     Sous-tâche 1 : Classification des tweets non figuratifs selon leur
+polarité
+     Etant donné un tweet n'utilisant pas de langage figuratif, cette
+tâche consiste à le classer selon l'opinion/sentiment/émotion exprimé
+par son auteur en : objectif, positif, négatif ou mixte (si le tweet
+contient à la fois des opinions positives et des opinions négatives).
+
+     Sous-⁠⁠tâche 2 : Identification du langage figuratif
+     Etant donné un tweet, cette tâche consiste à identifier s'il
+contient du langage figuratif ou non. On s'intéresse ici à trois types
+de langage figuratif : l'ironie, le sarcasme et l'humour.
+
+     Sous-tâche 3 : Classification des tweets figuratifs et non
+figuratifs selon leur polarité
+     Etant donné un tweet utilisant du langage figuratif (ironie ou
+sarcasme, en excluant les tweets humoristiques) ou non, cette tâche
+consiste à le classer, selon l'opinion/sentiment/émotion exprimé par son
+auteur en : objectif, positif, négatif ou mixte (si le tweet contient à
+la fois des opinions positives et des opinions négatives).
+
+
+=== Dates importantes ===
+
+Inscription : à partir du 3 février 2017
+Clôture des inscriptions: 1er mai 2017
+Diffusion des corpus d'entraînement : 6 février 2017
+Test : 3 jours à choisir entre le 2 et le 9 mai 2017
+Soumission des résultats des systèmes : au plus tard le 9 mai 2017
+Communication des résultats : 11 mai 2017
+Soumission des articles : 19 mai 2017
+Version définitive des articles : 2 juin 2017
+Atelier : 26 juin 2017 pendant la conférence TALN/⁠⁠RECITAL à Orléans
+
+
+=== Comités ===
+
+** Comité scientifique
+
+Patrice Bellot, LSIS, Aix-⁠⁠Marseille Université
+Caroline Brun, XRCE-⁠⁠XEROX, Grenoble
+Béatrice Daille, LINA, Université de Nantes
+Guy Lapalme, RALI, Université de Montréal
+Patrick Paroubek, LIMSI-⁠⁠CNRS
+
+
+** Comité d'organisation
+
+Farah Benamara, IRIT, Université de Toulouse, France
+Cyril Grouin, LIMSI-⁠⁠CNRS, Orsay, France
+Jihen Karoui, IRIT, Université de Toulouse, France
+Véronique Moriceau, LIMSI-⁠⁠CNRS, Université Paris-⁠⁠Saclay, France
+Isabelle Robba, LIMSI-⁠⁠CNRS, Université Paris-⁠⁠Saclay, France
+
+
+
+
+
+
+-- 
+-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠-⁠
+Véronique Moriceau
+Maître de conférences -⁠ Université Paris-⁠Sud (IUT d'Orsay)
+LIMSI -⁠ CNRS
+BP 133
+91403 Orsay Cedex
+Tel : (+33) 1 69 85 80 03
+http://vero.moriceau.free.fr
+
+

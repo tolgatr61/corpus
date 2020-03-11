@@ -1,0 +1,85 @@
+Réunion du GdR ISIS
+
+Titre : Comment concilier Big Data, Identification des personnes, Traçabilité des contenus et Respect de la vie privée ?
+Dates : 2017-12-08
+Lieu : Rennes (IRISA)
+Nous vous rappelons que, afin de garantir l'accès de tous les inscrits aux salles de réunion, l'inscription aux réunions est gratuite mais obligatoire.
+
+Annonce :
+
+Comment concilier Big Data, Identification des personnes, Traçabilité des contenus et Respect de la vie privée ?
+
+Cette question est devenue cruciale aujourd'hui. Ces propriétés, pouvant au premier abord sembler antagonistes, doivent pourtant aujourd'hui être réunies pour faire face aux besoins croissants dans les domaines de l'authentification et de la biométrie, de la distribution de contenus multimédia, de la vidéo-surveillance, et de l'externalisation des données et services. L'objet de cette journée est de faire le point sur les enjeux de respect de la vie privée liés à ces domaines, et les moyens permettant d'atteindre ces différents objectifs.
+
+Cette journée, organisée le vendredi 8 décembre 2017 à Rennes dans les locaux de l'IRISA, est commune à l'action Protection multimédia du GDR ISIS (Thème D, Axe 1) et au pré-GDR Sécurité Informatique (Groupe de travail "Sécurité et données multimedia").
+
+Appel à contributions : Nous prévoyons deux ou trois exposés de type "tutoriel" ainsi que des présentations orales plus courtes, et éventuellement des posters, en fonction des soumissions que nous aurons reçues. Les personnes souhaitant présenter leurs travaux à l'occasion de cette journée sont invités envoyer leurs propositions de présentation à Caroline Fontaine si possible avant le 31 octobre 2017, mais des propositions tardives peuvent être envisagées s'il reste de la place.
+
+Organisateurs de la journée
+
+Caroline Fontaine, CNRS Lab-STICC & IMT-Atlantique, caroline.fontaine@imt-atlantique.fr
+Teddy Furon, INRIA & IRISA, teddy.furon@inria.fr
+Pour toute question relative à l'organisation de cette journée, merci de contacter Caroline Fontaine.
+
+Programme :
+
+La journée se déroulera dans les locaux de l'IRISA (http://www.irisa.fr/fr/plan-acces). Le programme est le suivant :
+
+9h30 : accueil café
+10h : introduction
+10h15 : Slava Voloshynovskiy - Digital security for physical world
+11h30 : Iuliia Tkachenko - Challenges of hybrid document integrity check 
+12h : buffet
+13h30 : Rémi Gribonval - Compressive statistical learning: a framework for large-scale and privacy-aware learning ?
+14h30 : Damien Ligier - Information leakage analysis of inner-product functional encryption based data classification
+15h : Julien Lolive - Databases: digital watermarking/fingerprinting and privacy
+15h30 : Joris Duguépéroux - Guaranteed Confidentiality and Efficiency in Crowdsourcing Platforms (Ongoing Work)
+15h50 : pause café
+16h10 : Guillaume Gautier - Design and Efficient Implementations of a Chaos-based stream cipher for Securing Internet of Things (Ongoing Work) 
+16h30 : discussion autour de l'activité de l'action "Sécurité et données mulitmédia" commune aux GDR ISIS et préGDR Sécurité
+17h30 : fin de la réunion
+
+Résumé des exposés :
+
+/* Conférences invitées - Invited talks */
+
+Titre : Digital security for physical world
+Orateur : Prof. Slava Voloshynovskiy (University of Geneva, Switzerland) 
+Résumé : This presentation focuses on brand protection technologies for physical object security against advanced counterfeiting. High quality counterfeited products are ever more prevalent, driven by cheaper and sophisticated manufacturing technology. Luxurious consumer brands have always been popular well known targets for counterfeiters, but the problem is much more widespread. This includes the production of fake or otherwise uncertified industrial and aerospace parts, medication or even ID documents/certificates. Popular countermeasures are usually proprietary technologies based on rare or expensive materials such as special inks or holograms. They are invasive and expensive, yet remain fallible. 
+In the first part of the presentation, we will present an alternative solution based on digital security that extends to the protection of physical objects in large scale applications. We will cover the entire protection chain emphasizing: (a) object recognition (targeting at establishing the group of "similar" or identical objects), object artwork authenticity verification (aiming at distinguishing originals from fakes) and object identification (individual object identification based on its unique uncloneable features).
+In the second part, we will cover the security issues of feature extraction/storage for the above problems for large-scale applications. We will link it to secure and privacy-preserving identification in more general settings, including biometrics and privacy-sensitive data.
+
+Titre : Compressive statistical learning: a framework for large-scale and privacy-aware learning ?
+Orateur : Rémi Gribonval (Univ Rennes, Inria, CNRS, IRISA). Joint work with Nicolas Keriven (Université de Rennes 1, France), Yann Traonmilin (Inria - Rennes, France) and Gilles Blanchard (Universität Potsdam, Germany).
+Résumé : The talk will outline the main features of a recent framework for large-scale learning called compressive statistical learning. Inspired by compressive sensing, the framework allows drastic volume and dimension reduction to learn from large/distributed/streamed data collections . Its principle is to compute a low-dimensional sketch (a vector of random empirical generalized moments), in essentially one pass on the training collection. 
+For certain learning problems, small sketches have been shown to capture the information relevant to the considered learning task, and empirical learning algorithms have been proposed to learn from such sketches. As a proof of concept, more than a thousands hours of speech recordings can be distilled to a sketch of only a few kilo-bytes, while capturing enough information estimate a Gaussian Mixture Model for speaker verification.
+The framework, which is endowed with statistical guarantees in terms of learning error, will be illustrated on sketched clustering, and sketched PCA, using empirical algorithms inspired by sparse recovery algorithms used in compressive sensing. Finally, we will discuss the promises of the framework in terms of privacy-aware learning.
+
+/* Autres exposés - Other talks */
+
+Titre : Challenges of hybrid document integrity check 
+Orateurs : Iuliia Tkachenko et Petra Gomez-Krämer (Université de La Rochelle)
+Résumé :
+
+Titre : Information leakage analysis of inner-product functional encryption based data classification
+Orateurs : Damien Ligier, Sergiu Carpov, Caroline Fontaine et Renaud Sirdey (CEA/LIST & CNRS+IMT-Atlantique/Lab-STICC)
+Résumé : In this work, we study the practical security of inner-product functional encryption. We left behind the mathematical security proof of the schemes, provided in the literature, and focus on what attackers can use in realistic scenarios without tricking the protocol, and how they can retrieve more than they should be able to. This study is based on the proposed protocol from [LCFS17]. We generalize the scenario to an attacker possessing n secret keys. We propose attacks based on machine learning, and experiment them over the MNIST dataset.
+
+Titre : Databases: digital watermarking/fingerprinting and privacy
+Orateur : Julien Lolive ()
+Résumé : Cette présentation consiste à discuter certaines techniques de tatouage et de protection de la vie privée dans les bases de données. Une base de données permet de stocker et d'utiliser (e.g., à des fins de statistique) de grande quantités d'informations. Ces informations peuvent être propriétaires ou sensibles (base de données de consommations d'électricité, médicales). Dans le premier cas, le propriétaire peut vouloir identifier les redistributeurs malveillants (personnes redistribuant la base de données sans le consentement du propriétaire). Dans le deuxième cas, le propriétaire peut devoir assainir la base de données avant diffusion dans le but de respecter certaines lois ou encore de garantir le respect de la vie privée des individus.
+Dans une première partie, nous discuterons de certaines techniques de tatouage de bases de données qui doivent être robuste et insérer de manière imperceptible l'information de personnalisation. La deuxième partie consistera à présenter des techniques d'assainissement permettant de protéger la vie privée des individus. Pour finir, la dernière partie de cette présentation sera dédiée à la combinaison des deux techniques précédentes.
+
+Titre : Guaranteed Confidentiality and Efficiency in Crowdsourcing Platforms (Ongoing Work)
+Orateurs : Joris Duguépéroux et Tristan Allard (Université de Rennes 1, IRISA)
+Résumé : Crowdsourcing platforms offer the unprecedented opportunity to easily connect on-demand task providers, or requesters, and on-demand task solvers, or workers, locally or world-wide, for paid or voluntary work, and for various kinds of tasks. However, abusive behaviors from these platforms are frequently reported in the news or on dedicated websites, whether performed willingly or not, putting them at the epicenter of a burning societal debate. We have recently started working on the design of sound protection measures for workers in crowdsourcing processes, tackling privacy issues at first. During this talk, we will present the problem, overview the related literature - focusing on our preliminary work, and describe our research directions, intertwining differential privacy with homomorphic encryption.
+
+Titre : Design and Efficient Implementations of a Chaos-based stream cipher for Securing Internet of Things (Ongoing Work)
+Orateurs : Guillaume Gautier, Safwan El Assad, Mohammad Abu Taha, Olivier Deforges, Adrien Facon
+Résumé : The protection of data transmitted between Internet of Things(IoT) devices which have very limited resources in terms of computing capabilities, memory capacities and energy becomes an important challenge. Designing lightweight cryptography systems becomes essential. In this work, we enhanced the security implementation in C code of a very efficient chaos-based stream cipher [1], [2]. The cryptographic analysis and the statistical study of the realized chaotic system show its robustness against known attacks. This result is due to the proposed recursive architecture which has a strong non-linearity, a technique of disturbance, and cascading technique. Then, our future works will focus on the secure hardware-implementation of the previous systems on FPGA boards with customizable trade-off between the security, cost, and performance criteria. Also, we will realize the memory assessment measurements and the energy and po wer consumption of the designed chaotic system.
+
+
+
+Lien : http://gdr-isis.fr/index.php?page=reunion&idreunion=342
+
+

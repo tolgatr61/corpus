@@ -1,0 +1,35 @@
+= = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+Plateforme numérique MultiTAL
+
+L’ERTIM de l’INALCO a le plaisir de vous informer de la mise en ligne de 
+la plateforme numérique MultiTAL : http://multital.inalco.fr
+
+MultiTAL est une une sélection critique d’outils en traitement 
+automatique des langues (TAL) focalisée sur les langues orientales et/ou 
+peu dotées. Elle permet d'identifier et d'installer facilement un outil 
+en fonction de plusieurs critères (tâche, langue, système, méthode, etc.).
+
+Pour chaque outil, une documentation multilingue standardisée, 
+indépendante des documentations auteurs et décrivant précisément son 
+installation et son exécution a été produite.
+
+Pour l’heure, 163 outils ont été testés. Parmi eux, 91 ont été retenus 
+pour publications. Ils permettent de traiter potentiellement 44 langues 
+mais nos tests ont porté sur une sélection de quelques langues (arabe, 
+chinois, hindi, japonais, russe).
+
+Une ontologie décrivant les différents outils peut également être 
+interrogée au moyen de requêtes SPARQL ou téléchargée librement (RDF/XML).
+
+La plateforme est évolutive, nous vous saurons gré des commentaires et 
+remarques que vous aurez l’amabilité de formuler !
+
+Le projet a été financé par l’USPC et est porté par l’ERTIM de l’INALCO.
+
+Référence : Sadoun, D., S. Mkhitaryan, D. Nouvel, M. Valette, The 
+MultiTal NLP tool infrastructure, /Proceedings of the Workshop on 
+Language Technology Resources and Tools for Digital Humanities (LT4DH)/, 
+156–163, Osaka, Japan, December, 11-17, 2016.
+http://www.aclweb.org/anthology/W/W16/W16-4021.pdf
+

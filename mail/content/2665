@@ -1,0 +1,40 @@
+
+Bonjour, 
+
+J'ai le plaisir de vous inviter à ma soutenance de thèse intitulée "Extraction de relations spatio-temporelles à partir des données environnementales et de la santé" qui aura lieu le vendredi 04 octobre à 9h00 au LIRMM en salle de séminaire. Elle sera suivie du traditionnel pot de thèse auquel vous êtes chaleureusement conviés.
+
+Le jury sera composé de :
+
+- Mme. Florence LE BER, ingénieur en chef PEF, HDR, Ecole Nationale du Génie de l’Eau et de l’Environnement de Strasbourg, FRANCE (Rapporteur)
+- M. Osmar ZAÏNE, professeur, University of Alberta, CANADA (Rapporteur)
+- Mme. Maguelonne TEISSEIRE, directrice de recherche, TETIS, Irstea, FRANCE (Directrice de thèse)
+- Mme. Nazha SELMAOUI-FOLCHER, maître de conference, HDR, Université de NOUVELLE CALEDONIE (Directrice de thèse)
+- Mme. Karine ZEITOUNI, professeur, Université Versailles, FRANCE (Examinatrice)
+- M. Frédéric FLOUVAT, maître de conference, Université de NOUVELLE CALEDONIE (Examinateur)
+- Mme. Sandra BRINGAY, maître de conference, Université Montpellier III, FRANCE (Examinatrice)
+- M. Jérôme AZÉ, professeur, Université Montpellier 2, FRANCE (Examinateur)
+
+Résume :
+
+Face à l'explosion des nouvelles technologies (mobiles, capteurs, etc.), de grandes quantités de données localisées dans l'espace et dans le temps sont désormais disponibles. Les bases de données associées peuvent être qualifiées de bases de données spatio-temporelles car chaque donnée est décrite par une information spatiale (e.g. une ville, un quartier, une rivière, etc.) et temporelle (p. ex. la date d'un événement). Cette masse de données souvent hétérogènes et complexes génère ainsi de nouveaux besoins auxquels les méthodes d'extraction de connaissances doivent pouvoir répondre  (e.g. suivre des phénomènes dans le temps et l'espace).
+De nombreux phénomènes avec des dynamiques complexes sont ainsi associés à des données spatio-temporelles. Par exemple, la dynamique d'une maladie infectieuse peut être décrite par les interactions entre les humains et le vecteur de transmission associé ainsi que par certains mécanismes spatio-temporels qui participent à son évolution. La modification de l'un des composants de ce système peut déclencher des variations dans les interactions entre les composants et finalement, faire évoluer le comportement global du système.
+Pour faire face à ces nouveaux enjeux, de nouveaux processus et méthodes doivent être développés afin d'exploiter au mieux l'ensemble des données disponibles. Tel est l'objectif de la fouille de données spatio-temporelles qui correspond à l'ensemble de techniques et méthodes qui permettent d'obtenir des connaissances utiles à partir de gros volumes de données spatio-temporelles. Cette thèse s'inscrit dans le cadre général de la fouille de données spatio-temporelles et l'extraction de motifs séquentiels.  Plus précisément, deux méthodes génériques d'extraction de motifs sont proposées. La première permet d'extraire des motifs séquentiels incluant des caractéristiques spatiales. Dans la deuxième, nous proposons un nouveau type de motifs appelé "motifs spatio-séquentiels". Ce type de motifs permet d'étudier l'évolution d'un ensemble d'événements décrivant une zone et son entourage proche. 
+Ces deux approches ont été testées sur deux jeux de données associées à des phénomènes spatio-temporels : la pollution des rivières en France et le suivi épidémiologique de la dengue en Nouvelle Calédonie. Par ailleurs, deux mesures de qualité ainsi qu'un prototype de visualisation de motifs sont été également proposés pour accompagner les experts dans la sélection des motifs d'intérêts.
+
+Abstract :
+
+Thanks to the new technologies (smartphones, sensors, etc.), large amounts of spatiotemporal data are now available. The associated database can be called spatiotemporal databases because each row is described by a spatial information (e.g. a city, a neighborhood, a river, etc.) and temporal information (e.g. the date of an event). This huge data is often complex and heterogeneous and generates new needs in knowledge extraction methods to deal with these constraints (e.g. follow phenomena in time and space).
+Many phenomena with complex dynamics are thus associated with spatiotemporal data. For instance, the dynamics of an infectious disease can be described as the interactions between humans and the transmission vector as well as some spatiotemporal mechanisms involved in its development. The modification of one of these components can trigger changes in the interactions between the components and finally develop the overall system behavior.
+To deal with these new challenges, new processes and methods must be developed to manage all available data. In this context, the spatiotemporal data mining is define as a set of techniques and methods used to obtain useful information from large volumes of spatiotemporal data. This thesis follows the general framework of spatiotemporal data mining and sequential pattern mining. More specifically, two generic methods of pattern mining are proposed. The first one allows us to extract sequential patterns including spatial characteristics of data. In the second one, we propose a new type of patterns called spatio-sequential patterns. This kind of patterns is used to study the evolution of a set of events describing an area and its near environment.
+Both approaches were tested on real datasets associated to two spatiotemporal phenomena: the pollution of rivers in France and the epidemiological monitoring of dengue in New Caledonia. In addition, two measures of quality and a patterns visualization prototype are also available to assist the experts in the selection of interesting patters.
+
+--
+Hugo Alatrista-Salas
+Irstea - TETIS
+Maison de la télédétection
+500 rue J.F. Breton 34093, Montpellier Cedex 5
+Tel: +33(0)4 67 54 87 54
+France
+
+
+

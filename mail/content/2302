@@ -1,0 +1,46 @@
+Bonjour,
+
+Merci de bien vouloir diffuser à vos étudiants l'offre deux stages M2 ci-dessous.
+Toutes nos excuses en cas de réceptions multiples.
+
+---
+
+Deux stages M2 en Ingénierie des Connaissances et Traitement Automatique des Langues sont proposés par l’équipe COPAIN de l’IRSTEA (http://www.irstea.fr/la-recherche/unites-de-recherche/tscf/systemes-information-communicants-agri-environnementaux) et l’équipe RCLN du LIPN (https://lipn.univ-paris13.fr/fr/rcln-3). Ils se dérouleront au choix soit à l’IRSTEA à Clermont Ferrand, soit au LIPN à Villetaneuse (banlieue de Paris).
+
+Au moins une thèse financée démarrera en septembre 2017 sur ces sujets. 
+
+Les stages doivent durer 6 mois au maximum. Ils seront conventionnés et indemnisés suivant les règles en vigueur. Les stages commenceront entre février et avril 2017, la sélection se fera courant janvier.
+
+Pour postuler sur un des stages, merci d’envoyer un CV, un relevé de notes récent et des éléments de motivation à Catherine Roussey ET Haïfa Zargayouna.
+
+Contacts : catherine.roussey@irstea.fr <mailto:catherine.roussey@irstea.fr> et haifa.zargayouna@lipn.univ-paris13.fr <mailto:haifa.zargayouna@lipn.univ-paris13.fr>
+
+
+Contexte des stages: En France, le Grenelle de l’environnement et le plan Ecophyto ont renforcé les réseaux nationaux de surveillance sur les cultures et les pratiques agricoles. Les Bulletins de Santé du Végétal sont une des modalités mises en place par ces réseaux de surveillance. Le Bulletin de Santé du Végétal (BSV) est un document d’information à la fois technique et réglementaire, qui présente une synthèse interprétée des observations effectuées sur les cultures. Les informations contenues dans les BSV intéressent les experts en agronomie pour suivre l’évolution de l’état sanitaire des cultures en France. Dans le projet VESPA (2012-2016), l’équipe COPAIN a travaillé sur la  collecte du corpus des BSV disséminé sur le Web, puis leur annotation semi automatique pour permettre de rechercher facilement des BSV répondant à certains critères (culture, lieu, période, etc.). Le corpus, un thésaurus des cultures, un jeux de données représentant les régions de France et des annotations spatio-temporelles ont déjà été publiés sur le Web des données liées (http://ontology.irstea.fr/).
+
+Sujet 1 : Annotation sémantique de BSV
+
+Le but de ce stage est d’enrichir la base d’annotations existante en s’aidant d’outils d’annotations automatiques (ou semi-automatiques) travaillant sur le contenu des BSV. Il s’agit, dans un premier temps, de déterminer les différents types d’annotations nécessaires, puis de les classer, par exemple, selon le nombre d’arguments (unaire, binaire, ternaire), la portée (locale, globale) et la difficulté (en fonction du traitement/raisonnement requis). En fonction de cette première analyse, des traitements sur le corpus seront à implémenter afin d’identifier les structures utiles pour la génération des annotations.
+
+Dans un deuxième temps, il faudra tester des outils de l’état de l’art (tel que l’outil OMTAT développé au LIPN http://tal.lipn.univ-paris13.fr/omtat/). Ces tests ont un double objectif : d’une part, repérer les types d’annotations traités par ces outils et d’autre part évaluer la couverture des référentiels dont nous disposons. 
+La phase de test sera suivie par une phase d’enrichissement semi-automatique des annotations. 
+
+
+Sujet 2 : Alignement de référentiels agricoles fondé sur les textes
+
+Le but du stage est de développer des bases de connaissances intégrant des référentiels déjà disponibles sur le LOD. 
+Il s’agit, dans un premier temps, d’extraire des relations de correspondance (autres que l’équivalence) entre les référentiels sémantiques existants (thésaurus des cultures, plant trait ontology, ..) au regard du corpus BSV. 
+
+Ce travail s’appuiera sur les méthodes et outils développés au LIPN et plus particulièrement la méthode d’alignement d’ontologies à partir de textes (TOM : Text-based Ontology Mapping) proposée dans le cadre de la thèse de Sarra Ben Abbes [Ben Abbes, 2013].  
+
+Dans un deuxième temps, il s’agit de  s’appuyer sur les correspondances produites pour proposer des transformations de sources en s’aidant de patrons de conception ontologique du domaine (thèse de Fabien Amarger [Amarger, 2015]) ainsi que des anti-patrons destinés à détecter les erreurs et anomalies dans les ressources.
+
+--
+Haïfa Zargayouna
+Maître de Conférences
+IUT Villetaneuse
+LIPN UMR 7030 CNRS      Tel  (33)0149402832
+Université Paris 13     Fax  (33)0148260712
+99 av JB Clément        Email haifa.zargayouna@lipn.univ-paris13.fr
+93430 Villetaneuse      http://www-lipn.univ-paris13.fr/~zargayouna/ <http://www-lipn.univ-paris13.fr/~zargayouna/>
+

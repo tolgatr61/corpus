@@ -1,0 +1,55 @@
+Bonjour à tous,
+
+J’ai le plaisir de vous inviter à la soutenance de mon HDR intitulée "Des méta-modèles pour guider l’élicitation des connaissances en EIAH : contributions à l’enseignement de méthodes et à la personnalisation des activités.”
+La soutenance aura lieu le mardi 9 décembre 2014 à 10h30, en salle C5 du bâtiment Nautibus, sur le campus de la Doua.
+
+Le jury sera composé de :
+Madame Nathalie AUSSENAC-GILLES, Directrice de Recherche – CNRS ; Institut de Recherche en Informatique de Toulouse
+Monsieur Serge GARLATTI (rapporteur), Professeur des Universités ; Telecom Bretagne
+Madame Monique GRANDBASTIEN (rapporteur), Professeur Emérite ; Université de Lorraine
+Monsieur Alain MILLE, Professeur des Universités ; Université Claude Bernard Lyon 1
+Monsieur Roger NKAMBOU (rapporteur), Professeur ; Université du Québec à Montréal, Canada
+Monsieur Thierry NODENOT, Professeur des Universités ; Université de Pau et des Pays de l’Adour
+
+Vous êtes également chaleureusement conviés au pot qui aura lieu vers 16h en salle C5.
+
+Cordialement,
+
+Nathalie Guin
+
+
+**********************
+
+Accès au bâtiment Nautibus : http://fst-informatique.univ-lyon1.fr/departement/acces-et-plans/acces-au-departement-informatique-662194.kjsp
+
+Mots-clés : EIAH, ingénierie des connaissances, enseignement de méthodes de résolution de problèmes, personnalisation des EIAH, analyse des traces, modélisation de l'apprenant, génération d'exercices, acquisition des connaissances, modèles, méta-modèles
+
+Résumé :
+Les travaux présentés dans ce mémoire d'habilitation à diriger des recherches portent sur l’élicitation des connaissances dans le cadre de l’ingénierie des EIAH (Environnements Informatiques pour l’Apprentissage Humain). Deux thématiques de recherche ont été explorées : l’enseignement de méthodes de résolution de problèmes et la personnalisation des EIAH. Les contributions à l’élicitation des connaissances dans ces deux thématiques sont des modèles et outils permettant à un utilisateur humain de définir les connaissances nécessaires au système pour proposer à l’apprenant un contenu pédagogique personnalisé, que ce soit un exercice, une rétroaction ou une recommandation.
+L’approche choisie pour répondre à la problématique de l’élicitation des connaissances est de proposer, pour chacune des questions de recherche abordées, un méta-modèle des connaissances à acquérir, indépendant du domaine d’apprentissage. Ce méta-modèle permet de guider l’utilisateur humain (concepteur, expert, auteur, enseignant) dans la définition d’un modèle de connaissances, qui sera lui dépendant du domaine. Le méta-modèle proposé permet également de définir un moteur de raisonnement associé, capable d’exploiter tout modèle de connaissances conforme au méta-modèle. Ce moteur de raisonnement exploite le modèle de connaissances défini par l’utilisateur, afin d’accomplir les tâches nécessaires à l’accompagnement par l’EIAH d’une activité d’apprentissage.
+En ce qui concerne l’enseignement de méthodes, les architectures proposées, rassemblant méta-modèles et moteurs de raisonnement, permettent de définir, dans un domaine donné, une méthode de résolution de problèmes et les connaissances destinées à accompagner l’élève dans son apprentissage de la méthode. Dans un domaine donné, une méthode de résolution de problèmes est constituée par un ensemble de classes de problème et d’outils de résolution associés à ces classes. Nous avons proposé le cycle AMBRE, mis en œuvre dans plusieurs EIAH, et qui incite l’apprenant à résoudre des problèmes par analogie afin d’acquérir les classes de problèmes de la méthode.
+Pour ce qui est de la personnalisation des EIAH, l’objectif de ces recherches est d’adapter à chaque apprenant les activités qui lui sont proposées au sein d’un EIAH. Nous avons proposé des méta-modèles et des outils fondés sur ces méta-modèles, outils destinés à un utilisateur ne possédant pas forcément de compétences poussées en informatique, comme un enseignant ou un auteur de MOOC. Ces outils lui permettent de mettre en place un processus de personnalisation complet, en définissant d’une part comment élaborer des profils d’apprenant à partir des traces de l’activité des apprenants avec l’EIAH, dans le but d’identifier les besoins de chacun, en définissant d’autre part des modèles d’exercices permettant la génération d’activités répondant à des besoins spécifiques, et en précisant enfin selon quelle stratégie affecter des exercices adaptés au profil de chaque apprenant.
+
+
+
+___________________________
+Nathalie Guin
+
+LIRIS
+Université Claude Bernard - Lyon 1
+Bâtiment Nautibus
+2ème étage bureau 229
+23-25 Avenue Pierre de Coubertin
+Domaine scientifique de la Doua
+69622 Villeurbanne Cedex
+
+tél : (33) 4 26 23 45 17
+fax : (33) 4 72 43 15 36
+mél : Nathalie.Guin@liris.univ-lyon1.fr
+url : http://liris.cnrs.fr/nathalie.guin
+
+
+
+
+
+

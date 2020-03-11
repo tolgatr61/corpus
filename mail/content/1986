@@ -1,0 +1,57 @@
+
+========================================================================
+
+Offre POST DOC Repérage « signes négatifs » dans des dossiers patients
+en psychiatrie
+   - CH Ste Anne / INSERM / Roche, Paris
+
+=========================================================================
+
+*Mots clés *: machine learning, SVM, GATE, linguistique, psychiatrie
+
+*Contexte* : Dans le cadre d'une collaboration entre le Centre
+Hospitalier Sainte-Anne, le Laboratoire Inserm Informatique Médicale et
+Ingénierie des Connaissances en Santé (UMR_S 1142 - LIMICS), et les
+Laboratoires Roche, nous recherchons un postdoctorant dans les domaines
+du machine learning et des statistiques dans le but de participer à une
+étude de repérage et de quantification des signes négatifs (i.e.
+l'absence d'un signe clinique qui a une signification) dans les dossiers
+patients informatisés.
+
+*Mission* : Coordination des activités du projet liées (1) aux
+traitements linguistiques des corpus de textes, (2) à la mise en œuvre
+d'algorithmes d'apprentissage et des études statistiques. Les
+   traitements linguistiques d'anonymisation des dossiers patients
+informatisés seront pris en charges par d'autres membres du projet.
+L'apprentissage et les statistiques seront faits par le postdoctorant.
+Le projet doit proposer une architecture informatique suffisamment
+distribuée pour être à même de fédérer les traitements linguistiques de
+plusieurs sources de dossiers (possibilité de travailler avec des
+dossiers en provenance d'autres établissements hospitaliers).
+L'architecture devra être suffisamment générique pour être réutilisée
+dans d'autres contextes psychiatriques.
+
+Danscecontexte, le verrou scientifique est clairement dans l'intégration
+performante des différents modules développés dans le cadre du projet.
+Il faudra, bien évidemment, s'aider par des travaux déjà existants dans
+la littérature, mais également proposer de nouvelles approches. Les
+travaux devront faire l'objet de publications.
+
+*Profil* : Docteur en informatique avec une spécialisation en
+text-mining, apprentissage ou statistiques ; bonnes connaissance en
+linguistiques et dans les outils d'intégrations de modules de traitement
+comme GATE bienvenues.
+
+*Lieu* : CHSA-SHU, rue Cabanis - 75014 PARIS
+
+*Durée* : 12 mois
+
+*Date d'embouche* : 03 ou 04/2014
+
+*Contact* : xavier.aime@inserm.fr
+
+
+------------------------------------------------------------------------
+
+
+

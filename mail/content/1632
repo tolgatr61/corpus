@@ -1,0 +1,61 @@
+Bonjour,
+
+Le laboratoire LITIS (Laboratoire du Traitement de l'Information et des 
+Systèmes) de Rouen recherche un candidat pour la rentrée 2015 pour une 
+thèse intitulée : "*Interactions dialogiques multi-modales*".
+
+Cette thèse est prévue d'être accompagnée par un financement de type 
+bourse MESR, dont la décision d'attribution sera prise en Juin 2015, 
+pour un démarrage en Septembre 2015.
+
+*Profil recherché* :
+Le candidat devra être titulaire d'un diplôme de M2 ou ingénieur en 
+informatique ou équivalent. De bonnes connaissances, voire des 
+expériences de développement, dans les domaines de l'apprentissage ou de 
+la fouille de données, des agents autonomes, de la réalité virtuelle et 
+de l'intelligence artificielle sont souhaitables.
+
+La date limite de candidature est fixée au *3 Mai**2015*, les documents 
+à fournir par e-mail sont les suivants :
+
+- lettre de candidature/motivation,
+- CV,
+- relevés de notes (M1 et M2, avec le rang et effectif de la promotion)
+- lettre(s) de recommandation.
+
+*Contacts* :
+Alexandre Pauchet : alexandre.pauchet@insa-rouen.fr
+Stéphane Canu : stephane.canu@insa-rouen.fr
+
+*Description du sujet de thèse* :
+La modélisation des interactions dialogiques multimodales et affectives 
+est un problème bien connu en interaction homme-machine et dont les 
+applications sont nombreuses et pluridisciplinaires : informatique, 
+psychologie, sciences humaines et sociales, biologie et santé, etc. Bien 
+que les outils utilisés diffèrent selon le domaine, cette modélisation 
+s'appuie le plus souvent sur un corpus de dialogues multimodaux annotés, 
+dont l'analyse vise à repérer un ensemble de comportements récurrents 
+significatifs, afin de les expliquer (i.e. fournir un modèle).
+Dans le cas d'usage qui nous intéressent, un corpus de dialogues est 
+formé d'informations brutes issues de signaux audio ou vidéo et notre 
+objectif est donc de transformer ces données en un modèle d'interaction. 
+L'angle d'attaque que nous envisageons est celui de la recherche de 
+régularités dans les séquences audio et vidéo. Cette problématique 
+consiste donc à faire émerger, à partir d'un ensemble de séquences, des 
+motifs ou des sous-séquences qui soient récurrents dans les dialogues. 
+  D'un point de vue méthodologique, nous prévoyons d'étendre les 
+techniques de type apprentissage de dictionnaires à cette problématique, 
+avec pour objectif d'identifier les  motifs récurrents comme étant les 
+éléments du dictionnaire qui seront les plus fréquemment utilisés lors 
+de la reconstruction des dialogues.
+Le modèle de dialogues ainsi développé, pourra être exploiter de 
+différentes manières en fonction du domaine d'applications. Par exemple, 
+si le modèle est destiné à un personnage virtuel affectif, il intégrera 
+des composantes multimodales et émotionnelles utilisées à la fois pour 
+reconnaître les intentions dialogiques de l'utilisateur et pour gérer le 
+comportement langagier et non verbal du personnage virtuel.
+L'objectif de cette thèse est donc de construire un modèle d'interaction 
+dialogiques à partir de outils méthodologiques issues des sciences des 
+données et notamment des méthodes d'analyses de séquences et de motifs.
+
+

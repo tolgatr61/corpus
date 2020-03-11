@@ -1,0 +1,65 @@
+Bonjour,
+
+Le colloquium LIP6 présenté par Léon Bottou est reporté au 6 mars à 18h.
+
+L'amphi sera indiqué dans les prochains jours (voir site webhttps://www.lip6.fr/colloquium/).
+
+À bientôt !
+
+Laure Soulier
+
+
+Le 31/01/2018 à 11:51, Laure SOULIER a écrit :
+>
+>
+> Bonjour à tous,
+>
+>
+> C'est avec plaisir que nous vous convions à assister au prochain exposé organisé dans le cadre du Colloquium d'informatique de Sorbonne Université [http://www.lip6.fr/colloquium/] intitulé
+>
+>        Une approche géométrique de l’apprentissage non supervisé
+>
+> et présenté par Léon Bottou, Facebook.
+> L'exposé sera présenté en français et les supports seront en anglais.
+>
+> Ce colloquium s'adresse à un public large, et est ouvert à tous les chercheurs et étudiants en informatique.
+>
+> L'exposé aura lieu
+>      *Mardi 20 février 2018*
+>      Amphithéâtre *25*
+>      Sorbonne Université
+>      4, place Jussieu (métro Jussieu)
+>      75005 Paris
+>
+> Pour s'y rendre :
+> http://www.upmc.fr/fr/universite/campus_et_sites/a_paris_et_en_idf/jussieu.html  
+>
+>
+> Un cocktail est prévu à 17h15 en prélude à la conférence.
+>
+> ===== Résumé :
+> Les avancées récentes de l’intelligence artificielle reposent sur l’apprentissage supervisé. Dans le cas le plus simple, chaque exemple d’apprentissage est étiqueté avec la réponse que la machine doit imiter. C’est ainsi que l’on construit les systèmes modernes de reconnaissance d’objets dans des images, de reconnaissance de la parole, ou de traduction automatique. Dans le cas de l’apprentissage par renforcement, la supervision consiste en une récompense qui sanctionne une séquence d’actions. Par exemple, on peut apprendre à jouer au jacquet ou aux échecs en organisant un tournoi et en récompensant les victoires. Malgré ces succès, il faut bien reconnaître que nos algorithmes utilisent des quantités d’exemples inhumaines : plus d’image qu’un humain ne peut voir en une vie entière, plus de textes traduits qu’un humain ne peut lire dans une vie entière, et plus de parties d’échecs de haut niveau que l’humanité tout entière.
+> La clé consiste donc à comprendre l’apprentissage non supervisé. Si tout le monde s’accorde pour dire que cela consiste à utiliser des exemples d’apprentissages non étiquetés, il n’y a guère de consensus sur ce qu’une telle machine doit réaliser. Du point de vue statistique, on ne peut rien faire de plus qu’estimer la distribution de probabilité qui régit les exemples. Mais en pratique, ce que l’on recherche est souvent l’identification des mécanisme causaux qui génèrent les exemples. En particulier nous voulons former des intuitions valides au sujet de ce qui se passerait en réponse à des actions qui ne sont pas bien illustrées par les exemples d’apprentissage. Comment approcher cet objectif en apparence impossible ?
+> Le premier pas est de montrer que la distribution de probabilité peut suggérer des relations causales. On sait bien que l’observation de corrélations n’est pas un bon indice de causalité. Il se trouve en fait que des caractéristiques plus subtiles des distributions jointes donnent des indices plus fiables. Nous montrerons cela par des exemples simples et par une étude empirique de plus grande taille qui confirme l’existence de tels indices. Le second pas est de comprendre comment reconnaître ces caractéristiques subtiles et les associer avec des modèles causaux simples. Il nous faut donc comparer la distribution observée des données avec la distribution associée à ces modèles simples. Comme ces dernières ne peuvent généralement pas être représentées par une fonction de densité, nous devons utiliser des modèles dits implicites, et des mesures de distances qui diffèrent de celles généralement utilisées pour l’estimation de densité. L’une des possibilités est la distance de Wasserstein qui donne des résultats pratiques prometteurs malgré des propriétés statistiques qui semblent désespérées en théorie. Nous proposons d’étudier plus précisément la géométrie que ces distances induisent sur l’espaces des mesures de probabilité, et nous montrons que la distance de Wasserstein donne des garanties utiles pour la convergence globale des algorithmes d’apprentissage. Cela ne prouve certainement pas que c’est la meilleure approche, mais nous espérons que cela nous aidera à trouver comment finir ce second pas et commencer le suivant.
+>
+>
+> ===== Biographie :
+> Léon Bottou reçut son Diplôme d’Ingénieur de l’École Polytechnique (X84) en 1987, un Magistère de Mathématiques Fondamentales et Appliquées et d’Informatique de l’École Normale Supérieure in 1988, et un doctorat en informatique à l’Université de Paris-Sud en 1991. Son itinéraire professionnel est passé par AT&T Bell Labs, AT&T Labs, NEC Lab et Microsoft Research. Il a rejoint Facebook AI Research en 2015. Son objectif à long terme est de comprendre ce qu’est l’intelligence et comment on peut la reproduire. Bien que cet objectif demande des avancées conceptuelles que l’on ne peut pas encore anticiper, il est certainement nécessaire de comprendre comment on apprend et comment on raisonne. Ses contributions les plus connues sont son travail sur les réseaux profonds dans les années 1990, son travail sur l’apprentissage à grande échelle et les algorithmes stochastiques dans les années 2000, et, peut-être, ses travaux plus récents sur l’inférence causale en apprentissage automatique. Léon est aussi l’auteur principal du système de compression de documents DjVu.
+>
+> -- 
+> Laure Soulier
+> Maître de Conférences
+> LIP6 - Université Pierre et Marie Curie
+> 4 place Jussieu, 75252 Paris, France
+> Couloir 26-00 - Bureau 515
+> tel: (+ 33) 1 44 27 74 91
+
+-- 
+Laure Soulier
+Maître de Conférences
+LIP6 - Université Pierre et Marie Curie
+4 place Jussieu, 75252 Paris, France
+Couloir 26-00 - Bureau 515
+tel: (+ 33) 1 44 27 74 91
+
+

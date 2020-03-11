@@ -1,0 +1,95 @@
+Sujet de thèse en contrat CIFRE
+"Reconnaissance faciale à large échelle dans des collections d'émissions de télévision"
+
+Encadrement
+ - Entreprise : Institut national de l'audiovisuel (Ina), Bry-sur-Marne
+    - Pierre Letessier (Ingénieur R&D au Dpt. Recherche et Innovation Numérique)
+ - Laboratoire : Laboratoire d'InfoRmatique en Image et Systèmes d'information (LIRIS), équipe Imagine, INSA Lyon
+    - Christophe Garcia (Professeur des Universités, directeur adjoint du LIRIS)
+    - Stefan Duffner (Maître de Conférences, professeur associé)
+
+Contexte
+L'INA conserve près de 15 millions d'heures de documents télé et radio auxquelles viennent tous les ans s'ajouter 1 million supplémentaire, soit 123 chaînes 24h/24. Environ 200 personnes travaillent chaque jour à l'annotation et l'analyse de ces documents, complétant une base de données de plus de 35 millions de notices documentaires, et permettant ainsi l'accès des différents publics de l'Ina à cette gigantesque collection, grâce aux différents portails que sont inamediapro.com (1,4 millions d'heures de programmes commercialisés auprès de 7 000 professionnels accrédités), ina.fr (45 000 heures consultées par 32 millions de visiteurs uniques), ou encore les centres de consultation Ina THEQUE (25 500 chercheurs accrédités pouvant consulter l'intégralité des 12 millions d'heures conservées au titre du dépôt légal).
+Le Département Recherche et Innovation Numérique s'attache à imaginer et réaliser des prototypes d'applications permettant d'accompagner les tâches d'analyse documentaire afin de soulager l'effort humain et de le compléter en lui apportant de la connaissance, et plus généralement d'inventer de nouveaux modes d'accès pour les clients, usagers et partenaires de l'Institut. Les thématiques de recherche couvrent ainsi entre autres la segmentation audio/vidéo, la reconnaissance de locuteurs (voir speechtrax.ina.fr), d'objets visuels tels que des peintures, logos, monuments (voir diginpix.ina.fr), la détection de copies, l'analyse textuelle des notices documentaires et leur mise en perspective avec le Linked Open Data.
+Parmi les demandes les plus fréquentes des publics de l'INA figurent celles liées à la recherche de personnes physiques (personnalités célèbres ou parfois beaucoup moins connues). La nécessité des algorithmes de recherche et classification de visages ou de locuteurs s'impose donc comme une évidence.
+De son côté, le LIRIS a une solide expérience dans les domaines de la détection de visages, de son suivi et de la reconnaissance, avec un excellent recul sur les technologies de Machine Learning adaptées à ces tâches, ce qui en fait naturellement un partenaire de choix pour l'INA.
+
+Objectifs industriels
+Dans ce contexte, l'Ina souhaite poursuivre ses travaux sur la reconnaissance faciale en collaboration avec le LIRIS, par l'encadrement mutuel d'une thèse en contrat CIFRE.
+L'objectif général de ces travaux est de doter l'Ina d'une solution de reconnaissance faciale intégrable dans les outils métiers et les plateformes. Cette solution devra être en mesure de fournir des résultats de classification (identification) de visage, ainsi que de recherche de visages par similarité visuelle. La solution devra également fonctionner aux échelles de l'Ina, c'est-à-dire effectuer ces recherches/identifications parmi une base de données d'environ  100 000 personnes physiques.
+Les performances des algorithmes de machine learning dépendant énormément de la qualité, et de la quantité des données d'apprentissages, l'objectif sous-jacent sera donc de constituer semi-automatiquement une très large collection de visages représentant les personnalités à identifier. Cet objectif s'appuiera sur un projet connexe (Ogmios) actuellement en développement à l'Ina, consistant à donner accès à toute la connaissance collectable (textuelle, sonore et visuelle) et nécessaire aux algorithmes utiles à l'Ina. Cette connaissance sera collectée à partir du Linked Open Data (Wikidata, Wikimedia, etc.), de datasets scientifiques comme MS-CELEB-1M, ainsi que des données issues du traitement des vidéos Ina. Le projet Ogmios fournira ainsi les bases de données, les API d'accès, et une IHM. Cette interface  permettra la visualisation et l'édition , avec en particulier la validation manuelle de résultats de traitement automatique. Le système [Il faudrait en dire un peu plus avant sur le système en question ?]de reconnaissance faciale développé sera notifié des annotations effectuées par les utilisateurs de l'application Ogmios, afin de réaliser un système pleinement interactif. Ces développements seront encadrés, et développés en étroite collaboration avec l'encadrant industriel.
+
+Objectifs académiques et  problématiques scientifiques
+Les objectifs industriels exposés sont accompagnés de plusieurs verrous scientifiques à traiter après étude approfondie de l'état de l'art.
+Dans le domaine de l'analyse des données visuelles, la reconnaissance faciale est un processus qui permet l'identification et la vérification d'un individu à partir des traits du visage. L'identification d'un côté se préoccupe de donner l'identité de l'individu en se basant sur une image de son visage. La vérification quant à elle a pour objectif de valider (en acceptant ou en rejetant) une identité prétendue par un individu. La recherche scientifique dans le domaine de la reconnaissance faciale a été très active depuis plusieurs décennies. Le pipeline typique d'un système de reconnaissance faciale se présente comme suit: étant donnée une image, la première étape consiste à détecter et isoler le ou les visages. Chaque image de visage est ensuite prétraitée et réduite à un vecteur de représentation de plus petite dimension, ce qu'on appelle l' « embedding ».  Ce vecteur est ensuite utilisé par un classifieur de manière optimisée. La difficulté dans la conception de ces systèmes est de trouver un embedding qui soit robuste à plusieurs variations qui peuvent affecter le visage (l'expression faciale, l'âge, la luminosité, etc.)
+Les approches traditionnelles pour obtenir la représentation visuelle se basent sur le calcul de vecteurs de features à partir des caractéristiques faciales de bas niveau (ratios de distances, angles, surfaces, LBP [10]) et des représentations statistiques (Eigenfaces, Fisherfaces [11]). Toutefois, ces dernières années avec le développement du deep learning, l'apprentissage des représentations visuelles directement à partir des pixels a revu le jour, notamment avec l'utilisation des réseaux de neurones à convolutions.
+La grande majorité des travaux scientifiques en reconnaissance faciale sont évalués sur la base LFW  (Labeled Faces in the Wild) [3]. Depuis plusieurs années, certains des meilleurs acteurs du domaine ont atteint les limites de ce benchmark en obtenant des performances supérieures à 97%, voire 99%. C'est le cas par exemple de Facebook avec son système DeepFace [6] entrainé sur 4 millions de visages appartenant à plus de 4 000 personnes, ou encore de Google avec FaceNet [1] qui lui est entraîné avec plus de 100 millions de visages correspondant à 8 millions de personnes. FaceNet parvient en outre à représenter ses visages avec 128 octets par visages. On voit ainsi que ces systèmes sont largement suffisants pour résoudre les tâches du benchmark LFW. De plus, on a récemment vu apparaître des implémentations open-sources comme OpenFace [2] (basé sur FaceNet), ou encore DLib [4]  (qui est un réseau de type ResNet à 27 couches, similaire à celui de [7]).
+Très récemment, Facebook a également publié le code source de la librairie FAISS [5] qui effectue des recherches de vecteurs par similarité sur GPU. Cette librairie vient compléter la liste des solutions comme FLANN [8] ou APMP-LSH [9], qui rendent possible le passage à l'échelle.
+La plupart des travaux du domaine sont par contre entraînés et évalués sur des datasets (comme LFW) relativement différents du monde réel, ou tout du moins des données vidéos de l'Ina. Celles-ci présentent en effet certaines caractéristiques particulières comme :
+-  La base d'apprentissage est déséquilibrée (de 1 à  100 000 visages par personnes)
+-  Les données s'étalent sur plusieurs dizaines d'années, et les visages peuvent évoluer
+-  Les conditions de prises de vues sont très variables : plateau / reportage terrain, maquillage, éclairage
+-  De nouvelles classes, et de nouvelles données par classe sont ajoutées tous les jours
+
+Ces caractéristiques qui font la particularité de l'Ina détermineront ainsi les problématiques scientifiques qui seront adressées au cours de cette thèse. Plus particulièrement, les principaux défis scientifiques qui seront traités et  qui ont un grand intérêt à la fois pour l'industrie et pour la communauté scientifique sont :
+
+Les approches neuronales d'apprentissage non-supervisé et faiblement supervisé :
+Le premier axe de la thèse se focalisera sur l'apprentissage d'un embedding (une projection non linéaire dans un espace vectoriel de représentations visuelles) qui reflètera au mieux les similarités entre différentes images du visage du même individu prises dans des conditions très variées. Les images présentes dans les archives de l'Ina représentant des instances proches du monde réel, ceci soulèvera potentiellement plusieurs verrous scientifiques à résoudre. L'apprentissage de l'embedding se fera en étudiant deux approches: l'apprentissage non supervisé (principalement en utilisant des autoencodeurs) ou l'apprentissage faiblement supervisé (à l'aide des réseaux de neurones siamois). La thèse pourra s'appuyer sur nos travaux récents sur l'apprentissage de similarités, notamment la vérification de visages [12, 13, 14] et la reconnaissance de gestes [15].
+
+Les approches incrémentales pour la mise à jour des modèles appris :
+L'Ina étant un organisme qui collecte des données de manière continue, il est intéressant et même nécessaire d'exploiter toute nouvelle information pour enrichir et renforcer le modèle appris sur les données antérieures. D'un point de vue pratique, il n'est pas possible de faire un réapprentissage du modèle à chaque fois qu'une nouvelle donnée est disponible. Le deuxième axe de recherche abordé lors de cette thèse visera à étudier des approches d'apprentissage incrémentales et les adapter au système conçu, de façon à exploiter les nouvelles données en évitant d'altérer gravement ce que le réseau a appris auparavant (oubli catastrophique [17]).
+
+L'exploitation de l'aspect temporel dans les vidéos :
+Les données vidéo, même si elles ne sont pas entièrement labélisées, présentent une information très précieuse et particulièrement importante pour l'apprentissage: la cohérence spatio-temporelle. En effet, un objet évoluant dans une scène risque fortement d'être dans deux localisations adjacentes d'un frame à un autre. Cette information permet de constituer de manière non supervisée un dataset labélisé exploitable pour l'apprentissage de similarités, à partir de paires d'images représentant le même visage d'un frame à une autre [16].  Un des objectifs de la thèse est de permettre l'exploitation de ces données vidéo pour la collecte de données  d'apprentissage de manière efficace  dans la solution conçue.
+
+Le passage à l'échelle et adaptation des techniques d'indexation :
+Une fois le modèle appris sur la grande masse d'images de visages collectées, il devra être possible d'effectuer des recherches et identifications à partir d'une image en entrée [5, 18]. Dans une base de données où le nombre de classes se compte par milliers (plus de 100 000 personnes physiques), le passage à l'échelle nécessite une adaptation des techniques d'indexation et son optimisation.
+
+Profil
+Titulaire d'un master en informatique ou d'un diplôme d'ingénieur, vous avez suivi un enseignement en machine learning, et pouvez justifier d'un projet réalisé dans ce domaine. Vous êtes à l'aise avec le développement en Python et C++. Vous parlez couramment le Français, et êtes capables de tenir une conversation en Anglais. Vous êtes disponible au plus tard à l'été/automne 2018.
+
+Candidature
+Rémunération : ~35K€ bruts sur 13 mois
+Lieu de travail principal : INA, 94366 Bry-sur-Marne. Déplacements réguliers à Lyon (pris en charge).
+Envoyer CV, références, et lettre de motivation par mail à pierre.letessier@ina.fr<mailto:pierre.letessier@ina.fr>, avec pour objet de ce mail, le libellé de ce sujet de thèse haché avec SHA-256.
+
+Bibliographie
+[1] Schroff, F., Kalenichenko, D., & Philbin, J. (2015). Facenet: A unified embedding for face recognition and clustering. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 815-823).
+[2] B. Amos, B. Ludwiczuk, M. Satyanarayanan. Openface: A general-purpose face recognition library with mobile applications. CMU-CS-16-118, CMU School of Computer Science, Tech. Rep., 2016.
+[3] G. B. Huang, M. Ramesh, T. Berg, and E. Learned-Miller. Labeled faces in the wild: A database for studying face recognition in unconstrained environments. Technical Report 07-49, University of Massachusetts, Amherst, October 2007. 5
+[4] Davis E. King. Dlib-ml: A Machine Learning Toolkit. http://dlib.net. Journal of Machine Learning Research 10, pp. 1755-1758, 2009
+[5] Johnson, J., Douze, M., & Jégou, H. (2017). Billion-scale similarity search with GPUs. arXiv preprint arXiv:1702.08734.
+[6] Taigman, Y., Yang, M., Ranzato, M. A., & Wolf, L. (2014). Deepface: Closing the gap to human-level performance in face verification. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 1701-1708).
+[7] He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 770-778).
+[8] Marius Muja and David G. Lowe. Scalable Nearest Neighbor Algorithms for High Dimensional Data. Pattern Analysis and Machine Intelligence (PAMI), Vol. 36, 2014
+[9] Joly, A., & Buisson, O. (2008, October). A posteriori multi-probe locality sensitive hashing. In Proceedings of the 16th ACM international conference on Multimedia (pp. 209-218). ACM.
+[10] Ahonen, T., Hadid, A., & Pietikainen, M. (2006). Face description with local binary patterns: Application to face recognition. IEEE transactions on pattern analysis and machine intelligence, 28(12), 2037-2041.
+[11] Navarrete, P., & Ruiz-del-Solar, J. (2002). Analysis and comparison of eigenspace-based face recognition approaches. International Journal of Pattern Recognition and Artificial Intelligence, 16(07), 817-830.
+ [12] Zheng, L., Duffner, S., Idrissi, K., Garcia, C., & Baskurt, A. (2016). Pairwise Identity Verification via Linear Concentrative Metric Learning. IEEE transactions on cybernetics.
+[13] Zheng, L., Duffner, S., Idrissi, K., Garcia, C., & Baskurt, A. (2016). Siamese multi-layer perceptrons for dimensionality reduction and face identification. Multimedia Tools and Applications, 75(9), 5055-5073.
+[14] Lu, J., Hu, J., Liong, V. E., Zhou, X., Bottino, A., Islam, I. U., ... & Mahpod, S. (2015, May). The fg 2015 kinship verification in the wild evaluation. In Automatic Face and Gesture Recognition (FG), 2015 11th IEEE International Conference and Workshops on (Vol. 1, pp. 1-7). IEEE.
+[15] Berlemont, S., Lefebvre, G., Duffner, S., & Garcia, C. (2016, September). Polar Sine Based Siamese Neural Network for Gesture Recognition. In International Conference on Artificial Neural Networks (pp. 406-414). Springer International Publishing.
+[16] Wang, X., & Gupta, A. (2015). Unsupervised learning of visual representations using videos. In Proceedings of the IEEE International Conference on Computer Vision (pp. 2794-2802).
+[17] Goodfellow, I. J., Mirza, M., Xiao, D., Courville, A., & Bengio, Y. (2013). An empirical investigation of catastrophic forgetting in gradient-based neural networks. arXiv preprint arXiv:1312.6211.
+[18] Pierre Letessier, Nicolas Hervé, Alexis Joly, Hakim Nabi, Mathieu Derval, and Olivier Buisson (2015). DigInPix: Visual Named-Entities Identification in Images and Videos. In Proceedings of the 5th ACM on International Conference on Multimedia Retrieval (ICMR '15).
+
+
+[logo_ina]
+
+Jean Carrive
+Responsable de Département adjoint
+Recherche et Innovation numérique
+Direction déléguée à la Diffusion et à l'Innovation
+Ligne directe : +33 1 49 83 34 29 - jcarrive@ina.fr <mailto:jcarrive@ina.fr>
+
+
+
+institut.ina.fr <https://institut.ina.fr/>
+
+[cid:image002.png@01D37407.CC76B0C0]
+
+Suivez-nous sur Twitter ! @Ina_audiovisuel <https://twitter.com/ina_audiovisuel>
+
+
+Avant d’imprimer, pensez à l’environnement !
+

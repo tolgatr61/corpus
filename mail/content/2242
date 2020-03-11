@@ -1,0 +1,153 @@
+Bonjour à toutes et à tous,
+
+Veuillez trouver ci-dessous une offre de stage M2. Merci de la diffuser 
+à toute personne qui pourrait être intéressée.
+
+Bien cordialement,
+
+
+
+*
+
+Analyse de situations à partir de traces pour des jeux adaptatifs
+
+**
+
+**
+
+Contexte du stage
+
+Le Projet FUI Sim2B (Simulate to Be) vise à la mise en place d’une 
+technologie de simulation de comportements émotionnels et de relations 
+sociales pour les personnages non joueurs (PNJs) dans les jeux vidéo et 
+les jeux sérieux. L’objectif est d’améliorer la crédibilité, la 
+cohérence et l’expressivité des personnages non joueurs ainsi que leur 
+capacité d’adaptation lors des interactions avec le joueur. Le 
+consortium est composé de 4 acteurs français : Artefacts Studio 
+(développement de jeux vidéo), SBT (développement de jeux sérieux 
+(serious games)), le LIRIS (Laboratoire d’Informatique en Image et 
+Systèmes d’Information) et le GRePS (Groupe de Recherche en Psychologie 
+Sociale).
+
+
+Sujet de stage
+
+Un des objectifs du projet Sim2B est l’adaptation automatique du jeu à 
+son contexte. Cette adaptation peut plus particulièrement conduire à une 
+assistance au joueur dans la réalisation de ses missions, à une 
+adaptation de la difficulté de certaines missions, etc.
+
+Dans le cadre de ce stage, nous nous intéresserons à l’analyse de 
+situations dites clés qui représentent des états dans le jeu où une 
+assistance ou une adaptation peut prendre place. Pour cela, nous nous 
+concentrerons sur les modèles de prédiction à partir de logs issus du 
+jeu. Il s’agit notamment de proposer des modèles permettant de prédire 
+la possibilité d’atteindre une situation clef à partir d’une situation 
+donnée, et d’identifier les actions du joueur qui peuvent mener vers 
+cette situation clef. Les tâches à réaliser sont :
+
+ 1.
+
+    Réalisation d’un état de l’art sur l’analyse de logs pour les jeux
+    adaptatifs et pour l’apprentissage de modèles de comportements.
+
+ 2.
+
+    Proposition de méthodes d’analyse pour l’apprentissage des modèles
+    de comportements à partir de situations clefs.
+
+ 3.
+
+    Validation des modèles en utilisant des méthodes de validations
+    croisées.
+
+
+Mots clés
+
+Intelligence artificielle, analyses de traces, apprentissage automatique.
+
+
+Profil du candidat
+
+Master Informatique
+
+Connaissances de base sur les méthodes d’apprentissage
+
+Bonnes connaissances de Java et/ou Python
+
+Capacité à lire et comprendre des articles scientifiques en Anglais
+
+Avoir une bonne culture des jeux vidéo et être intéressé par les jeux 
+sérieux est un plus
+
+
+Lieu de Stage
+
+Institut Mines Télécom Lille Douai
+
+
+Durée et date de début
+
+Le stage se déroulera sur 6 mois à partir de février/mars 2018
+
+
+Gratification
+
+Selon profil
+
+
+Contact
+
+Pour candidater, veuillez envoyer CV + lettre de motivation par courriel 
+à Karim Sehaba (Karim.Sehaba@liris.cnrs.fr 
+<mailto:Karim.Sehaba@liris.cnrs.fr>), Benoit Encelle 
+(benoit.encelle@liris.cnrs.fr <mailto:benoit.encelle@liris.cnrs.fr>) et 
+Abir Karami (abir.karami@imt-lille-douai.fr 
+<mailto:abir.karami@imt-lille-douai.fr>)
+
+
+Références
+
+  *
+
+    Ángel Serrano-Laguna, Javier Torrente, Pablo Moreno-Ger, Baltasar
+    Fernández-Manjón. Application of Learning Analytics in educational
+    videogames. Entertainment Computing, 2014, ISSN: 1875-9521, Vol: 5,
+    Issue: 4, Page: 313-322.
+
+  *
+
+    Steiner, Christina M., Michael D. Kickmeier-Rust, and Dietrich
+    Albert.Learning analytics and educational data mining: An overview
+    of recent techniques.Learning Analytics for and in Serious Games 6
+    (2014): 61-75.
+
+  *
+
+    Westera, W., Nadolski, R., & Hummel, H.Serious gaming analytics:
+    What students log files tell us about gaming and learning.
+    International Journal of Serious Games Volume 1, Issue 2, April 2014.
+
+  *
+
+    Abir B. Karami, Karim Sehaba, Benoit Encelle.Adaptive Artificial
+    Companions learning from users’ feedback. Journal of Adaptive
+    Behavior, April 2016, 24(2):69, sage publications.
+
+  *
+
+    Aarij Mahmood Hussaan, Karim Sehaba.Extracting knowledge in a
+    game-based learning environment from interaction traces.European
+    Conference on Game Based Learning (ECGBL), October, Berlin. 2014.
+
+
+-- 
+Abir B. KARAMI
+Post-doc LIRIS - University of Lyon 2
+Hosted researcher at URIA*,* IMT Lille Douai
++33 (0)3 27 71 25 27
+personal website <https://sites.google.com/site/abirkarami/home/>
+
+*
+
+

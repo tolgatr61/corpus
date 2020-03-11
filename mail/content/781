@@ -1,0 +1,352 @@
+==English Version below==
+
+*2eme appel à communication*
+
+Risque et TAL : détection, prévention, gestion
+
+Atelier organisé dans le cadre de la conférence JEP/TALN/RECITAL
+à Paris, le 4 juillet 2016
+
+Organisateurs : Natalia Grabar (STL) & Ludovic Tanguy (CLLE-ERSS)
+
+Site Web : http://natalia.grabar.perso.sfr.fr/risque-tal/
+
+
+
+	 Qui ne risque rien ne boit pas le champagne. (proverbe russe)
+
+*Présentation*
+
+Étant propre au fonctionnement des individus et de la société, le
+risque concerne une grande variété de situations et de domaines. De
+nombreuses activités peuvent rencontrer des situations anormales dont
+les conséquences peuvent être fortement dommageables.
+
+Parmi les domaines d'activités, ceux liés au transport (aérien,
+routier, ferroviaire, maritime, spatial), à l'énergie (centrales
+électriques, industrie pétrolière), le biomédical (médecine, pharma
+cie) et l'industrie lourde (métallurgie, chimie, construction) sont
+plus particulièrement concernés de par l'ampleur des dommages
+possibles et ont mis en place des systèmes de vigilance afin de
+détecter, prévenir et limiter les risques. La plupart de ces systèmes
+font intervenir une dimension langagière importante (rapports
+d'accidents ou d'incidents, retours d'expérience des interventions,
+veille sur la base des flux de communication, etc.), si bien que le
+TAL peut y contribuer à la gestion du risque.
+
+Mais dans de nombreux autres domaines la détection de situations à
+risque peut prendre appui sur l'analyse de données textuelles ou de
+communications souvent massives et/ou spécifiques. On voit notamment
+que cela peut concerner les réseaux sociaux [Neubig et al., 2011] ou
+la littérature scientifique [Hamon et al., 2010].
+
+Depuis quelques années on voit apparaître un ensemble de travaux et
+d'applications du TAL, proposant des solutions ou des pistes de
+réflexions dans ce sens. Notons par exemple :
+
+- la journée d'étude "Linguistique et Traitement Automatique des
+   Langues pour l'Aéronautique et l'Espace : Dimensions langagières du
+   risque" (Toulouse, 2014) ;
+- le projet P10-5 "Méthodes d'analyse textuelle pour l'interprétation
+   des REX humains, organisationnels et techniques" commandité par
+   l'Institut pour la Maîtrise des Risques (IMdR) [Blatter et Raynal,
+   2014] ;
+- l'atelier "Computational Methods in Pharmacovigilance" dans le
+   cadre de la conférence Medical Informatics in Europe (Pise, 2012).
+
+Ces travaux sont généralement menés et diffusés au sein de communautés
+thématiques correspondant aux domaines d'application. L'objectif de
+cet atelier est donc de proposer un espace d'échange transversal entre
+différents acteurs qui travaillent sur la détection, la description,
+l'analyse ou la prévention du risque en utilisant des méthodes et
+ressources de TAL.
+
+Parmi les approches considérées on citera de façon non exhaustive :
+- l'analyse des retours d'expérience (rapports d'accident/incident) :
+   assistance aux experts ;
+- la détection des risques potentiels dans les rapports d'activité :
+   identification des "signaux faibles" ;
+- la détection des risques potentiels dans les communications :
+   identification du risque explicite dans les communications entre
+   usagers d'un système et/ou experts d'un domaine ;
+- l'aide à la communication ou la rédaction de documents critiques :
+   définition et vérification de langages contrôlés ou de consignes de
+   rédaction ;
+- le développement de ressources pour la prévention/gestion des
+   risques : extraction d'information et ingénierie des connaissances
+   métier.
+
+L'objectif de cet atelier est de réunir une communauté large à la fois
+en termes de domaines et d'applications, dans l'idée d'identifier
+quels sont les besoins véritables des acteurs du terrain et les
+réponses que les techniques actuelles du TAL peuvent fournir. De ce
+fait, cet atelier s'adresse autant aux chercheurs qu'aux acteurs
+industriels.
+
+*Procédure de soumission*
+
+Deux formats de présentations sont prévus :
+
+- format long : un article de 6 à 8 pages (format TALN) et une
+   présentation de 20 minutes, permettant de présenter un travail
+   abouti ou en cours.
+
+- format court : un résumé long de 2 à 4 pages (format TALN) et une
+   présentation de 10 minutes, permettant de présenter une
+   problématique à explorer ou des questionnements plus ouverts.
+
+Les langues acceptées sont le français et l'anglais.
+
+Une feuille de style LaTeX et des modèles LibreOffice et Word sont
+disponibles sur le site web de la conférence
+(https://jep-taln2016.limsi.fr/styles/jeptaln2016-v2.zip).
+
+La procédure de dépôt des soumissions est détaillée sur le site de
+l'atelier https://www.easychair.org/conferences/?conf=taln2016
+
+
+*Calendrier*
+
+- date limite de soumission : 18 avril
+- notification aux auteurs : 13 mai
+- réception des versions finales : 30 mai
+- atelier : 4 juillet
+
+
+*Contacts*
+
+Par mail :
+- natalia.grabar@univ-lille3.fr
+- ludovic.tanguy@univ-tlse2.fr
+
+*Comité de Programme*
+
+Clément Beckert -- EDF
+Christian Blatter -- SNCF
+Anne Condamines -- CLLE-ERSS
+Cécile Fabre -- CLLE-ERSS
+Natalia Grabar -- STL
+Claire Nédellec -- INRA
+Aurélie Névéol -- LIMSI
+John Mitchell Obama -- IMdR (Institut pour la Maîtrise des Risques)
+Céline Raynal -- CFH / Safety Data
+Ludovic Tanguy -- CLLE-ERSS
+Franz Thiessard -- INSERM U897
+Pierre Zweigenbaum -- LIMSI
+
+*Références*
+
+[Blanchemanche et al., 2009] Blanchemanche, S., Buche, P., Dibie, J.,
+Feinblatt-Mélèze, E., Ibanescu, M. et Rona-Tas, A. (2009). Ontology
+building : an application in food risk analysis. In Actes de la 8ème
+conférence internationale Terminologie et Intelligence Artificielle
+(TIA), Toulouse.
+
+[Blatter et Raynal, 2014] Blatter, C. et Raynal, C. (2014). Méthodes
+d'analyse textuelle pour l'interprétation des REX humains,
+organisationnels et techniques. In Actes du Congrès Lambda Mu 19,
+Dijon.
+
+[Hamon et al., 2010] Hamon, T., Graña, M., Raggio, V., Grabar, N. et
+Naya, H. (2010).  Identification of relations between risk factors and
+their pathologies or health conditions by mining scientific
+literature. Studies in Health Technology and Informatics, 160(Pt
+2):964-8.
+
+[Mercantini, 2008] Mercantini, J.-M. (2008). Construction d'ontologies
+pour la résolution de problèmes de sécurité : une étape vers
+l'ontologie du risque. In Actes du 16eme Congrès sur la Maîtrise des
+Risques et la Sûreté de Fonctionnement, Avignon.
+
+[Neubig et al., 2011] Neubig, G., Matsubayashi, Y., Hagiwara, M. et
+Murakami, K. (2011).  Safety Information Mining : What can NLP do in a
+disaster ? In Proceedings of the 5th Interna- tional Joint Conference
+on NLP (IJCNLP), volume 11, pages 965-973, Chiang Mai, Thailand.
+
+[Tanguy et al., 2015] Tanguy, L., Tulechki, N., Urieli, A., Hermann,
+E. et Raynal, C.  (2015). Natural language processing for aviation
+safety reports : from classification to interactive
+analysis. Computers in industry, In press.
+
+
+
+=======================================
+
+*2nd Call for Papers*
+
+Risk and NLP: Detection, Prevention, Management
+
+Workshop joined with the JEP/TALN/RECITAL conference
+Paris, July 4th, 2016
+
+Organizers: Natalia Grabar (STL) & Ludovic Tanguy (CLLE-ERSS)
+
+WebSite: http://natalia.grabar.perso.sfr.fr/risque-tal/index-en.html
+
+
+
+He who doesn't risk never gets to drink champagne. (Russian proverb)
+
+*Presentation*
+
+The risk, which is a common feature to individuals and society, covers
+a wide rage of situations and areas. As a matter of fact, several
+types of activities can meet abnormal situations which consequences
+may be heavily harmful.
+
+Among the domains, those related to transport (air, road, rail, sea or
+space), to energy (power plants, oil industry), to biomedicine
+(medicine, pharmacology) and to heavy industry (metalworking,
+chemistry, building) are the most concerned by the extent of possible
+damages: indeed, they are often using surveillance and monitoring
+systems for the detection, prevention and limiting the risks. Several
+of these systems exploit the language dimension of the data (accident
+and incident reports, feedback on interventions, surveillance of the
+communication flow, etc.): thus, the Natural Language Processing (NLP)
+applications can provide a contribution for the risk management.
+
+Yet, in some areas, detection of dangerous situations may be based on
+the analysis of large amounts of textual and communication data, often
+specific to a given area, such as it happens when analyzing social
+networks [Neubig et al., 2011] and scientific literature [Hamon et
+al., 2010].
+
+For some years now, the research trends testifies about special
+interest for NLP works and applications addressing the risk detection,
+prevention, and management.  Let's mention for instance:
+- workshop on linguistic dimension of aeronautics and spatial risk
+   "Linguistique et Traitement Automatique des Langues pour
+   l'Aéronautique et l'Espace : Dimensions langagières du risque"
+   (Toulouse, 2014) ;
+- P10-5 project on textual analysis of feedback reports "Méthodes
+   d'analyse textuelle pour l'interprétation des REX humains,
+   organisationnels et techniques" ordered by the Institut pour la
+   Maîtrise des Risques (IMdR) [Blatter et Raynal, 2014] ;
+- workshop "Computational Methods in Pharmacovigilance" joined to the
+   European conference Medical Informatics in Europe (Pise, 2012).
+
+The existing work is mainly done and known within specific
+communities and the corresponding application areas. The purpose of
+our workshop is to provide a transversal exchange space between
+various actors working on detection, description, analysis and
+prevention of risk, and using for this the NLP resources and methods.
+
+Among the approaches of interest, we can consider non-exhaustively:
+
+- analysis of feedback reports (reports on accidents and incidents):
+   assistance to experts;
+
+- detection of potential risk in the existing activity reports:
+   identification of "emerging signals";
+
+- detection of potential risk in communication: identification of
+   explicit risk in communication between users of a system and/or
+   domain experts;
+
+- assistance to communication and writing of critical documents:
+   definition and verification of controlled languages and writing
+   conventions;
+
+- development of resources for the prevention and management of risk:
+   information extraction and knowledge engineering.
+
+The objective of this workshop is to gather a large community from
+various domains and applications, in order to identify real needs of
+the ground experts and to discuss on solutions which can be proposed
+by modern NLP technologies. Hence, the workshop is organized for
+researchers and industrial actors.
+
+
+*Submission modalities*
+
+Two presentation formats are possible:
+
+- long paper: paper with 6 to 8 pages (TALN format) for a 20 minutes
+   oral presentation, in order to present work with solid results or
+   ongoing work.
+
+- short paper: abstract with 2 to 4 pages (TALN format) for a 10
+   minutes oral presentation, in order to present new research
+   problematics, issues or questionings.
+
+Submissions in two languages are acceptable: French, English
+
+LaTeX style-sheet, and LibreOffice and Word models are available on the
+main conference website
+(https://jep-taln2016.limsi.fr/styles/jeptaln2016-v2.zip).
+
+Details of the submission procedure are given on the workshop's
+website https://www.easychair.org/conferences/?conf=taln2016
+
+
+*Important dates*
+
+- submission deadline: April 18th
+- notifications: May 13th
+- final versions: May 30th
+- workshop: July 4th
+
+
+*Contact*
+
+- natalia.grabar@univ-lille3.fr
+- ludovic.tanguy@univ-tlse2.fr
+
+
+*Programme Committee*
+
+Clément Beckert -- EDF
+Christian Blatter -- SNCF
+Anne Condamines -- CLLE-ERSS
+Cécile Fabre -- CLLE-ERSS
+Natalia Grabar -- STL
+Claire Nédellec -- INRA
+Aurélie Névéol -- LIMSI
+John Mitchell Obama -- IMdR (Institut pour la Maîtrise des Risques)
+Céline Raynal -- CFH / Safety Data
+Ludovic Tanguy -- CLLE-ERSS
+Franz Thiessard -- INSERM U897
+Pierre Zweigenbaum -- LIMSI
+
+
+*References*
+
+[Blanchemanche et al., 2009] Blanchemanche, S., Buche, P., Dibie, J.,
+Feinblatt-Mélèze, E., Ibanescu, M. et Rona-Tas, A. (2009). Ontology
+building : an application in food risk analysis. In Actes de la 8ème
+conférence internationale Terminologie et Intelligence Artificielle
+(TIA), Toulouse.
+
+[Blatter et Raynal, 2014] Blatter, C. et Raynal, C. (2014). Méthodes
+d'analyse textuelle pour l'interprétation des REX humains,
+organisationnels et techniques. In Actes du Congrès Lambda Mu 19,
+Dijon.
+
+[Hamon et al., 2010] Hamon, T., Grana, M., Raggio, V., Grabar, N. et
+Naya, H. (2010).  Identification of relations between risk factors and
+their pathologies or health conditions by mining scientific
+literature. Studies in Health Technology and Informatics, 160(Pt
+2):964-8.
+
+[Mercantini, 2008] Mercantini, J.-M. (2008). Construction d'ontologies
+pour la résolution de problèmes de sécurité : une étape vers
+l'ontologie du risque. In Actes du 16eme Congrès sur la Maîtrise des
+Risques et la Sûreté de Fonctionnement, Avignon.
+
+[Neubig et al., 2011] Neubig, G., Matsubayashi, Y., Hagiwara, M. et
+Murakami, K. (2011).  Safety Information Mining : What can NLP do in a
+disaster ? In Proceedings of the 5th Interna- tional Joint Conference
+on NLP (IJCNLP), volume 11, pages 965-973, Chiang Mai, Thailand.
+
+[Tanguy et al., 2015] Tanguy, L., Tulechki, N., Urieli, A., Hermann,
+E. et Raynal, C.  (2015). Natural language processing for aviation
+safety reports : from classification to interactive
+analysis. Computers in industry, In press.
+
+
+
+-- 
+Natalia GRABAR
+CR1 CNRS, UMR 8163, Université Lille 3, France
+http://natalia.grabar.perso.sfr.fr/
+

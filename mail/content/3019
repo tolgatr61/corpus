@@ -1,0 +1,110 @@
+* Toutes nos excuses pour d'éventuelles réceptions multiples.*
+
+Bonjour,
+
+Nous sommes actuellement à la recherche d'une ou d'un étudiant, de
+niveau Master, pour un stage portant sur
+
+EXPLOITATION DES FLUX DE DONNEES DES RESEAUX SOCIAUX POUR LA DETECTION
+D'EVENEMENTS ENVIRONNEMENTAUX
+
+Personne à contacter : Richard GUILLANDE (signalert@orange.fr)
+
+Responsable : Richard GUILLANDE (signalert@orange.fr)
+
+Co-encadrant : Bernd AMANN / Patrick GALLINARI (prenom.nom@lip6.fr)
+
+Organisme/société :    SIGNALERT
+
+Contexte et objectifs:
+
+La start-up SIGNALERT développe une solution crowd sourcing avec
+remontée d'information terrain sur des données environnementales et
+événementielles (ex : risques naturel, inondation brutale, accidents) à
+partir de smartphone. Une première application smartphone et le système
+d'exploitation des signalements d'utilisateurs et de détection
+d'événements sont opérationnels et en test.
+
+L'application Smartphone actuelle utilise des signalements structurés
+produits par des personnes concernées (habitant d'une zone à risque) ou
+des professionnels. L'objectif consiste à exploiter également les
+données produits par es médias réseaux sociaux, qui sont des nouveaux
+vecteurs privilégiés de diffusion d'information sur les évènements
+catastrophiques majeurs (notamment TWITTER, FACEBOOK, INSTAGRAMM et
+d'autres). SIGNALERT souhaite explorer et tester le potentiel de ces
+données pour étendre et enrichir son application .
+
+Problématiques et travaux envisagés :
+
+Les flux d'informations générées par les médias sociaux sont
+volumineuses, bruitées et souvent faiblement structurés et leur analyse
+automatisée ou manuelle s'en trouve complexifiée. Nous souhaitons
+développer un premier outil de collecte de quelques flux représentatifs
+visant à les organiser et en ressortir des informations pertinentes,
+corrélées à des évènements également décrits via les processus
+structurés de SIGNALERT.
+
+Liste de tâches envisagées (le stage portera sur une partie de ces tâches):
+
+     Synthèse des outils ou pratiques existantes se rapportant au
+projet (ex : Google Crisis, twitter) + bibliographie
+     Analyse de lexploitabilité des données sur la base déchantillons
+de crises récentes
+     Développement de processus de recherche et détection de message à
+contenu sémantique corrélé aux évènements SIGNALERT
+     Extraction, filtrage et mise en forme des messages concernés
+     Caractérisation dun niveau de fiabilité et corrélation
+     Analyse statistique, géographique et temporelle du flux retenu.
+     Représentation et croisement avec les données SIGNALERT
+
+Profils souhaités : Ingénieur ou Master2 en Informatique
+
+Compétences requises ou appréciées:
+
+     Programmation Java/JEE, XML, Bases de données (requises)
+     API twitter (appréciée), Google, Open Street map, etc
+     Data/ProcessMining (appréciée)
+     Cloud Computing (appréciée)
+
+
+Direction du stage : le stage est co-dirigé par M. Richard GUILLANDE
+directeur de SIGNALERT et Patrick GALLINARI et Bernd AMANN du LIP6.
+
+Lieu : le stage sera co-encadré par SIGNALERT et le Laboratoire
+d'Informatique de lUniversité Paris 6 (LIP6). Il se déroulera à cheval
+sur le site de SIGNALERT à Bagneux (3 km au sud de Paris, 150 m de la
+station de RER Bagneux) et au LIP6 à Paris
+
+Indemnité de stage : 440  mensuel + prise en charge des frais de
+déplacement pour mission à Paris + indemnité repas.
+
+Durée : 6 mois.
+
+Démarrage : février 2014 (ou plus tard)
+
+Hébergement : il est souhaitable que l'étudiant soit déjà logé ou puisse
+se loger sur Paris ou la banlieue sud de Paris.
+
+Les étudiants intéressés peuvent envoyer un CV détaillé + lettre
+motivation par email à : signalert@orange.fr
+
+Dans lobjet de l'email mentionner le sujet de stage : SOCIALNETWORK2014
+
+Nous reprendrons contact avec les candidats pré-sélectionnés pour un
+entretien. Aucune information ne sera donnée par téléphone aux candidats.
+
+-- 
+
+Bernd Amann
+Université Pierre et Marie Curie LIP6 - Boite Courrier 169
+4 place Jussieu
+75 252 Paris cedex 05
+
+Equipe Base de Données
+Bureau 25-26/506
+Mél : Bernd.Amann@lip6.fr
+Tél : +33 (0)1 44 27 70 09
+Fax : +33 (0)1 44 27 70 00
+
+
+

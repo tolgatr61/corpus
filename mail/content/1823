@@ -1,0 +1,82 @@
+Poste Ingénieur Recherche
+
+ 
+
+Laboratoire : Heudiasyc, UMR CNRS 7253
+
+ 
+
+Contexte
+
+Dans le cadre du projet Astrid[1] ECOPACK nous nous intéressons aux nouvelles formes de travail collaboratif permises par un environnement socio-technique informatique incluant différents dispositifs (table, tableau, tablette tactiles, smartphone, pc). 
+
+Un des objectifs est d'offrir une application partagée accessible à chaque collaborateur via ces différents dispositifs. Chacun d'entre eux privilégiera un type d'interaction ainsi qu'un type d'activité. Chaque individu devra pouvoir exploiter ses propres ressources pour collaborer. L'application partagée doit donc faire partie d'un système d'information plus large ou chaque individu est utilisateur et chaque groupe de collaboration identifié. L'utilisation collaborative de l'application partagée va elle-même produire des ressources spécifiques  qu'il s'agit de capitaliser au même titre que toute autre ressource dans le système d'information. Capitaliser les traces d'interactions est également souhaitable afin de les exploiter dans des justifications de prises de décision. L'approche suivie rejoint la vision d'écosystème de connaissances qui favorise l'évolution dynamique des interactions de connaissances entre des collaborateurs afin d'améliorer la prise de décision et l'innovation. Nous visons particulièrement celle des écosystèmes d'affaire. 
+
+Notre objectif principal est donc de définir un écosystème numérique capable de répondre aux besoins d'idéation, d'innovation et d'analyse stratégique. Nous nous attacherons à définir un modèle de plateforme intégrant les dispositifs adaptés à des liens forts entre les acteurs pour augmenter les performances de l'écosystème. Nous veillerons à permettre à chaque collaborateur de contribuer à l'écosystème à tout moment selon les dispositifs à disposition. Cela nécessite un système d'information multiutilisateur multi-support.
+
+Les ressources créées et partagées par l'écosystème requièrent à la fois un travail individuel et collaboratif. La plateforme élaborée devra donc permettre une continuité spatio-temporelle des séances de travail. Un utilisateur devra pouvoir préparer individuellement une prochaine séance collaborative. Les séances de travail pourront être synchrones, asynchrones co-localisées et à distance.
+
+ 
+
+Mission :
+
+La mission consistera à développer l'écosystème numérique défini par les partenaires du projet. Le développement pourra bénéficier des travaux antérieurs des partenaires concernant notamment la plateforme de collaboration MEMORAe (http://www.hds.utc.fr/memorae <http://www.hds.utc.fr/memorae> ) et ceux concernant la plateforme MCB de collaboration synchrone sur surface tactile de grande dimension.  
+
+ 
+
+Profil requis :
+
+Applications Web, serveur d'application, Web socket
+
+HTML 5, JavaScript
+
+Programmation mobile
+
+Java, PHP
+
+Des connaissances sur le Web Sémantique, RDF, OWL et SPARQL, seraient un plus.
+
+ 
+
+Conditions administratives :
+
+- Niveau requis : thèse en informatique.
+
+- Rémunération : 3400 euros/mois.
+
+- Durée : 30 mois à partir de février 2014.
+
+- Lieu : Université de Technologie de Compiègne.
+
+ 
+
+Contact : Marie-Hélène Abel, marie-helene.abel@utc.fr
+
+ 
+
+ 
+
+Marie-Hélène Abel
+
+UTC - Unité Mixte de Recherche Heudiasyc
+
+Centre de Recherches de Royallieu
+
+BP20529
+
+60205 Compiègne Cedex - France
+
+Tel. +33 (0)3 44 23 49 50
+
+Fax. +33 (0)3 44 23 44 77
+
+http://www.hds.utc.fr/~mhabel
+
+ 
+
+
+________________________________
+
+[1] http://www.agence-nationale-recherche.fr/financer-votre-projet/appel-detail/accompagnement-specifique-des-travaux-de-recherches-et-d-innovation-defense-astrid-2013/ 
+
+

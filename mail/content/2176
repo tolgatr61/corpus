@@ -1,0 +1,33 @@
+​
+​​Bonjour,
+
+J'ai le plaisir de vous inviter à ma soutenance de thèse de doctorat, préparée au sein de l’école doctorale « Sciences et Technologies de l'Information et de la Communication » de l’Université Paris-Saclay et effectuée sous la direction de Claire Nédellec (MaIAGE, INRA, Université Paris-Saclay) et Pierre Zweigenbaum (LIMSI, CNRS, Université Paris-Saclay).
+
+La soutenance aura lieu le mardi 17 janvier à 10h00 dans la Salle de Conférences du LIMSI (bât 508  du Campus universitaire bât 508 - Rue John von Neumann 91405 Orsay).
+
+Cordialement,
+
+Dialekti VALSAMOU
+---
+
+Titre de la Thèse (fr) : « Extraction d'information à partir d'articles scientifiques appliquée à la prédiction de régulations biologiques impliquées dans le développement de la graine chez A. Thaliana ».
+Thesis Title (en) : « Information Extraction for the Seed Development Regulatory Networks of Arabidopsis Thaliana ».
+
+Résumé de la thèse (fr)
+Même si l’information est abondante dans le monde, l’information structurée, prête à être utilisée est rare. Ce travail propose l’Extraction d’Information (EI) comme une approche efficace pour la production de l’information structurée, utilisable sur la biologie, en présentant une tâche complète d’EI sur un organisme modèle, Arabidopsis thaliana. Un système d’EI se charge d’extraire les parties de texte les plus significatives et d’identifier leurs relations sémantiques.
+
+En collaboration avec des experts biologistes sur la plante A. Thaliana un modèle de connaissance a été conçu. Son objectif est de formaliser la connaissance nécessaire pour bien décrire le domaine du développement de la graine. Ce modèle contient toutes les entités et relations les connectant qui sont essentielles et peut être directement utilisé par des algorithmes. En parallèle ce modèle a été testé et appliqué sur un ensemble d’articles scientifiques du domaine, le corpus nécessaire pour l’entraînement de l’apprentissage automatique. Les experts ont annoté le texte en utilisant les entités et relations du modèle. Le modèle et le corpus annoté sont les premiers proposés pour le développement de la graine, et parmi les rares pour A. Thaliana, malgré son importance biologique. Ce modèle réconcilie les besoins d’avoir un modèle assez complexe pour bien décrire le domaine, et d’avoir assez de généralité pour pouvoir utiliser des méthodes d’apprentissage automatique.
+
+Une approche d’extraction de relations (AlvisRE) a également été élaborée et développée. Une fois les entités reconnues, l’extracteur de relations cherche à détecter les cas où le texte mentionne une relation entre elles, et identifier précisément de quel type de relation du modèle il s’agit. L’approche AlvisRE est basée sur la similarité textuelle et utilise à la fois des informations lexiques, syntactiques et sémantiques. Dans les expériences réalisées, AlvisRE donne des résultats qui sont équivalents et parfois supérieurs à l’état de l’art. En plus, AlvisRE a l’avantage de la modularité et adaptabilité en utilisant des informations sémantiques produites automatiquement. Ce dernier caractéristique permet d’attendre des performances équivalentes dans d’autres domaines.
+
+Thesis abstract (en)
+While information is abundant in the world, structured, ready-to-use information is rare. This work proposes Information Extraction (IE) as an efficient approach for producing structured, usable information on biology, by presenting a complete IE task on a model biological organism, Arabidopsis thaliana. Information Extraction is the process of extracting meaningful parts of text and identifying their semantic relations.
+
+In collaboration with experts on the A. Thaliana, a knowledge model was conceived. The goal of this model is providing a formal representation of the knowledge that is necessary to sufficiently describe the domain of grain development. This model contains all the entities and the relations between them which are essential and it can directly be used by algorithms. In parallel, this model was tested and applied on a set of scientific articles of the domain. These documents constitute the corpus which is needed to train machine learning algorithms. The experts annotated the text using the entities and relations of the model. This corpus and this model are the first available for grain development and among very few on A. Thaliana, despite the latter's importance in biology. This model manages to answer both needs of being complex enough to describe the domain well, and of having enough generalization for machine learning.
+
+A relation extraction approach (AlvisRE) was also elaborated and developed. After entity recognition, the relation extractor tries to detect the cases where the text mentions that two entities are in a relation, and identify precisely to which type of the model these relations belong to. AlvisRE's approach is based on textual similarity and it uses all types of information available: lexical, syntactic and semantic. In the tests conducted, AlvisRE had results that are equivalent or sometimes better than the state of the art. Additionally, AlvisRE has the advantage of being modular and adaptive by using semantic information that was produced automatically. This last feature allows me to expect similar performance in other domains.
+
+
+
+
+

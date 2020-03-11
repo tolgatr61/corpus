@@ -1,0 +1,137 @@
+Bonjour,
+
+J'ai le plaisir de vous inviter à ma soutenance de thèse qui aura lieu le
+Mercredi 11 Decembre 2013 à 14:30h dans la salle A102, Batiment
+ISIMA-LIMOS, Campus des Cézeaux à Clermont-Ferrand. Vous êtes également
+invités au pot qui suivra la soutenance.
+
+*Membres du Jury :*
+*-Rapporteurs *:
+
+   - Prof. Mohammed Javeed Zaki (Rensselaer Polytechnic Institute, USA)
+   - Prof. Abdoulaye Baniré Diallo (Université du Québec à Montréal, Canada)
+   - Prof. Jan Ramon (Katholieke Universiteit Leuven, Belgium)
+
+-*Examinateurs *:
+
+   - DR. David W. Ritchie (INRIA, Nancy, France)
+   - DR. Jean Sallantin (LIRMM, Montpellier, France)
+   - DR. Jean-François Gibrat (INRA, Jouy-en-Josas, France)
+   - Dr. Annegret Wagler (LIMOS, Clermont-Ferrand, France)
+
+*-Directeur de thèse :* Prof. MEPHU NGUIFO Engelbert (LIMOS,
+Clermont-Ferrand, France)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+*Titre de la thèse: *Fouille de Sous-graphes Basée sur la Topologie et la
+Connaissance du Domaine: Application sur les Structures 3D de Protéines
+
+*Résumé:*
+
+Cette thèse est à l'intersection de deux domaines de recherche en plein
+expansion, à savoir la fouille de données et la bioinformatique. Avec
+l'émergence des bases de graphes au cours des dernières années, de nombreux
+efforts ont été consacrés à la fouille des sous-graphes fréquents. Mais le
+nombre de sous-graphes fréquents découverts est exponentiel, cela est due
+principalement à la nature combinatoire des graphes. Beaucoup de
+sous-graphes fréquents ne sont pas pertinents parce qu'ils sont redondants
+ou tout simplement inutiles pour l'utilisateur. En outre, leur nombre élevé
+peut nuire ou même rendre parfois irréalisable toute utilisation
+ultérieure. La redondance dans les sous-graphes fréquents est
+principalement due à la similarité structurelle et / ou sémantique, puisque
+la plupart des sous-graphes découverts diffèrent légèrement dans leur
+structures et peuvent exprimer des significations similaires ou même
+identiques.
+
+
+Dans cette thèse, nous proposons deux approches de sélection des
+sous-graphes représentatifs parmi les fréquents afin d'éliminer la
+redondance. Chacune des approches proposées s'intéresse à un type
+spécifique de redondance. La première approche s'adresse à la redondance
+sémantique où la similarité entre les sous-graphes est mesurée en fonction
+de la similarité entre les étiquettes de leurs nœuds, en utilisant les
+connaissances de domaine. La deuxième approche s'adresse à la redondance
+structurelle où les sous-graphes sont représentés par des descripteurs
+topologiques définis par l'utilisateur, et la similarité entre les
+sous-graphes est mesurée en fonction de la distance entre leurs
+descriptions topologiques respectives.
+
+
+Les principales données d'application de cette thèse sont les structures 3D
+des protéines. Ce choix repose sur des raisons biologiques et
+informatiques. D'un point de vue biologique, les protéines jouent un rôle
+crucial dans presque tous les processus biologiques. Ils sont responsables
+d'une variété de fonctions physiologiques. D'un point de vue informatique,
+nous sommes intéressés à la fouille de données complexes. Les protéines
+sont un exemple parfait de ces données car elles sont faites de structures
+complexes composées d'acides aminés interconnectés qui sont eux-mêmes
+composées d'atomes interconnectés. Des grandes quantités de structures
+protéiques sont actuellement disponibles dans les bases de données en
+ligne. Les structures 3D des protéines peuvent être transformées en graphes
+où les acides aminés représentent les nœuds du graphe et leurs connexions
+représentent les arêtes. Cela permet d'utiliser des techniques de fouille
+de graphes pour les étudier. L'importance biologique des protéines et leur
+complexité ont fait d'elles des données d'application appropriées pour
+cette thèse.
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+*Title:* Topological and Domain Knowledge-based Subgraph Mining:
+Application on Protein 3D-Structures
+
+*Abstract:*
+This thesis is in the intersection of two proliferating research fields,
+namely data mining and bioinformatics. With the emergence of graph data in
+the last few years, many efforts have been devoted to mining frequent
+subgraphs from graph databases. Yet, the number of discovered frequent
+subgraphs is usually exponential, mainly because of the combinatorial
+nature of graphs. Many frequent subgraphs are irrelevant because they are
+redundant or just useless for the user. Besides, their high number may
+hinder and even makes further explorations unfeasible. Redundancy in
+frequent subgraphs is mainly caused by structural and/or semantic
+similarities, since most discovered subgraphs differ slightly in structure
+and may infer similar or even identical meanings.
+
+In this thesis, we propose two approaches for selecting representative
+subgraphs among frequent ones in order to remove redundancy. Each of the
+proposed approaches addresses a specific type of redundancy. The first
+approach focuses on semantic redundancy where similarity between subgraphs
+is measured based on the similarity between their nodes' labels, using
+prior domain knowledge. The second approach focuses on structural
+redundancy where subgraphs are represented by a set of user-defined
+topological descriptors, and similarity between subgraphs is measured based
+on the distance between their corresponding topological descriptions.
+
+The main application data of this thesis are protein 3D-structures. This
+choice is based on biological and computational reasons. From a biological
+perspective, proteins play crucial roles in almost every biological
+process. They are responsible of a variety of physiological functions. From
+a computational perspective, we are interested in mining complex data.
+Proteins are a perfect example of such data as they are made of complex
+structures composed of interconnected amino acids which themselves are
+composed of interconnected atoms. Large amounts of protein structures are
+currently available in online databases, in computer analyzable formats.
+Protein 3D-structures can be transformed into graphs where amino acids are
+the graph nodes and their connections are the graph edges. This enables
+using graph mining techniques to study them. The biological importance of
+proteins, their complexity, and their availability in computer analyzable
+formats made them a perfect application data for this thesis.
+
+
+Bien Cordialement.
+
+-- 
+
+
+
+
+
+
+
+*DHIFLI wajdi http://fc.isima.fr/~dhifli/ <http://fc.isima.fr/~dhifli/>PHD
+student in computer science / freelance web Analyst-programmer LIMOS - CNRS
+UMR 6158 Blaise Pascal University - Clermont 2 (UBP,
+Clermont-Ferrand)Complexe scientifique des Cézeaux, BP 12563173 AUBIERE
+cedex, FRANCE.Phone: +33 (0) 473 407 775 (Office) / +33 (0) 473 407 440
+(Secr)  Office:  ISIMA Building-C103 *
+

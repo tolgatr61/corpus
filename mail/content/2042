@@ -1,0 +1,65 @@
+Recrutement d'un INGENIEUR DE RECHERCHE ou POST-DOC EN INFORMATIQUE
+
+
+L’équipe SIG de l’Institut de Recherche en Informatique de Toulouse 
+(IRIT – UMR5505) est susceptible de recruter un docteur en informatique 
+pour un poste d’ingénieur de recherche ou un post-doc à temps plein pour 
+une durée de 6 mois à compter du 1er octobre 2016.
+
+*Projet *: ModelAGE - Vers un environnement logiciel d’aide à la 
+simulation pour la prédiction des pathologies associées à l’âge
+*Mots-clés* : intégration et traitement de données multi-source, 
+modélisation et analyse de données, sélection de variables, metamining, 
+apprentissage,
+*Lieu de travai**l *: Institut de Recherche en Informatique de Toulouse 
+– Campus de l’Université Toulouse 3 - Paul Sabatier.
+*Rémunération *: selon expérience, à partir de 2000 € nets/mois.
+
+*Contexte *:
+La mission s’inscrit dans le cadre du projet ModelAge qui a débuté en 
+octobre 2014 et qui implique l’équipe SIG de l’IRIT ( ) et l’équipe 3 de 
+l’I2MC – INSERM ( ). L’objectif de ce projet est de proposer un 
+environnement méthodologique et logiciel complet, depuis l’acquisition 
+de données biologiques jusqu’à la simulation et au pronostic de pathologies.
+
+*Mission *:
+Le candidat participera au développement de la plateforme d’aide à 
+l’analyse de données à destination des biologistes et autres acteurs de 
+terrain. L’objectif principal de la mission est de permettre à ces 
+utilisateurs de décrire leurs besoins de façon intuitive et itérative de 
+sorte à ce que le système puisse leur recommander les opérations 
+d’analyse de données à effectuer.
+La plateforme intègrera un environnement existant d’analyse de données 
+tels que RapidMiner, Knime ou Orange. Une étude et un état de l’art sur 
+les propriétés des ensembles de données ont été effectués. La mission 
+comportera deux volets.
+Le premier volet de la mission visera au développement d’un plugin 
+d’assistance utilisateur pour un des environnements d’analyse de données 
+(RapidMiner, Knime ou Orange). Une étude d’un des environnements devra 
+être réalisée (accès aux opérateurs, génération des workflows, …) afin 
+d’implanter les procédures spécifiées et recommandées.
+Le second volet consistera au développement d’une méthode et d’une 
+interface pour la détermination et l’acquisition du besoin utilisateur 
+en analyse de données. La conception de cette interface nécessitera 
+l’étude des approches permettant de déterminer le besoin et de faire le 
+lien avec les domaines de recherche s’intéressant à des problèmes 
+proches. Un état de l’art en la matière (qualification du besoin) sera à 
+construire.
+
+*Profil *:
+Titulaire d’un doctorat en informatique, spécialité modélisation et 
+fouille de données. Des compétences en programmation Java, langage de 
+requête SQL, apprentissage automatique, IHM et modélisation seraient 
+appréciées.
+
+*Pour postuler* envoyer au plus tôt (et de préférence _avant le 14 
+septembre 2016_) les éléments suivants :
+      •    un CV détaillé,
+      •    une lettre de motivation,
+      •    les coordonnées et/ou lettre de recommandation de référents 
+(encadrants de thèse, …).
+à chantal.soule-dupuy@irit.fr
+
+Responsable scientifique (volet informatique) : Chantal Soulé-Dupuy – 
+chantal.soule-dupuy@irit.fr
+

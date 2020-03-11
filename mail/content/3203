@@ -1,0 +1,91 @@
+Stage de recherche de Master 2 en fouille de données musicales
+
+
+*Contexte :*
+
+RMIS est un projet de recherche pluridisciplinaire entre le laboratoire 
+CREM (Nanterre) et leLIASD (Saint-Denis). Le projet *RMIS*concerne le 
+développement d’un système d’aide à l’identification des cellules 
+mélodico-rythmiques à partir de leur récurrence dans un énoncé musical 
+ou dans plusieurs énoncés musicaux comparés.L’outil informatique 
+permettra de dépasser la perception subjective d’un ethnomusicologue 
+lorsqu’il cherche à identifier des cellules minimales à l’intérieur 
+d’une musique qu’il étudie. Par conséquent l’outil informatique devra 
+identifier dans un premier temps le plus grand dénominateur commun 
+mélodico-rythmique apparaissent plusieurs fois à l'intérieur d'un énoncé 
+musical.
+
+Dans le cadre de ce projet, plusieurs paramètres devront être pris en 
+compte pour la caractérisation des cellules récurrentes:
+
+- La notion d'intervalle étant dans certaines cultures musicales très 
+relative et variable, on prendra plutôt en compte la direction 
+(aiguë/haut ou grave/bas) prise par la mélodie. Ce paramètre revient à 
+tracer un chemin, une forme ou un contour mélodique
+
+- Dans chaque énoncé musical analysé, nous cherchons à identifier 
+l'ensemble des hauteurs récurrentesou des "degrés", correspondant chacun 
+à une fréquence plus ou moins précise. L’ensemble des degrés identifiés 
+structurés dans un ordre ascendant ou descendant permetd'obtenir 
+l'échelle mélodique del'énoncé.
+
+- Le chemin mélodique sera défini à partir de ces hauteurs; on obtiendra 
+ainsi un contour mélodique par paliers, la distance entre les paliers 
+(variations des intervalles) pouvant varier d'un énoncé à un autre, 
+d'une interprétation à une autre, d'un instrument à un autre voire d’une 
+culture musicale à une autre. On pourra ainsi leur assigner des numéros 
+indépendamment de l’intervalle qui les sépare.
+
+- La durée relative des différents degrés devra être prise en compte de 
+manière proportionnelle en faisant abstraction du paramètre lié au tempo.
+
+
+*Objectifs du stage :*
+Le travail sera focalisé sur l’étude du Gamelan Javanais. La musique de 
+gamelan est cyclique, un cycle complet commence et se termine par le 
+gong ageng.
+Dans ce but, une phase de modélisation des données et de recueil des 
+différents termes (glossaire) et leur définition musicale est 
+nécessaire. Le but de cette modélisation est de
+I) Créer la base de données et saisir quelques données.
+II) Concevoir des descripteurs utiles à la reconnaissance des cellules 
+mélodiques, l’échelle mélodique, le chemin mélodique absolu ainsi que le 
+contour mélodique.
+Ensuite, à l'aide des descripteurs, il s'agira de mettre en oeuvre des 
+algorithmes de fouilles de données pour extraire des informations 
+pertinentes et aider à l'indexation du contenu musical
+
+*Informations utiles :**
+*
+Le stage se déroulera dans les locaux du LIASD à l'Université Paris 8 
+(Saint-Denis). La durée du stage est de 6 mois avec démarrage le plus 
+tôt possible.
+Le stagiaire sera encadré par Nedra Mellouli et Herman Akdag en 
+collaboration avec Cyril de Runz (Université de Reims).
+Le montant de la gratification sera de 508,2€ par mois.
+
+Pour toutes candidatures, veuillez envoyer votre CV et lettre de 
+motivation à Nedra Mellouli-Nauwycnk <n.mellouli@iut.univ-paris8.fr> en 
+mettant en copie Herman Akdag (akdag@ai.univ-paris8.fr) et Cyril de Runz 
+(cyril.de-runz@univ-reims.fr).
+
+-- 
+Cyril de Runz
+Maitre de Conférences -- Associate Professor
+Université de Reims Champagne-Ardenne
+IUT de Reims Châlons Charleville
+CReSTIC-SIC/Département Informatique
+Chemin des Rouliers CS30012 51687 REIMS CEDEX 2
+Tel : (+33) 3 26 91 84 58
+http://crestic.univ-reims.fr/membre/312-cyril-de-runz
+http://sites.google.com/site/cyrilderunz/
+Mel : cyril.de-runz@univ-reims.fr
+***********************************
+Directeur pédagogique de la LP Menatis
+http://www.menatis.fr
+http://www.iut-rcc.fr/Infos-diplome-37-Medias-Numeriques-Associes-aux-Technologies-de-l-Image-et-Son-Presentation
+*************************************
+Chargé de communication adjoint de l'EGC
+http://www.egc.asso.fr/
+
+

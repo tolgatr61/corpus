@@ -1,0 +1,115 @@
+
+*Objet du message**= Appel à collaboration : lemmatisation du français 
+15è-20è s.*
+*Coordonnées*: VIGIER, Denis, MCF Lyon2, UMR ICAR 
+http://icar.univ-lyon2.fr/membres/dvigier/
+
+Chères et chers collègues,
+
+Vous serait-il possible de diffuser à votre liste de destinataires 
+l'annonce ci-dessous (Appel à collaboration : lemmatisation du français 
+15è-20è s.) pour le projet PRESTO (ANR-DFG 2013-2016)
+D'avance merci
+Bien cordialement
+
+Denis Vigier
+MCF Langue et Linguistique Françaises
+Université Lyon 2 / UMR ICAR
+http://icar.univ-lyon2.fr/membres/dvigier
+
+---------------------------------
+
+
+Chers collègues,
+
+Le projet PRESTO financé par l'ANR et la DFG (resp.: D. Vigier, Univ. 
+Lyon2 et P. Blumenthal, Univ. de Cologne - CF Résumé 
+ci-dessous) lance une opération de lemmatisation d'un corpus de 
+textes français dont les dates de composition s'échelonnent de 1500 et 
+2000. Pour cela, il a été prévu :
+- de construire un ou plusieurs lemmatiseurs sur la base des logiciels 
+de l'état de l'art (MElt, TreeTagger, LGTagger...) ;
+- de construire un lexique morphologique le plus complet possible 
+associant « forme(1) - catégorie morphosyntaxique(2) - lemme(3) » ;
+- de construire des jeux de règles de transformation orthographique 
+(modernisation ou archaïsation) ;
+- de construire des corpus d'apprentissage déjà étiquetés.
+
+Le projet PRESTO souhaite développer le lexique en appliquant un modèle 
+de construction équivalent à celui utilisé pour le développement des 
+logiciels ouverts (open-source), c'est à dire en compilant différents 
+lexiques en un lexique commun diffusé sous licence libre - de type 
+LGPLFLR (Lesser General Public License For Linguistic Resources - voir : 
+http://hoop.univ-mlv.fr/lgpllr.html). Cette licence précisera 
+explicitement la contribution de chaque partenaire et la mise à jour 
+régulière du lexique sera réalisée de façon communautaire au bénéfice de 
+tous les contributeurs.
+
+Le développement du lemmatiseur se fera dans le cadre de la 
+plateforme TXM qui offre déjà un cadre de développement open-source en 
+logistique de corpus (gestion de formats standards en import et en export,
+intégration d'outils de TAL tiers, etc.). Ce nouvel outil de 
+lemmatisation sera ouvert à tous et librement adaptable (open-source 
+avec une licence de diffusion de logiciel de type GNU GPL - voir : 
+http://www.rodage.org/gpl-3.0.fr.txt).
+
+Si vous disposez de ressources pour la période 15è - 20è s., nous 
+souhaiterions savoir si vous êtes intéressés par des échanges et par le 
+partage d'un lexique, de jeux de règles de transformation ou de corpus 
+d'apprentissage dans les conditions décrites ci-dessus.
+
+Si vous connaissez des personnes qui pourraient être intéressées, 
+nous vous serions très reconnaissants de leur faire suivre ce mail.
+
+Bien cordialement,
+
+Denis Vigier et Peter Blumenthal pour le projet PRESTO
+Adresse de contact:
+
+(1) certaines formes pourront être composées si nécessaire (par exemple 
+comme dans le cas d'un dictionnaire Unitex)
+(2) nous souhaiterions utiliser un jeu d'étiquettes normalisé basé par 
+exemple sur le standard Multext adapté aux différents états de langue 
+diachroniques   (http://nl.ijs.si/ME/V4)
+(3) nous souhaiterions utiliser des formes modernisées des lemmes y 
+compris pour les périodes anciennes
+
+
+_Résumé du projet PRESTO:_
+
+/Ce projet a pour but l’étude diachronique de l’emploi, des valeurs 
+sémantiques et discursives des prépositions françaises "à, en, par, 
+contre, dès, devant, entre, pour, sans, sur, sous, vers, dans", de 
+l’ancienne langue jusqu’au français contemporain./
+
+/Instrumentée, adossée à une approche statistique et distributionnelle, 
+cette étude portera sur les variations du comportement combinatoire des 
+prépositions suivant des critères de dates (évolution diachronique), de 
+genres et d’auteurs. Notre attention se portera tout particulièrement 
+sur la détection des combinaisons hautement spécifiques //dans 
+lesquelles entrent ces prépositions. Nous étudierons l’émergence, la 
+réorganisation et le déclin de structures prépositionnelles figées. Nous 
+comptons parvenir à une vision innovatrice du devenir historique sur la 
+base d’un modèle d’analyse fondé sur deux séries de 
+démarches méthodologiques : (1) l’étude de l’interdépendance entre le 
+quantitatif (les emplois) et le qualitatif (les valeurs) ; (2) l’étude 
+des principes qui ont guidé, en diachronie, la recherche de plus-values 
+sémantiques et discursives, véritable moteur du changement linguistique./
+
+//
+
+/L’un des réquisits – mais aussi l’un des apports majeurs de ce projet - 
+consistera en la constitution d’un corpus comportant des données 
+étiquetées et lemmatisées, représentant toutes les périodes de 
+l’histoire du français ainsi que différents genres discursifs et types 
+de textes. Ce corpus, élaboré conjointement par les équipes française et 
+allemande, s’appuiera pour partie sur les ressources déjà disponibles à 
+Lyon (période médiévale), à Tours (XVI/^/e/ / s.), à Nancy (ATILF) et à 
+Cologne (période moderne, XVII/^/e/ / s. – XX/^/e/ / s.). Une politique 
+active sera menée pour permettre l’ouverture de la plus grande partie 
+possible de ce corpus./
+/
+/
+
+
+

@@ -1,0 +1,55 @@
+Bonjour
+
+Nous organisons le *16 Janvier 2018 à Poitiers* une journée autour de la 
+stéganalyse
+
+*Qu’est-ce que la stéganalyse ?*
+
+La sécurisation d’une communication entre deux personnes passe 
+généralement par le cryptage
+du canal de transmission. Cela n’est cependant pas la seule méthode. La 
+stéganographie fait
+partie des techniques qui consistent en la dissimulation d’un message à 
+l’intérieur d’une information hôte (un texte, une image, une vidéo …), 
+celle-ci devenant le canal de transmission.
+Ce message est inséré en utilisant une clef et un algorithme de sorte 
+qu’un tiers n’en
+ayant pas d’information a priori ne puisse pas détecter sa présence ni 
+l’enlever.
+Dans ce cadre, une attaque doit alors détecter la présence du filigrane 
+dans le signal : c’est la stéganalyse.
+
+Dans différentes applications, notamment de sécurité, il est important 
+de pouvoir justement déployer ce type
+d’attaque afin de certifier que le contenu de données Multimédia est 
+vierge de toute information,
+et peut être transmise.
+Les algorithmes de stéganalyse se sont développés ces dernières années, 
+notamment en image.
+Le plus souvent, des hypothèses sont faites afin de pouvoir décider si 
+une image est corrompue ou non. La plupart du temps, on suppose 
+connaître l’algorithme d’insertion utilisé (ou les algorithmes potentiels).
+
+*Objectifs de la journée*
+
+Il s’agit durant cette journée de présenter d’une manière détaillée
+les différentes approches existantes en stéganalyse ainsi que les enjeux 
+sociétaux associés.
+L’accent sera mis sur des présentations longues de chercheurs reconnus 
+dans le domaine
+afin de pouvoir aborder d’une manière détaillée certains aspects des 
+approches.
+
+<https://emf.fr>
+
+Pour en savoir plus :
+
+http://mires.prd.fr/actualites/journee-steganalyse/
+
+http://www-math.sp2mi.univ-poitiers.fr/stegano2018/
+
+Venez nombreux!
+
+Les organisateurs
+
+

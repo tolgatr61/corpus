@@ -1,0 +1,52 @@
+
+Séminaire de l'équipe Alpage
+
+Il s'agit du séminaire de recherche en linguistique informatique
+organisé par l'équipe Alpage, équipe mixte INRIA - Paris Diderot,
+spécialisée en analyse syntaxique automatique et en traitement du discours.
+
+Vendredi 15 novembre
+de 11h à 12h30
+
+ATTENTION: bâtiment inhabituel :
+le séminaire aura lieu en salle 264E
+à la *Halle aux Farines*
+10 rue Françoise Dolto 75013 Paris
+
+(la salle est plutôt côté Seine du bâtiment, et à l'opposé des Grands Moulins)
+
+Toute personne intéressée est la bienvenue.
+
+
+
+Vers la création semi-automatique d’un VerbNet du français.
+
+Quentin Pradet (CEA LIST) et Laurence Danlos (Université Paris Diderot, ALPAGE)
+
+VerbNet est une ressource lexicale pour les verbes anglais organisée
+autour de classes sémantiques et de sous-classes syntaxiques. Cette
+ressource est très utilisée, notamment pour l'annotation en rôles sémantiques
+(Swier et Stevenson, 2005 ; Palmer et al., 2013).
+
+Il paraît donc nécessaire d’avoir une ressource équivalente pour le
+français. Les seuls efforts qui ont été faits pour l’instant se
+limitent à des constructions automatiques bruitées dont l'évaluation
+se limite à quelques verbes (Messiant et al., 2010 ; Falk et al.,
+2012).  De plus ces efforts font abstraction des ressources lexicales
+qui existent pour le français, or celles–ci existent et sont de
+qualité. Pour les verbes, nous pensons en particulier à LVF+1 (http://
+pageperso.lif.univ-mrs.fr/~paul.sabatier/Contribution_FondamenTAL.html)
+et  au Lexique-Grammaire
+(http://infolingu.univ-mlv.fr/DonneesLinguistiques/Lexiques-Grammaires/Telechargement.html).
+Nous avons donc l’objectif de réaliser un VerbeNet du français
+semi-automatiquement en nous appuyant sur ces ressources, en
+particulier sur LVF+1 et LG, la première plus centrée sur les
+informations sémantiques, la seconde sur les informations syntaxiques.
+Ce VerbeNet garde la hiérarchie des classes sémantiques du VerbNet
+anglais, ce qui permet de garder à l'identique les informations sémantiques, entre autres les rôles thématiques.
+
+Ce travail est en cours. Nous présenterons les premiers résultats, les difficultés rencontrées et les  futurs liens que nous envisageons vers d'autres ressources du français utilisées en TAL.
+
+
+
+

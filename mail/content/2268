@@ -1,0 +1,78 @@
+--- Toutes nos excuses pour les diffusions multiples ---
+
+--------------------------------------------------------*
+*
+Le LIMICS (Laboratoire d'Informatique Médicale et d'Ingénierie des
+Connaissances en Santé) travaille sur les problématiques de l'aide à la
+décision et de la représentation et l'utilisation des connaissances
+(deux branches de l'intelligence artificielle) dans le domaine médical,
+afin de produire des applications et méthodes pour faciliter les
+processus de décisions médicaux et l'interopérabilité entre différents
+services ou systèmes de santé. Une grande partie de l'équipe se focalise
+sur l'utilisation des technologies du Web sémantique (graphes RDF,
+ontologies, raisonneurs logiques, etc) dans des applications de santé.
+
+Contexte du stage :
+--------------------------
+      Le stage, d'une durée de 5 à 6 mois, se déroulera sur le site du
+Campus des Cordeliers (Odéon) sous la tutelle de Yves Parès (ingénieur
+doctorant), Xavier Aimé (chercheur) et Marie-Christine Jaulent
+(directrice de recherche). L'étudiant prendra part au projet ACCORDYS,
+qui vise à produire un système informatique évaluant la ressemblance de
+cas de dysmorphies prénatales (décrits dans des comptes rendus textuels)
+afin de fournir au médecin une réponse aux questions du type « quels
+fœtus malformés rencontrés dans le passé ressemblent le plus à celui-ci
+? ». Le but étant d'aider le diagnostic et le suivi apporté aux parents.
+Ce travail contribue à la caractérisation ce qu'est une dysmorphie. On
+s'intéresse donc à la sémantique et à l'évaluation de mesures de
+similarités entre dysmorphie.
+
+Objet du stage :
+---------------------
+      Le but du stage sera d'utiliser des outils de NLP et d'indexation
+de documents textuels dans ce contexte, et d'évaluer les résultats
+qu'ils fournissent en termes de pertinence. Les méthodes à explorer
+seront les modèles vectoriels (tels qu'utilisés dans les systèmes de
+recommandation) et la construction de clusters de mots à partir de leurs
+co-occurences, afin de pouvoir évaluer la distance séparant deux comptes
+rendus. Le début du stage consistera donc à rechercher parmi les outils
+logiciels existants ceux qui pourraient être adaptés. Le but final est
+de quantifier l'intérêt de ces méthodes pour la tâche à résoudre et de
+comparer leurs résultats à ceux des méthodes déjà en cours de
+développement au sein du LIMICS, ceci pouvant être pour l'étudiant
+l'objet d'un article de recherche en fin de stage.
+
+Gratification :
+------------------
+      La gratification sera de 436,05€/mois, avec de plus un
+remboursement de 50 % du titre de transport.
+
+Profil recherché :
+-----------------------
+      Une grande partie du stage consistant à travailler sur des fichiers
+texte, l'étudiant d'un niveau M2 devra avoir suivi des enseignements sur
+les méthodes de traitement automatique des langues et être intéressé par
+ce domaine. Conjointement à cela, il est souhaitable que l'étudiant ait
+quelques connaissances en machine learning. Il est nécessaire que
+l'étudiant ait été formé à la programmation, et si possible qu'il ait
+déjà utilisé des langages de scripting, adaptés au prototypage (tels que
+Python, Ruby, Perl). Une connaissance de Java et des langages JVM
+alternatifs (Clojure, Groovy, JRuby…) est un plus. Pour finir, un
+intérêt de l'étudiant pour le Web sémantique et les ontologies est
+également appréciable mais pas obligatoire.
+
+      Selon le profil de l'étudiant (plutôt linguistique ou plutôt
+développement informatique), le stage pourra être orienté différemment
+mais les problématiques restent les mêmes.
+
+Contacts :
+-------------
+      yves <point> pares <at> gmail <point> com
+      xavier <point> aime <at> inserm <point> fr
+
+
+
+---
+L'absence de virus dans ce courrier électronique a été vérifiée par le logiciel antivirus Avast.
+http://www.avast.com
+

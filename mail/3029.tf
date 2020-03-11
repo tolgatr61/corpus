@@ -1,0 +1,71 @@
+analyse 
+assistant 
+aux 
+based 
+bases 
+bien 
+bonjour 
+camille 2
+ce 
+cette 
+computer 
+content 
+cordialement 
+d 
+dans 
+de 4
+des 
+descartes 1
+données 
+du 
+email 
+en 
+équipe 
+est 
+et 
+être 
+étudiants 
+fr 
+grandes 
+image 
+images 
+intelligents 
+intéressés 
+jointe 
+kurtz 2
+l 1
+la 
+large 
+le 
+lipade 
+master 
+medical 
+médicales 
+merci 
+message 
+of 
+offre 
+paris 1
+parisdescartes 
+perception 
+pièce 
+pourraient 
+professor 
+propose 
+qui 
+recherche 
+retrieval 
+scale 
+sciences 
+semantics 
+sip 
+stage 
+sujet 
+sur 
+systèmes 
+transmettre 
+un 
+université 
+university 
+vouloir 
+with 

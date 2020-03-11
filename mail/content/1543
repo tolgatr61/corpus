@@ -1,0 +1,83 @@
+
+*Offre de Postdoc - Projet ANR IMPEX : **Intégration des sémantiques 
+implicite et explicite dans les développements de systèmes discrets 
+fondés sur la preuve*
+
+*Lieu* : CentraleSupelec / Laboratoire LRI, Gif-sur-Yvette, France
+
+*Sujet* : Intégration des sémantiques implicite et explicite dans les 
+développements de systèmes discrets fondés sur la preuve
+
+Projet ANR IMPEX (Intégration des sémantiques implicite et explicite 
+dans les développements de systèmes discrets fondés sur la preuve) 
+http://impex.gforge.inria.fr/
+
+*Poste à pourvoir pour  12 mois à partir de  09/2015*
+
+*Sujet* : Les systèmes logiciels évoluent et s'exécutent dans un 
+environnement ou contexte. Raisonner sur la correction de leur 
+comportement repose sur une relation ternaire entre les modèles de 
+besoins, de systèmes et de contexte. Les méthodes formelles offrent des 
+outils (automatiques) pour la synthèse et l'analyse de tels modèles et 
+se sont intéressées à des relations binaires : validation d'un modèle 
+vis-à-vis d'un modèle informel, vérification d'un modèle formel 
+vis-à-vis d'un modèle formel, génération de code à partir d'un modèle, 
+génération de tests à partir de besoins, etc. Le contexte, dans ces cas, 
+est traité comme de seconde classe: en général il est implicite et 
+réparti entre besoins et modèles.
+
+IMPEX vise à rendre explicite la modélisation des contextes et des 
+environnements associés à des domaines d'application. En général, 
+"explicite" signifie clairement exprimé (visiblement) alors que 
+"implicite" signifie indirectement exprimé ou impliqué. Les travaux 
+visés par IMPEX consistent à traiter formellement les termes implicites 
+et explicites dans le processus d'ingénierie du logiciel ou des systèmes.
+
+Dans le cadre du projet ANR IMPEX, nous sommes à la recherche d'un 
+post-doctorant pour 12 mois. La mission de la personne recrutée sera de 
+proposer, d’intégrer et de programmer une méthodologie permettant de 
+formaliser des ontologies et des modèles de données dans les contextes 
+de la méthode Event-B. Le but de cette formalisation est d’enrichir les 
+modèles Event-B par la sémantique des données manipulées, absente 
+jusqu’ici dans le processus de vérification classique.
+
+*Compétences requises :*
+
+- connaissances en développement d'applications (Java, Eclipse, 
+Développement à base de plugins)
+
+- connaissances en modélisation basée sur le raffinement et la preuve 
+(Event-B, Rodin)
+
+- connaissances en modèles de description d’ontologies (OWL, PLIB, …)
+
+**
+
+*Qualités attendues :*
+
+- grande autonomie, curiosité et force de propositions
+
+- aptitude au travail collaboratif (et à distance)
+
+- pragmatisme et capacité à trouver des solutions
+
+Merci d’envoyer votre CV et lettre de motivation à 
+idir.aitsadoune@centralesupelec.fr 
+<mailto:idir.aitsadoune@centralesupelec.fr> avec [IMPEX] en préfixe de 
+l’objet pour faire acte de candidature.
+
+------------------------------------------------------------------------------------------------------
+*Dr.IdirAIT SADOUNE*
+*/Professeur Assistant CentraleSupélec/*
+/CentraleSupélec -Département Informatique/// LRI – Modélisation Hétérogène/
+3, rue Joliot-Curie, 91190 Gif-sur-Yvette / Bât 50 Ada Lovelace, Rue 
+Noetzlin, , 91190 Gif-sur-Yvette
+
+idir.aitsadoune@centralesupelec.fr 
+<mailto:idir.aitsadoune@centralesupelec.fr> 
+http://idir.aitsadoune.free.fr <http://idir.aitsadoune.free.fr/>
+------------------------------------------------------------------------------------------------------
+
+
+
+

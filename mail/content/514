@@ -1,0 +1,49 @@
+
+
+Cher(e)s collègues,
+
+L’Association Française pour l’Intelligence Artificielle (AFIA 
+<http://www.afia.asso.fr/>) organise une compétition Intelligence 
+Artificielle sur Robot lors de la conférence RFIA'16 
+<http://rfia2016.iut-auvergne.com/>. Si une compétition traditionnelle 
+de robotique (e.g., RoboCup, CAROTTE <http://www.defi-carotte.fr/>) 
+favorise l’intégration d’algorithmes liés aux capteurs et actuateurs au 
+sein d’une plateforme robotique (e.g., perception, SLAM, contrôle), la 
+présente compétition se focalise sur l’intelligence des robots : il 
+s’agit d’intégrer au sein d’une plateforme des algorithmes de haut 
+niveau mettant en évidence l’intelligence embarquée des robots.
+
+La plateforme imposée est celle des robots LEGO MINDSTORM 
+<https://fr.wikipedia.org/wiki/Lego_Mindstorms_NXT> (NXT ou EV3). Un ou 
+plusieurs robots par équipe sont possibles. L’arène est de dimensions 
+10m x 5m avec un sol plan quadrillé. Elle contient des obstacles et des 
+murs intérieurs dont les positions sont variables et inconnues des 
+compétiteurs avant chaque épreuve. Les règles de la compétition 
+<http://www.afia.asso.fr/tiki-index.php?page=R%C3%A8glement+de+la+Comp%C3%A9tition+Intelligence+Artificielle+sur+Robots> 
+sont adaptées du jeu « Robot Ricochet 
+<https://fr.wikipedia.org/wiki/Ricochet_Robots> » : à partir d’un point 
+d’entrée dans l’arène, atteindre une destination en rebondissant sur des 
+obstacles statiques (e.g., parpaings, murs) ou dynamiques (autres 
+robots) présents dans certaines cellules de l’arène. Plusieurs niveaux 
+de difficulté sont possibles : selon le nombre d'équipes dans l'arène (1 
+ou 2) et les informations sur la destination (donnée ou informations 
+partielles). Dans ce dernier cas, le(s) robot(s) de chaque équipe 
+doi(ven)t d’abord communiquer avec le(s) robot(s) de l’équipe adverse 
+pour connaître leur destination cible, avant de chercher à atteindre 
+cette destination par rebonds sur des obstacles.
+
+Cette compétition est ouverte à toute personne intéressée par allier 
+Intelligence Artificielle et robotique : chercheurs, étudiants, 
+académiques, lycéens, ingénieurs, amateurs, industriels, et grand public.
+
+_Informations et inscription :_ site web de l'AFIA 
+<http://www.afia.asso.fr/tiki-index.php?page=Comp%C3%A9tition+Intelligence+Artificielle+sur+Robots>
+
+<http://www.afia.asso.fr/tiki-index.php?page=Comp%C3%A9tition+Intelligence+Artificielle+sur+Robots>
+_Comité d’organisation :_ Carole Adam, Florence Bannay, Cédric Buche, 
+Christophe Debain, Cindy Even, Philippe Morignot, Sylvie Saget.
+
+_Contact et questions :_ pmorignot@yahoo.fr <mailto:pmorignot@yahoo.fr>
+
+
+

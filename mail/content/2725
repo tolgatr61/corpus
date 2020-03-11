@@ -1,0 +1,68 @@
+APPEL A PARTICIPATION
+
+Défi EGC 2016 - Communauté EGC quelle histoire et quel avenir.
+Avec nos excuses en cas de réceptions multiples
+
+=====================================================================
+
+L’association EGC lance le premier défi EGC avec comme principe de 
+valoriser votre équipe et vos approches de fouille de données sur des 
+cas concrets. Pour cette première année, les données concernent les 
+publications EGC et les objectifs du défi sont ouverts. Surprenez-nous !
+
+Données :
+      Les données concernent les articles publiés à la conférence EGC 
+depuis 2001.  Elles sont accessibles à l’adresse:
+http://editions-rnti.fr/?m=articles_export
+  en sélectionnant EGC dans la colonne « booktitle ».
+  Chaque enregistrement est décrit par 8 champs : series, booktitle, 
+year, title, abstract,     author, pdf1page, pdfarticle. Seuls sont 
+concernés les articles ayant EGC comme booktitle.
+
+Objectif :
+     Les objectifs de ce premier défi sont volontairement ouverts, 
+surprenez-nous ! Le principe est d’appliquer des techniques d'extraction 
+et de gestion de connaissances afin d'expliquer la structure et 
+l'évolution de l'ensemble des données au fil des éditions (thématiques, 
+communautés, atypiques, ...).
+Tous les éléments du Défi-EGC sont disponibles sur la page dédiée du 
+site de l’association EGC.
+http://www.egc.asso.fr/Manifestations_dEGC/71-FR-Defi_EGC_2016_Communaute_EGC_quelle_histoire_et_quel_avenir
+
+Inscription :
+     Les participants au défi sont invités à s'inscrire à l'adresse 
+suivante :
+https://docs.google.com/forms/d/113aijiUy9Yw5zBsVqBeacs28EW0Si5kMQsitFFNTMsw/viewform?usp=send_form
+L'inscription est gratuite et sans engagement mais nécessaire pour des 
+raisons logistiques.
+
+Soumission :
+      Pour répondre au défi, vous devez rassembler vos résultats sur ces 
+données dans  un article soumis à la conférence EGC’2016, de préférence 
+au format long et avec la mention "Défi EGC 2016 :" dans le titre. Le 
+format à utiliser est la dernière version du style LaTeX RNTI :
+http://www.editions-rnti.fr/files/RNTI-X-Y2.1.zip
+
+Présentation :
+     Les papiers acceptés seront présentés lors de la conférence à Reims 
+en janvier 2016.
+
+Evaluation de vos résultats :
+      Après acceptation de l'article à la conférence, une évaluation par 
+un jury d'attribution du prix aura lieu, dans le même esprit que les 
+autres prix EGC. Les critères d’évaluation seront en particulier la 
+pertinence et la qualité de l'approche méthodologique ainsi que 
+l'originalité et l'intérêt des résultats obtenus. Le prix sera d'un 
+montant de 1500 euros
+
+Calendrier : Les dates de soumission et de notification sont les mêmes 
+que pour la conférence EGC 2016
+
+Contact :
+Si vous avez d’autres questions, merci de contacter Christine Largeron 
+(largeron@univ-st-etienne.fr) en indiquant clairement « Défi EGC 2016» 
+dans le sujet de votre mail.
+
+Bon défi et bel été !
+
+

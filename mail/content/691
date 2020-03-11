@@ -1,0 +1,93 @@
+Bonjour,
+
+Vous trouverez ci-après une proposition de CDD pour un ingénieur de 
+recherche en informatique pour lequel nous recherchons un candidat. 
+Celui-ci est à pourvoir dès à présent.
+   Bien cordialement,
+     Alexandre Pauchet
+*
+CDD d'**i**ngénieur de recherche* : Interactions Dialogiques Multimodales
+
+*Laboratoire d’accueil *: LITIS, INSA de Rouen, France
+
+*Projet :*NARECA (http://nareca.litislab.fr/)*
+
+Résumé :*
+La modélisation des interactions dialogiques multimodales et affectives 
+est un problème bien connu et pluri-disciplinaire en interaction 
+homme-machine. Bien que les outils utilisés diffèrent selon le domaine, 
+cette modélisation s'appuie le plus souvent sur un corpus de dialogues 
+multimodaux annotés, dont l’analyse vise à repérer un ensemble de 
+comportements récurrents significatifs, afin de les expliquer (i.e. 
+fournir un modèle).
+
+L’objectif de ce projet de recherche est d'apprendre un modèle 
+d'interaction multimodale pour un agent virtuel narratif en interaction 
+avec un enfant. Ce modèle d'interaction sera basé sur un ensemble de 
+motifs dialogiquesextraits semi-automatiquement d'un corpus 
+d'apprentissage. Dans le cas d’usage qui nous intéressent, le corpus de 
+dialogues est constitué de narrations interactives et notre objectif est 
+donc de transformer ces données en un modèle d’interaction en y 
+recherchant des régularités. Puisque ce modèle est destiné à être 
+exploité au sein d'un personnage virtuel narrateur, il intégrera des 
+composantes multimodales et émotionnelles utilisées à la fois pour 
+reconnaître les questions de l’enfant vis-à-vis de l'histoire et pour 
+gérer le comportement langagier et non verbal du personnage virtuel lors 
+de la narration interactive.
+
+L'ingénieur de recherche affecté à ce projet travaillera étroitement 
+avec les personnels de recherche affectés au projet NARECA (permanents 
+et post-doctorant) et aux autres partenaires du projet (LIMSI, Psy.NCA, 
+Greyc et Powowbox) à la conception et à la réalisation d'un 
+démonstrateur. Il s'agira donc ici principalement d'une part d'intégrer 
+les algorithmes d'apprentissage statistique et d'extraction de 
+régularités développés à la plate-forme d'analyse de dialogue Viesa 
+(https://sourceforge.net/projects/viesa/) et d'autre part de les 
+déployer au sein d'un agent virtuel autonome en interaction dialogique 
+avec un utilisateur sur la plate-forme AgentSlang 
+(http://agent.roboslang.org/).*
+
+Profil du candidat :*Ingénieur eninformatique
+
+  *
+
+    Bon niveau en programmation (Java)
+
+  *
+
+    Solides connaissances en apprentissage automatique et utilisation de
+    toolbox existantes
+
+  *
+
+    Des expériences en Interaction Homme-Machine, Agents
+    Conversationnels Animés, Dialogue en langue naturel seraient un plus.
+
+*Durée et rémunération :*jusqu'au 31/10/2017, 2482 euros environ
+
+*Candidature* *à envoyer à *: _alexandre.pauchet@insa-rouen.f_ 
+<mailto:alexandre.pauchet@insa-rouen.f>_r_
+
+  *
+
+    Curriculum Vitae
+
+  *
+
+    Lettre de motivation
+
+  *
+
+    Jeune diplômé : relevé de notes récent
+
+
+
+-- 
+Alexandre Pauchet
+Associate Professor
+INSA Rouen - ASI Department
+LITIS Lab
+Phone: +33(0)2 32 95 98 58
+Web:http://asi.insa-rouen.fr/enseignants/~apauchet/
+
+

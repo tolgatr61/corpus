@@ -1,0 +1,128 @@
+Bonjour
+
+Ici loffre dun post doc de 12 mois sur le theme Big Data Warehouse
+Sensors à Irstea Clermont Ferrand. Sous ma direction
+
+Le post doc commence à la rentrée
+
+
+
+**************************************************************************
+********************************
+
+Aujourdhui les big data représente des nouvelles possibilités danalyse
+de donc de connaissance.  Les big data est caractérisé par les 5V :
+Vélocité, Volume, Valeur, Véracité et Variété [4]. Les outils danalyse du
+big data comme les Entrepôts de Données (Big ED) permettent lexploration
+de ces données selon  des axes  (i.e. dimensions) et de sujet (i.e.
+mesures) danalyse. En ce qui concerne le Volume, pour limplémentation
+des BigEDs des travaux récents confirment lefficacité des nouveaux
+systemes de bases de données NoSQL comme document (e.g. MongoDB, CouchDB),
+orienté colonne (par exemple Hive, Cassandra, ), etc. [1][2]. Ces
+systemes NoSQL garantissent de bonnes performances car ils se basent sur
+un paradigme de calcul distribué et un modèle de stockage différent du
+modèle relationnel classique [1][2]. Dans ce projet, nous nous intéressons
+à lentreposage des données des capteurs dans le contexte big data.
+
+Les données de capteurs présentent des particularités qui rendent
+difficile leur gestion/analyse avec les modèles de Big EDs proposés pour
+les applications classiques. En effet les données capteurs sont
+caractérisées par :
+
+1.       Une géolocatlisation qui peut être fixe (i.e. capteur dhumidité
+du sol) ou mobile (i.e. gps)
+
+Comme évoqué dans notre travail [3]. Lentreposage de données spatiales
+volumineuses poses de problèmes liées à la complexité performance de
+stockage et interrogation car ces données sont extrêmement volumineuses
+(e.g. une trajectoire peut être représentée par un point à la seconde) et
+les algorithmes spatiaux (e.g. trouver les points les plus proches) sont
+assez complexes.
+
+2.       Problèmes de qualité :
+
+a.       Un capteur peut envoyer un nombre variable dinformation  : cette
+problématique structurelle nest pas prise en compte par les modèles de
+Big EDs existants car ils prévoient un nombre dattribut bien prédéfini à
+lavance ;
+
+b.      Un capteur peut envoyer une valeur erronée : Faire remonter ces
+valeurs dans le processus danalyse/exploration est fondamental pour
+comprendre le fonctionnement du réseau ;
+
+c.       Une combinaison de deux problèmes précédents.
+
+Le travail demandé dans ce projet consiste en :
+
+1.       Etat de lart sur les Big EDs
+
+2.       Définition dun ou plusieurs modèles de Big EDs en utilisant les
+familles de systemes NoSQL (par exemple document et clé-valeur) qui
+permettent le stockage et linterrogation de données capteurs et leur
+caractéristiques de géolocalisation et qualité
+
+3.       Mise en place une architecture big data pour limplémentation
+de/des modèles (par exemple Cassandra avec Geospark)
+
+4.       Expérimentation et validation avec les données capteurs issues de
+lAgrotechnopole plus des données simulées.
+
+References
+
+[1] Chevalier, M., El Malki, M., Kopliku, A., Teste, O., and Tournier, R.,
+2015. Implementation of Multidimensional Databases with Document-Oriented
+NoSQL. Int Conf. on Big Data Analytics and Knowledge Discovery (DaWaK), pp
+379-390.
+
+[2] Dehdouh, K., Bentayeb, F., Boussaid, O., and Kabachi, N., 2015. Using
+the column oriented NoSQL model for implementing big data warehouses. Int
+Conf. on Parallel and Distributed Processing Techniques and Applications
+(PDPTA), pp 469-475.
+
+[3] Ferrahi, I., Bimonte, S., Kang, M, Boukhalfa, K. 2017. Design and
+implementation of Falling Star:A non-redudant spatio-multidimensional
+logical model for document stores. ICEIS (to appear)
+
+[4] C. Emani,  <http://dblp.uni-trier.de/pers/hc/c/Cullot:Nadine> N.
+Cullot,  <http://dblp.uni-trier.de/pers/hc/n/Nicolle:Christophe> C.
+Nicolle: Understandable Big Data: A survey.
+<http://dblp.uni-trier.de/db/journals/csr/csr17.html#EmaniCN15> Computer
+Science Review 17: 70-81 (2015)
+
+[5] Shekhar, S., Gunturi, V., Evans, M. R., and Yang, K., 2012. Spatial
+Big-Data Challenges Intersecting Mobility and Cloud Computing. Proceedings
+of the 11th ACM Int Workshop on Data Engineering for Wireless and Mobile
+Access -MobiDE, p.  1.
+
+
+
+
+
+
+
+Cordialement
+
+
+
+Dr. Sandro Bimonte
+
+Chargé de Recherche
+
+Irstea, TSCF, Clermont Ferrand
+
+Tel : 0473440666
+
+Web :  <https://sites.google.com/site/sandrobimonte/home>
+https://sites.google.com/site/sandrobimonte/home
+
+
+
+IMPORTANT !!!!!
+
+The old email  <mailto:sandro.bimonte@cemagref.fr>
+sandro.bimonte@cemagref.fr does not work more. Please use
+sandro.bimonte@irstea.fr
+
+
+
+

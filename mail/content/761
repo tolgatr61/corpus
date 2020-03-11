@@ -1,0 +1,277 @@
+[CFP] Appel à communications : RECITAL 2015
+----------------------------------------------
+[ English Version below ]
+[ Excuses pour réceptions multiples ]
+
+RECITAL 2015
+17ème Rencontre des Étudiants Chercheurs en Informatique pour le Traitement 
+Automatique des Langues.
+
+Université de Caen Basse-Normandie, Campus 2, du 22 au 26 juin 2015.
+
+
+Dates importantes
+-----------------
+
+Date limite de soumission : vendredi 20 mars 2015  
+Notification aux auteurs : mardi 28 avril 2015
+Date limite de soumission des versions définitives : vendredi 15  mai 2015 
+
+
+Présentation
+------------
+
+RECITAL 2015, la conférence annuelle des jeunes chercheurs associée à TALN, se 
+déroulera à Caen du 22 au 26 juin 2015. RECITAL offre aux jeunes chercheurs 
+en Traitement Automatique des Langues (TAL) l'occasion de présenter leurs 
+travaux et de comparer leurs approches. Elle est réservée aux étudiants (master 
+et doctorat) et aux jeunes chercheurs ayant obtenu leur doctorat depuis moins 
+d'un an.
+
+Fort du succès des années précédentes, nous encourageons la soumission de 
+travaux même préliminaires, de projets de thèse, et de travaux des premiers 
+mois de recherche (état de l'art, premières pistes, etc.). L'objectif premier 
+de RECITAL est de soutenir les travaux des jeunes chercheurs en TAL et de 
+faciliter leur intégration dans notre communauté. A ce titre, nous visons :
+
+- des relectures pédagogiques : les auteurs doivent pouvoir comprendre les 
+  erreurs qu'ils ont pu commettre afin de pouvoir les corriger et améliorer la 
+  qualité de leur travail;
+
+- des relectures positives : il n'est jamais nécessaire de décourager un jeune 
+  chercheur, les maîtres-mots devront encourager/guider;
+
+- l'échange direct : les relectures seront communiquées signées, donc 
+  non-anonymes, aux auteurs. Libre à eux d'aller informellement 
+  discuter ensemble lors de la conférence.
+
+Le prix du meilleur papier RECITAL sera décerné lors de la cérémonie de clôture.
+
+Un programme de bourses est mis en place pour aider les auteurs des articles 
+acceptés. Ces bourses comprennent le voyage jusqu’à Caen et l’inscription aux 
+conférences. Elles seront accordées après examen, au cas par cas, des demandes 
+et des papiers soumis.
+
+Thèmes principaux
+-----------------
+
+Les communications pourront porter sur les thèmes habituels du TAL :
+
+- Analyse et génération dans les domaines suivants :
+   + Phonétique
+   + Phonologie
+   + Morphologie
+   + Syntaxe
+   + Sémantique
+- Analyse et génération dans les domaines suivants :
+   + Phonétique
+   + Phonologie
+   + Morphologie
+   + Syntaxe
+   + Sémantique
+   + Discours
+- Développement de ressources linguistiques pour le TAL :
+   + Bases de données comportant des informations morphologiques, syntaxiques, 
+     sémantiques, et/ou phonologiques
+   + Grammaires
+   + Lexiques
+   + Ontologies
+   + Linguistique de corpus
+- Applications du TAL :
+   + Analyse de sentiments ou d'opinions
+   + Catégorisation ou classification automatique
+   + Désambiguïsation lexicale
+   + Dialogue homme-machine en langage naturel
+   + Enseignement assisté par ordinateur
+   + Indexation automatique
+   + Recherche et extraction d'information
+   + Résumé automatique
+   + Résolution d'anaphores
+   + Systèmes de question-réponse
+   + Traduction automatique
+   + Web sémantique
+- Approches :
+   + Linguistiques formelles destinées à soutenir les traitements automatiques
+   + Symboliques
+   + Logiques
+   + Statistiques
+   + Basées sur l'apprentissage automatique
+
+Cette liste n'est pas exhaustive et l'adéquation d'une proposition de 
+communication à la conférence sera jugée par le comité de programme.
+
+
+Critères de sélection
+---------------------
+
+Les auteurs doivent être des étudiant(e)s ou bien des jeunes docteur(e)s ayant 
+soutenu leur thèse depuis moins d'un an. Les publications avec des chercheurs 
+confirmés (ce qui inclus les directeurs de thèses) doivent être soumises à TALN 
+et non à RECITAL.
+
+Les auteurs sont invités à soumettre des travaux de recherche originaux, n'ayant
+pas fait l'objet de publications antérieures. Les soumissions seront examinées 
+par au moins deux spécialistes du domaine. Seront considérées en particulier:
+
+- La correction du contenu scientifique et technique
+- La situation des travaux dans le contexte de la recherche internationale
+- L'organisation et la clarté de la présentation
+- L'adéquation aux thèmes de la conférence
+
+Les articles sélectionnés seront publiés dans les actes de la conférence. 
+Suivant l'avis du comité de programme, les présentations se feront soit sous 
+forme orale soit sous forme de poster.
+
+
+Modalités de Soumission
+-----------------------
+
+Les articles seront rédigés en français pour les francophones, en anglais pour 
+ceux qui ne maîtrisent pas le français. Les articles doivent faire de 10 à 12 
+pages. Une feuille de style LaTeX, un modèle Word et un modèle LibreOffice 
+seront disponibles sur le site web de la conférence 
+(https://taln2015.greyc.fr/recital/).
+
+Contact : Responsables du Comité de programme RECITAL
+
+	Charlotte Lecluze et José Moreno
+	Université de Caen Basse-Normandie, GREYC CNRS UMR 6072
+    
+	Pour nous contacter : prenom.nom@unicaen.fr
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+[English version]
+[ Apologies for cross postings ]
+
+RECITAL 2015 : Call for Papers
+------------------------------------
+
+17th Rencontre des Étudiants Chercheurs en Informatique pour le Traitement 
+Automatique des Langues (RECITAL)
+
+(Natural Language Processing Students Conference)
+
+University of Caen Lower Normandy, June 22-25, 2015  -  Caen, France
+
+
+Important dates
+-----------------
+
+- Submission deadline : Friday, March 20 2015
+- Acceptance notification : Tuesday, April 28 2015
+- Camera ready : Friday, May 15 2015
+
+Presentation
+------------
+
+RECITAL 2015, the annual meeting for young researchers associated to the TALN 
+conference, will take place in Caen (France) on June 22 to 25.
+RECITAL provides a venue for young researchers investigating topics in 
+Computational Linguistics and Natural Language Processing to present their 
+research, meet potential advisors, and receive feedback from the research 
+community. Authors must be students (Master or Ph.D.) or young researchers who 
+recently completed their Ph.d. RECITAL 2015 will include oral and poster 
+presentations. The official language is French but English presentations and 
+papers are accepted for non-French-speaking authors. 
+
+Building on the success of the previous year, we are encouraging the submission 
+of research proposals and papers describing preliminary works (state-of-the-art,
+first experiments, etc.). RECITAL's main goal is to support the work of young 
+researchers and facilitate their integration into our community. To this aim 
+we enhance :
+
+ - pedagogic reviews : authors should be able to understand their mistakes and 
+   correct them in order to improve the quality of their work;
+
+ - positive reviews : it is never necessary to discourage a young researcher, 
+   watchwords will be encouraging/guiding;
+
+ - direct exchange : all the reviews will be signed. Authors and reviewers are 
+   encouraged to discuss together during the conference.
+
+A prize will be awarded to the author(s) of the best paper during the closing 
+ceremony.
+
+A scholarship program is set up to help authors of accepted papers.
+These grants include travel to Caen and conference registration.
+They shall be granted after examination on a case-by-case requests and 
+submitted papers.
+
+A scholarship program is set up to help authors of accepted papers.
+These grants include travel to Caen and conference registration.
+They will be granted after examination of requests and submitted papers.
+
+Topics
+------
+
+Relevant topics include, but are not limited to, the following areas 
+(in alphabetical order):
+
+- Analysis and generation in the following domains:
+ + Phonetics
+ + Phonology
+ + Morphology
+ + Syntax
+ + Semantics
+ + Discourse
+- Development of language resources for NLP:
+ + Databases containing morphological, syntactic, semantic, and/or 
+   phonological information
+ + Grammars
+ + Lexicons
+ + Ontologies
+ + Corpus linguistics
+- NLP applications:
+ + Opinion and Sentiment Analysis
+ + Automatic Classification or Categorization
+ + Word Sense Disambiguation
+ + Human machine dialogue
+ + Automatic Indexing
+ + Information Retrieval and Extraction
+ + Summarization
+ + Anaphora resolution
+ + Question-Answering
+ + Machine Translation
+ + Semantic Web
+- Approaches:
+ + Formal Linguistics to support automatic processing
+ + Automatic processing for experimental linguistics
+ + Computational psycholinguistics
+ + Symbolic
+ + Logical
+ + Statistical
+ + Based on Machine Learning
+
+Selection Criteria
+------------------
+
+Research Papers must describe original completed work or work in progress and 
+should clearly indicate directions for future research wherever appropriate. 
+Authors MUST be students (Master or Ph.D.) or young researchers who recently 
+completed their Ph.D. Publications with confirmed researchers (which include 
+Ph.D. supervisors) must be submitted to TALN.
+
+Submissions will be reviewed by at least two experts in the field.
+In particular, will be considered:
+
+ - Correction of scientific and technical content
+ - Comparison with previous works
+ - The organization and clarity of presentation
+ - The adequacy of the conference topics
+
+The selected communications will be published in the conference proceedings. 
+
+Submission Procedure 
+--------------------
+
+Papers will be written in French for French-speaking authors or English for 
+non-French-speaking authors. A LaTeX style file and a Word template will be
+available on the conference website (https://taln2015.greyc.fr/recital/).
+
+Contact : Charlotte Lecluze and José Moreno
+                  University of Caen Lower Normandy, GREYC CNRS UMR 6072
+          firstname.lastname@unicaen.fr
+
+

@@ -1,0 +1,116 @@
+
+
+Toutes nos excuses en cas de réceptions multiples. 
+
+
+
+
+------------------------------------------------------------------------ 
+
+
+
+
+
+Appel à publication pour un numéro spécial de 
+
+RIA sur le thème : 
+
+ANALYSE DES RÉSEAUX SOCIAUX 
+
+
+Date limite de soumission : février/2016 
+
+
+
+
+
+THÉMATIQUE : INTELLIGENCE ARTIFICIELLE ET RÉSEAUX SOCIAUX 
+
+
+
+OBJECTIF 
+
+Ces dernières années ont été marquées par l’explosion des réseaux sociaux sur Internet, renouvelant l’intérêt de la communauté scientifique non seulement en sciences sociales mais également en informatique pour l’analyse et la fouille de graphes. Aujourd’hui, les graphes utilisés pour étudier ces réseaux sont de très grande taille tant par le nombre de nœuds associés aux individus que par celui des arêtes qui décrivent leurs relations ou leurs interactions. La diversité des types de liens et de réseaux qu’ils capturent pose de plus des problèmes d’intégration et de raisonnement sur ces différentes structures. Les besoins d’analyse ont également évolué, requérant le développement d’algorithmes et d’outils plus puissants pouvant algorithmiquement passer à l'échelle, tant en masse de données qu'en débit. 
+
+
+
+L'intelligence artificielle et ses différentes spécialités apporte de nouvelles méthodes pour répondre aux défis posés par les innombrables applications autour des réseaux sociaux : passage à l’échelle (faire face à la volumétrie), prise de décisions dans des environnements évolutifs et complexes, prise en compte de la sémantique des communications (taxonomies, ontologies, controverses, analyse des sentiments), augmentation de l'hétérogénéité des sources de données, etc. 
+
+
+
+L’objectif de ce numéro spécial est de positionner les problématiques du domaine et d'identifier les avancées récentes et les problèmes ouverts. 
+
+
+
+Ce numéro vise à réunir des contributions scientifiques sur le thème de l'utilisation de techniques d’intelligence artificielle pour l’analyse de réseaux sociaux . 
+
+
+
+Dans ce numéro nous souhaitons investir les thèmes suivants : (liste non exhaustive) : 
+
+    * Fouille de grands graphes sociaux ( clustering , classification, recherche de motifs fréquents, link mining, etc. ) 
+    * Diffusion de l'information (diffusion des épidémies, contagion, etc.) 
+    * Recommandation sociale 
+    * Prédiction de liens dans les réseaux sociaux 
+    * Détection du Spam social 
+    * Qualification des données dans les réseaux sociaux (fiabilité, imprécision, incertitude, etc) 
+    * Analyse de données sociales et extraction de connaissances 
+    * Détection, étiquetage et évolution de communautés 
+    * Analyse des réseaux sociaux dynamiques, détection ou caractérisation d’évolutions 
+    * Analyse des sentiments et fouille d’opinions 
+    * Réseaux sociaux et ingénierie des connaissances 
+    * Anonymisation et Vie Privée 
+
+
+
+
+L'éditeur : http://www.revuesonline.com/portail/ 
+
+La Revue : http://ria.revuesonline.com 
+
+RECOMMANDATIONS AUX AUTEURS 
+
+    * Les articles doivent être soumis en ligne à l’adresse suivante : 
+
+
+https://easychair.org/conferences/?conf=ars2016 , et doivent respecter la feuille de style de la revue disponible sur le serveur http://ria.revuesonline.com/accueil.jsp (ou sur demande à : ria@lavoisier.fr ) 
+
+    * Les articles font entre 20 et 30 pages. Ils sont acceptés en français. 
+    * Les soumissions sont envoyées sous format PDF de préférence 
+    * Les versions finales sont acceptées au format Word (ou PDF pour les articles faits avec latex). 
+
+
+
+
+Les articles faits avec Latex ne sont pas modifiés par le service éditorial qui met simplement à disposition des auteurs un fichier de style Latex au format revue. Les auteurs utilisant Latex devront corriger leur article selon les instructions de l’éditeur portées sur le pdf et renvoyer un pdf de leur article final. 
+
+
+
+
+
+
+
+CONTACT 
+
+
+
+
+
+Tassadit BOUADI Arnaud MARTIN Fabien GANDON 
+
+Univ. Rennes 1 ‐ IRISA Univ. Rennes 1 ‐ IRISA INRIA Sophia Antipolis 
+
+tassadit.bouadi@irisa.fr arnaud.martin@irisa.fr fabien.gandon@inria.fr 
+
+
+
+
+
+
+-- 
+Tassadit BOUADI 
+Maître de Conférences 
+IRISA / Université de Rennes 1 (IUT Lannion) 
+tbouadi@irisa.fr 
+
+

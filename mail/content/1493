@@ -1,0 +1,135 @@
+
+
+Offre : Chef de projet informatique, expert en bases de données pour le 
+Big Data
+
+*** Mots clés : Big Data, bases de données distribuées, analyse et 
+indexation d’images, vision par ordinateur, instrumentation, 
+architecture FD-SOI, système de vision mobile pour l’aide à la 
+navigation pédestre.
+
+*** Contexte
+
+Les laboratoires MATIS et LOEMI sont deux des quatre laboratoires de 
+l’Institut National de l’Information Géographique et Forestière (IGN). 
+Ils totalisent une cinquantaine de chercheurs reconnus en vision par 
+ordinateur, photogrammétrie, analyse d’images, modélisation 3D et 
+télédétection pour le MATIS, et en instrumentation optique et 
+électronique d’observation et de mesure pour le LOEMI. Ces deux 
+laboratoires sont situés sur le site de l’IGN à Saint-Mandé (Val de 
+Marne, station Saint-Mandé métro ligne 1).
+
+Dans le cadre du projet européen Things2Do (call KET ENIAC, aide 120M€, 
+2014-2017) qui réunit 45 partenaires européens multidisciplinaires, 
+industriels comme académiques, autour du domaine des nanotechnologies et 
+de leurs applications, ces deux laboratoires contribuent à l’étude et au 
+développement d’un système de vision portable et léger pour l’aide à la 
+navigation pédestre dans la ville. Pendant quatre ans, une équipe d’une 
+quinzaine de chercheurs et ingénieurs étudiera à l’IGN le design d’une 
+caméra intelligente à base d’une architecture FD-SOI et les techniques 
+d’analyse d’images et de vision par ordinateur évoluées qui seront 
+embarquées sur cette architecture. Un objectif clé à atteindre est 
+l’estimation de pose, qui devra fournir une localisation et orientation 
+très précise du système mobile en temps réel. Cette tâche inclut en 
+particulier la mise en correspondance fine et à large échelle des 
+contenus image capturés, avec ceux du référentiel Stéréopolis d’images 
+de rue géolocalisées produit par l’IGN. Etant donné les volumes d’images 
+mis en jeu, il sera ici crucial de proposer et mettre en place une 
+architecture de stockage pour ces contenus et les descriptions 
+multidimensionnelles qui en découlent, ainsi que de développer des 
+méthodes d’indexation et d’accès dédiées permettant de retrouver et de 
+comparer ces descriptions très rapidement.
+
+*** Mission
+
+Sous la houlette d’un comité de pilotage IGN et dans un environnement 
+européen multidisciplinaire de recherche de pointe, votre mission de 
+chef de projet sera double :
+
+o Conduite de projet
+
+- Rendre compte des avancées du projet au comité de pilotage IGN du projet ;
+- Être force de proposition au sein de ce comité de pilotage ;
+- Superviser les spécifications des développements de recherche et 
+interactions d’une équipe de chercheurs et d’ingénieurs permanents 
+(8-10) et contractuels (5), spécialisés en vision par ordinateur 3D, en 
+instrumentation optronique et en imagerie numérique ;
+- Rédiger des spécifications techniques ;
+- Coordonner les développements techniques internes IGN en lien avec les 
+solutions existantes et celles des autres partenaires du projet ;
+- Coordonner la rédaction des différents livrables du projet.
+
+o Expertise en bases de données pour le Big Data
+
+- Proposer et mettre en place une solution technologique appropriée, sur 
+la base de l’état de l’art et des solutions existantes (MapReduce, 
+Hadoop, NoSQL, etc.) pour le stockage, la gestion et l’interrogation 
+rapide de bases de données hétérogènes à large échelle.
+
+*** Profil/compétences
+
+o Forte expérience en développement d’applications logicielles en bases 
+de données distribuées pour le Big Data ;
+o Expérience significative de conduite de projet informatique et 
+supervision d’ingénieurs ;
+o Expérience si possible de la recherche industrielle dans des secteurs 
+de haute technologie logicielle ;
+o Maîtrise de l’anglais ;
+o Excellentes capacités relationnelle et rédactionnelle.
+
+La connaissance de domaines tels que l’analyse d’images, l’indexation 
+d’images, la vision par ordinateur ou l’instrumentation n’est pas 
+requise mais serait un plus.
+
+*** Diplôme requis
+
+Formation de haut niveau en informatique (ingénieur grande école et/ou 
+doctorat).
+
+*** Durée du contrat
+
+36 mois et renouvellement possible jusqu’à 12 mois (fin du projet le 
+31/12/2017).
+
+*** Date d’embauche
+
+Dès que possible.
+
+*** Salaire
+
+Ingénieur sénior, 3200-3800 euros net/mois, selon l’expérience.
+
+*** Lieu
+
+IGN, Saint-Mandé (limitrophe Paris, métro ligne 1 station Saint-Mandé).
+
+*** Candidature
+
+Avant le *31/05/2014*, envoyer par email aux deux contacts, *dans un 
+seul fichier PDF*:
+
+o Un CV détaillé avec la description des projets réalisés
+o Une lettre de motivation centrée sur l’offre
+o 3 lettres de recommandation avec les informations de contact
+
+*** Contacts
+
+Valérie Gouet-Brunet, directrice de recherche, MATIS, valerie.gouet@ign.fr
+Olivier Martin, ingénieur de recherche, LOEMI, olivier.martin@ign.fr
+
+Retrouver  l’offre ici : 
+http://recherche.ign.fr/labos/matis/propositionsMATIS.php
+
+
+-- 
+Valerie Gouet-Brunet
+Directrice de recherche
+IGN - MATIS Lab.
+73, Avenue de Paris
+F94165 Saint-Mande CEDEX
+Tel. +33 1 43 98 62 10 / Fax +33 1 43 98 85 81
+http://recherche.ign.fr/labos/matis/~valerie.gouet-brunet
+
+
+
+

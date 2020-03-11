@@ -1,0 +1,11 @@
+à 
+appel 
+bonjour 
+cet 
+communications 
+diffuser 
+merci 
+nacer 
+pourriez 
+re 
+vous 

@@ -1,0 +1,57 @@
+[toutes nos excuses en cas de réceptions multiples]
+
+Atelier Qualité des Données du Web (QLOD’16) - EGC 2016
+Appel à participation
+
+
+Aujourd'hui, avec le développement des technologies du web, la donnée est considérée comme un atout stratégique pour les organisations, les laboratoires scientifiques et les entreprises. La disponibilité des données dans un format numérique et structuré a accéléré le développement des techniques d'exploration et de raisonnement sur les données dans le but d'extraire de valeur ajoutée à partir de ces données. Ces approches ont créé un besoin pour des données réelles, fiables et de haute qualité. En conséquence, la qualité des données est devenue un enjeu important et un défi pour les années à venir.
+La recherche dans ce domaine comprend des aspects théoriques, liés à la formalisation, la définition de la qualité et le développement de langages et de modèles supportant les concepts sous-jacents. Elle couvre aussi des recherches pratiques, expérimentales et comme le développement de méthodes d'évaluation, les approches de validation, les benchmarks, l'expérimentation sur des jeux réels, etc. 
+
+QLOD'16 vise à offrir un espace pour des échanges fructueux et enrichissants impliquant des chercheurs, mais aussi des professionnels du monde de l'entreprise avec une diversité de point de vue et de profil concernant la qualité des données surtout lorsqu'elles sont hétérogènes, non/peu structurées, massives et de qualités diverses.
+
+http://qlod2016.cnam.fr/ <http://qlod2016.cnam.fr/>
+
+Programme QLOD 2016
+
+	• 09h30 : Accueil - Introduction (Samira Cherfi et Fayçal Hamdi)
+
+	• 09h30 - 10h30 : Fabian M. Suchanek. A hitchhiker's guide to Ontology
+
+	• 10h30 - 11h00 : Pause café
+
+	• 11h00 - 11h30 : Nourelhouda Yahi, Hacene Belhadef and Mathieu Roche. Comment l'hétérogénéité des données peut influencer la qualité des connaissances ?
+
+	• 11h30 - 12h00 : Abdelfettah Feliachi, Nathalie Abadie and Fayçal Hamdi. Que représentent les références spatiales des données du Web ? un vocabulaire pour la représentation de la sémantique des XY
+
+	• 12h00 - 12h30 : Carmen Brando, Nathalie Abadie and Francesca Frontini. Linked Data Quality for Domain-Specific Named-Entity Linking 
+
+	• 12h30 : Discussions et clôture de l'atelier
+
+
+Conférence Invitée 
+
+Fabian M. Suchanek 
+
+A hitchhiker's guide to Ontology 
+
+Abstract: In this talk, I will present our recent work in the area of knowledge bases. It covers 4 areas of research around ontologies and knowledge bases: The first area is the construction of the YAGO knowledge base. YAGO is now mulitlingual, and has grown into a larger project at the Max Planck Institute for Informatics and Télécom ParisTech. The second area is the alignment of knowledge bases. This includes the alignment of classes, instances, and relations across knowledge bases. The third area is rule mining. Our project finds semantic correlations in the form of Horn rules in the knowledge base. I will also talk about watermarking approaches to trace the provenance of ontological data. Finally, I will show applications of the knowledge base for mining news corpora.
+
+
+Cordialement,
+Samira Cherfi & Fayçal Hamdi
+
+--
+Fayçal Hamdi
+http://cedric.cnam.fr/~hamdif/
+Associate Professor - CNAM
+Laboratoire CEDRIC - Equipe ISID
+Case Courrier 2D4P10
+292, rue Saint-Martin
+F-75141 PARIS cedex 03
+FRANCE
+Phone: +33 1 40 27 22 53
+
+
+
+
+

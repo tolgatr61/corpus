@@ -1,0 +1,111 @@
+
+  ---------------------------------------------------------------------
+         - APPEL A COMMUNICATIONS - SIMTOOLS 2013 -
+
+         Des outils libres pour la conception et l’analyse
+         de simulations spatialisées à base d’agents
+
+         15 mars 2013, Paris (IGN - Saint Mandé)
+
+         https://sites.google.com/site/simtoolsnetwork/simtools-2013
+---------------------------------------------------------------------
+Les avancées de l’informatique de ces dernières années ont permis
+l’essor d’approches de modélisation permettant la représentation et la
+simulation fine de systèmes complexes spatialisés. Les approches par
+simulation, telles que la simulation à base d’agents, sont de plus en
+plus utilisées pour aborder des problématiques en science humaines et
+sociales, ainsi que dans le domaine de la prospective environnementale.
+Ces développements ouvrent non seulement des perspectives de recherche
+en informatique (langages dédiés, algorithmes permettant des intégrations
+multi-niveaux, visualisation, calcul massif, big data, etc.), mais
+présentent également un intérêt croissant pour les acteurs de terrain
+(gestionnaires de biens publics, industriels, etc.).
+
+Le workshop Simtools2013 est organisé par le réseau RNSC SimTools dans
+le cadre de ses activités de recherche et de valorisation. Ce réseau
+est dédié au développement de méthodes et d’outils de conception,
+d’analyse et d’évaluation de simulations spatialisées de phénomènes
+sociaux. L’objectif de ce réseau est de mutualiser, de capitaliser et
+de valoriser des travaux innovants, issus de la communauté, et qui
+s’appuient sur un socle méthodologique empruntant notamment à
+l’intelligence artificielle, la statistique, la géomatique la théorie
+des graphes.  A moyen terme, l’objectif est également de faire
+converger des développements réalisés dans des projets applicatifs
+épars, et de les intégrer dans une plate-forme de
+modélisation-simulation partagée, libre de droit, utilisable par des
+modélisateurs non-informaticiens, en provenance d’horizons variés.
+Thèmes du workshop
+
+Nous souhaitons faire de SimTools2013 un événement convivial d’échange
+autour de travaux en cours et/ou de projets plus aboutis en simulation
+spatialisée. En particulier, nous souhaitons que ce workshop soit un
+lieu privilégié de discussion, ouvert aux universitaires et
+industriels, et de démonstration de logiciels libres dédiés à la
+création et à l’étude de modèles et de simulations. Les propositions
+incluant une démonstration sont vivement encouragées.
+
+* Thématiques
+
+Conception de modèles et de simulations :
+- Plate-formes de simulation et langages dédiés
+- Représentations non-conventionnelles du temps et de l’espace dans
+   les simulations
+- Techniques d’apprentissage pour la conception de simulation
+- Intégration et articulation de multiples niveaux d’organisation dans
+   les modèles
+- Modélisation et simulation participative
+- Modélisation et simulation collaborative
+- Meta-modélisation, DSL et MDA pour la simulation
+- Intégration dans des environnements de gestion de workflows et
+   déploiement sur des environnements de calcul parallèle
+
+Analyse de simulations et de modèles :
+- Outils d’analyse des comportements dynamiques exhibés par les
+   simulations
+- Assimilation de données
+- Visualisation des dynamiques des simulations
+- Plans d’expérience, exploration de l’espace des paramètres
+
+* Dates importantes
+
+Limite de soumission: 28 février 2013
+Notification aux auteurs: 5 mars 2013
+Limite d'inscription: 15 mars 2013
+Workshop à Paris: 15 mars 2013
+
+* Format de soumission
+
+Deux types de soumissions sont proposés :
+- Article (6 à 8 pages)
+- Poster / Texte de présentation d’une démonstration (2 pages)
+
+Les soumissions doivent être rédigées en français ou en anglais et
+suivre le format LNCS.  Pour cette première édition, les travaux
+préliminaires de même ou des articles soumis en parallèle à d'autres
+workshops ou conférences sont également les bienvenus.
+
+Les soumissions sont à déposer sur Easychair :
+https://www.easychair.org/account/signin.cgi?conf=simtools2013
+
+* Comité de programme
+- Amouroux Edouard, LIP6, Université P&M Curie
+- Caillou Philippe, LRI, Université d’Orsay
+- Dembele Jean-Marie, UMI UMMISCO,  Université Gaston Berger
+- Dumoulin Nicolas, Lisc, Irstea
+- Gaudou Benoit, IRIT, Université Toulouse 1
+- Gil-Quijano Javier, LIST, CEA
+- Leclaire Mathieu, Géographie-Cités et ISC-PIF
+- Louail Thomas, IRIT, Université Toulouse 1
+- Marilleau Nicolas, UMI UMMISCO, IRD
+- Perret Julien, COGIT, IGN
+- Reuillon Romain, Géographie-Cités et ISC-PIF
+- Rey-Coyrehourcq Sébastien, Géographie-Cités, Université Paris 7
+- Taillandier Patrick, UMR IDEES, Université de Rouen
+- Thiriot Samuel, EDF R&D
+
+* Contact
+simtools2013@rnsc.fr
+---------------------------------------------------------------------
+
+
+

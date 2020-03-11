@@ -1,0 +1,123 @@
+Sujet de stage M2 : Deep learning pour le résumé automatique par filtrage
+puis génération
+
+
+-----------------------------------------------------------------------------------------------------
+Offre de stage de Master 2 : Deep learning pour le résumé automatique par
+filtrage puis génération
+
+LIASD - Université Paris 8 - IUT de Montreuil
+------------------------------------------------------------------------------------------------------
+
+
+---------------------
+ Notre laboratoire
+---------------------
+
+Le LIASD est un laboratoire d'intelligence artificielle à cheval sur le
+campus de Saint-Denis de l'Université Paris 8 et le site de l'IUT de
+Montreuil. Nous développons au sein de l'IUT de Montreuil un axe de
+recherche lié au texte, à la représentation des connaissances et à la
+recherche et à l'extraction d'information.
+
+
+---------------------
+ Contexte du stage
+---------------------
+
+Nous disposons d'un financement de l'Agence Nationale de la Recherche, le
+projet ASADERA (http://linc.iut.univ-paris8.fr/asadera), dont l'objectif
+est d'explorer de nouvelles modalités et méthodes de résumé automatique.
+Dans ce cadre, nous voulons explorer des méthodes génératives de résumé
+automatique. Le résumé automatique a longtemps été cantonné à des approches
+purement extractives (l'extraction de fragments de texte depuis les
+documents à résumer), puis a évolué vers plus d'abstraction grâce aux
+approches de compression de phrases (les phrases sont compressées puis une
+étape d'extraction extrait les meilleures d'entre elles). Aujourd'hui, la
+communauté scientifique s'intéresse de plus près aux approches génératives
+(voir par exemple http://aclweb.org/anthology/D17-1221), notamment grâce à
+l'apport des réseaux de neurones profonds récurrents. Cependant, la
+complexité de l'apprentissage de la génération d'un texte court depuis un
+texte beaucoup plus long fait qu'une approche purement générative reste
+impensable. De plus, puisque les résumés à générer diffèrent par leur sujet
+et donc les mots utilisés des résumés sur lesquels un modèle peut être
+appris, le mécanisme de génération doit faire appel à des techniques
+particulières afin d'éviter d'intégrer des mots issus du vocabulaire
+spécifique des sujets du corpus d'apprentissage dans les résumés générés
+sur de nouveaux sujets.
+
+
+------------------------
+ Description du stage
+------------------------
+
+Nous proposons ici de réduire la complexité du problème en procédant en
+premier lieu à une approche de filtrage des phrases : seules les phrases
+les plus pertinentes doivent servir de base à l'apprentissage de la
+génération. Puis l'apprentissage, à base de réseaux de neurones profonds
+récurrents, doit incorporer un mécanisme de copie (
+https://arxiv.org/abs/1603.06393) afin d'éviter l'intégration de mots hors
+sujet dans les résumés générés.
+
+Le stagiaire devra donc implémenter ces différentes couches de traitement
+afin de produire puis d'évaluer un système de résumé automatique par
+filtrage/génération. Les corpus ainsi que les outils d'évaluation sont
+prêts à utiliser, et les mécanismes de filtrage également. Différentes
+implémentations des RNN avec mécanisme par copie sont également disponible,
+mais externes à l'équipe.
+
+Le stage est d'une durée de 6 mois.
+
+
+---------------------------------------
+ Compétences/Connaissances requises
+---------------------------------------
+
+- Niveau Master 2
+- Maîtrise des frameworks Keras/Tensorflow
+- Forte compréhension des mécanismes d'apprentissage des réseaux de neurone
+- Intérêt pour le traitement automatique du langage
+- Parfaite maîtrise des systèmes Linux
+- Maîtrise des langages Python et Java
+
+
+-----------------
+ Lieu du stage
+-----------------
+
+IUT de Montreuil
+140 rue de la Nouvelle France
+93100 Montreuil
+Métro Mairie de Montreuil + bus (15 minutes)
+
+
+--------------------
+Références utiles
+--------------------
+
+Jiatao Gu, Zhengdong Lu, Hang Li, and Victor OK
+Li. 2016. Incorporating copying mechanism in
+sequence-to-sequence learning. In ACL, pages
+1631–1640
+
+Chen Li, Fei Liu, Fuliang Weng, and Yang Liu. 2013.
+Document summarization via guided sentence compression.
+In EMNLP, pages 490–500.
+
+Alexander M Rush, Sumit Chopra, and Jason Weston.
+2015. A neural attention model for abstractive sentence
+summarization. EMNLP, pages 379–389.
+
+Ramesh Nallapati, Bowen Zhou, Caglar Gulcehre,
+Bing Xiang, et al. 2016. Abstractive text summarization
+using sequence-to-sequence rnns and beyond.
+arXiv preprint arXiv:1602.06023.
+
+
+
+
+
+Merci d’envoyer votre candidature à aurelien.bossard@gmail.com en indiquant
+en objet "Candidature stage résumé". N'oubliez évidemment pas de joindre un
+CV et une lettre de motivation.
+

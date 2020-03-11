@@ -1,0 +1,70 @@
+Bonjour,
+
+J'ai le plaisir de vous inviter à ma soutenance de thèse de doctorat en
+informatique,  réalisée en co-tutelle entre la Faculté des Sciences de 
+Tunis et Télécom Sud Paris, intitulée : " Computational Models of Trust 
+and Reputation in Online SocialNetworks ". La soutenance aura lieu le
+Vendredi 22 Janvier à 14h dans les locaux de Télécom SudParis à Evry.
+
+Vous êtes également conviés au pot qui suivra la soutenance.
+
+Le jury sera composé de :
+
+
+Rapporteurs :  Pr.Henda BEN GHEZELA          Université de la Manouba 
+(Tunisie)
+                Pr.Katarzyna WEGRZYN-WOLSKA    ESIGTEL-Paris
+Examinateurs :  Pr.Bénédicte LEGRAND        Université Paris 1 - 
+Panthéon- Sorbonne
+              :  Pr.M.Mohsen GAMMOUDI        Université de la Manouba 
+(Tunisie)
+                 Pr.Yolaine BOURDA           Supelec-Paris
+Co-directeurs :  Pr. Ala GANGARSKI         Télécom Sud Paris
+               :    Pr.Sadok BEN YAHIA        Université El Manar
+               :  Pr. Amel BOUZEGHOUB         Télécom Sud Paris
+
+
+*Abstract*:
+
+
+*
+*
+
+The open and decentralized nature of the OSNs makes them vulnerable to 
+the appearance of malicious users. Therefore, prospective users face 
+many problems related to trust. Thus, effective and efficient trust 
+evaluation is very crucial for users’ decision-making. It provides 
+valuable information to OSNs users, enabling them to make difference 
+between trustworthy and untrustworthy ones. This thesis aims to provide 
+effective and efficient trust and reputation management methods to 
+evaluate trust and reputation of OSNs users, which can be divided into 
+the following four contributions. The first contribution presents 
+complex trust-oriented users’ contexts and interests’ extraction, where 
+the complex social contextual information is taken into account in 
+modeling. Second, we propose the IRIS (Interactions, Relationship types 
+and Interest Similarity) trust management approach allowing the 
+generation of the trust network and the computation of direct trust.
+
+The third contribution of this thesis is trust inference in OSNs. In 
+fact, it is necessary and significant to evaluate the trust between two 
+participants whom have not direct interactions. We propose a trust 
+inference model called TISON (Trust Inference in Social Networks) to 
+evaluate Trust Inference within OSNs. The fourth contribution of this 
+thesis consists on the reputation management in OSNs. To manage 
+reputation, we proposed two new algorithms. We introduce a new exclusive 
+algorithm for clustering users based on reputation, called RepC, based 
+on trust network. In addition, we propose a second algorithm, FCR, which 
+is a fuzzy extension of RepC. For the proposed approaches, extensive 
+experiments have been conducted on real or random datasets. The 
+experimental results have demonstrated that our proposed algorithms 
+generate better results, in terms of the utility of delivered results 
+and efficiency, than do the pioneering approaches of the literature
+
+
+
+
+Bien cordialement,
+
+Sana HAMDI
+
+

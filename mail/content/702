@@ -1,0 +1,77 @@
+Sujet : Conception et mise en œuvre de la deuxième version d’un logiciel
+d’aide à la prescription médicamenteuse dans le traitement de
+l’insuffisance cardiaque. 
+
+CDD post-doc de 12 mois
+
+Description
+Le CDD est à pourvoir dans le cadre d'un projet en cours de réalisation
+de télémédecine visant à assurer le suivi de patients à domicile. 
+
+Le projet dans son ensemble inclut d'une part la fabrication et la
+validation d'un nouveau dispositif portable d'acquisition de paramètres
+biologiques, d'autre part le développement d'un logiciel d'aide à la
+prescription médicamenteuse, destiné à aider les médecins traitants dans
+le suivi de l'évolution de la pathologie chez leur patient. Ce logiciel,
+qui est pensé de façon évolutive, s'appuie dans un premier temps sur les
+bonnes pratiques cliniques en cours et l'expérience des cliniciens à
+l'origine du projet, et dans un second temps sur les résultats obtenus
+dans le cadre d'une thèse en cours en biostatistique, partie prenante du
+projet et exploitant les données biologiques et cliniques déjà
+disponibles ou en cours d'acquisition. Les choix de conception et de
+programmation tiennent compte du caractère ouvert du monde considéré où
+tout est loin d'être connu, ainsi que des normes en vigueur pour le
+développement d’un logiciel médical. 
+
+Dans le cadre de ce projet, le post-doc sera également amené à fournir
+une assistance informatique au doctorant en développant entre autres des
+algorithmes optimisés de classification supervisée. 
+
+En outre, le post-doc sera amené à mettre en œuvre des algorithmes
+dédiés dans le traitement des big data dans le domaine médical, faisant
+appel à des méthodes incrémentales et à des traitements en parallèle. 
+
+La confidentialité du projet est une donnée majeure à prendre en compte
+et un engagement en ce sens devra être pris.
+
+Salaire brut : 2500 € / mois 
+Date de démarrage : 01/06/2015
+Lieu de travail : Centre d'Investigation Clinique (CIC) du CHRU Nancy
+Brabois et Institut Elie Cartan de Lorraine (IECL, laboratoire de
+Mathématiques de l’Université de Lorraine)
+
+Formation et compétences requises 
+
+      *  Doctorat en Informatique
+      *  Programmation Java (Maven, JUnit,…)
+      *  Web services 
+      *  Représentation de connaissances et raisonnement, technologies
+        du web sémantique (OWL, SPARQL, Protégé, moteurs d’inférence)
+      *  Une sensibilité aux normes de développement applicables aux
+        logiciels médicaux serait appréciée, ainsi que la connaissance
+        de logiciels statistiques (R, SAS)
+      * Capacité au travail en équipe, respect de la confidentialité,
+        maîtrise parfaite de la langue française.
+
+
+Candidature
+À envoyer au Professeur Jean-Marie MONNEZ, Institut Elie Cartan de
+Lorraine, jean-marie.monnez@univ-lorraine.fr
+
+Date-limite de candidature : 15 mars 2015
+
+Bien respecter la composition du dossier indiquée ci-dessous :
+
+      *  Lettre de motivation mentionnant les contributions les plus
+        marquantes du candidat et un argumentaire en faveur de son
+        adéquation au sujet et au contexte de travail
+      *  CV actualisé
+      *  Liste des publications
+      *  Copie du diplôme de Doctorat (Titre, Université, Date, diplôme)
+        accompagné de la composition du jury et des rapports sur la
+        thèse ainsi que du rapport de soutenance
+      *  Lettres de recommandation et/ou coordonnées de chercheurs
+        référents.
+
+
+

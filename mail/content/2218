@@ -1,0 +1,91 @@
+
+Stage M2 : Analyse temporelle des dossiers électronique patient.
+[Analysis of temporal relations in Electronic Health Records]
+
+Mots-clés : traitement automatique de la langue, classification, analyse 
+temporelle, domaine biomédical
+Durée : 5 mois
+Niveau : Master 2 Recherche
+Lieu : LIMSI-CNRS, Orsay
+
+Le contenu et l'ambition du stage pourront être modulés en fonction du 
+niveau d'étude et de la durée du stage du candidat.
+
+Résumé :
+
+L'objectif de ce stage M2R est d'analyser les dossiers électroniques 
+patient du point de vue chronologique. À partir d'un ensemble de 
+documents contenus dans le dossier d'un patient, ce travail permettra de 
+repérer les événements saillants de l'historique médical du patient 
+ainsi que les marqueurs temporels associés afin de les agréger dans une 
+chronologie synthétique.
+
+Contexte :
+
+L'analyse temporelle de textes d'information a pour but général de mieux 
+localiser dans le temps les événements décrits dans ces textes, et donc 
+d'alimenter de façon plus précise des moteurs de recherche ou des outils 
+d'extraction d'information. Pour cela, la première étape est de détecter 
+correctement les expressions temporelles de ces textes. Ces expressions 
+temporelles peuvent être des dates absolues, c'est-à-dire que l'on peut 
+placer sans ambiguïté sur l'axe des temps (par exemple, "le 14 janvier 
+2008"), mais aussi des dates relatives, qui nécessitent une phase de 
+résolution ou de normalisation (par exemple, "le 14 janvier dernier", 
+"dans 6 semaines"). Dans le cadre du dossier électronique patient, des 
+expressions temporelles propres au domaine de spécialité, le domaine 
+médical, peuvent également être rencontrées (par exemple, "à 18 semaines 
+d'aménorrhée", "à j+1").
+
+Les techniques d'analyse temporelle des textes ont fortement progressé 
+ces dernières années, mais s'attachent en général au domaine 
+journalistique et particulièrement au cadre des dépêches. Nous 
+souhaitons étudier un autre domaine de spécialité, le domaine médical, 
+ainsi qu'un type de document particulier, le dossier électronique 
+patient. Nous nous intéressons à la caractérisation et au repérage 
+automatique des expressions temporelles dans les dossiers électroniques 
+patient afin de déterminer si un traitement spécifique au domaine 
+médical doit être mis en œuvre ou si des outils développés pour un autre 
+domaine sont directement utilisables.
+
+Travail à réaliser :
+
+Selon le niveau d'étude de la personne choisie, nous pourrons nous 
+intéresser à une ou plusieurs des problématiques suivantes :
+     - Utilisation et adaptation des outils d'analyse temporelle sur les 
+documents cliniques
+     - Réconciliation des expressions temporelles issues de documents 
+différents
+     - Création d'une ligne temporelle pour représenter l'historique 
+d'un patient
+
+On utilisera un corpus de plusieurs centaines de documents cliniques 
+de-identifiés en français.
+
+Le stagiaire devra avoir de bonnes compétences en informatique. Des 
+connaissances en traitement automatique de la langue, en terminologie 
+biomédicale et/ou en apprentissage automatique seront un plus.
+
+Rémunération : gratifications (436.05 € par mois + participation aux 
+frais de transports)
+
+Dépôts de candidature : envoyez un CV accompagné d'une lettre de 
+motivation et de relevés de notes récents à :
+Aurelie.Neveol[at]limsi.fr
+Xavier.Tannier[at]limsi.fr
+
+
+
+-- 
+Xavier Tannier
+Maître de conférence
+LIMSI-CNRS (bât. 508, bureau 12, RdC)
+Université Paris-Sud
+B.P. 133
+91403 ORSAY CEDEX
+FRANCE
+
+http://www.limsi.fr/~xtannier/ <http://www.limsi.fr/%7Extannier/>
+tel: 0033 (0)1 69 85 80 12
+fax: 0033 (0)1 69 85 80 88
+-----------------------------------------------------------
+

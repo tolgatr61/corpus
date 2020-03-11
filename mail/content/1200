@@ -1,0 +1,93 @@
+Bonjour,
+
+J’ai le plaisir de vous inviter à ma soutenance de thèse intitulée :
+
+"*Vers une capitalisation des connaissances orientée utilisateur :
+extraction et structuration automatiques de l'information issue de sources
+ouvertes*",
+
+qui aura lieu le *vendredi 24 janvier à 10h00* à l'Université de Caen
+Basse-Normandie, dans la salle des thèses du bâtiment Sciences 3 (1er
+étage) sur le campus 2.
+
+Vous êtes également cordialement invités au pot de thèse qui suivra en
+salle S3 351.
+
+*Composition du jury :*
+
+Laurence Cholvy, Directrice de recherche, DTIM - ONERA, Toulouse
+(Rapporteur)
+Thierry Poibeau, Directeur de recherche, LaTTiCe - ENS, Paris (Rapporteur)
+Fatiha Saïs, Maître de conférences, LRI - Université Paris 11 (Examinatrice)
+Gaël Dias, Professeur des universités, GREYC - Université de Caen
+Basse-Normandie (Examinateur)
+Stephan Brunessaux, Senior expert, Cassidian - EADS (Co-directeur de thèse)
+Thierry Charnois, Professeur des universités, LIPN - Université Paris 13
+(Co-encadrant de thèse)
+Maroua Bouzid, Professeur des universités, GREYC - Université de Caen
+Basse-Normandie (Directrice de thèse)
+
+*Résumé : *
+
+Face à l’augmentation vertigineuse des informations disponibles librement
+(notamment sur le Web), repérer efficacement celles qui présentent un
+intérêt s’avère une tâche longue et complexe. Les analystes du
+renseignement d’origine sources ouvertes sont particulièrement concernés
+par ce phénomène. En effet, ceux-ci recueillent manuellement une grande
+partie des informations d'intérêt afin de créer des fiches de connaissance
+résumant le savoir acquis à propos d’une entité. Dans ce contexte, cette
+thèse a pour objectif de faciliter et réduire le travail des acteurs du
+renseignement et de la veille. Nos recherches s’articulent autour de trois
+axes : la modélisation de l’information, l'extraction d’information et la
+capitalisation des connaissances. Nous avons réalisé un état de l’art de
+ces différentes problématiques afin d'élaborer un système global de
+capitalisation des connaissances. Notre première contribution est une
+ontologie dédiée à la représentation des connaissances spécifiques au
+renseignement et pour laquelle nous avons défini et modélisé la notion
+d'événement dans ce domaine. Par ailleurs, nous avons élaboré et évalué un
+système d’extraction d’événements fondé sur deux approches actuelles en
+extraction d'information : une première méthode symbolique et une seconde
+basée sur la découverte de motifs séquentiels fréquents. Enfin, nous avons
+proposé un processus d’agrégation sémantique des événements afin
+d'améliorer la qualité des fiches d'événements obtenues et d'assurer le
+passage du texte à la connaissance. Celui-ci est fondé sur une similarité
+multidimensionnelle entre événements, exprimée par une échelle qualitative
+définie selon les besoins des utilisateurs.
+
+
+*Abstract : *
+
+Due to the considerable increase of freely available data (especially on
+the Web), the discovery of relevant information from textual content is a
+critical challenge. Open Source Intelligence (OSINT) specialists are
+particularly concerned by this phenomenon as they try to mine large amounts
+of heterogeneous information to acquire actionable intelligence. This
+collection process is still largely done by hand in order to build
+knowledge sheets summarizing all the knowledge acquired about a specific
+entity. Given this context, the main goal of this thesis work is to reduce
+and facilitate the daily work of intelligence analysts. For this sake, our
+researches revolve around three main axis: knowledge modeling, text mining
+and knowledge gathering. We explored the literature related to these
+different domains to develop a global knowledge gathering system. Our first
+contribution is the building of a domain ontology dedicated to knowledge
+representation for OSINT purposes and that comprises a specific definition
+and modeling of the event concept for this domain. Secondly, we have
+developed and evaluated an event recognition system which is based on two
+different extraction approaches: the first one is based on hand-crafted
+rules and the second one on a frequent pattern learning technique. As our
+third contribution, we proposed a semantic aggregation process as a
+necessary post-processing step to enhance the quality of the events
+extracted and to convert extraction results into actionable knowledge. This
+is achieved by means of multiple similarity measures between events,
+expressed according a qualitative scale which has been designed following
+our final users' needs.
+
+
+Cordialement,
+
+-- 
+Laurie Serrano
+Doctorante CIFRE
+Laboratoire GREYC / équipe MAD
+https://www.greyc.fr/user/257
+

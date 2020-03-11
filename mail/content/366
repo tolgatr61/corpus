@@ -1,0 +1,110 @@
+
+Proposition d'un sujet de thèse à l'IRIT - Université Toulouse 1 
+Capitole - France -
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+  Sujet de thèse
+
+
+    Titre : Prise de Décision collective : Agrégation des préférences
+
+
+    Encadrants : P. Zaraté / C. Sibertin-Blanc
+
+La prise de décision de groupe est généralement assistée au travers de 
+systèmes d'aide à la décision de groupe : Group Decision support Systems 
+(GDSS).Le processus de prise de décision se décompose alors en 3 étapes :
+
+a.pre-meeting : étape durant laquelle les acteurs participants au 
+processus sont sélectionnés, l'agenda de la session de travail est 
+construit, le système est paramétré (le type de vote est notamment 
+choisi : vote à la majorité absolue, relative ou par consensus)etc...
+
+b.meeting : session de travail entre les décideurs durant laquelle une 
+première étape de brainstorming est proposée, puis les idées sont triées 
+et enfin chaque membre du groupe vote ;
+
+c.post-meeting : un rapport de la session de travail est automatiquement 
+émis et un plan d'action est proposé.
+
+Durant la phase de meeting, l'utilisation de ce type de système requiert 
+un acteur particulier, le facilitateur, qui a pour missions d'aider le 
+groupe à utiliser le système d'aide à la décision mais aussi à 
+structurer les idées émises ou les discussions. Une session de type 
+meeting avec ce type d'outil se déroule généralement en 4 phases :
+
+a.Brainstorming
+
+b.Tri des idées et Structuration de la discussion. Les discussions 
+portent notamment sur les critères utilisés pour prendre la décision.
+
+c.Vote individuel. Le système agrège ensuite les votes
+
+L'une des difficultés pour les membres du groupe est de distinguer les 
+préférences communes à plusieurs membres du groupe et les préférences 
+propres à chaque individu.
+
+Le sujet de thèse consiste à finaliser une méthode de prise de décision 
+de groupe multi-critères, pour laquelle l'agrégation porte donc à la 
+fois  sur les préférences sur les critères de sélection communs à 
+plusieurs membres du groupe et sur les préférences individuelles. Cette 
+méthode prévoit que les participants se mettent d'accord sur certains 
+éléments de la décision et que chacun rende public certains éléments de 
+ses choix personnels tandis qu'il garde privés certains autres. Il 
+faudra donc d'étudier la façon dont le partage d'informations rendues 
+publiques et l'agrégation des préférences privées peuvent s'intégrer 
+dans un système d'aide à la décision de groupe, et l'implémenter.
+
+Par ailleurs, il faudra tenir compte des différents rôles dans la 
+procédure d'agrégation des préférences. Ces rôles permettront en effet 
+de définir des avis uniquement consultatifs à distinguer des choix des 
+décideurs. Selon les divers rôles et participants au processus de 
+décision, le partage de l'information sera différent. Le système doit 
+donc pouvoir être paramétré selon les divers niveaux de partage de 
+l'information envisageables. Ces niveaux de partage de l'information 
+seront alors fonction de différents niveaux de coopération restant à 
+définir et pourront faire l'objet d'une négociation préalable lors de la 
+phase de pré-meeting.
+
+Les enjeux de ce travail scientifique se situent à trois niveaux :
+
+1.Niveau conceptuel : formalisation mathématique de la procédure 
+d'agrégation des préférences ;
+
+2.Niveau technique : développement d'un Système d'aide à la Décision de 
+Groupe capable de mettre en oeuvre la procédure définie au niveau 
+conceptuel ;
+
+3.Niveau expérimental : mettre en oeuvre et évaluer le système sur des 
+cas concrets.
+
+La thèse se déroulera à l'IRIT, sur le site de l'Université Toulouse 1 
+Capitole.
+
+La rémunération prévue est celle d'un contrat doctoral du labex CIMI 
+(IRIT-IMT). Candidatures attendues avant le 10/02/2014 au soir.
+
+Contacts :
+
+zarate@irit.fr <mailto:zarate@irit.fr>
+
+sibertin@irit.fr <mailto:sibertin@irit.fr>
+--------------------------------------------------------------------------------------------------------------------------
+
+-- 
+------------------------------------------------------------------------------
+Prof. Pascale Zaraté
+Toulouse 1 University - IRIT
+International Journal of Decision Support System Technologies Editor in Chief
+2 rue du Doyen Gabriel Marty
+31042 TOULOUSE CEDEX 9 - FRANCE
+Tel : +33 5 61 63 35 62
+Pascale.Zarate@irit.fr
+http://www.irit.fr/~Pascale.Zarate/
+------------------------------------------------------------------------------
+
+
+
+

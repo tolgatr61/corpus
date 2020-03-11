@@ -1,0 +1,126 @@
+Sujet de thèse financée
+*Révision dynamique d'un réseau d'ontologies*
+
+Les applications fondées sur la sémantique encapsulent souvent un ensemble
+
+d’ontologies qui représentent les connaissances impliquées dans différentes
+sources de données. Certaines de ces ontologies évoluent constamment car,
+non seulement les données sont mises à jour, mais aussi l’environnement des
+applications et les besoins des utilisateurs sont modifiés au cours du
+temps. Parmi les premiers travaux portant sur la révision d’une base de
+connaissances, le canevas AGM [1] a fourni un ensemble de contraintes
+logiques à respecter lors de la définition des opérations de révision. Les
+deux contraintes les plus problématiques portent sur la suppression de
+connaissances et la minimalisé des changements. Nebel [2] a proposé deux
+opérations de base TELL et FORGET satisfaisant le canevas AGM.
+
+De plus, il a montré que ces opérations de révision peuvent engendrer une
+ontologie qui n’est plus exprimable dans le formalisme de l’ontologie
+initiale. Le travail de De Giacomo *et al.* [3] a identifié un formalisme,
+appelé DL-Lite, qui peut être utilisé pour représenter les ontologies de
+telle façon qu’elles soient toujours exprimables dans DL-lite si les
+opérations de révision ne changent que les instances, i.e. les
+connaissances assertionnelles.
+
+Récemment, Ji *et al.* [4]  ont développé un système, baptisé RaDON,
+permettant
+
+non seulement de contrôler la cohérence d’une ontologie simple mais aussi
+d’un
+
+réseau d’ontologies (un ensemble d’ontologies alignées) lors de la
+révision. Ce
+
+système est fondé sur une notion “allégée” de la cohérence d’une ontologie
+et ne
+
+supporte que la révision des ontologies non expressives.
+
+Dans le cadre de cette thèse, il s’agit de réviser de manière dynamique le
+
+modèle ontologique (un ensemble d’ontologies alignées) représentant les
+liens
+
+sémantiques entre des vidéos lorsque les annotations de vidéos évoluent.
+Cela permet d’assurer la cohérence (ou une meilleure adéquation) entre les
+nouvelles annotations et le modèle ontologique. Très peu de travaux sur les
+ontologies prennent en compte cette dimension notamment dans le cas de
+réseau d’ontologies alignées.
+
+
+*Mots-clé *: ontologies, alignements, révision d’ontologies, évolution
+d’ontologies, révision dynamique
+
+
+Références
+
+[1] Alchourron, C.E., Gardenfors, P., Makinson, D. : On the logic of theory
+
+change : Partial meet contraction and revision functions. Journal of
+Symbolic
+
+Logic 50(2) (1985) 510–530
+
+[2] Nebel, B. : Reasoning and revision in hybrid representation systems.
+Lecture
+
+Notes in Artificial Intelligence (1990)
+
+[3] Giacomo, G.D., Lenzerini, M., Poggi, A., Rosati, R. : On the update of
+description
+
+logic ontologies at the instance level. In : Proceedings of American
+
+Association for Artificial Intelligence Conference. (2006)
+
+[4] Ji, Q., Haase, P., Qi, G., Hitzler, P., Stadtm¨uller, S. : RaDON -
+repair and
+
+diagnosis in ontology networks. In : Proceedings of The European Semantic
+
+Web Conference. (2009) 863–867
+
+
+*Qualification* : Le candidat doit posséder un Master 2 en informatique (ou
+équivalent).
+
+
+*Compétences recherchées*
+
+– Connaissances des technologies liées au Web Sémantique (XML, RDF, OWL,
+
+raisonneurs, etc.) ;
+
+– Expériences de programmation en Java ;
+
+– Connaissances des algorithmes utilisés dans les systèmes formels
+(satisfiabilité, tableaux, backtracking, etc.).
+
+
+*Salaire et Durée* : Le candidat retenu recevra sur 3 ans une bourse
+(environ 1700 euros mensuel net) financée par le projet FUI15 - Learning
+Caf´e.
+
+
+*Date d’embauche* : 01/10/2013
+
+
+Contacts : Envoyer par email un CV, lettre de motivation et références
+
+
+   - chan.leduc@iut.univ-paris8.fr
+   - m.lamolle@iut.univ-paris8.fr
+
+Voir fichier joint pour de plus amples renseignements.
+
+-- 
+Myriam Lamolle - Professeur des Universités
+IUT de Montreuil - Département Informatique
+140, rue de la Nouvelle France
+93100 Montreuil
+Laboratoire LIASD - Université Paris8
+2 rue de la Liberté - 93526 Saint-Denis cedex
+
+http//:www.iut.univ-paris8.fr/~lamolle
+Tél: +33(0)1 48 70 34 61 Fax : +33(0)1 48 70 34 67
+

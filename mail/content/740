@@ -1,0 +1,162 @@
+
+*Veuillez nous excuser en cas de réceptions multiples.
+
+
+
+
+Appel à communication*
+
+*11ème Atelier Fouille de données complexes (FDC)*
+
+28 janvier 2014 à Rennes, France
+
+
+
+Dans le cadre de la 14ème édition de la conférence internationale 
+francophone EGC 2014 <http://egc2014.irisa.fr/>.
+
+https://sites.google.com/site/afdcegc2014/
+
+///////////////////////////////////
+
+*Dates importantes :*
+
+///////////////////////////////////
+
+*Date limite de soumission :* 15 Novembre 2013
+Notification aux auteurs**:**9 Décembre 2013
+Réception des versions finales : 22 Décembre 2013
+Programme préliminaire : 3 Janvier 2014
+
+//////////////////////////////////
+
+Cet atelier est devenu un lieu privilégié de rencontre où 
+chercheurs/industriels viennent partager leurs expériences  et 
+expertises dans le domaine de la fouille de données complexes.
+
+L'atelier est ouvert en termes de propositions. Nous souhaitons 
+stimuler particulièrement des discussions aussi bien du point de vue 
+expérimental que théorique, académique et industriel. Les présentations 
+pourront concerner un travail abouti, des réflexions sur la fouille de 
+données complexes ou un travail préliminaire (qui présentera davantage 
+un problème qu'une solution). Enfin, les discussions sur les 
+problématiques inter ou pluridisciplinaires sont également les bienvenues.
+
+//////////////////////////////////////////////////////////////////////
+
+*Instructions aux auteurs*
+
+//////////////////////////////////////////////////////////////////////
+
+Les auteurs sont invités à soumettre électroniquement leur proposition 
+en utilisant easychair.
+
+La taille des soumissions sera de 12 pages maximum. Elle pourra être 
+beaucoup plus courte, en particulier pour  les articles présentant un 
+travail qui débute ou présentation de projet de recherche. Le format 
+latex à utiliser est celui de la revue Revue des Nouvelles Technologie 
+de l'Information (RNTI) disponible  pour les ateliers à l'adresse 
+suivante :
+
+http://egc2014.irisa.fr/data/RNTI_style_V3.1.2.zip
+
+///////////////////////////////////
+
+*Description*
+
+///////////////////////////////////
+
+Dans tous les domaines tels que le multimédia, la télédétection, 
+l'imagerie médicale, les bases de données, le web sémantique, la 
+bio-informatique, la géomatique et bien d'autres, les données à traiter 
+pour y extraire de la connaissance sont de plus en plus complexes et 
+volumineuses.
+
+Nous sommes ainsi conduits à manipuler des données souvent peu ou non 
+structurées :
+
+  * issues de diverses provenances : comme des capteurs ou sources
+    physiques d'informations variées ;
+  * représentant la même information à des dates différentes ;
+  * regroupant différentes vues ou types d'informations (images,
+    textes) ou encore de natures différentes (logs, contenu de
+    documents, ontologies, etc.).
+  * ayant des distributions différentes et déséquilibrées (ce qui
+    devient aujourd'hui une norme et non une exception)
+  * ...
+
+Aussi la fouille de données complexes ne doit plus être considérée comme 
+un processus isolé mais davantage comme une des étapes du processus plus 
+général d'extraction de connaissances dans les bases de données (ECDB), 
+mais aussi dans les entrepôts de données. En effet, avant d'appliquer 
+des techniques de fouille de données, les données complexes ont besoin 
+de mise en forme et de structuration. La centralisation de données 
+provenant de multiples sources de données dans un entrepôt de données 
+soulève alors de nombreuses problématiques de recherche, alors même que 
+cet entreposage peut assurer la qualité des données qui pourront par la 
+suite faire l'objet d'une extraction de connaissances.
+
+Dans ce contexte, la complexité peut concerner les processus 
+(acquisition,structuration, entreposage, extraction de connaissances) ou 
+les données elles-mêmes (données manquantes, floues, incertaines,... ).
+
+Après deux éditions concentrées sur les données massives et multiples 
+(les données multiples ont fait l'objet de trois éditions) qui ont 
+amené au succès des journées Big 
+<http://eric.univ-lyon2.fr/%7Egt-fdc/journees/> Data Mining & 
+Visualization 2012 et 2013 
+<http://eric.univ-lyon2.fr/%7Egt-fdc/journees/>, nous souhaitons cette 
+année que l'atelier soit le plus ouvert possible afin de construire une 
+nouvelle dynamique avec les participants pour les deux prochaines 
+années. C'est aussi la raison de l'ouverture thématique dans le 
+renouvellement des organisateurs de l'atelier.
+
+Cet atelier vise à créer un espace de rencontres, d'échanges, de 
+réflexions pour des chercheurs travaillant dans le domaine de la fouille 
+de données complexes, à la fois au niveau de la complexité des données 
+et des processus.
+
+Pour atteindre cet objectif, nous sollicitons des soumissions portant 
+sur les thèmes suivants (liste non limitative) :
+
+  * Pré traitement, structuration et organisation des données complexes
+  * Entrepôt de données complexes
+  * Processus et méthodes de fouille de données complexes
+  * Classification et fusion de données multi-sources et distribuées
+  * Les apports mutuels des méthodes de fouille de données et
+    d'apprentissage
+  * Usage des méthodes de fouille de données pour l'entreposage de
+    données complexes
+  * Retours d'expériences d'extraction de connaissances à partir de
+    données complexes
+  * Rôle des connaissances en fouille de données complexes
+  * Fouille de données imprécises et/ou incertaines
+
+///////////////////////////////////*
+*
+*
+*
+*Organisateurs*
+*
+*
+///////////////////////////////////*
+*
+
+  * Cyril de Runz (CReSTIC, Université de Reims Champagne­Ardenne)
+  * Germain Forestier (MIPS, Université de Haute-Alsace)
+  * Cécile Favre (ERIC, Université Lyon 2)
+
+
+---------------------------------------------------------------------------------------------
+Cécile Favre
+Maître de conférences en informatique
+Université Lyon 2
+Faculté d'Anthropologie, de Sociologie et de Science Politique
+Rattachée au laboratoire ERIC
+http://eric.univ-lyon2.fr/~cfavre/
+---------------------------------------------------------------------------------------------
+
+
+
+
+

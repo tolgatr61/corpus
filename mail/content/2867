@@ -1,0 +1,108 @@
+Veuillez nous excusez en cas de réceptions multiples.
+--------------------------------------------------------------------------
+
+
+
+Le Laboratoire des Sciences de l’Information et des Systèmes (LSIS, CNRS UMR
+
+7296, Aix-Marseille Université) en partenariat avec OpenEdition (
+http://www.openedition.org/) propose un stage de Master recherche en
+informatique.
+
+Titre : *Recherche d’information sémantique et probabiliste — Application
+au domaine de l’édition*
+
+Contact : Sébastien Fournier (sebastien.fournier@lsis.org)
+Lieu : Marseille
+Durée envisagée : 4 mois
+Gratification : oui
+
+Résumé :
+Dans de nombreux domaines on dispose de quantité importante de documents
+qu’il s’agit de retrouver de manière pertinente. A l’heure actuelle, quel
+que soit le domaine d’application, les meilleurs systèmes en recherche
+d’information sont basés sur des approches probabilistes telles que les
+modèles de langue et les modèles d’information [Singhal, 2001], par
+exemple, DFR (Divergence From Randomness), log-logistique(LL) ou Smoothed
+Power Law (SPL). Toutefois, cela fait plusieurs années que les performances
+en termes de précision moyenne ont tendance à stagner pour les systèmes de
+recherche ad-hoc (recherche de document sur collection fermée). En
+parallèle, la mise à disposition, sans cesse plus large, de ressources
+sémantiques sur le Web (thésaurus, ontologie, Linked Open Data) permet le
+renouvellement de certaines approches. L’idée serait alors de proposer, en
+exploitant des éléments sémantiques par fusion, combinaison ou encore
+intégration, de nouvelles approches probabilistes étendant les méthodes
+actuelles les plus performantes.  Plus précisément, l’objectif est de
+développer une nouvelle extension du « Information based model » [Clinchant
+et Gaussier, 2010] en s’inspirant des modèles de recherche multilingue où
+est pris en compte le fait que la correspondance entre les mots de deux
+langues n’est pas univoque, tout comme celle entre concepts et termes.
+
+A partir des travaux en cours dans l’équipe DIMAG du LSIS en recherche
+d’information sémantique [Hamdan et al., 2012], le stage s’intéressera au
+corpus de documents d’articles et de livre de la plateforme OpenEdition, et
+exploitera, notamment, une ontologie ou plusieurs ontologies génériques ou
+spécifiques Comme CYC, YAGO, DBpedia et éventuellement la ressource
+lexicale générique Worldnet. Les propositions seront dans un second temps
+validées par une participation du LSIS à une campagne d’évaluation de type
+TREC, INEX ou CLEF, session 2014.
+
+
+
+Références :
+
+
+
+·        Singhal, A., *Modern Information Retrieval: A Brief
+Overview.* Bulletin
+of the IEEE Computer Society Technical Committee on Data Engineering, 2001.
+*24*(4): p. 35-42.
+
+·        Resnik, P., *Semantic Similarity in a Taxonomy: An
+Information-Based Measure and its Application to Problems of Ambiguity in
+Natural Language.* Journal of Artifcial Intelligence Research, 1999. *11*:
+p. 95-130.
+
+·        Ounis, I., et al. *Terrier: A High Performance and Scalable
+Information Retrieval Platform*. in *Proceedings of ACM SIGIR'06 Workshop
+on Open Source Information Retrieval (OSIR 2006)*. 2006. Seattle,
+Washington, USA.
+
+·        Li, B., Gaussier, E. *Modèles d'information pour la recherche
+multilingue,* Proceeding of the 9th CORIA 2012 : P. 9-24
+
+·        Clinchant S., Gaussier E., *Information-based models for ad hoc IR*,
+Proceeding of the 33rd international ACM SIGIR conference on Research and
+development in information retrieval, SIGIR ’10, ACM, New York, USA, p.
+234-241, 2010.
+
+·        Hamdan*, *H.* Recherche d’information sémantique à base
+d’ontologie dans le domaine médicale, *Rapport de Master Informatique SIS,
+Aix-Marseille Université, 2012.
+
+·        Hamdan*, *H., Albitar S., Bellot P., Espinasse B., Fournier S., *LSIS
+at TREC 2012: Experiments in Medical Track with combination of concept and
+word spaces*, Text REtrieval Conference (TREC’2012), NIST Special
+Publication, USA, 2012
+
+·        Foxvog, D., Cyc. *Theory and Applications of Ontology: Computer
+Applications*. :259-278, 2010.
+
+·        Boutahar, I., *Recherche d’information sémantique et
+probabiliste, *Rapport de Master Informatique SIS, Aix-Marseille
+Université, 2013.
+
+·        Amini M., Gaussier, E., *Recherche d'information - Applications,
+modèles et algorithmes. Fouille de données, décisionnel et big data*., 2013
+
+Profil recherché :
+Etudiant en Master 2 Informatique.
+
+Pour postuler :
+Envoyez un CV, une lettre de motivation et des lettres de recommandation et
+la copie des relevés de notes des 2 dernières années.
+
+N'hésitez pas à nous contacter pour de plus amples informations.
+
+--------------------------------------------------------------------------
+

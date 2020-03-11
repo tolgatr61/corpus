@@ -1,0 +1,50 @@
+Stage de master 2 sur la recommandation de contenus
+
+Ce stage est proposé dans le cadre d’une collaboration entre la société CogniK (http://www.cognik.net/) et l’équipe TWEAK du laboratoire LIRIS (http://liris.cnrs.fr/tweak). Le stage aura lieu à Lyon (Villeurbanne et Ecully), de février à juin 2017, à mi-temps dans l’entreprise et dans le laboratoire. Il s’adresse à un-e étudiant-e de master 2 en informatique et peut déboucher sur une thèse CIFRE.
+
+Présentation de Cognik
+La société CogniK est spécialisée dans la recommandation personnalisée de contenus. Nous fournissons une API de recommandation clés en main à nos clients, détenteurs de catalogues multimédia. Notre service comporte deux volets : d’une part le stockage et la caractérisation de contenus (analyse sémantique, speech-to-text, etc.), d’autre part la recommandation de contenus, en fonction de profils utilisateurs et du contexte de visionnage (lieu, heure, type d'écran, etc.). Les profils utilisateur sont mis à jour en temps réel à partir d’une analyse du comportement de chaque utilisateur.
+Nos clients incluent MTV, Nickelodeon, FranceTV et Science et Vie Junior.
+
+Présentation de l’équipe TWEAK du LIRIS
+Les travaux de l'équipe TWEAK s'inscrivent dans les disciplines de l'intelligence artificielle et de l'ingénierie des connaissances, et contribuent aux recherches sur les Environnements Informatiques pour l’Apprentissage Humain. Dans ce contexte, nous avons mené des travaux sur la personnalisation des activités d’apprentissage en fonction du profil de l’apprenant. Notre approche est de concevoir des systèmes qui mettent en oeuvre une stratégie de personnalisation définie par l’équipe pédagogique.
+
+Objectif du stage
+L’objectif du stage est de faire évoluer le service de recommandation de CogniK afin qu’il puisse proposer des recommandations pour un groupe de personnes. Cela peut être intéressant par exemple dans le cas d’un groupe d’amis souhaitant constituer une playlist de musique à l’occasion d’un événement convivial. La question de recherche sous-jacente est celle d’élaborer un profil collectif du groupe à partir du profil individuel de chacun des membres du groupe. Selon les objectifs de recommandation et le contexte applicatif (écouter de la musique ou réviser en groupe pour préparer une évaluation), certaines techniques seront plus pertinentes que d’autres. On souhaite donc aboutir à un processus d’élaboration du profil collectif et de recommandation de ressources qui pourra être paramétré en fonction de l’objectif et du contexte d’utilisation, et sur lequel un utilisateur (client ou utilisateur final) pourra agir. Une interface devra permettre à cet utilisateur de paramétrer le système, et pour que l’utilisateur puisse réaliser cette tâche au mieux, il devra pouvoir tester les paramètres choisis sur des données et observer les résultats de recommandation qui en résulteront.
+
+Travail à réaliser
+La première étape du travail de stage consistera à prendre connaissance du fonctionnement actuel du service de recommandation de CogniK et à acquérir une bonne maîtrise technique du système existant. Parallèlement, on réalisera un état de l’art sur les systèmes de recommandation, les profils utilisateurs et les profils de groupe.
+La deuxième étape consistera à concevoir et développer le processus d’élaboration d’un profil collectif à partir de profils individuels, et le service de recommandation s’appuyant sur de tels profils collectifs.
+La troisième étape consistera à concevoir et développer une interface permettant à un utilisateur de paramétrer le fonctionnement du système et de tester ses choix sur des données.
+
+Encadrement
+Au LIRIS : Nathalie Guin et Marie Lefevre
+A CogniK : Kris Lund et Jacques-Henri Michaud
+
+Gratifications de stage : environ 520€/mois
+
+Modalités de candidature
+Envoi dès que possible à nathalie.guin@univ-lyon1.fr<mailto:nathalie.guin@univ-lyon1.fr> d’un CV et d’une lettre de motivation, accompagnés des relevés de notes de licence et master
+
+
+-----------------------------------
+Nathalie Guin
+
+LIRIS
+Université Claude Bernard - Lyon 1
+Bâtiment Nautibus
+2ème étage bureau 12.006
+23-25 Avenue Pierre de Coubertin
+Domaine scientifique de la Doua
+69622 Villeurbanne Cedex
+
+tél : (33) 4 26 23 45 17
+fax : (33) 4 72 43 15 36
+mél : Nathalie.Guin@liris.univ-lyon1.fr<mailto:Nathalie.Guin@liris.univ-lyon1.fr>
+url : http://liris.cnrs.fr/nathalie.guin
+
+
+
+
+
+

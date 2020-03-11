@@ -1,0 +1,72 @@
+
+** Toutes nos excuses pour les envois multiples **
+** Merci de diffuser à toute personne qui pourrait être intéressée **
+
+Les laboratoires FRAMESPA (http://framespa.univ-tlse2.fr/) et IRIT 
+(http://www.irit.fr) recherchent un doctorant pour une thèse sur La 
+Dynamique des Parties Non-Denses des Réseaux Complexes.
+La thèse s’inscrit dans le cadre de l’Institut des Systèmes Complexes de 
+Toulouse (ISCT) (http://www.isc-t.fr/) et est financée pendant 3 ans par 
+l’Université de Toulouse.
+Contacts: Frédéric Amblard, <frederic.amblard@ut-capitole.fr 
+<mailto:frederic.amblard@ut-capitole.fr>> et Bertrand Jouve 
+<jouve@univ-tlse2.fr <mailto:jouve@univ-tlse2.fr>>
+
+Le terme de « réseau » désigne un système d’interactions entre entités 
+(personnes, animaux, neurones, gènes, entreprises, …) qui admet une 
+représentation mathématique abstraite sous forme de graphe : les 
+entités correspondent aux sommets du graphe et les interactions ou les 
+relations aux arêtes. De nombreuses recherches ont consisté à préciser 
+les propriétés partagées par les grands réseaux que l’on rencontre en 
+pratique afin élaborer et par la suite d’améliorer les modèles 
+génériques. Ces recherches de régularités et de lois d’évolutions, 
+caractéristiques de la physique et des sciences de la nature, ont été 
+largement portées par les chercheurs de ces domaines.
+Il est cependant maintenant largement convenu que ces propriétés 
+topologiques partagées ne sont pas suffisantes pour expliquer la 
+diversité et la complexité des architectures des réseaux réels 
+rencontrés. La dynamique et la structure multi-échelles de ces réseaux 
+sont des caractéristiques au fondement même de ces architectures. Une 
+approche possible pour capturer la structure multi-échelles peut 
+consister à identifier les petits mondes qui correspondent souvent à des 
+sous-parties denses en connexion (recouvrantes ou non) du réseau 
+(appelées aussi « communautés ») et à étudier le réseau mésoscopique 
+d’assemblage de ces communautés et sa dynamique. Voire d’étudier ensuite 
+séparément chacune de ces communautés.
+L’objet de cette thèse est de compléter ces outils de modélisation 
+réseau en prenant le contre-pied de cette approche par communautés et en 
+considérant que les parties non-denses d’un réseau sont aussi des 
+éléments structurants de son organisation. Cette posture rejoint en 
+sociologie des réseaux celle de l’importance des trous structuraux de 
+Burt [5] qui jusqu’à aujourd’hui n’est pas implémentée dans des modèles 
+formels de réseaux sociaux. L’objectif sera de montrer que des études 
+hybrides basées à la fois sur des parties denses et non denses 
+permettent des avancées qualitative et quantitative dans la description 
+des réseaux complexes et de leurs dynamiques, et in fine de proposer des 
+modèles génératifs plus réalistes basés sur ces deux dimensions.
+Plus de détails sur le sujet sont exposés dans le fichier joint.
+
+*Profil recherché*
+- Un Master en Mathématique Appliquées ou/et Informatique ou assimilable.
+- D’excellents résultats, en particulier à des matières liées à la 
+Théorie de Graphes, l’Analyse des Réseaux Sociaux ou la Science des 
+Réseaux en général.
+- Un intérêt pour la recherche, l'interdisciplinarité et la capacité à 
+la fois à être autonome et à travailler en équipe.
+
+*Procédures et date limite pour les candidatures*
+
+Les candidats doivent envoyer leur CV, relevés de notes, deux lettres de 
+recommandations, les preuves de leur capacité à écrire (article ou 
+rapport), une lettre de motivation pour cette thèse à Frédéric 
+Amblard (frederic.amblard@ut-capitole.fr 
+<mailto:frederic.amblard@ut-capitole.fr>) et Bertrand Jouve 
+(jouve@univ-tlse2.fr <mailto:jouve@univ-tlse2.fr>)
+
+*La date limite pour candidater est le 24 Juin, 2016*
+Une première sélection sera réalisée à partir des dossiers avant une 
+audition des candidats sélectionnés.
+
+
+
+
