@@ -1,0 +1,199 @@
+ 
+
+[toutes nos excuses en cas de réceptions multiples] 
+
+Bonjour, 
+
+Veuillez trouver ci-dessous le deuxième appel à soumissions pour un
+numéro spécial de la revue Ingénierie des Systèmes d'Informations : "Web
+de données : publication, liage et capitalisation". 
+
+Bien cordialement, 
+
+Fayçal Hamdi & Fatiha Saïs 
+
+2ÈME APPEL À COMMUNICATIONS – NUMÉRO SPÉCIAL DE LA REVUE INGÉNIERIE DES
+SYSTÈMES D’INFORMATIONS : 
+
+« WEB DE DONNÉES : PUBLICATION, LIAGE ET CAPITALISATION » 
+
+Revue Ingénierie des Systèmes d'Information (ISI -
+http://isi.revuesonline.com [1]) 
+
+EDITEURS : Fayçal Hamdi (CEDRIC, Cnam Paris) Fatiha Saïs (LRI,
+Université Paris-Sud) 
+
+Le Web de données (LOD - Linked Open Data) est une initiative du W3C,
+qui consiste en un ensemble de bonnes pratiques pour publier et lier des
+données structurées (sous format RDF) dans le Web. En utilisant des
+technologies du Web, des applications peuvent partager, extraire,
+interroger ou raisonner sur les données publiées. 
+
+Le LOD a pris récemment une nouvelle dimension avec la publication de
+grande quantité de données par les institutions publiques à travers le
+monde. Toutefois, si ces données se retrouvent isolées du reste des
+données publiées, leur utilité reste très limitée. En effet, un des
+points angulaires du Web de données est le fait que les données soient
+liées entre elles. Le principe est le même que celui du Web de documents
+qui tient toute sa puissance des liens hypertextes entre les documents. 
+
+Un des éléments essentiels du Web de données est l'utilisation de
+différents vocabulaires pour décrire les données publiées. Ces
+vocabulaires sont représentés dans des ontologies de façon structurée et
+en associant une sémantique logique. Cette dernière permet de raisonner
+sur le contenu des ontologies et des données décrites suivant le contenu
+de ces ontologies. L'utilisation des ontologies engendre diverses
+problématiques allant du choix et de la réutilisation de vocabulaires
+existants à l'alignement et l'interopérabilité des ontologies. Enfin, un
+des challenges qui émergent aujourd'hui est la capitalisation du contenu
+du Web de données qui couvrent, entre autres, les problèmes de fusion de
+données, d'extraction de connaissances, de raisonnement avec des
+incohérences et d'évaluation de la qualité des données et de
+connaissances dans le Web de données. 
+
+Les recherches actuelles dans le cadre du Web de données visent à
+concevoir des architectures et à définir des méthodes offrant, à des
+institutions et à des organismes, la possibilité de publier et de lier
+leurs données avec des données déjà publiées dans le Web de données.
+Elles visent également à fournir des outils permettant de tirer profit
+des données publiées en développant des applications extrayant une forte
+valeur ajoutée des données liées. 
+
+Le but de ce numéro spécial est de réunir des travaux traitant des
+problématiques sus-citées telles que la publication des données sur le
+LOD, le liage de données et la capitalisation des connaissances issues
+du LOD. 
+
+THÈMES (LISTE NON LIMITATIVE) 
+
+- LIAGE DE DONNÉES ET DE VOCABULAIRES 
+
+ * Alignement de vocabulaires : schémas, taxonomies ou ontologies 
+
+ * Détection de liens entre données 
+
+ * Découverte de règles de liage 
+
+ * Prise en compte de la provenance dans le processus de liage 
+
+ * Liage de données évolutives 
+
+ * Résolution de conflits dans les données et dans les liens 
+
+ * Validation et requalification de liens 
+
+ * Liage de données et d'ontologies adapté à des domaines d'application
+(géographiques, scientifiques, statistiques, documentaires, etc.) 
+
+- CAPITALISATION DE CONTENUS ET D'EXPÉRIENCE DANS LE WEB DE DONNÉES 
+
+ * Fusion de données liées 
+
+ * Raisonnement sur les liens 
+
+ * Extraction de connaissances à partir des données liées 
+
+ * Enrichissement de données et de connaissances propriétaires et/ou non
+publiées à partir du Web de données 
+
+ * Evaluation et optimisation de requêtes 
+
+ * Recherche d'information et navigation dans le Web de données 
+
+ * Evaluation de la qualité et de la véracité des données liées 
+
+INSTRUCTIONS AUX AUTEURS 
+
+Les soumissions doivent présenter des travaux de recherche originaux ou
+des versions étendues de travaux déjà publiés (au moins 30% de contenu
+supplémentaire), représentant, à titre d'exemple, une étude détaillée de
+la littérature, une évaluation complète, des preuves, de nouveaux
+résultats, des études de cas supplémentaires et/ou des détails de mise
+en œuvre. 
+
+Ces soumissions devront avoir une taille de 20 à 25 pages et devront
+être rédigées en français. Le format à utiliser est celui de ISI Hermès
+disponible l'adresse suivante : http://isi.revuesonline.com [1]
+(rubrique consignes aux auteurs). Elles doivent parvenir au format PDF
+le 20/05/2016 au plus tard à l'adresse :
+https://easychair.org/conferences/?conf=lodisi16 [2] 
+
+DATES IMPORTANTES 
+
+* Date limite de soumission : 20/05/2016  
+
+* Notification aux auteurs : 01/07/2016  
+
+* Version corrigée : 29/07/2016 
+
+* Parution prévue : FIN 2016 
+
+CONTACTS DES COORDINATEURS  
+
+* Fayçal Hamdi (faycal.hamdi@cnam.fr) 
+
+* Fatiha Saïs (fatiha.sais@lri.fr) 
+
+COMITÉ DE LECTURE 
+
+* Nathalie Abadie, IGN & Université Paris-Est, France 
+
+* Jacky Akoka, CNAM Paris & TEM, France 
+
+* Peggy Cellier, IRISA, France 
+
+* Isabelle Comyn-Wattiau , CNAM Paris & ESSEC Business School, France 
+
+* Juliette Dibie, AgroParisTech, France 
+
+* Daniela Grigori, Université Paris Dauphine, France 
+
+* François Goasdoué, Université de Rennes 1, France 
+
+* Nadira Lammari, CNAM Paris, France 
+
+* Michèle Leclère, Université Montpellier 2, France 
+
+* Nathalie Pernelle, Université Paris-Sud, France 
+
+* Jean-Marc Petit, INSA de Lyon, France 
+
+* Chantal Reynaud, Université Paris-Sud, France 
+
+* Mathieu Roche, CIRAD, France 
+
+* Christian Sallaberry, Université de Pau et des Pays de l'Adour, France
+
+
+* Samira Si-Said Cherfi, CNAM Paris, France 
+
+* Rallou Thomopoulos, INRA Supagro, France 
+
+-- 
+
+Fayçal Hamdi 
+
+http://cedric.cnam.fr/~hamdif/ [3] 
+
+Associate Professor - CNAM 
+
+Laboratoire CEDRIC - Equipe ISID 
+
+Case Courrier 2D4P10 
+
+292, rue Saint-Martin 
+
+F-75141 PARIS cedex 03 
+
+FRANCE 
+
+Phone: +33 1 40 27 22 53 
+
+ 
+
+Links:
+------
+[1] http://isi.revuesonline.com/
+[2] https://easychair.org/conferences/?conf=lodisi16
+[3] http://cedric.cnam.fr/~hamdif/
+

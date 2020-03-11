@@ -1,0 +1,73 @@
+*STAGE *: Alignement d'ontologies
+
+*Mission *: Spécification et implémentation d'un serveur d'alignements pour
+des ontologies.
+
+*Contexte *: Le projet Learning café concerne la mise en place d'une
+plate-forme multimedia de formation collaborative à distance pour des
+métiers manuels. Dans ce cadre , il s'agit de réaliser l'alignement des
+ontologies concernant les domaines de formation, les profils-utilisateurs
+et les vidéos des métiers.
+
+Ce serveur d'alignement doit générer l'alignement des concepts, des
+relations entre concepts, des individus, etc. afin de constituer un réseau
+sémantique d'ontologies (*i.e.* les ontologies + les alignements).
+
+*Activités *: L'objectif de ce stage est de réaliser un serveur
+d'alignements accessible par services Web. Pour cela, le stagiaire devra :
+
+   -
+
+   de spécifier les algorithmes d'alignement de concepts simples mais aussi
+   de formules de la logique de description pour générer automatiquement les
+   alignements selon des mesures de similarité,
+   -
+
+   d'implémenter les algorithmes sous la forme de services Web à l'aide de
+   l'API OWL,
+   -
+
+   d'évaluer la performance du serveur d'alignement.
+
+*Profil* : Le profil recherché est un étudiant en 2ème année de Master
+ayant des connaissances en Web sémantique.
+
+*Compétences recherchées* :
+
+   -
+
+   Langages de programmation : Java, OWL, XML
+   -
+
+   Modélisation : UML
+   -
+
+   ontologies et logique de description
+
+ *Durée* : 5 à 6 mois  ; à partir de quelle *date* : avril-mai 2014
+
+*Indemnités* : environ 30 % du SMIC
+
+*Organisme/entreprise* : LIASD/IUT de Montreuil, Université Paris8
+
+*A**dresse du stage* : IUT de Montreuil, Département Informatique, 140 rue de
+la Nouvelle France, 93100 MONTREUIL
+
+*Adresse site web* : http://www.iut.univ-paris8.fr/ recherche
+
+
+ Veuillez adresser votre candidature (CV + lettre) à :
+
+Myriam Lamolle
+*mél *: m.lamolle@iut.univ-paris8.fr
+-- 
+Myriam Lamolle - Professeur des Universités
+IUT de Montreuil - Département Informatique
+140, rue de la Nouvelle France
+93100 Montreuil
+Laboratoire LIASD - Université Paris8
+2 rue de la Liberté - 93526 Saint-Denis cedex
+
+http//:www.iut.univ-paris8.fr/~lamolle
+Tél: +33(0)1 48 70 34 61 Fax : +33(0)1 48 70 34 67
+

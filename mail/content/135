@@ -1,0 +1,134 @@
+
+
+Appel à communication : Atelier Réseaux sociaux et Intelligence Artificielle 
+
+Rennes, 29 juin 2015 
+
+Dans le cadre de la plate-forme IA (PFIA’2015) . 
+
+http://pfia2015.inria.fr/journees-bilaterales/reseaux-sociaux-et-ia 
+
+
+
+
+
+
+
+
+
+
+
+*************************************************** 
+Dates importantes 
+
+
+
+
+
+
+
+
+    * 22 mai 2015 : Réception des propositions 
+    * 05 juin 2015 : Notification aux auteurs 
+    * 12 juin 2015 : Textes définitifs 
+    * 29 juin 2015 : Atelier 
+
+
+
+*************************************************** 
+
+
+
+
+Présentation 
+
+Ces dernières années ont été marquées par l’explosion des réseaux sociaux sur Internet, renouvelant l’intérêt de la communauté scientifique non seulement en sciences sociales mais également en informatique pour l’analyse et la fouille de graphes. Aujourd’hui, les graphes utilisés pour étudier ces réseaux sont de très grande taille tant par le nombre de nœuds associés aux individus que par celui des arêtes qui décrivent leurs relations ou leurs interactions. Les besoins d’analyse ont également évolué, requérant le développement d’algorithmes et d’outils plus puissants pouvant algorithmiquement passer à l'échelle, tant en masse de données qu'en débit. 
+
+
+
+L'apprentissage artificiel, discipline au croisement de l'informatique et des statistiques, tente de répondre à ces nouveaux défis posés par les innombrables applications autour des réseaux sociaux : passage à l’échelle (faire face à la volumétrie), prise de décisions dans des environnements évolutifs et complexes, prise en compte de la sémantique des communications (taxonomies, ontologies, controverses, analyse des sentiments), augmentation de l'hétérogénéité des sources de données, etc. 
+
+
+
+L’objectif de cet atelier est de permettre aux chercheurs, industriels et étudiants de positionner les problématiques du domaine et d'identifier les avancées récentes et les problèmes ouverts. 
+
+
+
+Cet atelier vise à réunir des contributions scientifiques, et à échanger des points de vue et retours d’expériences, sur le thème de l'utilisation de techniques d'apprentissage artificiel pour l’analyse de réseaux sociaux . 
+
+Un exposé invité sur le thème de la validation de détection de communautés complétera le programme afin de stimuler l'échange sur les domaines intéressants de l’atelier. 
+
+
+
+En plus des points mentionnés précédemment, les thèmes de cet atelier sont les suivants (liste non limitative) : 
+
+
+
+    * Fouille de grands graphes sociaux ( clustering , classification, recherche de motifs fréquents) 
+    * Recommandation sociale 
+    * Prédiction de liens dans les réseaux sociaux 
+    * Détection du Spam social 
+    * Qualification des données dans les réseaux sociaux (fiabilité, imprécision, incertitude, etc). 
+    * Analyse de données sociales et extraction de connaissances 
+    * Détection et évolution de communautés 
+    * Analyse des réseaux sociaux dynamiques 
+    * Analyse des sentiments et fouille d’opinions 
+    * Réseaux sociaux et ingénierie des connaissances 
+
+
+
+
+Soumission 
+
+
+
+Les articles soumis pourront présenter soit des recherches en cours, soit des recherches abouties. Les articles qui seront soumis ne doivent pas dépasser 6 pages ( 10 min de présentation orale + 5 min discussion ) en suivant les modèles LaTeX ou Word disponibles à cette adresse ( http://ria.revuesonline.com/appel.jsp ), et doivent être soumis avant le 22 mai 2015 (notification aux auteurs le 5 juin 2015, version finale pour le 12 juin 2015). 
+
+Les auteurs sont invités à soumettre leurs communications au format PDF sur EasyChair à l'adresse suivante https://easychair.org/conferences/?conf=aria20150 . 
+
+
+
+
+Un numéro spécial de la revue RIA sera proposé après sélection, afin de présenter des versions étendues des meilleurs articles. 
+
+
+
+Comité de Programme 
+
+    * Frédéric Amblard (IRIT, Université Toulouse 1 Capitole) 
+    * Hanene Azzag (LIPN, Université Paris 13) 
+    * Tassadit Bouadi (IRISA, Université Rennes 1) 
+    * Mohand Boughanem (IRIT, Université Paul Sabatier) 
+    * Guillaume Cleuziou (LIFO, Université d'Orléans) 
+    * Cécile Favre (ERIC, Université Lyon 2) 
+    * Vincent Labatut (LIA, Université d'Avignon et des Pays du Vaucluse) 
+    * Christine Largeron (LHC, Université Jean Monnet) 
+    * Matthieu Latapy (LIP6-CNRS, Université Pierre et Marie Curie) 
+    * Vincent Leroy (LIG, Université de Grenoble) 
+    * Maria Malek, (LARIS, EISTI - Campus de Cergy) 
+    * Arnaud Martin (IRISA, Université de Rennes 1) 
+    * Rokia Missaoui (LARIM, Université du Québec en Outaouais) 
+    * Jacky Montmain (LGI2P, École des Mines d’Alès) 
+    * Chantal Reynaud (LRI, Université Paris-Sud) 
+    * Camille Roth (CNRS) 
+    * Kavé Salamatian (LISTIC, Université de Savoie Mont Blanc) 
+    * Henry Soldano (LIPN, Université Paris-Nord) 
+    * Julien Subercaze (LHC, Université Jean Monnet) 
+    * Tanguy Urvoy (Orange labs) 
+    * Julien Velcin (ERIC, Université Lyon 2) 
+
+
+
+
+Responsables de l’atelier : 
+
+    * Tassadit Bouadi (IRISA, Université Rennes 1) 
+    * Arnaud Martin (IRISA, Université Rennes 1) 
+
+-- 
+Tassadit BOUADI 
+Maître de Conférences 
+IRISA / Université de Rennes 1 (IUT Lannion) 
+tbouadi@irisa.fr 
+
+
