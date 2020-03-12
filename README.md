@@ -15,4 +15,4 @@ A corriger :
 
 //TOFIX le listing semble bon mais le comptage du nombre d'occurence dans les script semblent erroné, la cause provient soit du sed soit du sort.
 ~~//TODO compatibilité entre différents type de fichiers textes : exemple json, html, python, ou comme un simple .txt.
-L'idée serait de faire une variable $v qui sera défini lors de l'éxécution de la requête donc on aura qu'à travailler sur des fichiers $i.$v~~
+L'idée serait de faire une variable $v qui sera défini lors de l'éxécution de la requête donc on aura qu'à travailler sur des fichiers $i.$v~~ => cat $i permet déjà de faire ca
