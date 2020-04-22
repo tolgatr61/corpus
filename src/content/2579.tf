@@ -1,0 +1,11 @@
+à 1
+appel 1
+bonjour 1
+cet 1
+communications 1
+diffuser 1
+merci 1
+nacer 1
+pourriez 1
+re 1
+vous 1

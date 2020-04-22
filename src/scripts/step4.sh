@@ -1,0 +1,1 @@
+for i in $(sort answer); do echo -n "$i "; for j in $(cat query); do grep "^$j " $i.tfidf | awk '{print $2}'; done > $i.pert; paste -d" " query.tfidf $i.pert | awk '{sum+=$1*$2;norm1+=$1*$1;norm2+=$2*$2}END{print sum/sqrt(norm1)/sqrt(norm2)}'; rm -f $i.pert; done

@@ -1,0 +1,1 @@
+for i in $(seq 3655); do cat $i | tr [:upper:] [:lower:]| sed 's/[^a-z]/ /g' | sed 's/ /\n/g' |awk 'NF != 0 {print}'|sort -u; done | sort | awk '{if (mot == $1) tf ++; else {print mot, tf; mot = $1; tf = 1}} END {print mot, tf}' | sed 1d > ../df.txt

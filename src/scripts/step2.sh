@@ -1,0 +1,2 @@
+#!/bin/bash
+for i in $(cat query.txt); do grep "^$i " index | sed 's/[^ ]* //; s/ /\n/g' | sort > $i.index; done; cp $(head -1 query.txt).index answer; for i in $(sed 1d query.txt); do comm -1 -2 answer $i.index > tmp; mv tmp answer; done;

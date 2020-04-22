@@ -1,4 +1,0 @@
-à 
-appel 
-communications 
-joint 
