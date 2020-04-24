@@ -176,33 +176,65 @@ L'indexage et le calcul du TF-IDF va s'effectuer en quatre script.
 
 \subsection{Premier script}
 
-\begin{lstlisting}[language=bash,caption={Script n1}]
+\begin{lstlisting}[language=bash,caption={Requête 1}]
 #!/bin/bash
 for i in $(seq 3655); do cat "content/"$i.tf 
 | sed "s/ .*/ $i/"; done | ...
 \end{lstlisting}
 
+\begin{lstlisting}[language=bash,caption={Requête 2}]
+sort -k1,1 -k2,2n | ...
+\end{lstlisting}
+
+\begin{lstlisting}[language=bash,caption={Requête 3}]
+awk '{if ($1 != last){if (last!="")print last, tab[last]; last = $1; tab[last] = $2} 
+else tab[last] = tab[last] " " $2}END{print last, tab[last]}' > index
+\end{lstlisting}
+
+
 \subsection{Second script}
 
-\begin{lstlisting}[language=bash,caption={Script n1}]
-#!/bin/bash
+\begin{lstlisting}[language=bash,caption={Requete 1}]
+for i in $(cat query.txt); do grep "^$i " index | ...
+\end{lstlisting}
 
+\begin{lstlisting}[language=bash,caption={Requête 2}]
+sed 's/[^ ]* //; s/ /\n/g' | sort > $i.index; done;
+\end{lstlisting}
 
+\begin{lstlisting}[language=bash,caption={Requête 3}]
+cp $(head -1 query.txt).index answer;
+\end{lstlisting}
+
+\begin{lstlisting}[language=bash,caption={Requête 4}]
+for i in $(sed 1d query.txt); 
+do comm -1 -2 answer $i.index > tmp; mv tmp answer; done;
 \end{lstlisting}
 
 \subsection{Troisième script}
 
-\begin{lstlisting}[language=bash,caption={Script n1}]
-#!/bin/bash
+\begin{lstlisting}[language=bash,caption={Requête 1}]
+for i in $(cat query.txt); do grep "^$i " df.txt; done | ...
+\end{lstlisting}
 
-
+\begin{lstlisting}[language=bash,caption={Requête 2}]
+awk '{print $1, log(3655/$2)}' | awk '{print $2}' > query.tfidf
 \end{lstlisting}
 
 \subsection{Quatrième script}
 
-\begin{lstlisting}[language=bash,caption={Script n1}]
-#!/bin/bash
+\begin{lstlisting}[language=bash,caption={Requête 1}]
+for i in $(sort answer); do echo -n "$i ";
+for j in $(cat query); do grep "^$j " $i.tfidf | ...
+\end{lstlisting}
 
+\begin{lstlisting}[language=bash,caption={Requête 2}]
+awk '{print $2}'; done > $i.pert; paste -d" " query.tfidf $i.pert | ...
+\end{lstlisting}
+
+\begin{lstlisting}[language=bash,caption={Requête 3}]
+awk '{sum+=$1*$2;norm1+=$1*$1;norm2+=$2*$2}END{print sum/sqrt(norm1)/sqrt(norm2)}';
+rm -f $i.pert; done
 \end{lstlisting}
 
 \section{Temps d'exécution}
@@ -260,5 +292,7 @@ user 0m6,297s
 sys  0m1,298s
 
 \end{lstlisting}
+
+\section{Conclusion}
 
 \end{document}
