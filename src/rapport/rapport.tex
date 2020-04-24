@@ -1,0 +1,264 @@
+\documentclass{article}
+
+%packages
+
+\usepackage[utf8]{inputenc}
+\usepackage[french]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\RequirePackage{fix-cm}
+\usepackage[utf8]{inputenc}
+\usepackage{mwe}
+\usepackage[margin=2cm]{geometry}
+\usepackage[linesnumbered,ruled]{algorithm2e}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{tikz}
+\usepackage{xcolor}
+\usepackage{listings}
+\lstset{basicstyle=\ttfamily,
+  showstringspaces=false,
+  commentstyle=\color{red},
+  keywordstyle=\color{blue}
+}
+
+
+%commandes
+\newcommand{\size}[2]{{\fontsize{#1}{0}\selectfont#2}}
+\newenvironment{sizepar}[2]
+ {\par\fontsize{#1}{#2}\selectfont}
+ {\par}
+
+\begin{document}
+\begin{titlepage}
+	\parindent0pt
+	\hskip.25cm \vrule width.8pt \hskip.25cm
+	\vskip0pt plus 1fil
+	\fbox{%
+		\begin{minipage}{\dimexpr\linewidth-2\fboxsep-2\fboxrule}
+			\centering\Large\bfseries
+			\vskip1cm
+			Corpus
+			\vskip1cm \kern0pt
+		\end{minipage}%
+	}%
+	\vskip0.5cm
+	\centerline{\textbf{Données Web}}
+	\vskip0pt plus 1fil
+	\vskip0.25cm
+	\centerline{HUET Bryan, SAHIN Tolga}
+	\leavevmode
+	\vskip0pt plus 2fil
+	\hfill\bfseries{Année universitaire 2020}\hfill\null
+\end{titlepage}
+
+\tableofcontents
+\newpage
+
+\section{Introduction}
+
+Le projet de notre corpus est de réaliser un moteur de recherche via des indexage et à l'aide la méthode de pondération TF-IDF.
+
+
+
+\subsection{Le TF-IDF}
+
+Le tf-idf est le poids d'un mot dans un ensemble de documents. Ce poids augmentera en fonction de la fréquence brute des mots (TF) et de la fréquence des mots dans tous les documents. (DF)
+Si le tf-idf est grand alors plus le mot est fréquent. Tandis que, moins il l'est le mot est peu fréquent.
+
+\subsection{Indexage}
+
+Le second objectif ce ce projet est de rechercher la fréquence (TF-IDF) de différents mots dans un paquet de documents. De ce fait-là, nous procéderons à un indexage depuis différentes requêtes permettant de trier. Puis, nous calculerons le TF-IDF des mots.
+
+\section{Calcul du TF}
+
+\subsection{Le TF}
+
+Le TF est la fréquence des mots dans un document. (Term Frequency)
+
+\subsection{Calcul du TF}
+
+On commence par récupérer l'ensemble de nos documents (3655 dans notre cas).
+
+\begin{lstlisting}[language=bash,caption={Bouclage}]
+for i in $(seq 3655) ; do cat $i | ...
+\end{lstlisting}
+
+On convertit tous nos String majuscule en miniscule.
+
+\begin{lstlisting}[language=bash,caption={Miniscule}]
+tr [:upper:] [:lower:] | ...
+\end{lstlisting}
+
+On supprime tous les mots qui utilise des caractères spéciaux.
+
+\begin{lstlisting}[language=bash,caption={Caractères spéciaux}]
+sed 's/[^a-z]/ /g' | ...
+\end{lstlisting}
+
+
+Si le nombre de fields est différent de 0 alors on print les champs de texte. Puis, on pipe l'output avec la requête sort qui permet de trier. Donc, on obtient une liste de mot ordonnée.
+
+\begin{lstlisting}[language=bash,caption={Liste de mots triés}]
+awk 'NF != 0 {print}'| sort | ...
+\end{lstlisting}
+
+La requête awk permet de calculer le TF. On calcule depuis notre liste de mots. Le nombre d'occurrences de chacun de ces mots. On retourne le mot et son TF.
+La requête sed permet de supprimer la première ligne avec le paramètre '1d'. Puis, de stocker les résultats du script (les TF des mots) dans des fichiers .tf jusqu'à la fin de notre boucle.
+
+\begin{lstlisting}[language=bash,caption={Calcul du TF}]
+awk '{if (mot == $1) tf ++; 
+else {print mot, tf; mot = $1; tf = 1}} END {print mot, tf}' 
+| sed 1d >$i.tf;done
+\end{lstlisting}
+
+\subsection{Temps d'éxécution}
+
+Le script TF prend en moyenne à l'aide la requête time ce délai :
+
+\begin{lstlisting}[language=bash,caption={Suppression}]
+time bash df.sh
+
+real 1m18,654s
+user 1m0,027s
+sys 0m28,940s
+
+\end{lstlisting}
+
+\section{Le DF}
+
+\subsection{Définition}
+
+Le DF (Document Frequency) est le nombre d'occurence de tous les mots dans un ensemble de documents.
+
+\subsection{Calcul du DF}
+
+Le début du script suit exactement le même principe que pour le TF.
+
+\begin{lstlisting}[language=bash,caption={Bouclage}]
+for i in $(seq 3655); do cat $i 
+| tr [:upper:] [:lower:]
+| sed 's/[^a-z]/ /g' 
+| sed 's/ /\n/g' | ...
+\end{lstlisting}
+
+sort -u est aussi équivalent à sort | uniq.
+Ce paramètre permet de trier plus efficacement notre ensemble de documents. Les mots dupliqués sont éliminés. Donc, notre output devient la liste de mot de l'ensemble des documents. De plus, "done;" est important car il ferme notre boucle pour ne garder en sortie que cette liste de mot.
+On trie cette liste de mot cette fois-ci via la requête sort. On obtient une liste de mots par ordre alphabétique.
+
+\begin{lstlisting}[language=bash,caption={Tris}]
+awk 'NF != 0 {print}'| sort -u; done | sort | ...
+\end{lstlisting}
+
+Enfin, on termine le script de la même manière que pour le TF. On compte le nombre d'occurrence de notre liste de mot. Sauf que cette fois-ci notre output est stocké dans un seul fichier texte "df.txt" car on ne boucle plus. Cette output contient le mot et la fréquence de mot par ligne. Donc, l'output est le DF des mots dans nos documents.
+
+\begin{lstlisting}[language=bash,caption={Occurences}]
+awk '{if (mot == $1) tf ++; 
+else {print mot, tf; mot = $1; tf = 1}} END {print mot, tf}' 
+| sed 1d > ../df.txt
+\end{lstlisting}
+
+\subsection{Temps d'exécution}
+
+\begin{lstlisting}[language=bash,caption={Temps d'exécution du script df.sh}]
+time bash df.sh
+
+real 1m1.042s
+user 0m51,006s
+sys 0m28,940s
+
+\end{lstlisting}
+
+\section{Indexage et calcul du TF-IDF}
+
+L'indexage et le calcul du TF-IDF va s'effectuer en quatre script. 
+
+\subsection{Premier script}
+
+\begin{lstlisting}[language=bash,caption={Script n1}]
+#!/bin/bash
+for i in $(seq 3655); do cat "content/"$i.tf 
+| sed "s/ .*/ $i/"; done | ...
+\end{lstlisting}
+
+\subsection{Second script}
+
+\begin{lstlisting}[language=bash,caption={Script n1}]
+#!/bin/bash
+
+
+\end{lstlisting}
+
+\subsection{Troisième script}
+
+\begin{lstlisting}[language=bash,caption={Script n1}]
+#!/bin/bash
+
+
+\end{lstlisting}
+
+\subsection{Quatrième script}
+
+\begin{lstlisting}[language=bash,caption={Script n1}]
+#!/bin/bash
+
+\end{lstlisting}
+
+\section{Temps d'exécution}
+
+Script 1 :
+
+\begin{lstlisting}[language=bash,caption={Temps d'exécution du script 1}]
+time bash step1.sh
+
+real 0m4,744s
+user 0m6,020s
+sys  0m1,207s
+
+\end{lstlisting}
+
+Script 2 :
+
+\begin{lstlisting}[language=bash,caption={Temps d'exécution du script 2}]
+time bash step2.sh
+
+real 0m0,265s
+user 0m0,039s
+sys  0m0,008s
+
+\end{lstlisting}
+
+Script 3 :
+
+\begin{lstlisting}[language=bash,caption={Temps d'exécution du script 3}]
+time bash step3.sh
+
+real 0m0,013s
+user 0m0,007s
+sys  0m0,012s
+\end{lstlisting}
+
+Script 4 :
+
+\begin{lstlisting}[language=bash,caption={Temps d'exécution du script 4}]
+time bash step4.sh
+
+real 0m0,197s
+user 0m0,231s
+sys  0m0,071s
+
+\end{lstlisting}
+
+Total :
+
+\begin{lstlisting}[language=bash,caption={Temps d'exécution en tout}]
+time bash tfidf.sh
+
+real 0m5,219s
+user 0m6,297s
+sys  0m1,298s
+
+\end{lstlisting}
+
+\end{document}
