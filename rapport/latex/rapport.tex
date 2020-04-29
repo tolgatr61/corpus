@@ -4,11 +4,9 @@
 
 \usepackage[utf8]{inputenc}
 \usepackage[french]{babel}
-\usepackage[T1]{fontenc}
 \usepackage{graphicx}
 \usepackage{hyperref}
 \RequirePackage{fix-cm}
-\usepackage[utf8]{inputenc}
 \usepackage{mwe}
 \usepackage[margin=2cm]{geometry}
 \usepackage[linesnumbered,ruled]{algorithm2e}
@@ -69,7 +67,7 @@ Si le tf-idf est grand alors plus le mot est fréquent. Tandis que, moins il l'e
 
 \subsection{Indexage}
 
-Le second objectif ce ce projet est de rechercher la fréquence (TF-IDF) de différents mots dans un paquet de documents. De ce fait-là, nous procéderons à un indexage depuis différentes requêtes permettant de trier. Puis, nous calculerons le TF-IDF des mots.
+Le second objectif ce ce projet est de rechercher la fréquence (TF-IDF) de différents mots dans un paquet de documents. De ce fait-là, nous procéderons à un indexage à l'aide de différentes requêtes. Puis, nous calculerons le TF-IDF des mots.
 
 \section{Calcul du TF}
 
@@ -91,10 +89,10 @@ On convertit tous nos String majuscule en miniscule.
 tr [:upper:] [:lower:] | ...
 \end{lstlisting}
 
-On supprime tous les mots qui utilise des caractères spéciaux.
+On transforme tous les mots qui utilise des caractères spéciaux, des espaces et des sauts de ligne.
 
 \begin{lstlisting}[language=bash,caption={Caractères spéciaux}]
-sed 's/[^a-z]/ /g' | ...
+sed 's/[^a-z]/ /g' | sed 's/ /\n/g' | ...
 \end{lstlisting}
 
 
@@ -113,7 +111,7 @@ else {print mot, tf; mot = $1; tf = 1}} END {print mot, tf}'
 | sed 1d >$i.tf;done
 \end{lstlisting}
 
-\subsection{Temps d'éxécution}
+\subsection{Temps d'exécution avec time}
 
 Le script TF prend en moyenne à l'aide la requête time ce délai :
 
@@ -123,8 +121,46 @@ time bash df.sh
 real 1m18,654s
 user 1m0,027s
 sys 0m28,940s
+\end{lstlisting}
+
+\subsection{Temps d'exécution avec usr/bin/time}
+\label{labeltime}
+
+Temps d'exécution cette fois-ci calculer avec usr/bin/time.
+
+Pour que cela marche, on passe sur nos script sur un bouclage variable :
+\begin{lstlisting}[language=bash,caption={Bouclage variable}]
+
+j=$1
+for i in ($(seq $((j * 500))); do ...
 
 \end{lstlisting}
+
+En terminal nous lancerons de cette manière notre script.
+Les temps d'exécutions vont être écrites sur un fichier "resultat.txt". Ainsi, on pourra utiliser gnuplot pour observer ceci depuis un graphe.
+
+\begin{lstlisting}[language=bash,caption={Requête d'exécution}]
+
+for j in $(seq 7); do usr/bin/time -p -o ../resultat.txt -a bash tf.sh $j; done
+
+\end{lstlisting}
+
+\subsection{Graphique avec gnuplot}
+
+On récupère uniquement les valeurs de real avec la requête awk suivante.
+ 
+\begin{lstlisting}[language=bash,caption={Fichier à plot}]
+awk '/real/{print $2}' resultat.txt > tf.txt
+\end{lstlisting}
+
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale = 0.5]{"img/tf.png"}
+\caption{Graphique du temps d'exécution du script tf.sh}
+\end{figure}
+
+Au début, mon temps d'exécution est variable mais sur la fin de la boucle il est presque linéaire.
 
 \section{Le DF}
 
@@ -170,11 +206,28 @@ sys 0m28,940s
 
 \end{lstlisting}
 
+\subsection{Temps d'exécution avec usr/bin/time}
+
+On fait la même chose que dans la partie \ref{labeltime} pour le TF.
+
+\subsection{Graphe avec gnuplot}
+
+\begin{figure}[H]
+\centering
+\includegraphics[scale = 0.5]{"img/df.png"}
+\caption{Graphique du temps d'exécution du script df.sh}
+\end{figure}
+
+Les temps d'exécutions sont variables sur certains instants. Mais, il y'a de la linéarité
+comme pour le tf.
+
 \section{Indexage et calcul du TF-IDF}
 
 L'indexage et le calcul du TF-IDF va s'effectuer en quatre script. 
 
 \subsection{Premier script}
+
+On récupère le contenu des fichiers .tf (liste de mots avec le TF). On lie chaque mots à une valeur qui correspond au numéro(s) de document(s) dans lequel il s'y présente.
 
 \begin{lstlisting}[language=bash,caption={Requête 1}]
 #!/bin/bash
@@ -182,9 +235,14 @@ for i in $(seq 3655); do cat "content/"$i.tf
 | sed "s/ .*/ $i/"; done | ...
 \end{lstlisting}
 
+Tri les mots par ordre alphabétique et croissant de documents.
+
 \begin{lstlisting}[language=bash,caption={Requête 2}]
 sort -k1,1 -k2,2n | ...
 \end{lstlisting}
+
+On supprime les duplications de mots. Puis, on regroupe en une ligne tous les numéros de documents dans lequel se présente le mot.
+La liste de mots et de numéros est stocké dans le fichier index.
 
 \begin{lstlisting}[language=bash,caption={Requête 3}]
 awk '{if ($1 != last){if (last!="")print last, tab[last]; last = $1; tab[last] = $2} 
@@ -194,28 +252,45 @@ else tab[last] = tab[last] " " $2}END{print last, tab[last]}' > index
 
 \subsection{Second script}
 
+On récupère les mots et les numéros de documents depuis le fichier index de nos mots dans query.
 \begin{lstlisting}[language=bash,caption={Requete 1}]
 for i in $(cat query.txt); do grep "^$i " index | ...
 \end{lstlisting}
 
+Recupère les numéros de documents.
+
 \begin{lstlisting}[language=bash,caption={Requête 2}]
-sed 's/[^ ]* //; s/ /\n/g' | sort > $i.index; done;
+sed 's/[^ ]* //; s/ /\n/g' | ...
 \end{lstlisting}
 
+Tri des numéros et stockage dans des fichiers mot.index
 \begin{lstlisting}[language=bash,caption={Requête 3}]
+sort > $i.index; done;
+\end{lstlisting}
+
+On copie les valeurs de chaque fichier index et le stockons dans answer.
+
+\begin{lstlisting}[language=bash,caption={Requête 4}]
 cp $(head -1 query.txt).index answer;
 \end{lstlisting}
 
-\begin{lstlisting}[language=bash,caption={Requête 4}]
+On compare le fichier "answer" et les fichiers "i.index". Le paramétrage -1 supprime les lignes uniques d'answer et -2 ceux des fichiers index. Puis, stockons les lignes restantes dans tmp. On renomme tmp en answer.
+
+\begin{lstlisting}[language=bash,caption={Requête 5}]
 for i in $(sed 1d query.txt); 
 do comm -1 -2 answer $i.index > tmp; mv tmp answer; done;
 \end{lstlisting}
 
 \subsection{Troisième script}
 
+On cat query. La requête grep permet de récupérer le DF correspondant à chaque mot de query.
+
 \begin{lstlisting}[language=bash,caption={Requête 1}]
 for i in $(cat query.txt); do grep "^$i " df.txt; done | ...
 \end{lstlisting}
+
+
+On effectue le calcul de TF-IDF avec log(nombres de fichiers / valeurs de df). On stocke les tf-idf dans query.tfidf.
 
 \begin{lstlisting}[language=bash,caption={Requête 2}]
 awk '{print $1, log(3655/$2)}' | awk '{print $2}' > query.tfidf
@@ -223,21 +298,32 @@ awk '{print $1, log(3655/$2)}' | awk '{print $2}' > query.tfidf
 
 \subsection{Quatrième script}
 
+La première boucle récupère les numéros de documents sans duplication depuis answer.
+La seconde boucle, à l'aide de la requête grep permet de relier les numéros de documents leur mot et leur tf-idf en une ligne.
+
 \begin{lstlisting}[language=bash,caption={Requête 1}]
 for i in $(sort answer); do echo -n "$i ";
 for j in $(cat query); do grep "^$j " $i.tfidf | ...
 \end{lstlisting}
 
+On récupère la pertinence des mots de chaque mots dans les précédents numéros de documents (i). Puis, on stocke ce résultat dans des fichiers "i.pert".
+Paste permet d'écrire les lignes tabulairement (-d) de query.tfidf et des fichiers i.pert correspondant.
+
 \begin{lstlisting}[language=bash,caption={Requête 2}]
 awk '{print $2}'; done > $i.pert; paste -d" " query.tfidf $i.pert | ...
 \end{lstlisting}
+
+On effectue le calcul sur nos valeurs comme sur la formule du TF-IDF.
+Puis on supprime tous les fichiers i.pert pour de la lisibilité.
 
 \begin{lstlisting}[language=bash,caption={Requête 3}]
 awk '{sum+=$1*$2;norm1+=$1*$1;norm2+=$2*$2}END{print sum/sqrt(norm1)/sqrt(norm2)}';
 rm -f $i.pert; done
 \end{lstlisting}
 
-\section{Temps d'exécution}
+L'output sera vu sous terminal, on observe ainsi chaque numéro de documents (où nos query apparaissent) et sa valeur de pertinence sur chaque ligne.
+
+\subsection{Temps d'exécution avec time}
 
 Script 1 :
 
@@ -294,5 +380,7 @@ sys  0m1,298s
 \end{lstlisting}
 
 \section{Conclusion}
+
+Notre moteur de recherche permet bien de récupérer depuis des mots les TF, DF, TF-IDF. Les temps d'exécutions eux varient considérablement en fonction des requêtes que l'on utilise. Notre temps d'exécution moyen nous semble correct
 
 \end{document}
